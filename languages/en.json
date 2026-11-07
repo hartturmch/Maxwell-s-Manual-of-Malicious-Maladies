@@ -2,6 +2,12 @@
     "mmm": {
         "title": "Maxwell's Manual of Malicious Maladies",
         "settings": {
+            "language": {
+                "name": "Language",
+                "hint": "Language used by the module. Changing the language reloads Foundry.",
+                "en": "English",
+                "ptBR": "Português (Brasil)"
+            },
             "applyOnDamage": {
                 "name": "On Damage",
                 "hint": "Prompt for a lingering injury roll when a single instance of damage is at least the threshold below."
