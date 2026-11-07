@@ -1,0 +1,2 @@
+2026-11-07 — inclusão inicial (versão 0.1)
+Adicionado suporte de idioma Português (Brasil), seletor de idioma nas configurações do módulo e documentação para criação de novas traduções.

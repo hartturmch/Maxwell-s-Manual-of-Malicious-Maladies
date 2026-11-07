@@ -1,12 +1,13 @@
 import { MODULE_ID } from "./main.js";
 import { Injuries } from "./injuries.js";
+import { getPackName } from "./settings.js";
 
 const TABLE_SUFFIX = " - [MMMM]";
 const SUBTABLES = ["Scar Chart", "Small Appendage Table", "Large Limb Table"];
 
 export class MaxwelMaliciousMaladies {
     static getPack() {
-        return game.packs.get(`${MODULE_ID}.mmmm`);
+        return game.packs.get(`${MODULE_ID}.${getPackName("tables")}`);
     }
 
     static normalizeTableName(name) {

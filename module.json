@@ -15,6 +15,11 @@
       "lang": "en",
       "name": "English",
       "path": "languages/en.json"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "languages/pt-BR.json"
     }
   ],
   "esmodules": [
@@ -63,6 +68,52 @@
       "name": "mmmmj",
       "label": "Maxwell's Manual of Malicious Maladies",
       "path": "packs/journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "mmmm-pt-BR",
+      "label": "Maxwell's Manual of Malicious Maladies Tables — Português (Brasil)",
+      "path": "packs/tables/pt-BR",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "injuries-pt-BR",
+      "label": "Maxwell's Manual of Malicious Maladies Injuries — Português (Brasil)",
+      "path": "packs/injuries/pt-BR",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "system": "dnd5e"
+    },
+    {
+      "name": "mmmmi-pt-BR",
+      "label": "Maxwell's Manual of Malicious Maladies Items — Português (Brasil)",
+      "path": "packs/items/pt-BR",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "system": "dnd5e"
+    },
+    {
+      "name": "mmmmj-pt-BR",
+      "label": "Maxwell's Manual of Malicious Maladies — Português (Brasil)",
+      "path": "packs/journals/pt-BR",
       "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",

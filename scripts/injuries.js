@@ -1,5 +1,6 @@
 import { MODULE_ID } from "./main.js";
 import { MaxwelMaliciousMaladies } from "./maxwelMaliciousMaladies.js";
+import { getPackName } from "./settings.js";
 
 const LOCATION_TABLES = {
     largeLimb: "Large Limb Table",
@@ -50,7 +51,8 @@ export class Injuries {
     }
 
     static async apply(actor, injuryUuid, { damage = null, location = null, durations = null, messageId = null } = {}) {
-        const injury = await fromUuid(injuryUuid);
+        const localizedUuid = injuryUuid?.replace("Compendium.mmm.injuries.", `Compendium.mmm.${getPackName("injuries")}.`);
+        const injury = await fromUuid(localizedUuid);
         if (!injury) return ui.notifications.error("mmm.notifications.noInjury", { localize: true });
         if (injury.flags[MODULE_ID]?.instant) return this.resolveInstant(actor, injury, { messageId });
         const data = game.items.fromCompendium(injury, { keepId: false });
