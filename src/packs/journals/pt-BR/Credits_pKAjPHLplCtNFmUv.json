@@ -8,7 +8,7 @@
   },
   "pages": [
     {
-      "name": "Figure: Créditos",
+      "name": "Figura: Créditos",
       "type": "image",
       "src": "https://i.imgur.com/nKHhlJ9.png",
       "title": {
@@ -53,7 +53,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<h1>Créditos</h1><p>Conteúdo, design e edição: Thomas Pfeifer</p><p>Direção de arte e consultoria: Lakeysha</p><p>Programação: theripper93</p><p>Tradução para português brasileiro: comunidade de tradução.</p>"
+        "content": "<h1>Créditos</h1>\n<p>Conteúdo, Design e Edição: Thomas Pfeifer</p>\n<p>Direção de Arte e Consultoria: Lakeysha</p>\n<p>Best Boy: Terry</p>\n<p>Agradecimentos Especiais: Aos Knights of Bohnenburg e Castle Ramrod: Lakeysha, Julie, Rachel, Mark, Adam, Rion, Erin, Hanna e Jen, por serem eternamente os melhores. A David, Michael, Stephan e Heidi, por serem incríveis em geral e por deixarem Maxwell fazer o que Maxwell faz. E, claro, à minha mãe, ao meu pai, ao meu irmão e à minha irmã. Todas as imagens e gráficos contidos neste material são de uso livre e foram obtidos em: pixabay.com. Fonte da capa Nodesto Caps Condensed, obtida em: https://drive.google.com/file/d/0B3104LRlxc9ecnJhVFFkbVlpS1U/view. Esta obra foi projetada usando The Homebrewery. <em>(https://homebrewery.naturalcrit.com/)</em></p>\n<p>Aviso legal: Maxwell's Manual of Malicious Maladies <em>(and Miraculous Medicine)</em> é Fan Content não oficial, permitido pela Fan Content Policy. Não aprovado nem endossado pela Wizards. Partes dos materiais usados são propriedade da Wizards of the Coast. ©Wizards of the Coast LLC.</p>\n<p>Esta obra contém material protegido por direitos autorais da Wizards of the Coast e/ou de outros autores. Todo o restante do material original desta obra é protegido por direitos autorais de 2021 por Thomas Pfeifer.</p>\n<p>Maxwell's Manual of Malicious Maladies contém descrições de ferimentos e de violência que podem resultar em deficiência permanente. Esta obra usa humor e hipérbole ao tratar desse conteúdo. O autor desta obra entende que ela descreve aspectos da deficiência física e mental e fez todo o possível para evitar linguagem e ideias capacitistas. Em essência, a intenção é empoderar e promover empatia e compreensão para com pessoas com deficiências físicas e mentais.</p>\n<p> </p>\n<h2>Nota do desenvolvedor do módulo</h2>\n<p>O conteúdo dos journals e dos Items incluídos neste módulo foi todo criado a partir do conteúdo do homebrew original <strong>Maxwell's Manual of Malicious Maladies.</strong> Todos os créditos e informações até este ponto foram incluídos pelo autor original.</p>\n<p>Todo o código, a automação e demais materiais originais <em>(não incluídos no homebrew original)</em> desta obra são protegidos por direitos autorais de 2021 por theripper93.</p>"
       },
       "_stats": {
         "coreVersion": "13.342",

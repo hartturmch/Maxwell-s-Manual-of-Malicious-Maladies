@@ -1,5 +1,5 @@
 {
-  "name": "Parte 3: Itens e Acessibilidade",
+  "name": "Parte 3: Items e Acessibilidade",
   "folder": null,
   "sort": 0,
   "flags": {
@@ -8,7 +8,7 @@
   "_id": "nQ5vyznyiBuVvJ3F",
   "pages": [
     {
-      "name": "Figure: Parte 3: Itens e Acessibilidade",
+      "name": "Figura: Parte 3: Items e Acessibilidade",
       "type": "image",
       "src": "https://i.imgur.com/nKHhlJ9.png",
       "title": {
@@ -45,7 +45,7 @@
       "_key": "!journal.pages!nQ5vyznyiBuVvJ3F.iEe7eZkAWUpTfOcY"
     },
     {
-      "name": "Parte 3: Itens e Acessibilidade",
+      "name": "Parte 3: Items e Acessibilidade",
       "type": "text",
       "title": {
         "show": false,
@@ -53,7 +53,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<h1>Parte 3: Itens e Acessibilidade</h1>\n<p><strong>Maxwell diz:</strong> \"Bem, meu aprendiz dedicado, você chegou até aqui e merece uma explicação para o asterisco na primeira página deste manual. A amarga verdade é que, por mais que tentemos, não podemos Teste de Resistência em todos eles. Não podemos consertar toda lesão, toda doença, todo mal. Eu menti, e espero que me perdoe. Nada é garantido.</p>\n<p>\"Às vezes uma Cirurgia fracassa apesar dos seus melhores esforços, e você precisa recorrer a outras opções. Existem todos os tipos de equipamentos capazes de ajudar seu paciente a voltar a andar, enfrentar dragões, manejar espadas e muito mais. Nenhum aluno meu terá uma educação completa sem conhecer todos eles.\"</p>\n<p> </p>\n<blockquote>\n<h2>Uma observação sobre próteses</h2>\n<p>Pode ser difícil acostumar-se a usar um membro protético depois de a new injury. Some prosthetics take weeks of practice antes de they begin to feel natural. Como Dungeon Master, você pode decidir to not to give your players some of the mechanical benefits of wearing a prosthetic right away to reflect this.</p>\n</blockquote>"
+        "content": "<h1>Parte 3: Items e Acessibilidade</h1>\n<p><strong>Maxwell Diz:</strong> \"Pois bem, meu estudioso aprendiz, você chegou até aqui e, portanto, merece a explicação para o asterisco na primeiríssima página deste manual. A amarga verdade é que, por mais que tentemos, não podemos salvar todos. Não podemos consertar toda lesão, toda doença, todo mal. Eu menti, e espero que você me perdoe. Nada é garantido.</p>\n<p>\"Às vezes uma cirurgia fracassa apesar dos seus melhores esforços, e você precisa recorrer a outras opções. Existe todo tipo de equipamento por aí que pode ajudar a pôr o seu paciente de pé outra vez, brandindo dragões, matando com espadas e coisas do tipo. Nenhum pupilo meu vai ter uma educação completa sem conhecer todos eles.\"</p>\n<p> </p>\n<blockquote>\n<h2>Uma Nota sobre Próteses</h2>\n<p>Pode ser desafiador se acostumar a usar um membro protético depois de uma lesão recente. Algumas próteses exigem semanas de prática antes de começarem a parecer naturais. Como Dungeon Master, você pode decidir não conceder aos seus jogadores alguns dos benefícios mecânicos de usar uma prótese imediatamente, para refletir isso.</p>\n</blockquote>"
       },
       "_stats": {
         "coreVersion": "13.342",
