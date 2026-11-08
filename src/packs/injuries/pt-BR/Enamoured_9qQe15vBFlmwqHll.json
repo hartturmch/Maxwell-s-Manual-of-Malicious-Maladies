@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p> A bit confused, you feel a wave of unexpected affection wash over you. Você fica  <strong> &Reference[charmed]{charmed} </strong>  by the fonte do Dano as if under the effects of the Charm Person spell. Este efeito dura  [[1d4]]  rodadas. </p>  <p>  <em> Tratamento </em>  - Taking any amount of Dano from the source of the charm ends this effect. </p>",
+      "value": "<p>Um pouco confuso, você sente uma onda de afeição inesperada tomar conta de você. Você fica <strong>&Reference[charmed]{charmed}</strong> pela fonte do Dano, como se estivesse sob os efeitos da magia Charm Person. Este efeito dura [[1d4]] rodadas.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de Dano da fonte do encanto encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

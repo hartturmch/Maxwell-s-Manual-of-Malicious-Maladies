@@ -1,5 +1,5 @@
 {
-  "name": "Sword Bengala",
+  "name": "Bengala-Espada",
   "type": "weapon",
   "img": "icons/weapons/staves/staff-ornate-hook.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This seemingly simple Bengala houses a thin, wickedly sharp blade. Normally, this object functions as a Bengala. A character may use an object interaction to draw or sheathe the blade inside. While drawn, it functions as a rapier (dealing  1d8  Perfurante Dano with the finesse property). While the blade is drawn, the character does not get the movimento penalty reduction the Bengala offers. </p>",
+      "value": "<p>Esta Bengala aparentemente simples esconde uma lâmina fina e terrivelmente afiada. Normalmente, este objeto funciona como uma Bengala. Um personagem pode usar uma object interaction para sacar ou guardar a lâmina. Enquanto estiver sacada, ela funciona como uma rapier (causando [[1d8]] de Piercing damage com a propriedade finesse). Enquanto a lâmina estiver sacada, o personagem não recebe a redução de penalidade de movimento oferecida pela Bengala.</p>",
       "chat": ""
     },
     "source": {

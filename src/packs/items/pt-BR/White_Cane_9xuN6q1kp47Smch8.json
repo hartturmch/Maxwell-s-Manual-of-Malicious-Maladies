@@ -1,5 +1,5 @@
 {
-  "name": "White Bengala",
+  "name": "Bengala Branca",
   "type": "equipment",
   "img": "icons/weapons/staves/staff-crescent-green.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> A white Bengala is a several foot long Bengala used by people who are blind to get a sense of their surroundings. If a  <strong> blinded  </strong> character trains with a white Bengala for two months (or a shorter duration at the DM's discretion) they may use it to gain blindsight out to their reach. </p>",
+      "value": "<p>Uma Bengala branca tem vários pés de comprimento e é usada por pessoas cegas para perceber o ambiente ao redor. Se um personagem <strong>blinded</strong> treinar com uma Bengala branca por dois meses (ou por um período menor, a critério do DM), poderá usá-la para obter blindsight até seu alcance.</p>",
       "chat": ""
     },
     "source": {
