@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> The Força of the blast has knocked you backwards. You are pushed away from the fonte do Dano an amount of feet scaled to the Dano from the Lesão Persistente: 1-10 Dano (5 ft.), 11-20 Dano (10 ft.), 21-30 Dano (15 ft.), 31-40 Dano (20 ft.),  &gt; 40 Dano (25 ft.). </p>",
+      "value": "<p> The Força of the blast has knocked you backwards. Você fica pushed away from the fonte do Dano an amount of pés scaled to the Dano from the Lesão Persistente: 1-10 Dano (5 ft.), 11-20 Dano (10 ft.), 21-30 Dano (15 ft.), 31-40 Dano (20 ft.),  &gt; 40 Dano (25 ft.). </p>",
       "chat": ""
     },
     "source": {

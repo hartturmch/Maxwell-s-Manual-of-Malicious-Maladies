@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> The Veneno has left your liver scarred and Danod. There's never been a better time to give up drinking. Any amount of alcohol you consume gives you the  <strong> &Reference[poisoned]{poisoned} </strong>  condition. Alcohol or other drugs affect you for double their normal duration. You have disadvantage on any Constitution checks or Saving Throws made to resist Veneno. </p>",
+      "value": "<p> The Veneno has left your liver scarred and Danod. There's never been a better time to give up drinking. Any amount of alcohol you consume gives you the  <strong> &Reference[poisoned]{poisoned} </strong>  condition. Alcohol or other drugs affect you for double their normal duration. Você tem disadvantage on any Constitution checks or Saving Throws made to resist Veneno. </p>",
       "chat": ""
     },
     "source": {

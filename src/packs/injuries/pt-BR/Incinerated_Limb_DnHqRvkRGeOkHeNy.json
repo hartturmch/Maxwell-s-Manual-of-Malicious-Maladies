@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The voracious Fogo has devoured your limb, leaving nothing but smoking cinders in its wake. The limb is  <strong> ausente </strong> , and the resulting wound is cauterized </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The voracious Fogo has devoured seu membro, leaving nothing but smoking cinders in its wake. O membro is  <strong> ausente </strong> , and the resulting wound is cauterized </p>",
       "chat": ""
     },
     "source": {

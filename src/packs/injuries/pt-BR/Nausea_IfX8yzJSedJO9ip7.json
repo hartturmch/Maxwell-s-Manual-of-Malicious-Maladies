@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> You feel a sick, oily feeling deep in your stomach and bile roiling up your throat. You have disadvantage on all Ability Checks for  [[1d6]]  rounds. </p>",
+      "value": "<p> Você sente a sick, oily feeling deep in your stomach and bile roiling up your throat. Você tem disadvantage on all Ability Checks for  [[1d6]]  rodadas. </p>",
       "chat": ""
     },
     "source": {

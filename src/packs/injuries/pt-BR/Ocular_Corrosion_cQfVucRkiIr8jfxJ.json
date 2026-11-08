@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Ácido has splashed over both of your eyes. You are  <strong> &Reference[blinded]{blinded} </strong>  and both your eyes are  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial </p>",
+      "value": "<p> Ácido has splashed over both of your eyes. Você fica  <strong> &Reference[blinded]{blinded} </strong>  and both your eyes are  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos your vision will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial </p>",
       "chat": ""
     },
     "source": {

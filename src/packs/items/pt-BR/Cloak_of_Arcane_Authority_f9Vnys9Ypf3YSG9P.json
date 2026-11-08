@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This ostentatiously embroidered cloak was originally used as an at-a-glance way to display your association with the arcane. While wearing this cloak you may speak a command word to hover a few inches above the ground and move at half your speed. You maintain this speed regardless of any difficult terrain or movement penalties granted from injuries. Você não pode be knocked <em>prone</em>. Este efeito continua until you speak the command word, even if you are unconscious or incapacitated.</p>\n<p>This cloak has an aura of Transmutation.</p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This ostentatiously embroidered cloak was originally used as an at-a-glance way to display your association with the arcane. While wearing this cloak you may speak a command word to hover a few inches above the ground and move at half your speed. You maintain this speed regardless of any difficult terrain or movimento penalties granted from injuries. Você não pode be knocked <em>prone</em>. Este efeito continua until you speak the command word, even if you are unconscious or incapacitated.</p>\n<p>This cloak has an aura of Transmutation.</p>",
       "chat": ""
     },
     "source": {

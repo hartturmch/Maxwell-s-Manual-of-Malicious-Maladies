@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>  </strong>  </p>  <p> Something vital, yet intangible within you falls deathly silent. You feel...disconnected. You lose the ability to communicate telepathically. All magical communication that specifically targets you fails (such as the Message, Sending, and Telepathic Bond spells). Your mind cannot be read or detected. </p>",
+      "description": "<p>  </strong>  </p>  <p> Something vital, yet intangible dentro de you falls deathly silent. Você sente...disconnected. You lose the ability to communicate telepathically. All magical communication that specifically targets you fails (such as the Message, Sending, and Telepathic Bond spells). Your mind cannot be read or detected. </p>",
       "name": "Terceiro Olho Cego",
       "_key": "!tables.results!8RjcealuGnn8dloA.On1uWByhfkopjZc8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rAaoTek6MtJSCjvV"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> As the arcane energy strikes you, you feel something within you sputter and fizzle. You lose the ability to cast spells through any means (including class features, racial traits, or magical items) for  [[1d4]]  days. </p>",
+      "description": "<p> As the arcane energy strikes you, you feel something dentro de you sputter and fizzle. You lose the ability to cast spells through any means (including class features, racial traits, or magical items) for  [[1d4]]  dias. </p>",
       "name": "Null Arcana",
       "_key": "!tables.results!8RjcealuGnn8dloA.yYOE0v0vTiVWNtMp",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.7sz0vgON8LBgdaZ9"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel the abrupt and disconcerting recoil of a severed connection. You lose attunement to anything you are currently attuned to. You may not attune to anything for  [[1d4]]  days. </p>",
+      "description": "<p> Você sente the abrupt and disconcerting recoil of a severed connection. You lose attunement to anything you are currently attuned to. You may not attune to anything for  [[1d4]]  dias. </p>",
       "name": "Ligo Secare",
       "_key": "!tables.results!8RjcealuGnn8dloA.T2cz3fukuLog312a",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.zvxHkSREpWCoRe7m"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You can feel the magic pulse and resonate with the arcane residue that clings to you from the last spell you cast. There's a searing feeling deep in your mind. You lose the ability to cast spells from the same school of magic as the most recent spell you've cast for  [[1d4]]  days. </p>",
+      "description": "<p> You can feel the magic pulse and resonate with the arcane residue that clings to you from the last spell you cast. There's a searing feeling deep in your mind. You lose the ability to cast spells from the same school of magic as the most recent spell you've cast for  [[1d4]]  dias. </p>",
       "name": "Null Scola",
       "_key": "!tables.results!8RjcealuGnn8dloA.W1Ft2bd1SLI51gAl",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.8noSUaYtJmdkIDhK"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel an almost anticlimactic pop and then, nothing. All your Spell Slots are harmlessly expended. You may reprepare spells as usual after um Long Rest or as your class dictates. </p>",
+      "description": "<p> Você sente an almost anticlimactic pop and then, nothing. All your Spell Slots are harmlessly expended. You may reprepare spells as usual depois de um Long Rest or as your class dictates. </p>",
       "name": "Mana Discharge",
       "_key": "!tables.results!8RjcealuGnn8dloA.5QvTtWKXTKFWbQbc",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.uN9O52wUdAGEAISb"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel the energy tug violently at your arcane essence until a portion of it tears loose. One of the highest level Spell Slots you have available to cast is harmlessly expended. You may reprepare this spell slot as usual after um Long Rest or as your class dictates. </p>",
+      "description": "<p> Você sente the energy tug violently at your arcane essence until a portion of it tears loose. One of the highest level Spell Slots you have available to cast is harmlessly expended. You may reprepare this spell slot as usual depois de um Long Rest or as your class dictates. </p>",
       "name": "Mana Queimadura",
       "_key": "!tables.results!8RjcealuGnn8dloA.PYPnUAvwDiw2fUEl",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.5ne8JQFoOuSed1Z0"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel the energy suck away your arcane essence and are left with a lingering feeling of emptiness. Two of the highest level Spell Slots you have available to cast are harmlessly expended. You may reprepare these Spell Slots as usual after um Long Rest or as your class dictates. </p>",
+      "description": "<p> Você sente the energy suck away your arcane essence and are left with a lingering feeling of emptiness. Two of the highest level Spell Slots you have available to cast are harmlessly expended. You may reprepare these Spell Slots as usual depois de um Long Rest or as your class dictates. </p>",
       "name": "Mana Syphon",
       "_key": "!tables.results!8RjcealuGnn8dloA.zhFIFbNkjeu30sJa",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.U5QKhzDgZEZiqAJY"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. When the arcane energy has been expelled and the pain recedes, you flex your limb and find some of that energy has decided to stick with you. Unarmed strikes and weapons wielded by this limb count as magical for the purpose of overcoming resistance and immunity to não mágico attacks and Dano. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. When the arcane energy has been expelled and the pain recedes, you flex seu membro and find some of that energy has decided to stick with you. Unarmed strikes and weapons wielded by this limb count as magical for the purpose of overcoming resistance and immunity to não mágico attacks and Dano. </p>",
       "name": "Imbuant Artus",
       "_key": "!tables.results!8RjcealuGnn8dloA.OBME27B4D4i5Uk9i",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.LFr27kEqjtG87DrX"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your magical equipment fizzles and starts to emit a high-pitch whine. You're pretty sure it's not supposed to do that... Choose one of your magical items that has charges at random and roll  [[1d4]] . That many charges are immediately expended (targets chosen at random, if necessary) and the item's maximum charges are permanently reduced by that amount (to a minimum of 1). </p>",
+      "description": "<p> Seu equipamento mágico falha e começa a emitir um ruído agudo. Você tem certeza de que isso não deveria acontecer... Choose one of your magical items that has charges at aleatório and roll  [[1d4]] . That many charges are imediatamente expended (targets chosen at aleatório, if necessary) and the item's maximum charges are permanentemente reduced by that amount (to a minimum of 1). </p>",
       "name": "Dessico Vis",
       "_key": "!tables.results!8RjcealuGnn8dloA.jQl5kXu2R1Nu4iGI",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GN3Bqp6kAIcHtluY"

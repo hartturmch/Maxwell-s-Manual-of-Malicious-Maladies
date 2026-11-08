@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has had the interesting effect of dying your skin. This area of your body has taken on a light shade the same colour as the Veneno, or roll to determine the color randomly ( [[1d4]] ): 1) Green 2) Purple 3) Orange 4) Blue. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has had the interesting effect of dying your skin. This area of seu corpo has taken on a light shade the same colour as the Veneno, or roll to determine the color aleatoriamente ( [[1d4]] ): 1) Green 2) Purple 3) Orange 4) Blue. </p>",
       "chat": ""
     },
     "source": {

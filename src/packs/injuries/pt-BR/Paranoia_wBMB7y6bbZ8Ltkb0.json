@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p> You find it difficult to stop being distracted by the feeling that there is someone or something out to get you. Whenever you must maintain Concentração, roll  [[1d4]] . This is the maximum amount of rounds you may maintain Concentração for that spell or effect. </p>",
+      "value": "<p> You find it difficult to stop being distracted by the feeling that there is someone or something out to get you. Whenever you must maintain Concentração, roll  [[1d4]] . This is the maximum amount of rodadas you may maintain Concentração for that spell or effect. </p>",
       "chat": ""
     },
     "source": {

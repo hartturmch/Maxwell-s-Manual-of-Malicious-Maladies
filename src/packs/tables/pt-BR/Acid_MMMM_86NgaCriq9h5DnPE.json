@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Ácido has splashed over both of your eyes. You are  <strong> &Reference[blinded]{blinded} </strong>  and both your eyes are  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial </p>",
+      "description": "<p> Ácido has splashed over both of your eyes. Você fica  <strong> &Reference[blinded]{blinded} </strong>  and both your eyes are  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos your vision will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial </p>",
       "name": "Ocular Corrosion",
       "_key": "!tables.results!86NgaCriq9h5DnPE.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.cQfVucRkiIr8jfxJ"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Ácido coats your limb, and you hear the sizzle as it starts to dissolve. This limb is  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos, the limb dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Ácido coats seu membro, and you hear the sizzle as it starts to dissolve. Este membro fica  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos, the limb dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
       "name": "Dissolvido Membro",
       "_key": "!tables.results!86NgaCriq9h5DnPE.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.F99iIEP9a1Eyum7w"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Ácido splashes over your appendage and sizzles as it begins to dissolve. This appendage is  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos, the appendage dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the appendage is lost. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Ácido splashes over seu apêndice and sizzles as it begins to dissolve. Este apêndice fica  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos, the appendage dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the appendage is lost. </p>",
       "name": "Dissolvido Apêndice",
       "_key": "!tables.results!86NgaCriq9h5DnPE.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.EVyTfL4pCoQ3QAC5"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your arcane focus or spell component pouch is dissolved and destroyed. If your arcane focus is magical, it instead has its magical effects suppressed for  [[1d4]]  days and is unusable during that time. </p>",
+      "description": "<p> Seu foco arcano ou bolsa de componentes de Spell é dissolvido e destruído. If your arcane focus is magical, it instead has its efeitos mágicos suppressed for  [[1d4]]  dias and fica inutilizável durante that time. </p>",
       "name": "Dissolvido Arcane Medium",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fEwQPOzKcjEadDda"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your shield is dissolved and destroyed. If your shield is magical, it instead has its magical effects suppressed for  [[1d4]]  days and is unusable during that time. </p>",
+      "description": "<p> Seu escudo é dissolvido e destruído. If your shield is magical, it instead has its efeitos mágicos suppressed for  [[1d4]]  dias and fica inutilizável durante that time. </p>",
       "name": "Dissolvido Shield",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.wBaJp5JT0iOjiQVu"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You've inhaled the Ácido's toxic fumes causing you to cough and hack violently. You are  <strong> &Reference[incapacitated]{incapacitated} </strong>  until the end of your next turn. </p>",
+      "description": "<p> You've inhaled the Ácido's toxic fumes causing you to cough and hack violently. Você fica  <strong> &Reference[incapacitated]{incapacitated} </strong>  until the end of your next turn. </p>",
       "name": "Toxic Inhalation",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.lmTyKn0c6hHUylZX"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Ácido has eaten into the essence of one of your magic items, expelling its arcane energy and rendering it mundane. Choose a magic item on your person at random. That item loses all magical effects permanently. If the item's rarity is Legendary or Artifact, its magical effects are instead suppressed for  [[3d6]]  days (and return to normal after this period). </p>",
+      "description": "<p> Ácido has eaten into the essence of one of your magic items, expelling its arcane energy and rendering it mundane. Choose a magic item on your person at aleatório. That item loses all efeitos mágicos permanentemente. If the item's rarity is Legendary or Artifact, its efeitos mágicos are instead suppressed for  [[3d6]]  dias (and return to normal depois de this period). </p>",
       "name": "Dissolvido Magic",
       "_key": "!tables.results!86NgaCriq9h5DnPE.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.g5MTkNtAkdzOjMsf"

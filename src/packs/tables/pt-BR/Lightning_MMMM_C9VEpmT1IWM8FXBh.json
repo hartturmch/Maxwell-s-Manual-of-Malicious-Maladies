@@ -1,7 +1,7 @@
 {
   "name": "Relâmpago - [MMMM]",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
-  "description": "They say Relâmpago never strikes the same place twice, but ask any poor soul who's gone up against a Wizard with the Relâmpago Bolt spell...that's just a flagrant lie. Relâmpago Dano can seize muscles, Dano the heart, and even alter the brain. When treating Relâmpago Dano, always remember to look for the electricity's entry and exit point...after you are\ncompletely certain the patient is grounded, of course.",
+  "description": "They say Relâmpago never strikes the same place twice, but ask any poor soul who's gone up against a Wizard with the Relâmpago Bolt spell...that's just a flagrant lie. Relâmpago Dano can seize muscles, Dano the heart, and even alter the brain. When treating Relâmpago Dano, always remember to look for the electricity's entry and exit point...depois de you are\ncompletely certain the patient is grounded, of course.",
   "results": [
     {
       "_id": "p0FhrECtMLLXIg8J",
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Your muscle has contracted so strongly that its been torn free of the bone. Your limb is  <strong> sem funcionamento </strong>  and will not properly heal without Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Your muscle has contracted so strongly that its been torn free of the bone. Seu membro fica  <strong> sem funcionamento </strong>  and will not properly heal sem Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. </p>",
       "name": "Muscle Avulsion",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.la33qmFoirnT147t",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TdmwWKMIbILcrMyE"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your brain has been Danod by the electrical surge and you're not acting like yourself. Você sofre a  <strong> flaw </strong>  chosen randomly or by the DM. </p>  <p>  <em> Tratamento </em>  - After each Long Rest roll a d20. On a 19 or 20, the  <strong> flaw </strong>  disappears. </p>",
+      "description": "<p> Your brain has been Danod by the electrical surge and you're not acting like yourself. Você sofre a  <strong> flaw </strong>  chosen aleatoriamente or by the DM. </p>  <p>  <em> Tratamento </em>  - After each Long Rest roll a d20. On a 19 or 20, the  <strong> flaw </strong>  disappears. </p>",
       "name": "Personality Change",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.HtnLT2MDX6sC6OrY",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xu5RO5Z0AGYlrUQ5"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your muscles twitch in repetitive patterns and you have difficulty coordinating your movement. You have disadvantage on all Dexterity based attacks, checks, and saves for  [[1d4]]  turns. </p>",
+      "description": "<p> Your muscles twitch in repetitive patterns and you have difficulty coordinating your movimento. Você tem disadvantage on all Dexterity based attacks, checks, and saves for  [[1d4]]  turns. </p>",
       "name": "Muscle Spasms",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.6LtXHSLYbuAwbdrQ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TKSWxIOc3q1j3QKW"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your muscles seize, your eyes roll back, and you cannot seem to Força your body to function. You are  <strong> &Reference[paralyzed]{paralyzed} </strong>  until the end of your next turn. Critical hits as the result of your paralysis do not cause you to roll another Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - The Lesser Restoration spell removes this paralysis as usual. </p>",
+      "description": "<p> Your muscles seize, your eyes roll back, and you cannot seem to Força seu corpo to function. Você fica  <strong> &Reference[paralyzed]{paralyzed} </strong>  until the end of your next turn. Critical hits as the result of your paralysis do not cause you to roll another Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - The Lesser Restoration spell removes this paralysis as usual. </p>",
       "name": "Electrocution",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.SCTneGLMu1IXH50N",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pelqSHjxykmnoJNG"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your body convulses and seizes, you can hardly even think, much less move it. You are  <strong> &Reference[paralyzed]{paralyzed} </strong>  for  [[1d2]]  rounds. Critical hits as the result of your paralysis do not cause you to roll another Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - The Lesser Restoration spell removes this paralysis as usual. </p>",
+      "description": "<p> Your body convulses and seizes, you can hardly even think, much less move it. Você fica  <strong> &Reference[paralyzed]{paralyzed} </strong>  for  [[1d2]]  rodadas. Critical hits as the result of your paralysis do not cause you to roll another Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - The Lesser Restoration spell removes this paralysis as usual. </p>",
       "name": "True Electrocution",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.pDQtUCLWykFeJuW2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.LoYpvUMKZCrUSAqg"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your nerves are shot, you feel numb, and you're having trouble making your body respond with the speed you need it to. Você não pode take reactions for  [[1d4]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check reduces the duration of this injury by  [[1d4]]  days. </p>",
+      "description": "<p> Your nerves are shot, you feel numb, and you're having trouble making seu corpo respond with the speed you need it to. Você não pode take reactions for  [[1d4]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check reduces the duration of this injury by  [[1d4]]  dias. </p>",
       "name": "Numbed Nerves",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.DlT8xu72pdkTS73u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.QCwUDqgN01J2UcBO"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role duas vezes na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of your body is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
+      "description": "<p> Role duas vezes na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of seu corpo is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
       "name": "Aterramento Cicatriz",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.fUDRwhqypuKa64Fs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oXynahd8ruUshXUE"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This area of your body is left with a Lichtenberg Figure, a scar resembling Relâmpago that runs along the path the current took through your body. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This area of seu corpo is left with a Lichtenberg Figure, a scar resembling Relâmpago that runs along the path the current took through seu corpo. </p>",
       "name": "Lichtenberg Figure",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.PWDc7pCd3TtZH467",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.NRqRf9KwsXR2ICjf"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The electricity crackles around your body for a second, looking for the closest thing to discharge to. The electricity then arcs from you to the nearest creature carrying metal weapons or wearing metal armor. This creature takes Relâmpago Dano equal to half the Dano that caused the Lesão Persistente. </p>",
+      "description": "<p> The electricity crackles around seu corpo for a second, looking for the closest thing to discharge to. The electricity then arcs from you to the nearest creature carrying metal weapons or wearing metal armor. This creature takes Relâmpago Dano equal to half the Dano that caused the Lesão Persistente. </p>",
       "name": "Relâmpago Rod",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.LERMeFqLfXhRMQvF",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.trzqu8dPofAPS68G"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the electricity has interacted with a thread of natural magic within you. This body part emits a small electrical arc of energy every few minutes. If you use an action to touch this body part to a character with 0 Hit Points they become stable in the same manner as the Spare the Dying cantrip. You may suppress the arcing effect by maintaining Concentração. The limb emits a faint aura of Evocation. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the electricity has interacted with a thread of natural magic dentro de you. This body part emits a small electrical arc of energy every few minutos. If you use an action to touch this body part to a character with 0 Hit Points they become stable in the same manner as the Spare the Dying cantrip. You may suppress the arcing effect by maintaining Concentração. O membro emits a faint aura of Evocation. </p>",
       "name": "Static Arco",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.R30x9IOGKRqjyShC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Fj4AEbUuxgw3tgxA"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The electricity has violently exited your body at this point, charring it to the point of being  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas, the appendage will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Cirurgia de Membro. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The electricity has violently exited seu corpo at this point, charring it to the point of being  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas, the appendage will necrotize and fall off in  [[1d4]]  dias (depois de which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Cirurgia de Membro. </p>",
       "name": "Destructive Aterramento",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.YJVZUrVhCW4k7GW2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.2WbWzUxWznvk6JbL"

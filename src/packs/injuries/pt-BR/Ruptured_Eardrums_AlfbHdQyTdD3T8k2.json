@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> The sonic assault has blown out your eardrums. You are  <strong> &Reference[deafened]{deafened} </strong>  and your ears are  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas, your hearing will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
+      "value": "<p> The sonic assault has blown out your eardrums. Você fica  <strong> &Reference[deafened]{deafened} </strong>  and your ears are  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas, your hearing will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
       "chat": ""
     },
     "source": {

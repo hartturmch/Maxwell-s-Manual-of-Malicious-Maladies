@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p> You are plagued by the lingering stench of rotting flesh. It clings to you and is perceivable by anyone within 5 feet of you. For  [[1d6]]  days you have disadvantage on all Charisma based checks. </p>  <p>  <em> Tratamento </em>  - Scouring clean in a long, hot bath will reduce the duration of this effect by  [[1d6]]  days. </p>",
+      "value": "<p> Você fica plagued by the lingering stench of rotting flesh. It clings to you and is perceivable by anyone dentro de 5 pés of you. For  [[1d6]]  dias you have disadvantage on all Charisma based checks. </p>  <p>  <em> Tratamento </em>  - Scouring clean in a long, hot bath will reduce the duration of this effect by  [[1d6]]  dias. </p>",
       "chat": ""
     },
     "source": {

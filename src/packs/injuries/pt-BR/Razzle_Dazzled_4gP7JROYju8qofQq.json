@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> You blink the spots from your eyes, but your vision is taking a while to return. You are  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - A Lesser Restoration spell will cure this condition as usual. </p>",
+      "value": "<p> You blink the spots from your eyes, but your vision is taking a while to return. Você fica  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - A Lesser Restoration spell will cure this condition as usual. </p>",
       "chat": ""
     },
     "source": {

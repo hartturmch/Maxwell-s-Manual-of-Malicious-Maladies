@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> You feel hungry all the time, and it's very difficult for you to gain weight. You require double the normal amount of food and water per day. </p>",
+      "value": "<p> Você sente hungry all the time, and it's very difficult for you to gain weight. You require double the normal amount of food and water per day. </p>",
       "chat": ""
     },
     "source": {

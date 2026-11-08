@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> The light sears a painful red burn into your skin. Você sofre 1 Radiante Dano per 10 feet of movement while on initiative. This injury lasts  [[1d4]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces this injury's duration by  [[1d4]]  days. </p>",
+      "value": "<p> The light sears a painful red burn into your skin. Você sofre 1 Radiante Dano per 10 pés of movimento while on initiative. This injury lasts  [[1d4]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces this injury's duration by  [[1d4]]  dias. </p>",
       "chat": ""
     },
     "source": {

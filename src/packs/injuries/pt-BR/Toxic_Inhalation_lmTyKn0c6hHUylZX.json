@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> You've inhaled the Ácido's toxic fumes causing you to cough and hack violently. You are  <strong> &Reference[incapacitated]{incapacitated} </strong>  until the end of your next turn. </p>",
+      "value": "<p> You've inhaled the Ácido's toxic fumes causing you to cough and hack violently. Você fica  <strong> &Reference[incapacitated]{incapacitated} </strong>  until the end of your next turn. </p>",
       "chat": ""
     },
     "source": {

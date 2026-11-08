@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> You are so Frio your hands are shaking uncontrollably and your voice quavers as you speak. The next three spells you cast have a 50% chance to fail. This effect ends after three spells are attempted. </p>",
+      "value": "<p> Você fica so Frio your hands are shaking uncontrollably and your voice quavers as you speak. The next three spells you cast have a 50% chance to fail. This effect ends depois de three spells are attempted. </p>",
       "chat": ""
     },
     "source": {

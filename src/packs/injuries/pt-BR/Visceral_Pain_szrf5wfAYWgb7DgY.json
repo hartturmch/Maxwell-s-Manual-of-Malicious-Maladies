@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> What did that attack even hit? Your liver? Your spleen? Whatever it was, who knew it could hurt so much? You let out an ear-splitting cry of pain. If the enemy wasn't aware of you, they sure are now. Every creature within 60 feet of you knows your exact location, and you are no longer hidden. </p>",
+      "value": "<p> What did that attack even hit? Your liver? Your spleen? Whatever it was, who knew it could hurt so much? You let out an ear-splitting cry of pain. If the enemy wasn't aware of you, they sure are now. Every creature dentro de 60 pés of you knows your exact location, and you are no longer hidden. </p>",
       "chat": ""
     },
     "source": {

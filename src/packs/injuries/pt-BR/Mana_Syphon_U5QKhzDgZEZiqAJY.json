@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p> You feel the energy suck away your arcane essence and are left with a lingering feeling of emptiness. Two of the highest level Spell Slots you have available to cast are harmlessly expended. You may reprepare these Spell Slots as usual after um Long Rest or as your class dictates. </p>",
+      "value": "<p> Você sente the energy suck away your arcane essence and are left with a lingering feeling of emptiness. Two of the highest level Spell Slots you have available to cast are harmlessly expended. You may reprepare these Spell Slots as usual depois de um Long Rest or as your class dictates. </p>",
       "chat": ""
     },
     "source": {

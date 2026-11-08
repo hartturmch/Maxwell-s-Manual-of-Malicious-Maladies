@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p> You feel the abrupt and disconcerting recoil of a severed connection. You lose attunement to anything you are currently attuned to. You may not attune to anything for  [[1d4]]  days. </p>",
+      "value": "<p> Você sente the abrupt and disconcerting recoil of a severed connection. You lose attunement to anything you are currently attuned to. You may not attune to anything for  [[1d4]]  dias. </p>",
       "chat": ""
     },
     "source": {

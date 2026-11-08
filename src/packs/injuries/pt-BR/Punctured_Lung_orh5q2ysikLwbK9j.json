@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> You cough up blood. The wound has made it past your ribs and into your lung. You make Strength (Athletics) and Dexterity (Acrobatics) checks at disadvantage for  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d4]]  days. </p>",
+      "value": "<p> You cough up blood. The wound has made it past your ribs and into your lung. You make Strength (Athletics) and Dexterity (Acrobatics) checks at disadvantage for  [[1d6]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d4]]  dias. </p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> You just can't take the heat. Any exposure causes you to sweat, turn beet red, and become quickly fatigued. You have disadvantage on Constitution checks and Saving Throws made to resist the environmental effects of heat. </p>",
+      "value": "<p> You just can't take the heat. Any exposure causes you to sweat, turn beet red, and become quickly fatigued. Você tem disadvantage on Constitution checks and Saving Throws made to resist the environmental effects of heat. </p>",
       "chat": ""
     },
     "source": {

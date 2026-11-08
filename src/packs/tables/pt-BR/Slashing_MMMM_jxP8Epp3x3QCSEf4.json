@@ -1,7 +1,7 @@
 {
   "name": "Cortante - [MMMM]",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
-  "description": "Here is a tip for you to scrawl, please underline it twice: the blood belongs inside the body. When you find a bleed, it is your responsibility to stop it as quickly as possible. Do not rely on magical healing to fix the issue, use pressure and tight bandages. Use of leeches not recommended; you want more blood inside the body, not less.",
+  "description": "Here is a tip for you to scrawl, please underline it twice: the blood belongs inside o corpo. When you find a bleed, it is your responsibility to stop it as quickly as possible. Do not rely on magical healing to fix the issue, use pressure and tight bandages. Use of leeches not recommended; you want more blood inside o corpo, not less.",
   "results": [
     {
       "_id": "vJ9f19tCiLkLf7jr",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Roll to randomly determine your left or right eye. You've taken a grievous wound across this eye. It is  <strong> sem funcionamento </strong> , and if not treated within 12 hours, your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
+      "description": "<p> Role para determinar aleatoriamente your left or right eye. You've taken a grievous wound across this eye. It is  <strong> sem funcionamento </strong> , and if not treated dentro de 12 horas, your vision will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
       "name": "Sliced Olho",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.vJ9f19tCiLkLf7jr",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ouYVpjOKVJcVzo6d"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The intensity of the blow has sliced your limb clean off. It lands severed at your feet and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The intensity of the blow has sliced seu membro clean off. It lands severed at your pés and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
       "name": "Seccionado Membro",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.Asnooo7m3fC7TmqL",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.N825I9jeVzOOG1li"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The savagery of the blow has severed one of your small appendages. It lands at your feet and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The savagery of the blow has severed one of your small appendages. It lands at your pés and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
       "name": "Seccionado Apêndice",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.HMMk2aJGt9NxZ2fo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sSk5qFNlNiYSl3iE"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The attack has hit one of your vital points and opened a large artery. You are bleeding out. At the end of each turn, take one level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 16]]  check staunches bleeding. On a failed Teste de Resistência you do not take a level of  <strong> exhaustion </strong>  at the end of your next turn. You may reattempt this check. </p>",
+      "description": "<p> O ataque causou hit one of your vital points and opened a large artery. Você fica bleeding out. Ao final de cada turno, take one level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 16]]  check staunches bleeding. On a failed Teste de Resistência you do not take a level of  <strong> exhaustion </strong>  at the end of your next turn. You may reattempt this check. </p>",
       "name": "Exsanguinating",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.4WtHsXCOByvPqij8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fsDFlNpXHNC3JAvA"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You see blood pour from your wound and you feel a bit light headed. At the end of each turn you take Dano to your maximum Hit Points scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d4]] ), 11-20 Dano ( [[1d6]] ), 21-30 Dano ( [[1d8]] ), 31-40 Dano ( [[1d10]] ),  &gt; 40 Dano ( [[1d12]] ). </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 11]]  check staunches the bleeding. You may reattempt this check. </p>",
+      "description": "<p> You see blood pour from sua ferida and you feel a bit light headed. Ao final de cada turno you take Dano to your maximum Hit Points scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d4]] ), 11-20 Dano ( [[1d6]] ), 21-30 Dano ( [[1d8]] ), 31-40 Dano ( [[1d10]] ),  &gt; 40 Dano ( [[1d12]] ). </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 11]]  check staunches the bleeding. You may reattempt this check. </p>",
       "name": "Hemorrhaging",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.1aZFemaaN5LlhCtn",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Ma7pEt7l2Srdr5x0"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You've taken a long, painful slash to one of your legs. Your speed is reduced by 10 feet. This injury lasts  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d6]]  days. </p>",
+      "description": "<p> You've taken a long, painful slash to one of your legs. Your speed is reduced by 10 pés. This injury lasts  [[1d8]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d6]]  dias. </p>",
       "name": "Leg Laceration",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.0SpCq7yz5ExlheSP",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0N9c1tfXaC3LLtM9"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a thin, sinuous scar on this area of your body. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a thin, sinuous scar on this area of seu corpo. </p>",
       "name": "Sinuosa Cicatriz",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.24omQYVqdDvxO96H",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GAIZ0crw1xfeih5e"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a thick, raised scar on this area of your body. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a thick, raised scar on this area of seu corpo. </p>",
       "name": "Hipertrófica Cicatriz",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.HOt6FHGr0ZB8HD4q",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.7nYfZ3fHkvw58c1N"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You see blood trickling from your wound. It must be a nicked vein because it's difficult to staunch. At the end of each turn you take Dano to your maximum Hit Points scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d2]] ), 11-20 Dano ( [[1d4]] ), 21-30 Dano ( [[1d6]] ), 31-40 Dano ( [[1d8]] ),  &gt; 40 Dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check staunches the bleeding. You may reattempt this check. </p>",
+      "description": "<p> You see blood trickling from sua ferida. It must be a nicked vein because it's difficult to staunch. Ao final de cada turno you take Dano to your maximum Hit Points scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d2]] ), 11-20 Dano ( [[1d4]] ), 21-30 Dano ( [[1d6]] ), 31-40 Dano ( [[1d8]] ),  &gt; 40 Dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check staunches the bleeding. You may reattempt this check. </p>",
       "name": "Persistente Sangramento",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.ULdXoOmf1zja8rHU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.aBreJKa3HM2XyIZ0"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> With every beat of your heart you can feel your lifeblood spilling out. At the end of each turn you take Dano to your maximum Hit Points scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d4]] ), 11-20 Dano ( [[1d6]] ), 21-30 Dano ( [[1d8]] ), 31-40 Dano ( [[1d10]] ),  &gt; 40 Dano ( [[1d12]] ). </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check staunches the bleeding. You may reattempt this check. </p>",
+      "description": "<p> With every beat of your heart you can feel your lifeblood spilling out. Ao final de cada turno you take Dano to your maximum Hit Points scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d4]] ), 11-20 Dano ( [[1d6]] ), 21-30 Dano ( [[1d8]] ), 31-40 Dano ( [[1d10]] ),  &gt; 40 Dano ( [[1d12]] ). </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check staunches the bleeding. You may reattempt this check. </p>",
       "name": "Persistente Hemorrhaging",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.jjDysUgbU0T1hgDo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Hpbu9QICvD6Krucs"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The savage slash has cloven your appendage from you, flinging it into the distance. It lands 15 feet away in a random direction and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The savage slash has cloven seu apêndice from you, flinging it into the distance. It lands 15 pés away in a aleatório direction and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
       "name": "Traumatic Amputação",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.R7sfEmITW4uzGcZt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.vgXrjFmNYuryWa7n"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel the cut rake across the back of your leg, and you stumble, crying out in pain. Your speed is reduced by 10 feet. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. </p>",
+      "description": "<p> Você sente the cut rake across the back of your leg, and you stumble, crying out in pain. Your speed is reduced by 10 pés. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. </p>",
       "name": "Hamstrung",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.AK2seB56EtUmGd8E",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.QRT4v9jRYhYslvoN"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Roll to randomly determine your left or right ear. You've taken a grievous wound across this ear. It is  <strong> sem funcionamento </strong> , and if not treated within 12 hours, your hearing will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
+      "description": "<p> Role para determinar aleatoriamente your left or right ear. You've taken a grievous wound across this ear. It is  <strong> sem funcionamento </strong> , and if not treated dentro de 12 horas, your hearing will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
       "name": "Sliced Ear",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.sCkgW7G6qNeUbNQb",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Z7ONgJVC7OytBi9e"

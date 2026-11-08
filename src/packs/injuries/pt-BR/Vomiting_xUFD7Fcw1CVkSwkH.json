@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> You feel sick, and without warning, the last meal you ate is purged from your stomach. You are &Reference[incapacitated]{incapacitated} until the end of your next turn, and you have disadvantage on all Ability Checks for  [[1d2]]  rounds. </p>",
+      "value": "<p> Você sente sick, and sem warning, the last meal you ate is purged from your stomach. Você fica &Reference[incapacitated]{incapacitated} until the end of your next turn, and you have disadvantage on all Ability Checks for  [[1d2]]  rodadas. </p>",
       "chat": ""
     },
     "source": {

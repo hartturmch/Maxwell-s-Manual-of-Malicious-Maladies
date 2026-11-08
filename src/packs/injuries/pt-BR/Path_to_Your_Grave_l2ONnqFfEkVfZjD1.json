@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p> You are struck by a short, traumatic vision of your own demise, and your heart is filled with dread at this portent. You have vulnerability to the next source of Dano that harms you, after which this effect ends. </p>  <p>  <em> Tratamento </em>  - The Remove Curse spell ends this effect. </p>",
+      "value": "<p> Você fica struck by a short, traumatic vision of your own demise, and your heart is filled with dread at this portent. Você tem vulnerability to the next source of Dano that harms you, depois de which this effect ends. </p>  <p>  <em> Tratamento </em>  - The Remove Curse spell ends this effect. </p>",
       "chat": ""
     },
     "source": {

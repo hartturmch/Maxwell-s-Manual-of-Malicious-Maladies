@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the heat has interacted with a thread of natural magic within you. This area of your body fica permanentemente hot (though to you it feels pleasantly warm) and radiates a faint aura of Transmutation. You have advantage on Constitution checks and Saving Throws made to resist the environmental effects of heat. You may suppress this effect by maintaining Concentração. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the heat has interacted with a thread of natural magic dentro de you. This area of seu corpo fica permanentemente hot (though to you it feels pleasantly warm) and radiates a faint aura of Transmutation. Você tem advantage on Constitution checks and Saving Throws made to resist the environmental effects of heat. You may suppress this effect by maintaining Concentração. </p>",
       "chat": ""
     },
     "source": {

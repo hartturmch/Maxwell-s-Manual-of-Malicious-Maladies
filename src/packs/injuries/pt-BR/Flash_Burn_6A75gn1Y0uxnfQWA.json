@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> You were unprepared for the overwhelming torrent of brilliance and stared right into it. You are  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces this injury's duration by  [[1d4]]  days. </p>",
+      "value": "<p> You were unprepared for the overwhelming torrent of brilliance and stared right into it. Você fica  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d6]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces this injury's duration by  [[1d4]]  dias. </p>",
       "chat": ""
     },
     "source": {

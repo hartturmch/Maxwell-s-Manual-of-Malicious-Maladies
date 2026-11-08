@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> The energy that washed over you has left you with a lingering feeling of sickness and nausea. You are  <strong> &Reference[poisoned]{poisoned} </strong>  for  [[1d4]]  days. During this time, you slowly lose all the hair on your body. After  [[1d12]]  days, it begins to regrow at the normal rate. </p>",
+      "value": "<p> The energy that washed over you has left you with a lingering feeling of sickness and nausea. Você fica  <strong> &Reference[poisoned]{poisoned} </strong>  for  [[1d4]]  dias. During this time, you slowly lose all the hair on seu corpo. After  [[1d12]]  dias, it begins to regrow at the normal rate. </p>",
       "chat": ""
     },
     "source": {

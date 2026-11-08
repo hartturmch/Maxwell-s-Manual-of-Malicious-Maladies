@@ -1,7 +1,7 @@
 {
   "name": "Contundente - [MMMM]",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
-  "description": "Ah, is there any sound more dissonant than the crunch of a\nbroken bone? Few types of Dano are more efficient at\ntaking your limbs out of commission than Contundente. Do\nnot forget to assess your patient's noggin, though. An errant\nclub swing can result in a nasty concussion or a ruptured\neardrum. Most often, though, Contundente leaves you with the\ncolorful parting gift of a black eye or a broken nose. Not the\nprettiest accessories for polite company.",
+  "description": "Ah, is there any sound more dissonant than the crunch of a\nbroken bone? Few types of Dano are more efficient at\ntaking seu membros out of commission than Contundente. Do\nnot forget to assess your patient's noggin, though. An errant\nclub swing can result in a nasty concussion or a ruptured\neardrum. Most often, though, Contundente leaves you with the\ncolorful parting gift of a black eye or a broken nose. Not the\nprettiest accessories for polite company.",
   "results": [
     {
       "_id": "suseSy7RPk0Tmk55",
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The enormous impact of the blow has caused your limb to be torn from its socket. The limb is  <strong> ausente </strong>  and thrown 15 feet in a random direction. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The enormous impact of the blow has caused seu membro to be torn from its socket. O membro is  <strong> ausente </strong>  and thrown 15 pés in a aleatório direction. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro </p>",
       "name": "Membro Torn Asunder",
       "_key": "!tables.results!48xZVriedgL4S9IO.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rULySNi5rRtLc7gG"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A blow to your face has knocked one of your teeth clean out of your mouth. </p>  <p>  <em> Tratamento </em>  - A  [[/skill perception 15]]  check will allow you to recover the tooth. A  DC  19 Cirurgia Geral within 1 day of the injury occurring allows you to reinsert the tooth. </p>",
+      "description": "<p> A blow to your face has knocked one of your teeth clean out of your mouth. </p>  <p>  <em> Tratamento </em>  - A  [[/skill perception 15]]  check will allow you to recover the tooth. A  DC  19 Cirurgia Geral dentro de 1 day of a lesão occurring allows you to reinsert the tooth. </p>",
       "name": "Lost Tooth",
       "_key": "!tables.results!48xZVriedgL4S9IO.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VTnEz1P7ti8zqB3u"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You gasp for breath as the blow knocks you flat onto your back. You are  <strong> &Reference[prone]{prone} </strong>  and you lose  <strong> Concentração </strong> . </p>",
+      "description": "<p> You gasp for breath as the blow knocks you flat onto your back. Você fica  <strong> &Reference[prone]{prone} </strong>  and you lose  <strong> Concentração </strong> . </p>",
       "name": "Wind Knocked out of You",
       "_key": "!tables.results!48xZVriedgL4S9IO.6nva89TqTbTkG7Je",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.3licVhmktflEH6R2"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Roll to randomly determine the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is  <strong> sem funcionamento </strong> . </p>  <p>  <em> Tratamento </em>  - While on initiative, make a  [[/check con 18]]  check as a Bonus Action to Força the joint into place and end this injury. Off initiative, a  [[/skill medicine 18]]  check will end this injury. </p>",
+      "description": "<p> Role para determinar aleatoriamente the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is  <strong> sem funcionamento </strong> . </p>  <p>  <em> Tratamento </em>  - While on initiative, make a  [[/check con 18]]  check as a Bonus Action to Força the joint into place and end this injury. Off initiative, a  [[/skill medicine 18]]  check will end this injury. </p>",
       "name": "Dislocated Shoulder",
       "_key": "!tables.results!48xZVriedgL4S9IO.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pIhpZqWVD3qPb6xd"

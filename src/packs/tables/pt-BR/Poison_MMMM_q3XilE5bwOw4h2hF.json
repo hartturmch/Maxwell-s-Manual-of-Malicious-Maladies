@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Roll to randomly determine your left or right ear. The Veneno has spread to the delicate structures in your inner ear. This ear is  <strong> sem funcionamento </strong> , and if not treated within 12 hours, your hearing will be Danod beyond repair (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
+      "description": "<p> Role para determinar aleatoriamente your left or right ear. The Veneno has spread to the delicate structures in your inner ear. This ear is  <strong> sem funcionamento </strong> , and if not treated dentro de 12 horas, your hearing will be Danod beyond repair (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
       "name": "Ototoxicity",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.Hsc8etMZL7Sap72X",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Jh5GQtGEJ82iKXlf"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel dizzy, the world seems to be shifting under your feet. The problem only gets worse when you're near a great height. You have disadvantage on Dexterity (Acrobatics) checks. You have disadvantage on all attacks and Ability Checks when you are within 5 feet of a height 15 feet or greater. </p>",
+      "description": "<p> Você sente dizzy, the world seems to be shifting under your pés. The problem only gets worse when you're near a great height. Você tem disadvantage on Dexterity (Acrobatics) checks. Você tem disadvantage on all attacks and Ability Checks when you are dentro de 5 pés of a height 15 pés or greater. </p>",
       "name": "Vertigo",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.G7xrg03aujYcFpuC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bSoJyL42dtYXnhus"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The poison is particularly strong and you can't seem to shake free of it. You are <strong>&Reference[poisoned]{poisoned}</strong> for [[1d6]] days.</p><p><em>Tratamento</em> - After each Long Rest you may make a Constitution Saving Throw (DC equals half the Dano that caused the lingering injury or 10, whichever number is higher). On a success, you are no longer <strong>poisoned</strong>. Any effect that cures poison (such as the Lesser Restoration spell) instead temporarily suppresses the poison for one hour.</p>",
+      "description": "<p>The poison is particularly strong and you can't seem to shake free of it. Você fica <strong>&Reference[poisoned]{poisoned}</strong> for [[1d6]] dias.</p><p><em>Tratamento</em> - After each Long Rest you may make a Constitution Saving Throw (DC equals half the Dano that caused the lingering injury or 10, whichever number is higher). On a success, you are no longer <strong>poisoned</strong>. Any effect that cures poison (such as the Lesser Restoration spell) instead temporarily suppresses the poison for one hour.</p>",
       "name": "Persistente Veneno",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.RD5wCeBle5MmS1Vw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sUz9koOyxAZQx0TT"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You can physically feel the poison eating away at you from the inside, and the adrenaline pumping through you is only helping to force it throughout your body. At the beginning of your turn you take poison Dano scaled to the Dano that caused the lingering injury: 1-10 Dano ([[1d2]]), 11-20 Dano ([[1d4]]), 21-30 Dano ([[1d6]]), 31-40 Dano ([[1d8]]), &gt;40 Dano ([[1d10]]). Este efeito continua until you are off initiative.</p><p><em>Tratamento</em> - Any spell or effect that cures the <strong>&Reference[poisoned]{poisoned}</strong> condition will end this effect.</p>",
+      "description": "<p>You can physically feel the poison eating away at you from the inside, and the adrenaline pumping through you is only helping to force it throughout seu corpo. No início do seu turno you take poison Dano scaled to the Dano that caused the lingering injury: 1-10 Dano ([[1d2]]), 11-20 Dano ([[1d4]]), 21-30 Dano ([[1d6]]), 31-40 Dano ([[1d8]]), &gt;40 Dano ([[1d10]]). Este efeito continua until you are off initiative.</p><p><em>Tratamento</em> - Any spell or effect that cures the <strong>&Reference[poisoned]{poisoned}</strong> condition will end this effect.</p>",
       "name": "Virulento Veneno",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.ZQBdf2TLoIW7lxJJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.jqnFjcIYlWVUvCgP"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has had the interesting effect of dying your skin. This area of your body has taken on a light shade the same colour as the Veneno, or roll to determine the color randomly ( [[1d4]] ): 1) Green 2) Purple 3) Orange 4) Blue. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has had the interesting effect of dying your skin. This area of seu corpo has taken on a light shade the same colour as the Veneno, or roll to determine the color aleatoriamente ( [[1d4]] ): 1) Green 2) Purple 3) Orange 4) Blue. </p>",
       "name": "Residual Pigmentation",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.PuEKXr40WSebEExu",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.1cV2EP1JyjpXSGro"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Your veins have been scarred in this area, leaving them slightly raised and pigmented the same color as the Veneno, or roll to determine the color randomly ( [[1d4]] ): 1) Green 2) Grey 3) Red 4) Brown. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Your veins have been scarred in this area, leaving them slightly raised and pigmented the same color as the Veneno, or roll to determine the color aleatoriamente ( [[1d4]] ): 1) Green 2) Grey 3) Red 4) Brown. </p>",
       "name": "Scarred Veins",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.9fXp7DF60mdD7FkZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0KcVInZ6xdrUmDo5"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel a sick, oily feeling deep in your stomach and bile roiling up your throat. You have disadvantage on all Ability Checks for  [[1d6]]  rounds. </p>",
+      "description": "<p> Você sente a sick, oily feeling deep in your stomach and bile roiling up your throat. Você tem disadvantage on all Ability Checks for  [[1d6]]  rodadas. </p>",
       "name": "Nausea",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.rp03XJHLJUqDDvDj",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.IfX8yzJSedJO9ip7"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel sick, and without warning, the last meal you ate is purged from your stomach. You are &Reference[incapacitated]{incapacitated} until the end of your next turn, and you have disadvantage on all Ability Checks for  [[1d2]]  rounds. </p>",
+      "description": "<p> Você sente sick, and sem warning, the last meal you ate is purged from your stomach. Você fica &Reference[incapacitated]{incapacitated} until the end of your next turn, and you have disadvantage on all Ability Checks for  [[1d2]]  rodadas. </p>",
       "name": "Vomiting",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.Uq1Unk5crrNGRZw3",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xUFD7Fcw1CVkSwkH"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has interacted with your body in a thoroughly unexpected way, causing a strange alteration in appearance. This area of your body takes on a physical attribute somehow related to the source of the Veneno (such as green scales from the Veneno breath of a dragon). At the DM's discretion, this new attribute may give you a +1 bonus to an ability check. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has interacted with seu corpo in a thoroughly unexpected way, causing a strange alteration in appearance. This area of seu corpo takes on a physical attribute somehow related to the source of the Veneno (such as green scales from the Veneno breath of a dragon). At the DM's discretion, this new attribute may give you a +1 bonus to an ability check. </p>",
       "name": "Unexpected Mutagen",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.K7BESebKblaanQFy",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.puryOFgcAqhw2jh7"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel hungry all the time, and it's very difficult for you to gain weight. You require double the normal amount of food and water per day. </p>",
+      "description": "<p> Você sente hungry all the time, and it's very difficult for you to gain weight. You require double the normal amount of food and water per day. </p>",
       "name": "Inefficient Metabolism",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.nNOLUZqQKKvjri9B",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Y7YkgDFReYAT7CZC"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You hardly ever feel hungry, and it's very easy for you to gain weight. You require half the normal amount of food and water per day. Potions you use require one full minute to take effect instead of taking effect immediately. </p>",
+      "description": "<p> You hardly ever feel hungry, and it's very easy for you to gain weight. You require half the normal amount of food and water per day. Potions you use require one full minute to take effect instead of taking effect imediatamente. </p>",
       "name": "Slowed Metabolism",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.yREcF5wJAVgUPygd",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.355ELtFV89CVo0Ge"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The Veneno has left your liver scarred and Danod. There's never been a better time to give up drinking. Any amount of alcohol you consume gives you the  <strong> &Reference[poisoned]{poisoned} </strong>  condition. Alcohol or other drugs affect you for double their normal duration. You have disadvantage on any Constitution checks or Saving Throws made to resist Veneno. </p>",
+      "description": "<p> The Veneno has left your liver scarred and Danod. There's never been a better time to give up drinking. Any amount of alcohol you consume gives you the  <strong> &Reference[poisoned]{poisoned} </strong>  condition. Alcohol or other drugs affect you for double their normal duration. Você tem disadvantage on any Constitution checks or Saving Throws made to resist Veneno. </p>",
       "name": "Liver Cirrhosis",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.qgZbFavXAaQtONWN",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.UlEPild1l1r57sMT"

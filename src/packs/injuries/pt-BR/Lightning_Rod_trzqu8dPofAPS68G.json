@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> The electricity crackles around your body for a second, looking for the closest thing to discharge to. The electricity then arcs from you to the nearest creature carrying metal weapons or wearing metal armor. This creature takes Relâmpago Dano equal to half the Dano that caused the Lesão Persistente. </p>",
+      "value": "<p> The electricity crackles around seu corpo for a second, looking for the closest thing to discharge to. The electricity then arcs from you to the nearest creature carrying metal weapons or wearing metal armor. This creature takes Relâmpago Dano equal to half the Dano that caused the Lesão Persistente. </p>",
       "chat": ""
     },
     "source": {

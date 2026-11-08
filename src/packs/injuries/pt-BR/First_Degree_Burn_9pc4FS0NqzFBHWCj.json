@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> An angry red burn flashes over your skin. It's tender and painful to move. While on initiative you take 1 Fogo Dano per 10 feet of movement. Esta lesão cicatriza in  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 10]]  check reduces the duration of this injury by  [[1d6]]  days. </p>",
+      "value": "<p> An angry red burn flashes over your skin. It's tender and painful to move. While on initiative you take 1 Fogo Dano per 10 pés of movimento. Esta lesão cicatriza in  [[1d6]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 10]]  check reduces the duration of this injury by  [[1d6]]  dias. </p>",
       "chat": ""
     },
     "source": {
