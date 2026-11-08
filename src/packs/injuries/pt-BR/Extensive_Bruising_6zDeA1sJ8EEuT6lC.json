@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você tem massive, ugly bruising in this area, but it looks worse than it feels. The bruising will fade depois de  [[1d8]]  dias. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você tem uma contusão extensa e feia nesta área, mas ela parece pior do que realmente é. A contusão desaparecerá após [[1d8]] dias.</p>",
       "chat": ""
     },
     "source": {

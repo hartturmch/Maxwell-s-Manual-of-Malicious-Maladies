@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p> O ataque causou hit one of your vital points and opened a large artery. Você fica bleeding out. Ao final de cada turno, take one level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 16]]  check staunches bleeding. On a failed Teste de Resistência you do not take a level of  <strong> exhaustion </strong>  at the end of your next turn. You may reattempt this check. </p>",
+      "value": "<p>O ataque atingiu um de seus pontos vitais e abriu uma artéria importante. Você está perdendo sangue. Ao final de cada turno, sofra um nível de <strong>&Reference[exhaustion]{exhaustion}</strong>.</p><p><em>Tratamento</em> — Um [[/skill medicine 16]] check estanca o sangramento. Em um Saving Throw falho, você não sofre um nível de <strong>exhaustion</strong> ao final do seu próximo turno. Você pode tentar novamente este check.</p>",
       "chat": ""
     },
     "source": {
