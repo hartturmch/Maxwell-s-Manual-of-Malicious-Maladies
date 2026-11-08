@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> You blink the spots from your eyes, but your vision is taking a while to return. Você fica  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - A Lesser Restoration spell will cure this condition as usual. </p>",
+      "value": "<p>Você pisca para afastar as manchas dos olhos, mas sua visão demora a voltar. Você fica <strong>&Reference[blinded]{blinded}</strong> por [[1d4]] turnos.</p><p><em>Tratamento</em> — A magia Lesser Restoration cura esta Condition normalmente.</p>",
       "chat": ""
     },
     "source": {

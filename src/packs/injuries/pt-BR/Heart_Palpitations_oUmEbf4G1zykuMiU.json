@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Shocked through the heart, and you're to blame. Any time you are  <strong> &Reference[charmed]{charmed} </strong>  or  <strong> &Reference[frightened]{frightened} </strong>  you take 1 level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  25 Cirurgia Geral. </p>",
+      "value": "<p>Seu coração sofreu um choque, e a culpa é sua. Sempre que você fica <strong>&Reference[charmed]{charmed}</strong> ou <strong>&Reference[frightened]{frightened}</strong>, sofre 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 25.</p>",
       "chat": ""
     },
     "source": {

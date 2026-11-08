@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> You. Are. On. Fogo. Dancing flames lick around seu corpo. No início do seu turno, you take Fogo Dano scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d2]] ), 11-20 Dano ( [[1d4]] ), 21-30 Dano ( [[1d6]] ), 31-40 Dano ( [[1d8]] ),  &gt; 40 Dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - You may use an action to extinguish the flames. </p>",
+      "value": "<p>Você está em chamas. Chamas dançantes lambem seu corpo. No início do seu turno, você sofre Fire damage proporcional ao Dano que causou a Lesão Persistente: 1–10 Dano ([[1d2]]), 11–20 Dano ([[1d4]]), 21–30 Dano ([[1d6]]), 31–40 Dano ([[1d8]]), &gt; 40 Dano ([[1d10]]).</p><p><em>Tratamento</em> — Você pode usar uma Action para apagar as chamas.</p>",
       "chat": ""
     },
     "source": {

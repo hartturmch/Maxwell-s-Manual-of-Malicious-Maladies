@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> It's so hot you feel faint. Your muscles are cramping. It feels as if your blood is about to boil in seu corpo. Você sofre 2 levels of &Reference[exhaustion]{exhaustion}. </p>  <p>  <em> Tratamento </em>  - A Long Rest or the  <em> Greater Restoration </em>  spell removes this  <strong> exhaustion </strong>  as usual. </p>",
+      "value": "<p>Está tão quente que você se sente prestes a desmaiar. Seus músculos estão sofrendo espasmos. Parece que seu sangue vai ferver dentro do corpo. Você sofre 2 níveis de <strong>&Reference[exhaustion]{exhaustion}</strong>.</p><p><em>Tratamento</em> — Um Long Rest ou a magia <em>Greater Restoration</em> remove esta <strong>exhaustion</strong> normalmente.</p>",
       "chat": ""
     },
     "source": {
