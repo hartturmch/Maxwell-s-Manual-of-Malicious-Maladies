@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Role para determinar aleatoriamente the right or left eye. The frigid air has frozen over the surface layer of your eye. The eye is  <strong> sem funcionamento </strong> . Se não for tratado dentro de 12 horas, your vision will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. If the player spends um Short Rest rewarming the area dentro de 15 minutos of a lesão occurring, this  DC  is decreased to 10. </p>",
+      "value": "<p>Role para determinar aleatoriamente o olho direito ou esquerdo. O ar congelante congelou a camada superficial do seu olho. O olho fica <strong>sem funcionamento</strong>. Se não for tratado em 12 horas, sua visão ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Sensorial DC 20. Se o jogador gastar um Short Rest aquecendo a área em até 15 minutos após a lesão, a DC diminui para 10.</p>",
       "chat": ""
     },
     "source": {

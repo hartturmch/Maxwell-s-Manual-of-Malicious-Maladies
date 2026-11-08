@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> You attempt to move your pés but find the intensity of the Frio has frozen you directly to the ground. Você fica  <strong> &Reference[restrained]{restrained} </strong> . If you are flying or otherwise not contacting a surface, there is no effect. </p>  <p>  <em> Tratamento </em>  - A Strength check ( DC  equals half the Dano that caused the Lesão Persistente or 10, whichever number is higher) as an action allows you to break free. </p>",
+      "value": "<p>Você tenta mover os pés, mas percebe que a intensidade do Frio o congelou diretamente ao chão. Você fica <strong>&Reference[restrained]{restrained}</strong>. Se estiver voando ou não estiver em contato com uma superfície, não há efeito.</p><p><em>Tratamento</em> — Um Strength check (DC igual à metade do Dano que causou a Lesão Persistente ou 10, o que for maior), como uma Action, permite libertar-se.</p>",
       "chat": ""
     },
     "source": {

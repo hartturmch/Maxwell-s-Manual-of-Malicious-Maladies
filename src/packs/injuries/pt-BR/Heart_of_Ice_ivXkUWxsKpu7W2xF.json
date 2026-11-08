@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the Frio has interacted with a thread of natural magic dentro de you. This area of seu corpo fica permanentemente frigid (though to you it feels pleasantly cool) and it radiates a faint aura of Transmutation. Você tem advantage on Constitution checks and saves made to resist the environmental effects of Frio. You may suppress this effect by maintaining Concentração. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, o Frio interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente congelada (embora pareça agradavelmente fresca para você) e irradia uma aura tênue de Transmutation. Você tem Advantage em checks e Saving Throws de Constitution feitos para resistir aos efeitos ambientais do Frio. Você pode suprimir o efeito mantendo Concentração.</p>",
       "chat": ""
     },
     "source": {
