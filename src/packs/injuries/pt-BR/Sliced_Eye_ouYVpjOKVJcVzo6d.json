@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p> Role para determinar aleatoriamente your left or right eye. You've taken a grievous wound across this eye. It is  <strong> sem funcionamento </strong> , and if not treated dentro de 12 horas, your vision will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
+      "value": "<p>Role para determinar aleatoriamente seu olho esquerdo ou direito. Você sofreu uma ferida grave atravessando esse olho. Ele fica <strong>sem funcionamento</strong> e, se não for tratado em 12 horas, sua visão ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Sensorial DC 20.</p>",
       "chat": ""
     },
     "source": {

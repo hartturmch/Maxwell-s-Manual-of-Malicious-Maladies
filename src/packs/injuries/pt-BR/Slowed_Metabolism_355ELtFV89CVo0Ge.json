@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> You hardly ever feel hungry, and it's very easy for you to gain weight. You require half the normal amount of food and water per day. Potions you use require one full minute to take effect instead of taking effect imediatamente. </p>",
+      "value": "<p>Você quase nunca sente fome e ganha peso com muita facilidade. Precisa de metade da quantidade normal de comida e água por dia. As Potions que você usa exigem um minuto completo para fazer efeito, em vez de agir imediatamente.</p>",
       "chat": ""
     },
     "source": {

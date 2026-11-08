@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Your core body temperature has plummeted dangerously low. While on initiative you function as if affected by both the  <em> Slow </em>  and  <em> Confusion </em>  spells. Se não for tratado for one hour, you fall  <strong> &Reference[unconscious]{unconscious} <strong> . </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming yourself ends this effect. </strong>  </strong>  </p>",
+      "value": "<p>A temperatura central do seu corpo caiu perigosamente. Durante a iniciativa, você funciona como se estivesse sob efeito das magias <em>Slow</em> e <em>Confusion</em>. Se não for tratado por uma hora, você fica <strong>&Reference[unconscious]{unconscious}</strong>.</p><p><em>Tratamento</em> — Um Short Rest aquecendo você lentamente encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Through precision or just sheer luck, the blow has severed a nerve in one of your major limbs. Este membro fica  <strong> sem funcionamento </strong>  and não cicatrizará corretamente sem Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Por precisão ou pura sorte, o golpe cortou um nervo de um de seus membros principais. Este membro fica <strong>sem funcionamento</strong> e não cicatrizará corretamente sem Cirurgia.</p><p><em>Tratamento</em> — Uma Cirurgia de Membro DC 22.</p>",
       "chat": ""
     },
     "source": {

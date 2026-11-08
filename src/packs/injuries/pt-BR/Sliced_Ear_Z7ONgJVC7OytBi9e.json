@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p> Role para determinar aleatoriamente your left or right ear. You've taken a grievous wound across this ear. It is  <strong> sem funcionamento </strong> , and if not treated dentro de 12 horas, your hearing will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
+      "value": "<p>Role para determinar aleatoriamente sua orelha esquerda ou direita. Você sofreu uma ferida grave atravessando essa orelha. Ela fica <strong>sem funcionamento</strong> e, se não for tratada em 12 horas, sua audição ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Sensorial DC 20.</p>",
       "chat": ""
     },
     "source": {
