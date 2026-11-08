@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>A luz queima sua pele, deixando uma queimadura vermelha e dolorosa. Durante a iniciativa, você sofre 1 de Radiant damage a cada 10 feet de movimento. Esta lesão dura [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 12]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "value": "<p>A luz queima sua pele, deixando uma queimadura vermelha e dolorosa. Durante a Initiative, você sofre 1 de Radiante damage a cada 10 pés de Movement. Esta lesão dura [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 12]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
       "chat": ""
     },
     "source": {

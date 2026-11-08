@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Role para determinar aleatoriamente your left or right ear. The Veneno has spread to the delicate structures in your inner ear. This ear is  <strong> sem funcionamento </strong> , and if not treated dentro de 12 horas, your hearing will be Danod beyond repair (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
+      "value": "<p>Role para determinar aleatoriamente a orelha esquerda ou direita. O Veneno se espalhou pelas estruturas delicadas do ouvido interno. Esta orelha fica <strong>sem funcionamento</strong> e, se não for tratada em 12 horas, sua audição sofrerá Dano irreparável e será considerada <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
       "chat": ""
     },
     "source": {

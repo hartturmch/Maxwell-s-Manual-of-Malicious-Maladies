@@ -1,11 +1,11 @@
 {
   "_id": "bWgPGXmnSS3BBkE9",
-  "name": "Numb Right Braço",
+  "name": "Braço Direito Dormente",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> The Força of the impact jars your nerves and sends a spreading numbness through your right arm. You drop anything you are holding with that arm and it is  <strong> sem funcionamento </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
+      "value": "<p>A força do impacto abala seus nervos e espalha dormência pelo braço direito. Você solta qualquer coisa que esteja segurando com esse braço, que fica <strong>sem funcionamento</strong> por [[1d4]] turnos.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

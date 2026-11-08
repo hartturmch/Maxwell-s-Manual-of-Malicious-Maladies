@@ -1,11 +1,11 @@
 {
   "_id": "kXGOMWu1FZh4IvGt",
-  "name": "Terceiro Grau Queimadura",
+  "name": "Queimadura de Terceiro Grau",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Você sofre uma queimadura profunda que atravessa sua pele, deixando uma ferida rachada e vermelha. Durante a iniciativa, você sofre 1 de Fire damage a cada 5 feet de movimento. Além disso, sofre [[/damage 1d4 fire]] sempre que fizer uma Action ou Bonus Action. Esta lesão dura [[1d8]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 16]] check reduz a duração desta lesão em [[1d8]] dias.</p>",
+      "value": "<p>Você sofre uma queimadura profunda que atravessa sua pele, deixando uma ferida rachada e vermelha. Durante a Initiative, você sofre 1 de Fire damage a cada 5 pés de Movement. Além disso, sofre [[/damage 1d4 fire]] sempre que fizer uma Action ou Bonus Action. Esta lesão dura [[1d8]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 16]] check reduz a duração desta lesão em [[1d8]] dias.</p>",
       "chat": ""
     },
     "source": {

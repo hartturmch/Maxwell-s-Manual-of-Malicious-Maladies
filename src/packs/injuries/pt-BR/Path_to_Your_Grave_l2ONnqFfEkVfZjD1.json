@@ -1,11 +1,11 @@
 {
   "_id": "l2ONnqFfEkVfZjD1",
-  "name": "Caminho para sua Sepultura",
+  "name": "Caminho para a Sepultura",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p> Você fica struck by a short, traumatic vision of your own demise, and your heart is filled with dread at this portent. Você tem vulnerability to the next source of Dano that harms you, depois de which this effect ends. </p>  <p>  <em> Tratamento </em>  - The Remove Curse spell ends this effect. </p>",
+      "value": "<p>Você é atingido por uma visão curta e traumática da própria morte, e seu coração se enche de pavor diante desse presságio. Você tem Vulnerability à próxima fonte de Dano que o ferir; depois disso, este efeito termina.</p><p><em>Tratamento</em> — A Spell Remove Curse encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

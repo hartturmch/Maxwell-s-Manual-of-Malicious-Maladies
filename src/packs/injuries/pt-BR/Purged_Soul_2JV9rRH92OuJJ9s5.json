@@ -1,11 +1,11 @@
 {
   "_id": "2JV9rRH92OuJJ9s5",
-  "name": "Purged Alma",
+  "name": "Alma Purificada",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>A luz purificadora limpou a sujeira da sua alma. Seu alinhamento avança um passo em direção ao bem. Se seu alinhamento já for bom, trate esta rolagem como 15.</p>",
+      "value": "<p>A luz purificadora limpou a sujeira da sua alma. Seu alinhamento avança um passo em direção ao bem. Se já for bom, trate esta rolagem como 15.</p>",
       "chat": ""
     },
     "source": {

@@ -1,11 +1,11 @@
 {
   "_id": "rULySNi5rRtLc7gG",
-  "name": "Membro Torn Asunder",
+  "name": "Membro Arrancado",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The enormous impact of the blow has caused seu membro to be torn from its socket. O membro is  <strong> ausente </strong>  and thrown 15 pés in a aleatório direction. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. O impacto enorme do golpe arrancou seu membro da articulação. O membro fica <strong>ausente</strong> e é lançado a 15 pés, em uma direção aleatória.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia de Membro DC 22.</p>",
       "chat": ""
     },
     "source": {

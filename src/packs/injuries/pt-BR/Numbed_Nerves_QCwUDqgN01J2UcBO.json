@@ -1,11 +1,11 @@
 {
   "_id": "QCwUDqgN01J2UcBO",
-  "name": "Nervos Adormecidos",
+  "name": "Nervos Dormentes",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Your nerves are shot, you feel numb, and you're having trouble making seu corpo respond with the speed you need it to. Você não pode take reactions for  [[1d4]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check reduces the duration of this injury by  [[1d4]]  dias. </p>",
+      "value": "<p>Seus nervos foram afetados, você sente dormência e tem dificuldade para fazer seu corpo responder com a velocidade necessária. Você não pode usar Reactions por [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 14]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
       "chat": ""
     },
     "source": {
