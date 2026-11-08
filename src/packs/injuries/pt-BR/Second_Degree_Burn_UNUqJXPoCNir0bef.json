@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Your skin bubbles and blisters as the burning flashes over it. While on initiative you take 1 Fogo Dano per 5 pés of movimento. Esta lesão cicatriza in  [[1d8]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d8]]  dias. </p>",
+      "value": "<p>Sua pele cria bolhas enquanto a queimadura se espalha. Durante a iniciativa, você sofre 1 de Fire damage a cada 5 feet de movimento. Esta lesão cicatriza em [[1d8]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 12]] check reduz a duração desta lesão em [[1d8]] dias.</p>",
       "chat": ""
     },
     "source": {

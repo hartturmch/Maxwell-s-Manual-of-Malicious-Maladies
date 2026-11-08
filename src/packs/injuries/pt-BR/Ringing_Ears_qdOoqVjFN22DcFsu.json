@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Você fica com an annoying ringing in your ears. Você tem disadvantage on perception checks related to sound for  [[1d6]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d4]]  dias. </p>",
+      "value": "<p>Você fica com um zumbido incômodo nos ouvidos. Você tem Disadvantage em Perception checks relacionados a som por [[1d6]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 12]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
       "chat": ""
     },
     "source": {

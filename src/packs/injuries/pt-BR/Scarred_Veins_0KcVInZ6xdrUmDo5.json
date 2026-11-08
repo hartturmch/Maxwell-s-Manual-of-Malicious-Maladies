@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Your veins have been scarred in this area, leaving them slightly raised and pigmented the same color as the Veneno, or roll to determine the color aleatoriamente ( [[1d4]] ): 1) Green 2) Grey 3) Red 4) Brown. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Suas veias ficam cicatrizadas nesta área, levemente elevadas e pigmentadas com a mesma cor do Veneno, ou role para determinar a cor aleatoriamente ([[1d4]]): 1) Verde, 2) Cinza, 3) Vermelho, 4) Marrom.</p>",
       "chat": ""
     },
     "source": {
