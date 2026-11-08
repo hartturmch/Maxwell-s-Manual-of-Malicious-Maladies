@@ -33,7 +33,8 @@ export function unitWords(units, localize) {
 }
 
 function build(roll, word) {
-    return new RegExp(`${OPEN}${roll}${CLOSE}(\\s*)(${word})(?![\\p{L}\\p{M}])`, "iu");
+    // entre a fórmula e a unidade podem existir espaços e tags de abertura (ex.: <span> colorido da unidade)
+    return new RegExp(`${OPEN}${roll}${CLOSE}(\\s*(?:<(?:strong|em|b|span)\\b[^>]*>\\s*)*)(${word})(?![\\p{L}\\p{M}])`, "iu");
 }
 
 function replacer(value) {
