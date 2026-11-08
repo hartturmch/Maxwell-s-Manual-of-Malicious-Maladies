@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você testemunhou uma escuridão profunda e, mesmo agora, pode sentir seu toque persistente em sua alma. Seu alinhamento muda um passo em direção ao mal. Se você já é mau, trate este teste como um 15. </p>",
+      "description": "<p>Você testemunhou uma escuridão profunda e, mesmo agora, pode sentir seu toque persistente em sua alma. Seu alinhamento muda um passo em direção ao mal. Se já for mau, trate esta rolagem como 15.</p>",
       "name": "Alma Corrompida",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.TuWgTGil1Bz6im8w",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.su1AKqpXfwnFGHWr"
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você sente like you've seen the face of death and can recall its grim visage with ease. You require one less failed death Saving Throw antes de you die. </p>",
-      "name": "Tenuous Grip on Life",
+      "description": "<p>Você sente que viu a face da morte e consegue recordar seu semblante sombrio com facilidade. Você precisa de uma falha a menos em Saving Throws contra a morte antes de morrer.</p>",
+      "name": "Frágil Aperto na Vida",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.mflZMTM1nS2HFcfX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Zn2Z8JCxvUXphnzp"
     },
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your wound festers with a dark energy. It resists both magical and natural healing. Your maximum Hit Points are reduced by the amount of Dano that caused the Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - A  DC  18 Cirurgia Geral check or the Greater Restoration spell. </p>",
-      "name": "Necrótico Ferida",
+      "description": "<p>Sua ferida supura com uma energia sombria. Ela resiste à cura mágica e natural. Seus Hit Points máximos são reduzidos pela quantidade de Dano que causou a Lesão Persistente.</p><p><em>Tratamento</em> — Um teste de Cirurgia Geral DC 18 ou a Spell Greater Restoration.</p>",
+      "name": "Ferida Necrótica",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.yq7N0ZmXyvnIExgW",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.nQ9BDJmwaBvsR4oh"
     },
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você sente frail, drained, as if your life's very essence has been stolen away from you. Você tem disadvantage on Strength (Athletics) checks and both Strength and Constitution Saving Throws for  [[1d4]]  dias. </p>",
-      "name": "Withered Longe",
+      "description": "<p>Você se sente frágil e exausto, como se a própria essência da sua vida tivesse sido roubada. Você tem Disadvantage em checks de Strength (Athletics) e em ambos os Saving Throws de Strength e Constitution por [[1d4]] dias.</p>",
+      "name": "Longe Ressecado",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.zgGMdkoNVSiuodwE",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yHzmaTQ5WMPjxjLM"
     },
@@ -133,8 +133,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você fica filled with a blind rage and an overwhelming violent compulsion. You imediatamente use your reaction to make a melee attack against the nearest creature (at aleatório). You spend the next  [[1d4]]  turns pursuing and attacking whatever creature is closest to you, regardless of if they are friendly or not. </p>  <p>  <em> Tratamento </em>  - Any spell or effect that would end a Barbarian's rage also ends this effect. </p>",
-      "name": "Malicious Outburst",
+      "description": "<p>Você é tomado por uma raiva cega e uma compulsão violenta irresistível. Você usa imediatamente sua Reaction para fazer um ataque corpo a corpo contra a criatura mais próxima (determinada aleatoriamente). Você passa os próximos [[1d4]] turnos perseguindo e atacando a criatura que estiver mais perto, seja ela aliada ou não.</p><p><em>Tratamento</em> — Qualquer Spell ou efeito que encerre a fúria de um Barbarian também encerra este efeito.</p>",
+      "name": "Surto Malicioso",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.OHQKqZgivvQDESXa",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ZKNUWo3SwLosVly9"
     },
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> All positive emotion dentro de you shatters like a mirror and you are left only with painful, distracting shards. If you have Inspiration, you lose it. You lose any não mágico effect granting you a temporary bonus or advantage (such as Bardic Inspiration, Barbarian Rage, the Dodge action, or the Help action). </p>",
-      "name": "Sorrow",
+      "description": "<p>Toda emoção positiva dentro de você se despedaça como um espelho, deixando apenas fragmentos dolorosos e perturbadores. Se tiver Inspiration, você a perde. Você perde qualquer efeito não mágico que conceda um bônus temporário ou Advantage (como Bardic Inspiration, Barbarian Rage, a Action Dodge ou a Action Help).</p>",
+      "name": "Tristeza",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.nyeVzSKBd68wKmr8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rJls35rZ1woHNjOQ"
     },
@@ -187,8 +187,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você fica plagued by the lingering stench of rotting flesh. It clings to you and is perceivable by anyone dentro de 5 pés of you. For  [[1d6]]  dias you have disadvantage on all Charisma based checks. </p>  <p>  <em> Tratamento </em>  - Scouring clean in a long, hot bath will reduce the duration of this effect by  [[1d6]]  dias. </p>",
-      "name": "The Stench of Decay",
+      "description": "<p>Você fica atormentado pelo fedor persistente de carne apodrecida. Ele se agarra a você e pode ser percebido por qualquer pessoa a até 5 pés. Por [[1d6]] dias, você tem Disadvantage em todos os checks baseados em Charisma.</p><p><em>Tratamento</em> — Lavar-se cuidadosamente em um banho longo e quente reduz a duração deste efeito em [[1d6]] dias.</p>",
+      "name": "O Fedor da Decomposição",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.A5vVDEmuZMEdx3Ra",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rzg5uTI2aZ83kitr"
     },
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você sente a energia negativa se agarrando a você, trabalhando ativamente contra você. Você é afligido como se fosse pelo feitiço Conceder Maldição, com a maldição específica escolhida aleatoriamente, ou pelo Mestre. Para fins de identificação de alvos, presume-se que a fonte do dano seja o conjurador da maldição. A maldição dura até o próximo nascer do sol. </p>  <p>  <em> Tratamento </em>  - Um feitiço Remover Maldição acabará com esse efeito, como de costume. </p>",
+      "description": "<p>Você sente a energia negativa agarrada a você, trabalhando ativamente contra seus interesses. Você é afetado como pela Spell Bestow Curse, com a maldição específica escolhida aleatoriamente ou pelo DM. Para identificar alvos, presume-se que a fonte do Dano seja o conjurador da maldição. A maldição dura até o próximo nascer do sol.</p><p><em>Tratamento</em> — A Spell Remove Curse encerra este efeito, como de costume.</p>",
       "name": "Amaldiçoado",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.PUOXb7ZJ4DWysTzn",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VfyN786tmBqxOPRr"
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a curious scar that appears to be a shadow over a feridaed area. No amount of light seems to be able to eliminate this shadow. </p>",
-      "name": "Sombra Cicatriz",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz curiosa que parece uma sombra sobre a área ferida. Nenhuma quantidade de luz parece capaz de eliminar essa sombra.</p>",
+      "name": "Cicatriz de Sombra",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.fOM1XBQOuP86dTQO",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ZSjESgzEimHy5aTL"
     },
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma escuridão persistente ao longo das veias nesta área do seu corpo. </p>",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma escuridão persistente ao longo das veias nesta área do corpo.</p>",
       "name": "Vasos Escuros",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.dvQP3UB7lq3KM0jR",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yL6cNNz65ZGH7l5W"
@@ -295,8 +295,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você não pode be magically healed for  [[1d6]]  turns. This includes spells which restore Hit Points, cure conditions, and raise the dead. </p>",
-      "name": "Mitotic Rejection",
+      "description": "<p>Você não pode ser curado magicamente por [[1d6]] turnos. Isso inclui Spells que restauram Hit Points, curam Conditions e ressuscitam os mortos.</p>",
+      "name": "Rejeição Mitótica",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.zTAXVuVF0GijLXbM",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.i7VC1FIxuVSPkPUS"
     },
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você fica struck by a short, traumatic vision of your own demise, and your heart is filled with dread at this portent. Você tem vulnerability to the next source of Dano that harms you, depois de which this effect ends. </p>  <p>  <em> Tratamento </em>  - The Remove Curse spell ends this effect. </p>",
-      "name": "Path to Your Grave",
+      "description": "<p>Você é atingido por uma visão curta e traumática da própria morte, e seu coração se enche de pavor diante desse presságio. Você tem Vulnerability à próxima fonte de Dano que o ferir; depois disso, este efeito termina.</p><p><em>Tratamento</em> — A Spell Remove Curse encerra este efeito.</p>",
+      "name": "Caminho para a Sepultura",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.wUP0u5dCuO9LWR2f",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.l2ONnqFfEkVfZjD1"
     },
@@ -349,8 +349,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Este membro fica pale, bloodless, and dead. Yet somehow...you can still move it normally. O membro emits a faint aura of Necromancy. You can suppress this effect with an effort of concentration. This renders your physical limb inanimate and a ghostly, phantom limb appears from dentro de it, staying attached to you. This incorporeal limb can pass through creatures and objects and interact with both the Material Plane and the Border Ethereal Plane. If the Phantom Limb ever spends more than 6 seconds inside an object, it flickers from existence and you take [[/damage 1d6 force]].</p><p><em>Tratamento</em> - Any spell that returns the dead to life will return seu membro to normal, provided you follow the spell's normal requirements.</p>",
-      "name": "Fantasma Membro",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Este membro fica pálido, sem sangue e morto. Ainda assim... você consegue movê-lo normalmente. O membro emite uma aura tênue de Necromancy. Você pode suprimir este efeito com um esforço de Concentração. Isso torna seu membro físico inanimado e faz surgir dele um membro fantasma espectral, ainda ligado a você. Esse membro incorpóreo atravessa criaturas e objetos e interage com o Material Plane e o Border Ethereal Plane. Se o Membro Fantasma permanecer mais de 6 segundos dentro de um objeto, ele desaparece e você sofre [[/damage 1d6 force]].</p><p><em>Tratamento</em> — Qualquer Spell que devolva os mortos à vida restaura seu membro, desde que você cumpra os requisitos normais da Spell.</p>",
+      "name": "Membro Fantasma",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.NNEoVJmXjmNndWAs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.JsaFwMWuJG9F0UkB"
     },
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Slowly, you feel the building urge to destroy something beautiful. Você tem  [[1d6]]  dias to commit an act of senseless destruction or violence (outside of what would be normal behavior for your character). If you do not do this dentro de the time limit, the compulsion builds to distracting levels, and you have disadvantage to all attack rolls, Ability Checks, and Saving Throws until you do. </p>",
-      "name": "Insidious Compulsion",
+      "description": "<p>Aos poucos, você sente crescer o impulso de destruir algo belo. Você tem [[1d6]] dias para cometer um ato de destruição ou violência sem sentido (fora do comportamento normal do seu personagem). Se não fizer isso dentro do prazo, a compulsão cresce até níveis perturbadores, e você tem Disadvantage em todas as attack rolls, Ability Checks e Saving Throws até cumprir o ato.</p>",
+      "name": "Compulsão Insidiosa",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.e6palVsMklFOzEPx",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FY5fuwuHmYXwkIpF"
     },
@@ -403,8 +403,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Todas as células do seu corpo protestam quando são agredidas pelo próprio fluxo do tempo. Seu corpo envelhece  [[1d10]]  anos. Sua mente não é afetada. </p>",
-      "name": "Cronoscarred",
+      "description": "<p>Todas as células do seu corpo protestam quando são agredidas pelo próprio fluxo do tempo. Seu corpo envelhece [[1d10]] anos. Sua mente não é afetada.</p>",
+      "name": "Marcado pelo Tempo",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.JIn4VzwNYZmH5URA",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pKxmf8XyaPdqSsBX"
     },
@@ -430,8 +430,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A small mote of corrupt power has taken residence dentro de you and you feel a tiny part of your soul become unhinged. Você sofre a  <strong> flaw </strong>  that would be considered malevolent, violent, cruel, or volatile. </p>",
-      "name": "Felt the Escuros",
+      "description": "<p>Uma pequena centelha de poder corrompido se instalou em você, e uma minúscula parte da sua alma se desarticulou. Você sofre uma <strong>flaw</strong> considerada maliciosa, violenta, cruel ou volátil.</p>",
+      "name": "Sentiu as Trevas",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.09TizzFme7VtzSV9",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.3MczKcI7QlA9H3yB"
     }

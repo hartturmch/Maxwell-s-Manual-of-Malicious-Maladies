@@ -25,8 +25,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You've taken grievous Dano directly to your right eye. Your eye is  <strong> sem funcionamento </strong> . Se não for tratado dentro de 8 horas, your vision will be beyond saving (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
-      "name": "Gouged Right Olho",
+      "description": "<p>Você sofreu Dano grave diretamente no olho direito. Seu olho fica <strong>sem funcionamento</strong>. Se não for tratado em 8 horas, sua visão não poderá ser salva e será considerada <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
+      "name": "Olho Direito Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.yLN128lJJZIGs328",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sro4iySc6JaCyeC8"
     },
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Through precision or just sheer luck, the blow has severed a nerve in one of your major limbs. Este membro fica  <strong> sem funcionamento </strong>  and não cicatrizará corretamente sem Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
-      "name": "Seccionado Nerve",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Por precisão ou pura sorte, o golpe seccionou um nervo de um dos seus membros principais. Este membro fica <strong>sem funcionamento</strong> e não cicatriza corretamente sem Cirurgia.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia de Membro DC 22.</p>",
+      "name": "Nervo Seccionado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.bcMmetrn1kEnOtWh",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.EQKcmneymtagEONJ"
     },
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Você sente a stabbing pain in seu apêndice, and then an instant numbness. O apêndice is  <strong> sem funcionamento </strong>  and não cicatrizará corretamente sem Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
-      "name": "Seccionado Small Nerve",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Você sente uma dor lancinante no apêndice e, em seguida, uma dormência instantânea. O apêndice fica <strong>sem funcionamento</strong> e não cicatriza corretamente sem Cirurgia.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
+      "name": "Nervo Pequeno Seccionado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.skC4JU5didgRpylO",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9zPDBAiPTp8qJL83"
     },
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A ferida superficial fecha facilmente, but o ataque deixou uma contaminação insidiosa profundamente alojada. At the end of every Long Rest, roll your class's hit die and reduce your max Hit Points by this amount. If this effect reduces your Hit Points to 0, you fall <strong>&Reference[unconscious]{unconscious}</strong> and will die in [[1d6]] dias.</p><p><em>Tratamento</em> - Once per day you may attempt a [[/save con 22]] Saving Throw or a [[/skill medicine 17]] check. A success on either cures the infection. The Greater Restoration spell restores the max hit point Dano as usual, but does not cure the infection.</p>",
-      "name": "Profunda Infecção",
+      "description": "<p>A ferida superficial fecha facilmente, mas o ataque deixou uma contaminação insidiosa profundamente alojada. Ao final de cada Long Rest, role o Hit Die da sua Class e reduza seus Hit Points máximos nessa quantidade. Se este efeito reduzir seus Hit Points a 0, você fica <strong>&Reference[unconscious]{unconscious}</strong> e morrerá em [[1d6]] dias.</p><p><em>Tratamento</em> — Uma vez por dia, você pode tentar um [[/save con 22]] Saving Throw ou um [[/skill medicine 17]] check. Um sucesso em qualquer um deles cura a infecção. A Spell Greater Restoration restaura os Hit Points máximos perdidos, mas não cura a infecção.</p>",
+      "name": "Infecção Profunda",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.EbOaybmpQ1DH9o1Q",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.M4b2nqm2LIfXaaPi"
     },
@@ -133,8 +133,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You bite back a snarl as the attack penetrates just a little bit deeper. Você sofre one extra dado de Dano of whatever type the Dano causado. </p>",
-      "name": "Profunda Perforation",
+      "description": "<p>Você contém um grunhido enquanto o ataque penetra um pouco mais fundo. Você sofre um dado extra de Dano do tipo de Dano causado.</p>",
+      "name": "Perfuração Profunda",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.mNUOMRfueglPO2qn",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.lh4mNSArBDx8x2BO"
     },
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> O ataque sinks into the meat of your arm. It's probably not serious, but the pain makes you treat your arm gingerly. You no longer get one free object interaction per turn. Este efeito dura  [[1d8]]  turns. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
-      "name": "Punctured Braço",
+      "description": "<p>O ataque penetra na carne do seu braço. Provavelmente não é grave, mas a dor faz você tratar o braço com cuidado. Você não recebe mais uma interação gratuita com objeto por turno. Este efeito dura [[1d8]] turnos.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
+      "name": "Braço Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.zaqfj8ATVvZfuhS9",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.A75rbXBYeRWjcMgh"
     },
@@ -187,8 +187,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You cough up blood. The wound has made it past your ribs and into your lung. You make Strength (Athletics) and Dexterity (Acrobatics) checks at disadvantage for  [[1d6]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d4]]  dias. </p>",
-      "name": "Punctured Pulmão",
+      "description": "<p>Você tosse sangue. A ferida passou pelas costelas e chegou ao pulmão. Você faz checks de Strength (Athletics) e Dexterity (Acrobatics) com Disadvantage por [[1d6]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "name": "Pulmão Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.CHYjAHhd6HGi7wPd",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.orh5q2ysikLwbK9j"
     },
@@ -214,8 +214,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> O ataque went in one end and out the other. Luckily, it's missed anything vital, but you can still feel the agony of it in every motion you make. Bonus actions require a full action instead. Este efeito dura for  [[1d4]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d2]]  dias. </p>",
-      "name": "Ran Through",
+      "description": "<p>O ataque entrou por um lado e saiu pelo outro. Felizmente, não atingiu nada vital, mas você ainda sente a agonia em cada movimento. Bonus Actions exigem uma Action completa. Este efeito dura [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check reduz a duração desta lesão em [[1d2]] dias.</p>",
+      "name": "Atravessado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.Y9fL3J6lqkMrFLBe",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VD30q7uoIl5BIBiQ"
     },
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a raised, gnarled scar on this area of seu corpo. </p>",
-      "name": "Retorcida Cicatriz",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz elevada e retorcida nesta área do corpo.</p>",
+      "name": "Cicatriz Retorcida",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.aKUjrMMnskhPmMM9",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.qwGn6ahu1YIVNFan"
     },
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com an indented, depressed scar on this area of seu corpo. </p>",
-      "name": "Rebaixada Cicatriz",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz afundada e deprimida nesta área do corpo.</p>",
+      "name": "Cicatriz Rebaixada",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.i9r8DxUoTmd4u6mg",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.qrBjiP5PSXP8uimU"
     },
@@ -295,8 +295,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> O ataque sinks into the meat of your leg. It's probably not serious, but the pain of it makes you treat your leg gingerly. Your speed is reduced by 10 pés for  [[1d8]]  rodadas. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
-      "name": "Punctured Leg",
+      "description": "<p>O ataque penetra na carne da sua perna. Provavelmente não é grave, mas a dor faz você tratar a perna com cuidado. Sua velocidade é reduzida em 10 pés por [[1d8]] rodadas.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
+      "name": "Perna Perfurada",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.bkU63wCwsEEre4Be",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.lnJUllGbkqzZOC2T"
     },
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> What did that attack even hit? Your liver? Your spleen? Whatever it was, who knew it could hurt so much? You let out an ear-splitting cry of pain. If the enemy wasn't aware of you, they sure are now. Every creature dentro de 60 pés of you knows your exact location, and you are no longer hidden. </p>",
-      "name": "Visceral Pain",
+      "description": "<p>O que aquele ataque atingiu? Seu fígado? Seu baço? Seja o que for, quem diria que poderia doer tanto? Você solta um grito de dor que atravessa os ouvidos. Se o inimigo não sabia da sua presença, agora sabe. Toda criatura a até 60 pés conhece sua localização exata, e você deixa de estar hidden.</p>",
+      "name": "Dor Visceral",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.mfcghIAyMtsyr7UG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.szrf5wfAYWgb7DgY"
     },
@@ -349,8 +349,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a scar that somehow gives you a distinct roguish charm. When this scar is visible you have a +1 bonus to Charisma (Deception) checks. If you collect multiple Roguish Scars, this bonus does not stack. </p>",
-      "name": "Ladina Cicatriz",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz que lhe dá um charme distintamente ladino. Enquanto a cicatriz estiver visível, você tem +1 em Charisma (Deception) checks. Se tiver várias Cicatrizes Ladinas, o bônus não se acumula.</p>",
+      "name": "Cicatriz Ladina",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.dBsarJyCkvoy5aGE",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.aaPvPvxOoiI8V8XY"
     },
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> O ataque is over, but it's left something left behind. An arrowhead, a chip from the creature's tooth, or the broken point of a sword, perhaps. Whatever it is, you can still feel it cutting dentro de you. Any time you use an action, Bonus Action, and movimento on the same turn you are &Reference[incapacitated]{incapacitated} until the end of your next turn. </p>  <p>  <em> Tratamento </em>  - A  DC  19 Cirurgia Geral removes the foreign body and ends this effect. </p>",
-      "name": "Foreign Body",
+      "description": "<p>O ataque terminou, mas deixou algo para trás: talvez uma ponta de flecha, um fragmento do dente da criatura ou a ponta quebrada de uma espada. Seja o que for, você ainda sente isso cortando seu corpo. Sempre que usar uma Action, Bonus Action e Movement no mesmo turno, você fica <strong>&Reference[incapacitated]{incapacitated}</strong> até o final do seu próximo turno.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 19 remove o corpo estranho e encerra este efeito.</p>",
+      "name": "Corpo Estranho",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.uPrSnGc5S0eE8And",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.NXpRiIcH5yia83eZ"
     },
@@ -403,8 +403,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You look down at your stomach and a wave of cold fear washes over you. You've taken a gut wound, and it's only a matter of time until it turns septic. Você fica <strong>&Reference[poisoned]{poisoned}</strong>. Every 24 horas you gain 1 level of <strong>&Reference[exhaustion]{exhaustion}</strong>. This level of <strong>exhaustion</strong> may not be removed by não mágico means.</p><p><em>Tratamento</em> - A DC 21 Cirurgia Geral. Any effect that cures disease will remove 1 level of <strong>exhaustion</strong>. A Lesser Restoration spell temporarily removes the <strong>poisoned</strong> condition for 24 horas. A Greater Restoration spell removes <strong>exhaustion</strong> levels as usual, but does not stop the infection.</p>",
-      "name": "Perfurado Intestino",
+      "description": "<p>Você olha para o estômago e uma onda de medo frio toma conta. Você sofreu uma ferida intestinal, e é apenas questão de tempo até que ela se torne séptica. Você fica <strong>&Reference[poisoned]{poisoned}</strong>. A cada 24 horas, ganha 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong>. Este nível de <strong>exhaustion</strong> não pode ser removido por meios não mágicos.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 21. Qualquer efeito que cure doenças remove 1 nível de <strong>exhaustion</strong>. Uma Spell Lesser Restoration remove temporariamente a Condition <strong>poisoned</strong> por 24 horas. Uma Spell Greater Restoration remove níveis de <strong>exhaustion</strong> normalmente, mas não interrompe a infecção.</p>",
+      "name": "Intestino Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.Bmiptv20mT1pqEC2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pL5kCJKlhlFXTokB"
     },
@@ -430,8 +430,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You've taken grievous Dano directly to your left eye. Your eye is  <strong> sem funcionamento </strong> . Se não for tratado dentro de 8 horas, your vision will be beyond saving (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
-      "name": "Gouged Left Olho",
+      "description": "<p>Você sofreu Dano grave diretamente no olho esquerdo. Seu olho fica <strong>sem funcionamento</strong>. Se não for tratado em 8 horas, sua visão não poderá ser salva e será considerada <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
+      "name": "Olho Esquerdo Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.904sfKRT6BHhuZU1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0qbw96Oz0hZ5eQ0k"
     }
