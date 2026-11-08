@@ -53,7 +53,7 @@
       },
       "text": {
         "format": 1,
-        "content": "<h1>Language: Gestural</h1>\n<p>Gestural is a silent language conveyed with hand gestures, body language, and facial expressions. It is used as a form of communication for creatures of all races who are deaf, mute, or simply find it easier to communicate without the use of sound. While different races may have different dialects, as long as both characters are proficient in Gestural they are able to understand and converse with each other.</p>"
+        "content": "<h1>Linguagem: Gestual</h1><p>A Linguagem Gestual é uma linguagem silenciosa transmitida por gestos das mãos, linguagem corporal e expressões faciais. Ela não possui forma escrita e pode ser compreendida por criaturas que conheçam essa linguagem e consigam ver o comunicador.</p>"
       },
       "_stats": {
         "coreVersion": "13.342",
