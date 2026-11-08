@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The savage slash has cloven seu apêndice from you, flinging it into the distance. It lands 15 pés away in a aleatório direction and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. O corte brutal decepou seu apêndice e o lançou para longe. Ele cai a 15 feet, em uma direção aleatória, e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia de Membro DC 22.</p>",
       "chat": ""
     },
     "source": {

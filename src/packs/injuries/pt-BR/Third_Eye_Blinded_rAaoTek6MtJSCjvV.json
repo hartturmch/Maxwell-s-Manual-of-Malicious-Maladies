@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>  </strong>  </p>  <p> Something vital, yet intangible dentro de you falls deathly silent. Você sente...disconnected. You lose the ability to communicate telepathically. All magical communication that specifically targets you fails (such as the Message, Sending, and Telepathic Bond spells). Your mind cannot be read or detected. </p>",
+      "value": "<p>Algo vital, porém intangível, dentro de você fica mortalmente silencioso. Você sente-se desconectado. Perde a capacidade de se comunicar telepaticamente. Toda comunicação mágica que o tenha como alvo específico falha, como as magias Message, Sending e Telepathic Bond. Sua mente não pode ser lida nem detectada.</p>",
       "chat": ""
     },
     "source": {

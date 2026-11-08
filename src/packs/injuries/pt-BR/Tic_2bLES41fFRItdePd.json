@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p> The Psíquico assault has left you with a small vocal or motor tic; a brief compulsive behavior you find difficult or impossible to suppress. The DM may choose a specific tic or roll to determine the tic aleatoriamente ( [[1d6]] ): 1) Eye twitching, 2) Finger clicking, 3) Touching other people or things, 4) Grunting, 5) Repeating a sound or phrase, 6) Grimacing. </p>",
+      "value": "<p>O ataque Psíquico deixou você com um pequeno tique vocal ou motor: um comportamento compulsivo breve que é difícil ou impossível de suprimir. O DM pode escolher um tique específico ou rolar para determiná-lo aleatoriamente ([[1d6]]): 1) Contração do olho, 2) Estalar os dedos, 3) Tocar outras pessoas ou objetos, 4) Grunhir, 5) Repetir um som ou frase, 6) Fazer careta.</p>",
       "chat": ""
     },
     "source": {

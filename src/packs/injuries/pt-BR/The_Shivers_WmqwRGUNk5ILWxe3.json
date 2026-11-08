@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Você fica so Frio your hands are shaking uncontrollably and your voice quavers as you speak. The next three spells you cast have a 50% chance to fail. This effect ends depois de three spells are attempted. </p>",
+      "value": "<p>Você sente tanto Frio que suas mãos tremem sem controle e sua voz vacila enquanto fala. As próximas três magias que você conjurar têm 50% de chance de falhar. Este efeito termina depois que três magias forem tentadas.</p>",
       "chat": ""
     },
     "source": {
