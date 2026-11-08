@@ -1,11 +1,11 @@
 {
   "_id": "fEwQPOzKcjEadDda",
-  "name": "Dissolvido Arcane Medium",
+  "name": "Meio Arcano Dissolvido",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Your arcane focus or spell component pouch is dissolved and destroyed. If your arcane focus is magical, it instead has its magical effects suppressed for  [[1d4]]  days and is unusable during that time. </p>",
+      "value": "<p>Seu foco arcano ou bolsa de componentes de Spell é dissolvido e destruído. Se o foco arcano for mágico, seus efeitos mágicos ficam suprimidos por [[1d4]] dias e ele fica inutilizável durante esse período.</p>",
       "chat": ""
     },
     "source": {

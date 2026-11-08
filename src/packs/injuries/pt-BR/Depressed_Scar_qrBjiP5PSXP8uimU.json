@@ -1,11 +1,11 @@
 {
   "_id": "qrBjiP5PSXP8uimU",
-  "name": "Rebaixada Cicatriz",
+  "name": "Cicatriz Rebaixada",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with an indented, depressed scar on this area of your body. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz deprimida e afundada nessa área do corpo.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "qVw4H5fWBjKOuPb1",
-      "name": "Rebaixada Cicatriz",
+      "name": "Cicatriz Rebaixada",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

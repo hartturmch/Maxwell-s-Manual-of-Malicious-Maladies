@@ -1,11 +1,11 @@
 {
   "_id": "2WbWzUxWznvk6JbL",
-  "name": "Destructive Aterramento",
+  "name": "Aterramento Destrutivo",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The electricity has violently exited your body at this point, charring it to the point of being  <strong> sem funcionamento </strong> . If not treated within 24 hours, the appendage will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Limb Cirurgia. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. A eletricidade saiu violentamente do seu corpo neste ponto, carbonizando-o até ficar <strong>sem funcionamento</strong>. Se não for tratado em 24 horas, o apêndice necrosará e cairá em [[1d4]] dias (depois disso ficará <strong>ausente</strong>).</p><p><em>Tratamento</em> - Um DC 21 Saving Throw de Limb Surgery. </p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "KhPoiCOAXk2sfvyX",
-      "name": "Destructive Aterramento",
+      "name": "Aterramento Destrutivo",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

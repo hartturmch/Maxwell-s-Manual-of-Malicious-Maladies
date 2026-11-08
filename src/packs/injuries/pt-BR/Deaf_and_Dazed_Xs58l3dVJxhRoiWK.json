@@ -1,11 +1,11 @@
 {
   "_id": "Xs58l3dVJxhRoiWK",
-  "name": "Deaf and Dazed",
+  "name": "Surdo e Atordoado",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> You are bowled over by the percussive assault and the only thing you hear is an atonal ringing. You are knocked &Reference[prone]{prone} and  <strong> &Reference[deafened]{deafened} </strong>  for  [[1d6]]  hours. </p>",
+      "value": "<p>O impacto percussivo derruba você, e a única coisa que ouve é um zumbido atonal. Você fica caído (&Reference[prone]{prone}) e <strong>&Reference[deafened]{deafened}</strong> por [[1d6]] horas.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "yGSS64xjQOCx2VDc",
-      "name": "Deaf and Dazed",
+      "name": "Surdo e Atordoado",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

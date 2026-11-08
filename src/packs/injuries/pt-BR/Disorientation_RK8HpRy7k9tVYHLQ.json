@@ -1,11 +1,11 @@
 {
   "_id": "RK8HpRy7k9tVYHLQ",
-  "name": "Disorientation",
+  "name": "Desorientação",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> The Força of the blast has left you reeling. You are  <strong> &Reference[stunned]{stunned} </strong>  until the end of your next turn. </p>",
+      "value": "<p>A Força da explosão deixa você cambaleante. Você fica <strong>&Reference[stunned]{stunned}</strong> até o final do seu próximo turno.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "M3mEdR9d4NY8eqbh",
-      "name": "Disorientation",
+      "name": "Desorientação",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

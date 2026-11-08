@@ -1,11 +1,11 @@
 {
   "_id": "pIhpZqWVD3qPb6xd",
-  "name": "Dislocated Shoulder",
+  "name": "Ombro Deslocado",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Roll to randomly determine the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is  <strong> sem funcionamento </strong> . </p>  <p>  <em> Tratamento </em>  - While on initiative, make a  [[/check con 18]]  check as a bonus action to Força the joint into place and end this injury. Off initiative, a  [[/skill medicine 18]]  check will end this injury. </p>",
+      "value": "<p>Role para determinar aleatoriamente o braço esquerdo ou direito. A intensidade do golpe forçou a articulação do seu ombro para fora do encaixe. Este braço fica <strong>sem funcionamento</strong>.</p><p><em>Tratamento</em> - Enquanto estiver em iniciativa, faça um [[/check con 18]] check como Bonus Action para recolocar a articulação e encerrar esta lesão. Fora de iniciativa, um [[/skill medicine 18]] check encerra esta lesão.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "EAPndEFM0OhNn3pZ",
-      "name": "Dislocated Shoulder",
+      "name": "Ombro Deslocado",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

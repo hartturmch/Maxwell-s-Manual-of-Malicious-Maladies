@@ -1,11 +1,11 @@
 {
   "_id": "M4b2nqm2LIfXaaPi",
-  "name": "Profunda Infecção",
+  "name": "Infecção Profunda",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>The superficial wound closes easily, but the attack has left an insidious contamination deep inside. At the end of every long rest, roll your class's hit die and reduce your max hit points by this amount. If this effect reduces your hit points to 0, you fall <strong>&Reference[unconscious]{unconscious}</strong> and will die in [[1d6]] days.</p><p><em>Treatment</em> - Once per day you may attempt a [[/save con 22]] saving throw or a [[/skill medicine 17]] check. A success on either cures the infection. The Greater Restoration spell restores the max hit point damage as usual, but does not cure the infection.</p>",
+      "value": "<p>A ferida superficial fecha facilmente, mas o ataque deixou uma contaminação insidiosa profundamente alojada. Ao final de cada Long Rest, role o Hit Die da sua classe e reduza seus Hit Points máximos nessa quantidade. Se este efeito reduzir seus Hit Points a 0, você fica <strong>&Reference[unconscious]{unconscious}</strong> e morrerá em [[1d6]] dias.</p><p><em>Tratamento</em> - Uma vez por dia, você pode tentar um [[/save con 22]] Saving Throw ou um [[/skill medicine 17]] check. Um sucesso em qualquer um deles cura a infecção. A magia Greater Restoration restaura o dano aos Hit Points máximos normalmente, mas não cura a infecção.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "f3X5ldnklXXRIMAk",
-      "name": "Profunda Infecção",
+      "name": "Infecção Profunda",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "lh4mNSArBDx8x2BO",
-  "name": "Profunda Perforation",
+  "name": "Perfuração Profunda",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> You bite back a snarl as the attack penetrates just a little bit deeper. You take one extra Dano die of whatever type the Dano was dealt with. </p>",
+      "value": "<p>Você contém um grunhido quando o ataque penetra um pouco mais profundamente. Você sofre um dado de Dano extra do mesmo tipo do Dano causado.</p>",
       "chat": ""
     },
     "source": {
