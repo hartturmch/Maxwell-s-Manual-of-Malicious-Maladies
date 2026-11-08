@@ -22,3 +22,19 @@
         margin: 0.125rem 0;
     }
 }
+
+// Termos coloridos conforme o glossário de tradução (a cor vem do style inline do <span>).
+// Links, referências e rolagens internas herdam a cor do termo para que ela apareça no Foundry.
+.mmm-term {
+    font-weight: bold;
+
+    a,
+    a.content-link,
+    a.inline-roll,
+    .reference,
+    .reference-link,
+    .content-link,
+    .inline-roll {
+        color: inherit;
+    }
+}

@@ -1,6 +1,7 @@
 import { MODULE_ID } from "./main.js";
 import { MaxwelMaliciousMaladies } from "./maxwelMaliciousMaladies.js";
 import { getPackName } from "./settings.js";
+import { applyDurationToText, unitWords } from "./lib/durationText.js";
 
 const LOCATION_TABLES = {
     largeLimb: "Large Limb Table",
@@ -71,11 +72,9 @@ export class Injuries {
 
     static applyDurationsToText(html, injury, durations) {
         injury.effects.contents.forEach((effect, i) => {
-            const formula = effect.flags[MODULE_ID]?.duration?.formula;
-            if (!formula || !Number.isFinite(durations?.[i])) return;
-            const escaped = formula.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-            const pattern = new RegExp(`\\[\\[\\s*${escaped}\\s*\\]\\](\\s*(?:rounds?|turns?|days?|hours?|minutes?))`);
-            html = html.replace(pattern, `<strong>${durations[i]}</strong>$1`);
+            const spec = effect.flags[MODULE_ID]?.duration;
+            if (!spec?.formula || !Number.isFinite(durations?.[i])) return;
+            html = applyDurationToText(html, spec.formula, durations[i], unitWords(spec.units, (key) => game.i18n.localize(key)));
         });
         return html;
     }
