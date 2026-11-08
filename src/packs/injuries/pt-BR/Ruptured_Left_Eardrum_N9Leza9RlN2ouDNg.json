@@ -1,6 +1,6 @@
 {
   "_id": "N9Leza9RlN2ouDNg",
-  "name": "Ruptured Left Eardrum",
+  "name": "Tímpano Esquerdo Rompido",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "DCuzhu0eGpbIUszo",
-      "name": "Ruptured Left Eardrum",
+      "name": "Tímpano Esquerdo Rompido",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

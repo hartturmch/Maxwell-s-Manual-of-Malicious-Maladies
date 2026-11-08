@@ -1,6 +1,6 @@
 {
   "_id": "rgDfZBqajmNAITMC",
-  "name": "Slowed Reflexes",
+  "name": "Reflexos Lentificados",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "E2JNpVUrd8RgvSYj",
-      "name": "Slowed Reflexes",
+      "name": "Reflexos Lentificados",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

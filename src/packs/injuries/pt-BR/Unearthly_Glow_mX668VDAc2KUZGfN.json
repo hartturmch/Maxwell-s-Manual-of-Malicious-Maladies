@@ -1,6 +1,6 @@
 {
   "_id": "mX668VDAc2KUZGfN",
-  "name": "Unearthly Glow",
+  "name": "Brilho Sobrenatural",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "QRuCuV6ARRDsVRHi",
-      "name": "Unearthly Glow",
+      "name": "Brilho Sobrenatural",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

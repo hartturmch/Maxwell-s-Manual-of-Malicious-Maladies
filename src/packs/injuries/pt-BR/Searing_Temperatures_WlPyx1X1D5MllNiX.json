@@ -1,11 +1,11 @@
 {
   "_id": "WlPyx1X1D5MllNiX",
-  "name": "Escaldantes Temperatures",
+  "name": "Temperaturas Escaldantes",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>The temperature around you skyrockets, flash-heating everything nearby. Any flammable objects being worn or wielded are ignited. You drop anything metal you are carrying in sudden shock.</p><p><em>Treatment</em> - You may extinguish any worn or wielded items that were ignited with a bonus action. If you attempt to pick up any dropped items, make a Constitution saving throw (DC equals half the damage that caused the lingering injury or 10, whichever number is higher) to brave the heat and retrieve them.</p>",
+      "value": "<p>Seu corpo está perigosamente quente. Você sofre desvantagem em Ability Checks e Saving Throws feitos para resistir aos efeitos ambientais de calor.</p><p><em>Tratamento</em> - Um Long Rest em ambiente fresco encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

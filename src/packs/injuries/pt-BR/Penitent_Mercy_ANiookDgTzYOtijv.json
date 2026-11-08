@@ -1,6 +1,6 @@
 {
   "_id": "ANiookDgTzYOtijv",
-  "name": "Penitent Mercy",
+  "name": "Misericórdia Penitente",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "Q8wBgO5qnqTSysfH",
-      "name": "Penitent Mercy",
+      "name": "Misericórdia Penitente",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

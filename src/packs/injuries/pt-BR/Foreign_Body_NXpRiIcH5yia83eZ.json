@@ -1,6 +1,6 @@
 {
   "_id": "NXpRiIcH5yia83eZ",
-  "name": "Foreign Body",
+  "name": "Corpo Estranho",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "rnEg2wIzssaeG6Ux",
-      "name": "Foreign Body",
+      "name": "Corpo Estranho",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

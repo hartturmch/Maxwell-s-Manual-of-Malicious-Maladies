@@ -1,6 +1,6 @@
 {
   "_id": "v6dk6Dqn5P6Rd1We",
-  "name": "Terrified",
+  "name": "Aterrorizado",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "dBFw8XPFXTUVGMT2",
-      "name": "Terrified",
+      "name": "Aterrorizado",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

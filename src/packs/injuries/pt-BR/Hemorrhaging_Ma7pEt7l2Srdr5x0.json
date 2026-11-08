@@ -1,6 +1,6 @@
 {
   "_id": "Ma7pEt7l2Srdr5x0",
-  "name": "Hemorrhaging",
+  "name": "Hemorragia",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "2G8SisRoDKHBZVbY",
-      "name": "Hemorrhaging",
+      "name": "Hemorragia",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "i7VC1FIxuVSPkPUS",
-  "name": "Mitotic Rejection",
+  "name": "Rejeição Mitótica",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "POOyV5wozsBFvhRA",
-      "name": "Mitotic Rejection",
+      "name": "Rejeição Mitótica",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

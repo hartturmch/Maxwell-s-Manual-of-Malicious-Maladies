@@ -1,11 +1,11 @@
 {
   "_id": "Ek9w6MKsFiA0ztDh",
-  "name": "Forçada Epifania",
+  "name": "Epifania Forçada",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>As the energy of the attack passes, you have a revelation clawing at the edge of your brain, you're sure of it. You have [[1d6]] days to withdraw from activity and spend 24 hours alone in silent, individual contemplation about your god, belief set, or yourself. After this, you come to an enlightening realization. If you do not do this within the time limit, the nagging urge builds to distracting levels and you have disadvantage to all attack rolls, ability checks, and saving throws until you do.</p>",
+      "value": "<p>Quando a energia do ataque passa, você tem uma revelação que parece tentar sair das bordas do seu cérebro. Você tem [[1d6]] dias para se afastar das atividades e passar 24 horas sozinho, em contemplação silenciosa e individual sobre seu deus, seu conjunto de crenças ou sobre si mesmo. Depois disso, você alcança uma realização esclarecedora. Se não fizer isso dentro do prazo, o desejo insistente cresce até se tornar uma distração, e você tem desvantagem em todas as attack rolls, Ability Checks e Saving Throws até cumprir a exigência.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "KNnzQa43R81948fD",
-      "name": "Forçada Epifania",
+      "name": "Epifania Forçada",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

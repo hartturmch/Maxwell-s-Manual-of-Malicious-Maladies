@@ -1,5 +1,5 @@
 {
-  "name": "Working Animal",
+  "name": "Animal de Trabalho",
   "type": "equipment",
   "img": "icons/creatures/mammals/dog-husky-white-blue.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Any animal with an Intelligence of 3 or greater is capable of being a working animal. These rigorously trained animals are taught from birth to be highly attentive to their master and their surroundings. Whenever you would make a Wisdom (Perception) check you may have your working animal make the Wisdom (Perception) check instead. Your working animal can use body language to communicate non-specific information based on the result of the check, such as \"everything is fine\", \"be cautious\", or \"danger ahead\".</p>",
+      "value": "<p>Este animal foi treinado para auxiliar em tarefas de transporte e trabalho. Ele obedece aos comandos de seu cuidador e pode carregar equipamentos adequados ao seu porte.</p>",
       "chat": ""
     },
     "source": {

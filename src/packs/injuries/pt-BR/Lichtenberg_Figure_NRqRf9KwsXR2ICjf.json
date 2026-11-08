@@ -1,6 +1,6 @@
 {
   "_id": "NRqRf9KwsXR2ICjf",
-  "name": "Lichtenberg Figure",
+  "name": "Figura de Lichtenberg",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "NJbmbv6mB3X0VkMs",
-      "name": "Lichtenberg Figure",
+      "name": "Figura de Lichtenberg",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

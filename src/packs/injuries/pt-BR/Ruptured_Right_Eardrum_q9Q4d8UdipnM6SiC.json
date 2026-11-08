@@ -1,6 +1,6 @@
 {
   "_id": "q9Q4d8UdipnM6SiC",
-  "name": "Ruptured Right Eardrum",
+  "name": "Tímpano Direito Rompido",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "mamBXF1KklV9s6vJ",
-      "name": "Ruptured Right Eardrum",
+      "name": "Tímpano Direito Rompido",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

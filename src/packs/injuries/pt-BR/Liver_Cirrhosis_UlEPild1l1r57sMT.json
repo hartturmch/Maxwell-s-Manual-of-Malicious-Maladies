@@ -1,6 +1,6 @@
 {
   "_id": "UlEPild1l1r57sMT",
-  "name": "Liver Cirrhosis",
+  "name": "Cirrose Hepática",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "q2pG6qQMm5bsqnlv",
-      "name": "Liver Cirrhosis",
+      "name": "Cirrose Hepática",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

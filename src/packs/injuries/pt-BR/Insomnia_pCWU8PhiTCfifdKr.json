@@ -1,6 +1,6 @@
 {
   "_id": "pCWU8PhiTCfifdKr",
-  "name": "Insomnia",
+  "name": "Insônia",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "5BZ2XzW2PtfBuvI0",
-      "name": "Insomnia",
+      "name": "Insônia",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

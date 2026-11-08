@@ -1,6 +1,6 @@
 {
   "_id": "qdOoqVjFN22DcFsu",
-  "name": "Ringing Ears",
+  "name": "Zumbido nos Ouvidos",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "ev71jshGP4bvkO5q",
-      "name": "Ringing Ears",
+      "name": "Zumbido nos Ouvidos",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

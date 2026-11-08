@@ -1,11 +1,11 @@
 {
   "_id": "jqnFjcIYlWVUvCgP",
-  "name": "Virulento Veneno",
+  "name": "Veneno Virulento",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>You can physically feel the poison eating away at you from the inside, and the adrenaline pumping through you is only helping to force it throughout your body. At the beginning of your turn you take poison damage scaled to the damage that caused the lingering injury: 1-10 damage ([[1d2]]), 11-20 damage ([[1d4]]), 21-30 damage ([[1d6]]), 31-40 damage ([[1d8]]), &gt;40 damage ([[1d10]]). This effect continues until you are off initiative.</p><p><em>Treatment</em> - Any spell or effect that cures the <strong>&Reference[poisoned]{poisoned}</strong> condition will end this effect.</p>",
+      "value": "<p>O veneno se espalha rapidamente pelo seu corpo. Você fica <strong>&Reference[poisoned]{poisoned}</strong> e sofre [[1d6]] de Poison Damage ao final de cada turno.</p><p><em>Tratamento</em> - Um DC 18 Saving Throw ou uma dose de antitoxina encerra esta lesão.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "q1M1Ph3qkIU7brVB",
-      "name": "Virulento Veneno",
+      "name": "Veneno Virulento",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

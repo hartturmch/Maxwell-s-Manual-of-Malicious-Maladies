@@ -1,6 +1,6 @@
 {
   "_id": "AlfbHdQyTdD3T8k2",
-  "name": "Ruptured Eardrums",
+  "name": "Tímpanos Rompidos",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "uOH1HlouAndtz604",
-      "name": "Ruptured Eardrums",
+      "name": "Tímpanos Rompidos",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

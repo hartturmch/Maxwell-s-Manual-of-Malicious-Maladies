@@ -1,6 +1,6 @@
 {
   "_id": "Y7YkgDFReYAT7CZC",
-  "name": "Inefficient Metabolism",
+  "name": "Metabolismo Ineficiente",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "q4KZeNPt56AIutU0",
-      "name": "Inefficient Metabolism",
+      "name": "Metabolismo Ineficiente",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "rzg5uTI2aZ83kitr",
-  "name": "The Stench of Decay",
+  "name": "O Fedor da Decomposição",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "u3wXiCIggSCL8jPW",
-      "name": "The Stench of Decay",
+      "name": "O Fedor da Decomposição",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

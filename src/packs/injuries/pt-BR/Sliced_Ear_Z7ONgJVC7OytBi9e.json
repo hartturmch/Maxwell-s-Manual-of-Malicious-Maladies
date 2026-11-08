@@ -1,6 +1,6 @@
 {
   "_id": "Z7ONgJVC7OytBi9e",
-  "name": "Sliced Ear",
+  "name": "Orelha Cortada",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "2vie2ZQl7ZE9xbIb",
-      "name": "Sliced Ear",
+      "name": "Orelha Cortada",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "TKSWxIOc3q1j3QKW",
-  "name": "Muscle Spasms",
+  "name": "Espasmos Musculares",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "Fkr6g3qs5t3ZUZXs",
-      "name": "Muscle Spasms",
+      "name": "Espasmos Musculares",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

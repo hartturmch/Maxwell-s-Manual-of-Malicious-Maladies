@@ -1,6 +1,6 @@
 {
   "_id": "SEeyX0wZ8DrrYk7O",
-  "name": "The Umbles",
+  "name": "Os Umbles",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "6Ha4smsHFC5te0c8",
-      "name": "The Umbles",
+      "name": "Os Umbles",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

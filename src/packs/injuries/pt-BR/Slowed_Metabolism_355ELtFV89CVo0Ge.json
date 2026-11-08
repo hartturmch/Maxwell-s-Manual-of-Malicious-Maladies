@@ -1,6 +1,6 @@
 {
   "_id": "355ELtFV89CVo0Ge",
-  "name": "Slowed Metabolism",
+  "name": "Metabolismo Lentificado",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "fB6JzfIYnWPypDsO",
-      "name": "Slowed Metabolism",
+      "name": "Metabolismo Lentificado",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

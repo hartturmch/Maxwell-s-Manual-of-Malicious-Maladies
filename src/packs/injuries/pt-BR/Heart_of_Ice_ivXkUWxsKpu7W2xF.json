@@ -1,6 +1,6 @@
 {
   "_id": "ivXkUWxsKpu7W2xF",
-  "name": "Heart of Ice",
+  "name": "Coração de Gelo",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "esrp4sGV7RD9oHsH",
-      "name": "Heart of Ice",
+      "name": "Coração de Gelo",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

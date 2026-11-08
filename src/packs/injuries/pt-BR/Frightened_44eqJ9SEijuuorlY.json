@@ -1,6 +1,6 @@
 {
   "_id": "44eqJ9SEijuuorlY",
-  "name": "Frightened",
+  "name": "Amedrontado",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "czhmiKl3621aiUsJ",
-      "name": "Frightened",
+      "name": "Amedrontado",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

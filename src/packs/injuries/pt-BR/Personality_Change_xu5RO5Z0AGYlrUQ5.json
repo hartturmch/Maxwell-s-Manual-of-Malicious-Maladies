@@ -1,6 +1,6 @@
 {
   "_id": "xu5RO5Z0AGYlrUQ5",
-  "name": "Personality Change",
+  "name": "Mudança de Personalidade",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "L8159X1TDmhtl6Sg",
-      "name": "Personality Change",
+      "name": "Mudança de Personalidade",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

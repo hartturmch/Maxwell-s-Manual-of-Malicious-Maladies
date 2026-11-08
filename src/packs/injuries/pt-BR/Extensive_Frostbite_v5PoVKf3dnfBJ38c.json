@@ -1,6 +1,6 @@
 {
   "_id": "v5PoVKf3dnfBJ38c",
-  "name": "Extensive Frostbite",
+  "name": "Congelamento Extenso",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "xYdWjSzst1oL6JI1",
-      "name": "Extensive Frostbite",
+      "name": "Congelamento Extenso",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

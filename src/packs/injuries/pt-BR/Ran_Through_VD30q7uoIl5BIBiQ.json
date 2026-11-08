@@ -1,6 +1,6 @@
 {
   "_id": "VD30q7uoIl5BIBiQ",
-  "name": "Ran Through",
+  "name": "Atravessado",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "Cnbyqb2DdRDFmHo9",
-      "name": "Ran Through",
+      "name": "Atravessado",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

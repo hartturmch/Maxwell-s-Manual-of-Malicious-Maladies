@@ -1,6 +1,6 @@
 {
   "_id": "LoYpvUMKZCrUSAqg",
-  "name": "True Electrocution",
+  "name": "Eletrocussão Verdadeira",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "rzZ29qwA9JqqlOGm",
-      "name": "True Electrocution",
+      "name": "Eletrocussão Verdadeira",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

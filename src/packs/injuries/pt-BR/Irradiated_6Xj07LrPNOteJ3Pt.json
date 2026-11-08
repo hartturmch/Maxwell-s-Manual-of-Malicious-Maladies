@@ -1,6 +1,6 @@
 {
   "_id": "6Xj07LrPNOteJ3Pt",
-  "name": "Irradiated",
+  "name": "Irradiado",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "lVLNk0NK8DIaav0x",
-      "name": "Irradiated",
+      "name": "Irradiado",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

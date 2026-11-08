@@ -1,6 +1,6 @@
 {
   "_id": "WmqwRGUNk5ILWxe3",
-  "name": "The Shivers",
+  "name": "Os Tremores",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "vXu0zBPuEutrQUb4",
-      "name": "The Shivers",
+      "name": "Os Tremores",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

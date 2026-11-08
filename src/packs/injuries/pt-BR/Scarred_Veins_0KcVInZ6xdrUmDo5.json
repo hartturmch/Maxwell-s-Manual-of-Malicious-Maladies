@@ -1,6 +1,6 @@
 {
   "_id": "0KcVInZ6xdrUmDo5",
-  "name": "Scarred Veins",
+  "name": "Veias Cicatrizadas",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "iWn5WCbIU7VekOnW",
-      "name": "Scarred Veins",
+      "name": "Veias Cicatrizadas",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

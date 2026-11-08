@@ -1,6 +1,6 @@
 {
   "_id": "yfY1oVRL1hLzJbCL",
-  "name": "Persistent Migraine",
+  "name": "Enxaqueca Persistente",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "R5Jx7HcFO6DkUCN6",
-      "name": "Persistent Migraine",
+      "name": "Enxaqueca Persistente",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

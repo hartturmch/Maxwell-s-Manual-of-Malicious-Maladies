@@ -1,6 +1,6 @@
 {
   "_id": "Jh5GQtGEJ82iKXlf",
-  "name": "Ototoxicity",
+  "name": "Ototoxicidade",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "R2vZWUoVzwpraLc5",
-      "name": "Ototoxicity",
+      "name": "Ototoxicidade",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

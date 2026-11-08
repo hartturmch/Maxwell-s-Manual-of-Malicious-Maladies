@@ -1,6 +1,6 @@
 {
   "_id": "FulHxPsnRF8SRaEF",
-  "name": "Sunburn",
+  "name": "Queimadura Solar",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "I7rjOKFooip57f1M",
-      "name": "Sunburn",
+      "name": "Queimadura Solar",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

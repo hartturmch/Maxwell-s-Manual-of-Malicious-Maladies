@@ -1,11 +1,11 @@
 {
   "_id": "eo0LfZSYSd2oVoXH",
-  "name": "Temporária Aphasia",
+  "name": "Afasia Temporária",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Your attempts to be understood are met with nothing but narrowed eyes and confused looks. You lose proficiency with all languages except common, which you can understand, but not speak. You cannot read or write. Any attempt to speak a language results in a garbled string of seemingly random words. This effect lasts [[1d4]] days.</p><p><em>Treatment</em> - Any spell that allows the caster to comprehend the literal or implied meaning of communication will function as normal.</p>",
+      "value": "<p>Você não consegue formar palavras coerentes. Você entende o que ouve, mas só consegue se comunicar por gestos e sons sem sentido. Este efeito dura [[1d6]] horas.</p><p><em>Tratamento</em> - Um Long Rest encerra esta lesão.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "6QNj8LidDmk0Bdqz",
-      "name": "Temporária Aphasia",
+      "name": "Afasia Temporária",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

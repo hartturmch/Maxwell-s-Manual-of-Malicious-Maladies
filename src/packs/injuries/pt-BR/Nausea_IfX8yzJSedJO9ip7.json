@@ -1,6 +1,6 @@
 {
   "_id": "IfX8yzJSedJO9ip7",
-  "name": "Nausea",
+  "name": "Náusea",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "XT8DmYs08VQKwAHb",
-      "name": "Nausea",
+      "name": "Náusea",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

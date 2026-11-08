@@ -1,6 +1,6 @@
 {
   "_id": "c6fr5xJn7uYmpTbt",
-  "name": "Severe Hypothermia",
+  "name": "Hipotermia Grave",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "HxVdftiZ1ecfFVHY",
-      "name": "Severe Hypothermia",
+      "name": "Hipotermia Grave",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

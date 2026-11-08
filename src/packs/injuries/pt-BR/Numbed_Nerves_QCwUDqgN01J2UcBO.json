@@ -1,6 +1,6 @@
 {
   "_id": "QCwUDqgN01J2UcBO",
-  "name": "Numbed Nerves",
+  "name": "Nervos Adormecidos",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "K9M2PeCFzGhapl66",
-      "name": "Numbed Nerves",
+      "name": "Nervos Adormecidos",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "fXEEOJ4PMiBOBqUZ",
-  "name": "Frozen Cornea",
+  "name": "Córnea Congelada",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "k1b9tz1y0N9Pa9yu",
-      "name": "Frozen Cornea",
+      "name": "Córnea Congelada",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

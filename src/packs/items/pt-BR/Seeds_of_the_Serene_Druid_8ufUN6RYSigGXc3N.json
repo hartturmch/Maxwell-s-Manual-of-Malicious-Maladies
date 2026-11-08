@@ -1,11 +1,11 @@
 {
-  "name": "Seeds of the Serene Druid",
+  "name": "Sementes do Druida Sereno",
   "type": "equipment",
   "img": "icons/consumables/plants/sprout-seed-yellow-green.webp",
   "effects": [
     {
       "_id": "mmmSeedsDeafened",
-      "name": "Seeds of the Serene Druid",
+      "name": "Sementes do Druida Sereno",
       "img": "icons/consumables/plants/sprout-seed-yellow-green.webp",
       "type": "base",
       "system": {

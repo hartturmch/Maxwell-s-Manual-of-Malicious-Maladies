@@ -1,6 +1,6 @@
 {
   "_id": "BfnnnJnbXl6876v6",
-  "name": "Splitting Headache",
+  "name": "Dor de Cabeça Lancinante",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "RIY22iEJp1W75obM",
-      "name": "Splitting Headache",
+      "name": "Dor de Cabeça Lancinante",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

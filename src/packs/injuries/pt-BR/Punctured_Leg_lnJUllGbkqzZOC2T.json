@@ -1,6 +1,6 @@
 {
   "_id": "lnJUllGbkqzZOC2T",
-  "name": "Punctured Leg",
+  "name": "Perna Perfurada",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "TBReIWi1151b6UAF",
-      "name": "Punctured Leg",
+      "name": "Perna Perfurada",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

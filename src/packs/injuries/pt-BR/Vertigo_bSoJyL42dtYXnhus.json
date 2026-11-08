@@ -1,6 +1,6 @@
 {
   "_id": "bSoJyL42dtYXnhus",
-  "name": "Vertigo",
+  "name": "Vertigem",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "uBXWIIHwCBqsUPmN",
-      "name": "Vertigo",
+      "name": "Vertigem",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "1cV2EP1JyjpXSGro",
-  "name": "Residual Pigmentation",
+  "name": "Pigmentação Residual",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "bRRXMuIivLrCgv3F",
-      "name": "Residual Pigmentation",
+      "name": "Pigmentação Residual",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

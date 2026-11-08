@@ -1,6 +1,6 @@
 {
   "_id": "iHMtpZsTEJogJdXu",
-  "name": "Frozen in Place",
+  "name": "Congelado no Lugar",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "04DbeKK5S2XGRaUn",
-      "name": "Frozen in Place",
+      "name": "Congelado no Lugar",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

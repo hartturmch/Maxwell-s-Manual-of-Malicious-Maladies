@@ -1,6 +1,6 @@
 {
   "_id": "pelqSHjxykmnoJNG",
-  "name": "Electrocution",
+  "name": "Eletrocussão",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "t5RNstHIEuQacvCC",
-      "name": "Electrocution",
+      "name": "Eletrocussão",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

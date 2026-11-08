@@ -1,6 +1,6 @@
 {
   "_id": "VTnEz1P7ti8zqB3u",
-  "name": "Lost Tooth",
+  "name": "Dente Perdido",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "BZl2xsLEGbvfmwNr",
-      "name": "Lost Tooth",
+      "name": "Dente Perdido",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

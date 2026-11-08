@@ -1,6 +1,6 @@
 {
   "_id": "xxtbp9GbBhiqace6",
-  "name": "Nosebleeds",
+  "name": "Sangramento Nasal",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "4Fz3ly5SJTVGOR6X",
-      "name": "Nosebleeds",
+      "name": "Sangramento Nasal",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

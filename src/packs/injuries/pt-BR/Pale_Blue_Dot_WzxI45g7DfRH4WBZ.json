@@ -1,6 +1,6 @@
 {
   "_id": "WzxI45g7DfRH4WBZ",
-  "name": "Pale Blue Dot",
+  "name": "Ponto Azul Pálido",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "KMPRjwT6fgWbhnKI",
-      "name": "Pale Blue Dot",
+      "name": "Ponto Azul Pálido",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

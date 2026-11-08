@@ -1,11 +1,11 @@
 {
   "_id": "pL5kCJKlhlFXTokB",
-  "name": "Perfurado Intestino",
+  "name": "Intestino Perfurado",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You look down at your stomach and a wave of cold fear washes over you. You've taken a gut wound, and it's only a matter of time until it turns septic. You are <strong>&Reference[poisoned]{poisoned}</strong>. Every 24 hours you gain 1 level of <strong>&Reference[exhaustion]{exhaustion}</strong>. This level of <strong>exhaustion</strong> may not be removed by nonmagical means.</p><p><em>Treatment</em> - A DC 21 General Surgery. Any effect that cures disease will remove 1 level of <strong>exhaustion</strong>. A Lesser Restoration spell temporarily removes the <strong>poisoned</strong> condition for 24 hours. A Greater Restoration spell removes <strong>exhaustion</strong> levels as usual, but does not stop the infection.</p>",
+      "value": "<p>O ataque perfurou seu intestino, causando dor intensa e sangramento interno. Você sofre 1 nível de &Reference[exhaustion]{exhaustion} ao final de cada turno.</p><p><em>Tratamento</em> - Um DC 20 Saving Throw de General Surgery encerra esta lesão.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "zefDlAqhrHf9OHZB",
-      "name": "Perfurado Intestino",
+      "name": "Intestino Perfurado",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

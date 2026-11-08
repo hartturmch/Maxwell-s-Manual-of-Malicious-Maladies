@@ -1,6 +1,6 @@
 {
   "_id": "cQfVucRkiIr8jfxJ",
-  "name": "Ocular Corrosion",
+  "name": "Corrosão Ocular",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "ZxENEXB7KKIzuAQe",
-      "name": "Ocular Corrosion",
+      "name": "Corrosão Ocular",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

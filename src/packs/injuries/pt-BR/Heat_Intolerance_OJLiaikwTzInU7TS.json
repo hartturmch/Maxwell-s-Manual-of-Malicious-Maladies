@@ -1,6 +1,6 @@
 {
   "_id": "OJLiaikwTzInU7TS",
-  "name": "Heat Intolerance",
+  "name": "Intolerância ao Calor",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "wqd06Fb9OUH9rTDW",
-      "name": "Heat Intolerance",
+      "name": "Intolerância ao Calor",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

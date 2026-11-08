@@ -1,6 +1,6 @@
 {
   "_id": "puryOFgcAqhw2jh7",
-  "name": "Unexpected Mutagen",
+  "name": "Mutagênico Inesperado",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "cYvb8FdFssAo7D7N",
-      "name": "Unexpected Mutagen",
+      "name": "Mutagênico Inesperado",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "6zDeA1sJ8EEuT6lC",
-  "name": "Extensive Bruising",
+  "name": "Contusões Extensas",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "erovdNsLrdLY00rE",
-      "name": "Extensive Bruising",
+      "name": "Contusões Extensas",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

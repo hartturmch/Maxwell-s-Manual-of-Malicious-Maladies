@@ -1,6 +1,6 @@
 {
   "_id": "KP5l2GWmommEsNFo",
-  "name": "Hypothermia",
+  "name": "Hipotermia",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "lyyvlAnMdryeZfT2",
-      "name": "Hypothermia",
+      "name": "Hipotermia",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

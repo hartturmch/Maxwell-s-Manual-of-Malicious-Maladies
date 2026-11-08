@@ -1,6 +1,6 @@
 {
   "_id": "FY5fuwuHmYXwkIpF",
-  "name": "Insidious Compulsion",
+  "name": "Compulsão Insidiosa",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "aVkFvWriUmQ0uxPl",
-      "name": "Insidious Compulsion",
+      "name": "Compulsão Insidiosa",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

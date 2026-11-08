@@ -1,6 +1,6 @@
 {
   "_id": "TdmwWKMIbILcrMyE",
-  "name": "Muscle Avulsion",
+  "name": "Avulsão Muscular",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "ArBmcNctH8YibjAp",
-      "name": "Muscle Avulsion",
+      "name": "Avulsão Muscular",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

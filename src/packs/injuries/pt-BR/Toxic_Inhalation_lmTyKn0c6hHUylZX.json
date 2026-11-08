@@ -1,6 +1,6 @@
 {
   "_id": "lmTyKn0c6hHUylZX",
-  "name": "Toxic Inhalation",
+  "name": "Inalação Tóxica",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "GGVmQkl1T9CKqMaH",
-      "name": "Toxic Inhalation",
+      "name": "Inalação Tóxica",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

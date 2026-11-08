@@ -1,6 +1,6 @@
 {
   "_id": "oUmEbf4G1zykuMiU",
-  "name": "Heart Palpitations",
+  "name": "Palpitações Cardíacas",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "fnbKJ5VDezgJlHXt",
-      "name": "Heart Palpitations",
+      "name": "Palpitações Cardíacas",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

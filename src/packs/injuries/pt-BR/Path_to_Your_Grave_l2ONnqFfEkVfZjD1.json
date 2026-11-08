@@ -1,6 +1,6 @@
 {
   "_id": "l2ONnqFfEkVfZjD1",
-  "name": "Path to Your Grave",
+  "name": "Caminho para sua Sepultura",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "Sf85lFgNDPeg5ruL",
-      "name": "Path to Your Grave",
+      "name": "Caminho para sua Sepultura",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

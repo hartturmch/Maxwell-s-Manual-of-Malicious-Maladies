@@ -1,6 +1,6 @@
 {
   "_id": "9T9VFivK7dzTehXC",
-  "name": "Ignited",
+  "name": "Incendiado",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "C6Obge9OnVp2GWEv",
-      "name": "Ignited",
+      "name": "Incendiado",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

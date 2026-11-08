@@ -1,5 +1,5 @@
 {
-  "name": "The Tremblestick",
+  "name": "Bastão Tremeluzente",
   "type": "equipment",
   "img": "icons/weapons/staves/staff-forked-wood.webp",
   "effects": [
@@ -27,7 +27,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "The Tremblestick ( AC )",
+      "name": "Bastão Tremeluzente",
       "img": "icons/weapons/staves/staff-forked-wood.webp",
       "type": "base",
       "system": {
