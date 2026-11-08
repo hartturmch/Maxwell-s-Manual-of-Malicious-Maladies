@@ -1,11 +1,11 @@
 {
   "_id": "trzqu8dPofAPS68G",
-  "name": "Relâmpago Rod",
+  "name": "Para-raios",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>A eletricidade estala ao redor do seu corpo por um segundo, procurando o ponto mais próximo para descarregar. Em seguida, salta de você para a criatura mais próxima que carregue armas metálicas ou use armadura metálica. Essa criatura sofre Relâmpago Dano igual à metade do Dano que causou a Lesão Persistente.</p>",
+      "value": "<p>A eletricidade crepita ao redor do seu corpo por um segundo, procurando a coisa mais próxima para se descarregar. Em seguida, a eletricidade salta de você para a criatura mais próxima que carregue armas de metal ou use armadura de metal. Essa criatura sofre Lightning damage <em>(Dano Elétrico)</em> igual à metade do dano que causou a lesão persistente.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "pVtivJ93JSXv9sP3",

@@ -1,11 +1,11 @@
 {
   "_id": "tmjBbGdxPWBqM0xW",
-  "name": "Manchada Cicatriz",
+  "name": "Cicatriz Salpicada",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você tem uma cicatriz salpicada branca prateada como resultado de respingos de ácido nessa área do seu corpo. </p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz salpicada de branco prateado, resultado de respingos de ácido nessa área do seu corpo.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Ácido Lesão Persistente"
+    "requirements": "Acid (Ácido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "vYtfFnuDxj3vc2OB",
-      "name": "Manchada Cicatriz",
+      "name": "Cicatriz Salpicada",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

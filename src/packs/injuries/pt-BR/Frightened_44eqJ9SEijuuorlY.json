@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Um súbito choque de medo intenso percorre você do couro cabeludo aos dedos dos pés. Você fica <strong>&Reference[frightened]{frightened}</strong> em relação à fonte do Dano, como se estivesse sob efeito da magia Fear, até o final do seu próximo turno.</p>",
+      "value": "<p>Um choque súbito de medo intenso atravessa você do couro cabeludo até os dedos dos pés. Você fica aterrorizado com a fonte do dano, como se estivesse sob o efeito da magia Fear <em>(Medo)</em>, até o final do seu próximo Turn <em>(Turno)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Um forte golpe na sua cabeça o deixou com tonturas, náuseas e uma dor de cabeça persistente. Toda vez que você fizer uma salvaguarda de Inteligência, Sabedoria ou Carisma, você também estará &Referência[atordoado]{atordoado} até o final do seu próximo turno. Esta condição dura  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 15]] reduz a duração desta lesão em [[1d8]]  dias. </p>",
+      "value": "<p>Um golpe violento na cabeça deixou você com tontura, náusea e uma dor de cabeça persistente. Sempre que você fizer um Saving Throw <em>(Teste de Resistência)</em> de Intelligence <em>(Inteligência)</em>, Wisdom <em>(Sabedoria)</em> ou Charisma <em>(Carisma)</em>, você também fica <strong>&Reference[stunned]{stunned}</strong> <em>(Atordoado)</em> até o final do seu próximo Turn <em>(Turno)</em>. Esta condição dura <strong>[[1d12]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d8]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Contundente Lesão Persistente"
+    "requirements": "Bludgeoning (Contundente) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

@@ -1,11 +1,11 @@
 {
   "_id": "8noSUaYtJmdkIDhK",
-  "name": "Escola Nula",
+  "name": "Null Scola",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente a magia pulsar e ressoar com o resíduo arcano que se agarra a você desde a última Spell que lançou. Há uma sensação ardente no fundo da mente. Você perde a capacidade de lançar Spells da mesma escola de magia da última Spell lançada por [[1d4]] dias.</p>",
+      "value": "<p>Você sente a magia pulsar e ressoar com o resíduo arcano que se agarra a você, vindo da última magia que conjurou. Há uma sensação ardente no fundo da sua mente. Você perde a capacidade de conjurar magias da mesma escola de magia da magia mais recente que conjurou por <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "9SeGJv0RV65VUg67",
-      "name": "Scola Nula",
+      "name": "Null Scola",
       "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
       "type": "base",
       "system": {

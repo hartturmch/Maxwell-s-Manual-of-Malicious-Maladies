@@ -1,11 +1,11 @@
 {
   "_id": "Th0MdDJHpyyKszPF",
-  "name": "Fobia incapacitante",
+  "name": "Fobia Incapacitante",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>  <strong> &Reference[inconsciente]{inconsciente} </strong> ly, seu cérebro fez uma conexão entre algo aleatório e a dor que sentiu, agora você não pode deixar de associar os dois. O Mestre escolhe algo único sobre a fonte do dano ou a configuração atual. Sempre que você se move a menos de 4,5 metros desta coisa, você está  <strong> eReferência[assustado]{assustado} __X4X __  até que você se afaste pelo menos 15 metros dela. </p>",
+      "value": "<p>Subconscientemente, seu cérebro fez uma ligação entre algo aleatório e a dor que sentiu, e agora você não consegue deixar de associar os dois. O Dungeon Master escolhe algo único sobre a fonte do dano ou sobre o cenário atual. Sempre que você se move a menos de 15 pés dessa coisa, você fica <strong>&Reference[frightened]{frightened}</strong> <em>(Amedrontado)</em> até se afastar pelo menos 50 pés dela.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "5hZegR1MKk0cnHB9",
-      "name": "Fobia incapacitante",
+      "name": "Fobia Incapacitante",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

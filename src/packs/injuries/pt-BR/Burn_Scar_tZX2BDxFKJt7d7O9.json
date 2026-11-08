@@ -1,11 +1,11 @@
 {
   "_id": "tZX2BDxFKJt7d7O9",
-  "name": "Cicatriz de queim",
+  "name": "Cicatriz de Queimadura",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo fica com uma cicatriz de queimadura enrugada e irregular.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica com uma cicatriz de queimadura vincada e enrugada.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fogo Lesão Persistente"
+    "requirements": "Fire (Fogo) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "iZQcY5MZydlffIn7",
-      "name": "Cicatriz de queim",
+      "name": "Cicatriz de Queimadura",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

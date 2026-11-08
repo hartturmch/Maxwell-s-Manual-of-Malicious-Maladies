@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Quando a energia arcana se dissipa e a dor diminui, você flexiona o membro e descobre que parte dessa energia decidiu permanecer. Unarmed strikes e armas empunhadas por este membro contam como mágicas para superar resistência e imunidade a ataques e Dano não mágicos.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Quando a energia arcana é expulsa e a dor recua, você flexiona o membro e descobre que parte dessa energia decidiu ficar com você. Ataques desarmados e armas empunhadas por este membro contam como mágicos para fins de superar resistência e imunidade a ataques e dano não mágicos.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

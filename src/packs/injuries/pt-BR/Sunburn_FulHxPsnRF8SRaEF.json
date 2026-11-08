@@ -1,11 +1,11 @@
 {
   "_id": "FulHxPsnRF8SRaEF",
-  "name": "Queimadura Solar",
+  "name": "Queimadura de Sol",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>A luz queima sua pele, deixando uma queimadura vermelha e dolorosa. Durante a Initiative, você sofre 1 de Radiante damage a cada 10 pés de Movement. Esta lesão dura [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 12]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "value": "<p>A luz imprime uma queimadura vermelha e dolorosa na sua pele. Você sofre 1 de Radiant damage <em>(Dano Radiante)</em> a cada 10 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>. Esta lesão dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 12]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "I7rjOKFooip57f1M",
-      "name": "Queimadura Solar",
+      "name": "Queimadura de Sol",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "ElJeLGqcMXzhVqeP",
-  "name": "Um toque de loucura",
+  "name": "Um Toque de Loucura",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p> Você sente sua mente se esticar como se estivesse a ponto de quebrar e, de repente, as coisas ficam claras novamente. Role a Tabela de Loucura de Curto Prazo (LdMe pág.259). Este efeito dura  [[1d10]]  minutos. </p>",
+      "value": "<p>Você sente sua mente se esticar como se estivesse prestes a se romper e, de repente, tudo volta a ficar claro. Role na Short Term Madness Table <em>(Tabela de Loucura de Curto Prazo — DMG pg.259)</em>. Este efeito dura <strong>[[1d10]]</strong> minutos.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "Saw6FBt9xHpzhIp1",
-      "name": "Um toque de loucura",
+      "name": "Um Toque de Loucura",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

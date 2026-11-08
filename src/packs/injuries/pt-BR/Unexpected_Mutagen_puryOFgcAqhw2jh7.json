@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. O Veneno interagiu com seu corpo de uma forma totalmente inesperada, causando uma alteração estranha em sua aparência. Esta área do corpo adquire um atributo físico relacionado à fonte do Veneno, como escamas verdes produzidas pelo sopro venenoso de um dragão. A critério do DM, esse novo atributo pode conceder +1 em um Ability Check.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. O veneno interagiu com o seu corpo de uma forma totalmente inesperada, causando uma alteração estranha na aparência. Esta área do seu corpo adquire uma característica física de algum modo relacionada à fonte do veneno <em>(como escamas verdes, vindas do sopro venenoso de um dragão)</em>. A critério do Dungeon Master, esta nova característica pode lhe conceder um bônus de +1 em um Ability Check <em>(Teste de Habilidade)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "cYvb8FdFssAo7D7N",
-      "name": "Mutagênico Inesperado",
+      "name": "Mutágeno Inesperado",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Seu cérebro parece estar ligado, e você não consegue fazê-lo descansar, por mais que tente. Você não pode se beneficiar de Short Rests ou Long Rests por [[1d4]] dias (não recupera HD, não recupera Spell Slots, não pode preparar magias e não se cura). Durante esse período, você fica imune ao sono mágico.</p>",
+      "value": "<p>Seu cérebro parece ligado na tomada e você não consegue forçá-lo a descansar, por mais que tente. Você não obtém benefício de Short Rests <em>(Descansos Curtos)</em> ou Long Rests <em>(Descansos Longos)</em> por <strong>[[1d4]]</strong> dias <em>(você não recupera HD, não recupera Spell Slots (Espaços de Magia) nem prepara magias e não se cura)</em>. Durante esse período, você é imune a sono mágico.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

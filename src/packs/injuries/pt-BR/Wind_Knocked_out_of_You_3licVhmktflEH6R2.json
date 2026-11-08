@@ -1,11 +1,11 @@
 {
   "_id": "3licVhmktflEH6R2",
-  "name": "Vento que o Derrubou",
+  "name": "Sem Fôlego",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Você busca ar enquanto o golpe o derruba de costas. Você fica <strong>&Reference[prone]{prone}</strong> e perde <strong>Concentração</strong>.</p>",
+      "value": "<p>Você ofega por ar enquanto o golpe o derruba de costas no chão. Você fica <strong>&Reference[prone]{prone}</strong> <em>(Caído)</em> e perde a <strong>concentration</strong> <em>(concentração)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Contundente Lesão Persistente"
+    "requirements": "Bludgeoning (Contundente) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "Wc8yj8xMGuNmySgj",

@@ -1,11 +1,11 @@
 {
   "_id": "dD4Ahma09dBrSDPR",
-  "name": "Gelo Nipped Toes",
+  "name": "Dedos dos Pés Queimados pelo Frio",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Você não pode usar a Action <em>Dash</em>. Este efeito dura [[1d6]] rodadas.</p>",
+      "value": "<p>Você não pode usar a ação <em>Dash</em> <em>(Correr)</em>. Este efeito dura <strong>[[1d6]]</strong> Rounds <em>(Rodadas)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "iUzoYAoAttnS1HRV",
-      "name": "Gelo Nipped Toes",
+      "name": "Dedos dos Pés Queimados pelo Frio",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

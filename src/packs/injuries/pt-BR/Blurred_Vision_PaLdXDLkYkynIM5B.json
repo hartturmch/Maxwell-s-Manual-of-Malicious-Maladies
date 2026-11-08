@@ -1,11 +1,11 @@
 {
   "_id": "PaLdXDLkYkynIM5B",
-  "name": "Visão embaçada",
+  "name": "Visão Turva",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Seus olhos ficam turvos, sua visão fica embaçada e formas distintas se tornam bolhas amorfas. Você tem desvantagem em testes de Sabedoria (Percepção) que dependem da visão e de todos os ataques à distância por  [[1d4]]  dias. Se você tem visão no escuro, você a perde por esse período. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 15]] reduz a duração desta lesão em [[1d2]]  dias. </p>",
+      "value": "<p>Seus olhos ficam embaçados, sua visão se turva e formas distintas viram manchas amorfas. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Wisdom <em>(Sabedoria)</em> — Perception <em>(Percepção)</em> que dependam da visão e em todos os ataques à distância por <strong>[[1d4]]</strong> dias. Se você tem darkvision <em>(visão no escuro)</em>, você a perde durante esse período.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d2]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "vqqs3H2UVV9H5tN6",
-      "name": "Visão embaçada",
+      "name": "Visão Turva",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

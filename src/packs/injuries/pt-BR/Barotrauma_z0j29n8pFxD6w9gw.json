@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> A força de concussão reverbera através do gás dentro de seus pulmões, causando grandes danos a eles. Você só pode prender a respiração pela metade da duração normal. Além disso, os vasos sanguíneos dos seus olhos se romperam, tornando o branco dos seus olhos da cor do seu sangue por  [[1d6]]  dias. </p>",
+      "value": "<p>A força da concussão reverbera pelo gás dentro dos seus pulmões e causa grandes danos a eles. Você só consegue prender a respiração por metade da duração normal. Além disso, os vasos sanguíneos dos seus olhos se romperam, e o branco dos seus olhos fica da cor do seu sangue por <strong>[[1d6]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

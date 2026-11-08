@@ -1,11 +1,11 @@
 {
   "_id": "7sz0vgON8LBgdaZ9",
-  "name": "Arcana Nula",
+  "name": "Null Arcana",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Quando a energia arcana atinge você, sente algo dentro de si falhar e se extinguir. Você perde a capacidade de conjurar magias por qualquer meio, incluindo class features, racial traits ou itens mágicos, por [[1d4]] dias.</p>",
+      "value": "<p>Quando a energia arcana atinge você, você sente algo dentro de si chiar e se apagar. Você perde a capacidade de conjurar magias por qualquer meio <em>(incluindo class features, racial traits ou itens mágicos)</em> por <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "H8djBO5Ql4uGdasQ",
-      "name": "Arcana Nula",
+      "name": "Null Arcana",
       "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
       "type": "base",
       "system": {

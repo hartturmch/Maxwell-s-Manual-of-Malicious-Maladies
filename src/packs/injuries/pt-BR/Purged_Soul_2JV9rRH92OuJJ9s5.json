@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>A luz purificadora limpou a sujeira da sua alma. Seu alinhamento avança um passo em direção ao bem. Se já for bom, trate esta rolagem como 15.</p>",
+      "value": "<p>A luz purificadora limpou a imundície da sua alma. Seu alinhamento se desloca um passo em direção ao bem. Se o seu alinhamento já for bom, trate esta rolagem como um 15.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "yRuhPzOAD5hEAtff",

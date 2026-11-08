@@ -1,11 +1,11 @@
 {
   "_id": "ONRCEI0PF2jD4mah",
-  "name": "Interior Fogo",
+  "name": "Fogo Interior",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, o calor interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente quente (embora pareça agradavelmente morna para você) e irradia uma aura tênue de Transmutation. Você tem Advantage em checks e Saving Throws de Constitution feitos para resistir aos efeitos ambientais do calor. Você pode suprimir o efeito mantendo Concentração.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o calor interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente quente <em>(embora para você pareça agradavelmente morna)</em> e irradia uma tênue aura de Transmutation <em>(Transmutação)</em>. Você tem Advantage <em>(Vantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir aos efeitos ambientais do calor. Você pode suprimir este efeito mantendo Concentration <em>(Concentração)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fogo Lesão Persistente"
+    "requirements": "Fire (Fogo) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "uzt2Z2HjDIQoK82T",
-      "name": "Interior Fogo",
+      "name": "Fogo Interior",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

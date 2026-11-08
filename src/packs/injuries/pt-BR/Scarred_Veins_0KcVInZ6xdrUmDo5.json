@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Suas veias ficam cicatrizadas nesta área, levemente elevadas e pigmentadas com a mesma cor do Veneno, ou role para determinar a cor aleatoriamente ([[1d4]]): 1) Verde, 2) Cinza, 3) Vermelho, 4) Marrom.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Suas veias ficaram cicatrizadas nesta área, levemente elevadas e pigmentadas da mesma cor do veneno, ou role para determinar a cor aleatoriamente <em>(<strong>[[1d4]]</strong>)</em>: 1) Verde 2) Cinza 3) Vermelho 4) Marrom.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

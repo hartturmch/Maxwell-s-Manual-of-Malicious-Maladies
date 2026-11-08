@@ -1,11 +1,11 @@
 {
   "_id": "4gP7JROYju8qofQq",
-  "name": "Ofuscado",
+  "name": "Deslumbrado",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Você pisca para afastar as manchas dos olhos, mas sua visão demora a voltar. Você fica <strong>&Reference[blinded]{blinded}</strong> por [[1d4]] turnos.</p><p><em>Tratamento</em> — A magia Lesser Restoration cura esta Condition normalmente.</p>",
+      "value": "<p>Você pisca para tirar as manchas dos olhos, mas sua visão demora a voltar. Você fica <strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em> por <strong>[[1d4]]</strong> Turns <em>(Turnos)</em>.</p><p><em>Tratamento</em> — Uma magia Lesser Restoration <em>(Restauração Menor)</em> cura esta condição, como de costume.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "tOyTDUB1U5pg36a1",
-      "name": "Razzle Ofuscado",
+      "name": "Deslumbrado",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

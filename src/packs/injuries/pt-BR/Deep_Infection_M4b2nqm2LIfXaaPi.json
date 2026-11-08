@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>A ferida superficial fecha facilmente, mas o ataque deixou uma contaminação insidiosa profundamente alojada. Ao final de cada Long Rest, role o Hit Die da sua classe e reduza seus Hit Points máximos nessa quantidade. Se este efeito reduzir seus Hit Points a 0, você fica <strong>&Reference[unconscious]{unconscious}</strong> e morrerá em [[1d6]] dias.</p><p><em>Tratamento</em> — Uma vez por dia, você pode tentar um [[/save con 22]] Saving Throw ou um [[/skill medicine 17]] check. Um sucesso em qualquer um deles cura a infecção. A magia Greater Restoration restaura o dano aos Hit Points máximos normalmente, mas não cura a infecção.</p>",
+      "value": "<p>A ferida superficial se fecha com facilidade, mas o ataque deixou uma contaminação insidiosa bem no fundo. No final de cada Long Rest <em>(Descanso Longo)</em>, role o Hit Die <em>(Dado de Vida)</em> da sua Class <em>(Classe)</em> e reduza seus Hit Points <em>(Pontos de Vida-HP)</em> máximos nesse valor. Se este efeito reduzir seus Hit Points a 0, você fica <strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em> e morrerá em <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Uma vez por dia, você pode tentar um Saving Throw <em>(Teste de Resistência)</em> <strong>[[/save con 22]]</strong> ou um teste de <strong>[[/skill medicine 17]]</strong>. Um sucesso em qualquer um deles cura a infecção. A magia Greater Restoration <em>(Restauração Superior)</em> restaura o dano aos Hit Points máximos, como de costume, mas não cura a infecção.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

@@ -1,11 +1,11 @@
 {
   "_id": "XqfSTxLQY0Wy9p2n",
-  "name": "Ossos doloridos",
+  "name": "Ossos Doloridos",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. A dor da sua lesão nunca o abandona completamente e, mesmo anos depois, às vezes você sente uma pontada de dor. Os ossos dentro/ao redor da área doíam 6 horas antes (role  [[1d6]] ): 1) Chuva, 2) Sol Brilhante, 3) Neve, 4) Nevoeiro, 5) Tempestades, 6) Calamidades e Desastres Naturais </p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. A dor da sua lesão nunca o abandona por completo e, mesmo anos depois, você às vezes sente uma pontada. Os ossos dentro/ao redor da área rolada doem 6 horas antes de <em>(role <strong>[[1d6]]</strong>)</em>: 1) Chuva, 2) Sol Forte, 3) Neve, 4) Nevoeiro, 5) Tempestades, 6) Calamidades e Desastres Naturais.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Contundente Lesão Persistente"
+    "requirements": "Bludgeoning (Contundente) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "YUyM7MkcVVLrPWnh",
-      "name": "Ossos doloridos",
+      "name": "Ossos Doloridos",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

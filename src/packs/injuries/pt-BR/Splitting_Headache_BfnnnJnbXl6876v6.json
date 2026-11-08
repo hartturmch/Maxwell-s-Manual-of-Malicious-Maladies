@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente a cabeça latejar enquanto o Veneno percorre suas veias. Você não recebe Advantage de Short Rests até realizar um Long Rest.</p>",
+      "value": "<p>Você sente a cabeça latejar enquanto o veneno corre pelas suas veias. Você não obtém benefício de Short Rests <em>(Descansos Curtos)</em> até fazer um Long Rest <em>(Descanso Longo)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

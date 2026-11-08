@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Você inala o ar escaldante ao seu redor e ele queima um caminho direto até seus pulmões. Seu paladar e olfato são  __X1X __ sem funcionamento __ X2X__  Se não forem tratados dentro de 24 horas, eles ficarão permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Cirurgia Teste de Resistência Sense </p>",
+      "value": "<p>Você inala o ar escaldante ao seu redor e ele queima um caminho direto até os pulmões. Seu paladar e seu olfato ficam <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não forem tratados em 24 horas, ficarão permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fogo Lesão Persistente"
+    "requirements": "Fire (Fogo) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

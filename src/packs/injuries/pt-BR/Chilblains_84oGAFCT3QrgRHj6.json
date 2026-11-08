@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Você ficou exposto a Frio intenso demais, e sua pele desenvolve facilmente erupções e bolhas no frio. Você tem Disadvantage em Constitution checks e Saving Throws feitos para resistir aos efeitos ambientais do Frio.</p>",
+      "value": "<p>Você ficou gelado vezes demais e sua pele desenvolve facilmente erupções e bolhas no frio. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Constitution <em>(Constituição)</em> e em Saving Throws <em>(Testes de Resistência)</em> feitos para resistir aos efeitos ambientais do frio.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

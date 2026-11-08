@@ -1,11 +1,11 @@
 {
   "_id": "A75rbXBYeRWjcMgh",
-  "name": "Punctured Braço",
+  "name": "Braço Perfurado",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque penetra na carne do seu braço. Provavelmente não é grave, mas a dor faz você tratar o braço com cuidado. Você deixa de receber uma object interaction gratuita por turno. Este efeito dura [[1d8]] turnos.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
+      "value": "<p>O ataque afunda na carne do seu braço. Provavelmente não é grave, mas a dor faz você tratar o braço com cuidado. Você deixa de ter uma interação gratuita com objeto por Turn <em>(Turno)</em>. Este efeito dura <strong>[[1d8]]</strong> Turns.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "ilPjfFzLpiwwb0nv",
-      "name": "Punctured Braço",
+      "name": "Braço Perfurado",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

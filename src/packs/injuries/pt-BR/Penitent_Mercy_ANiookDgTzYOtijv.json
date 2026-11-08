@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Você parece ter perdido a vontade de matar. A ideia de tirar uma vida o enche de repulsa absoluta. Você não pode tirar uma vida voluntariamente. Qualquer Dano causado por você que reduza os Hit Points de uma criatura a 0 a deixa inconsciente em vez de matá-la. Este efeito dura [[1d4]] dias.</p>",
+      "value": "<p>Parece que você perdeu o estômago para matar. A ideia de tirar uma vida enche você de nojo profundo. Você não pode tirar uma vida voluntariamente. Qualquer dano causado por você que reduza os Hit Points <em>(Pontos de Vida-HP)</em> de uma criatura a 0 a deixa inconsciente automaticamente, em vez de matá-la. Este efeito dura <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

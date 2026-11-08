@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo irradia uma radiância súbita, que depois diminui para um brilho suave e opaco. Ela emite luz intensa em um raio de 5 feet, luz fraca em um raio adicional de 5 feet e possui uma aura tênue de Evocation. Um esforço de Concentração pode suprimir o efeito ou aumentar a luz até o brilho de uma tocha.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo emite um clarão repentino de radiância, que então se reduz a um brilho suave e opaco. Ela emite luz plena em um raio de 5 pés, penumbra em mais 5 pés de raio e tem uma tênue aura de Evocation <em>(Evocação)</em>. Um esforço de Concentration <em>(Concentração)</em> pode suprimir este efeito ou intensificar a luz até o brilho de uma tocha.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

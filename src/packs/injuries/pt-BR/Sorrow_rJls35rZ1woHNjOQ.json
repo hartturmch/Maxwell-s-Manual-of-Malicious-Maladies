@@ -1,11 +1,11 @@
 {
   "_id": "rJls35rZ1woHNjOQ",
-  "name": "Tristeza",
+  "name": "Pesar",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Toda emoção positiva dentro de você se despedaça como um espelho, deixando apenas fragmentos dolorosos e perturbadores. Se você tiver Inspiration, perde-a. Você perde qualquer efeito não mágico que conceda bônus ou Advantage temporário, como Bardic Inspiration, Barbarian Rage, a Action Dodge ou a Action Help.</p>",
+      "value": "<p>Toda emoção positiva dentro de você se estilhaça como um espelho e restam apenas fragmentos dolorosos e perturbadores. Se você tiver Inspiration <em>(Inspiração)</em>, você a perde. Você perde qualquer efeito não mágico que conceda um bônus temporário ou Advantage <em>(Vantagem)</em> <em>(como Bardic Inspiration — Inspiração Bárdica, Barbarian Rage — Fúria de Bárbaro, a ação Dodge — Esquivar ou a ação Help — Ajudar)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrótico Lesão Persistente"
+    "requirements": "Necrotic (Necrótico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "1nRoeyF7X9eMLmxS",

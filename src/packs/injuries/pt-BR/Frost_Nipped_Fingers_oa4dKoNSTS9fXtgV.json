@@ -1,11 +1,11 @@
 {
   "_id": "oa4dKoNSTS9fXtgV",
-  "name": "Gelo Nipped Fingers",
+  "name": "Dedos Queimados pelo Frio",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Suas mãos estão tão frias que você mal consegue senti-las. Seus próximos três ataques têm Disadvantage.</p>",
+      "value": "<p>Suas mãos estão tão frias que você mal sente algo nelas. Seus próximos três ataques têm Disadvantage <em>(Desvantagem)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "SMcsPUkvzIK2HLbh",
-      "name": "Gelo Nipped Fingers",
+      "name": "Dedos Queimados pelo Frio",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

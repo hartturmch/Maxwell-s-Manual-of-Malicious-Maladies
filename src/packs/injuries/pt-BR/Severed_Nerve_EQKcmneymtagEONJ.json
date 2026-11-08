@@ -1,11 +1,11 @@
 {
   "_id": "EQKcmneymtagEONJ",
-  "name": "Seccionado Nerve",
+  "name": "Nervo Seccionado",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Por precisão ou pura sorte, o golpe cortou um nervo de um de seus membros principais. Este membro fica <strong>sem funcionamento</strong> e não cicatrizará corretamente sem Cirurgia.</p><p><em>Tratamento</em> — Uma Cirurgia de Membro DC 22.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Por precisão ou pura sorte, o golpe seccionou um nervo em um dos seus membros principais. Este membro fica <strong>nonfunctional</strong> <em>(não funcional)</em> e não cicatrizará adequadamente sem cirurgia.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "NCtnbZTxAJzqbe2Y",
-      "name": "Seccionado Nerve",
+      "name": "Nervo Seccionado",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

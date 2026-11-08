@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Este apêndice fica firme, congelado, pálido e <strong>sem funcionamento</strong>. Se não for tratado em 15 minutos, necrosará e cairá em [[1d4]] dias (depois disso ficará <strong>ausente</strong>).</p><p><em>Tratamento</em> — Um Short Rest aquecendo lentamente o apêndice encerra o efeito.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Este apêndice fica rígido, gélido, pálido e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 15 minutos, necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente o apêndice.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "1YMrkYZaO8qbKFPD",
-      "name": "Gelo Mordido Apêndice",
+      "name": "Apêndice Congelado",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>O veneno permanece em seu corpo, causando náusea e fraqueza. Você fica <strong>&Reference[poisoned]{poisoned}</strong> até ser tratado.</p><p><em>Tratamento</em> - Um [[/skill medicine 15]] check ou uma dose de antitoxina encerra esta lesão.</p>",
+      "value": "<p>O veneno é particularmente forte e você não consegue se livrar dele. Você fica <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em> por <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Após cada Long Rest <em>(Descanso Longo)</em>, você pode fazer um Saving Throw <em>(Teste de Resistência)</em> de Constitution <em>(Constituição)</em> <em>(DC igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em>. Com um sucesso, você deixa de ficar <strong>poisoned</strong>. Qualquer efeito que cure veneno <em>(como a magia Lesser Restoration — Restauração Menor)</em> em vez disso suprime temporariamente o veneno por uma hora.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

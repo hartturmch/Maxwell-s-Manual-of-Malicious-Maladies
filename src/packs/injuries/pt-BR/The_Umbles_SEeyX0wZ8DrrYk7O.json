@@ -1,11 +1,11 @@
 {
   "_id": "SEeyX0wZ8DrrYk7O",
-  "name": "Os Umbles",
+  "name": "Os Tropeços",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente Frio. Muito Frio. Você tropeça, erra, cai, resmunga e reclama. Você não pode usar a Action <em>Disengage</em> por [[1d6]] turnos.</p>",
+      "value": "<p>Você está com frio. Tanto frio. Você tropeça. Você se atrapalha. Você cai. Você murmura e resmunga. Você não pode usar a ação <em>Disengage</em> <em>(Desengajar)</em> por <strong>[[1d6]]</strong> Turns <em>(Turnos)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "6Ha4smsHFC5te0c8",
-      "name": "Os Umbles",
+      "name": "Os Tropeços",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

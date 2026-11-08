@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque terminou, mas deixou algo para trás: talvez uma ponta de flecha, um fragmento do dente da criatura ou a ponta quebrada de uma espada. Seja o que for, você ainda sente o objeto cortando dentro de você. Sempre que usar uma Action, Bonus Action e movimento no mesmo turno, você fica &Reference[incapacitated]{incapacitated} até o final do seu próximo turno.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 19 remove o corpo estranho e encerra este efeito.</p>",
+      "value": "<p>O ataque acabou, mas deixou algo para trás. Uma ponta de flecha, uma lasca do dente da criatura ou a ponta quebrada de uma espada, talvez. Seja o que for, você ainda sente aquilo cortando dentro de você. Sempre que você usar uma Action <em>(Ação)</em>, uma Bonus Action <em>(Ação Bônus)</em> e Movement <em>(Movimento)</em> no mesmo Turn <em>(Turno)</em>, você fica <strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em> até o final do seu próximo Turn.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 19 remove o corpo estranho e encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>O Ácido respinga sobre você e queima sua pele. Você sofre Fire damage e fica <strong>&Reference[poisoned]{poisoned}</strong> até o final do seu próximo turno.</p>",
+      "value": "<p>O ácido deixou em você uma queimadura superficial, porém dolorosa. Você sofre 1 ponto de Acid damage <em>(Dano Ácido)</em> a cada 5 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 13]]</strong> encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Ácido Lesão Persistente"
+    "requirements": "Acid (Ácido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

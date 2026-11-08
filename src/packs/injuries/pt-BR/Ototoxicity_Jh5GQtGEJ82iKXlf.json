@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Role para determinar aleatoriamente a orelha esquerda ou direita. O Veneno se espalhou pelas estruturas delicadas do ouvido interno. Esta orelha fica <strong>sem funcionamento</strong> e, se não for tratada em 12 horas, sua audição sofrerá Dano irreparável e será considerada <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
+      "value": "<p>Role para determinar aleatoriamente a orelha esquerda ou a direita. O veneno se espalhou para as estruturas delicadas do seu ouvido interno. Esta orelha fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratada em 12 horas, sua audição será danificada além de qualquer reparo <em>(e será considerada <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

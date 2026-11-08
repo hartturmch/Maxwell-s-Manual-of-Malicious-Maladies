@@ -1,11 +1,11 @@
 {
   "_id": "N825I9jeVzOOG1li",
-  "name": "Seccionado Membro",
+  "name": "Membro Decepado",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. A intensidade do golpe decepou completamente seu membro. Ele cai decepado aos seus pés e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia de Membro DC 22.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. A intensidade do golpe cortou seu membro fora. Ele cai decepado aos seus pés e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cortante Lesão Persistente"
+    "requirements": "Slashing (Cortante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "1k13ybujrJgZUXdt",
-      "name": "Seccionado Membro",
+      "name": "Membro Decepado",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "lF0V852UdZonlEbM",
-  "name": "Lesão cerebral",
+  "name": "Lesão Cerebral",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> A eletricidade atravessa a fiação do seu cérebro, causando curto-circuito em seus neurônios e mudando você permanentemente. Seu alinhamento muda um passo para neutro no eixo lei/caos. Se já estiver neutro, trate este teste como um 15. </p>",
+      "value": "<p>A eletricidade percorre a fiação do seu cérebro, causa curto-circuito nos seus neurônios e muda você permanentemente. Seu alinhamento se desloca um passo em direção ao neutro no eixo ordem/caos. Se já for neutro, trate esta rolagem como um 15.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "pVtivJ93JSXv9sP3",

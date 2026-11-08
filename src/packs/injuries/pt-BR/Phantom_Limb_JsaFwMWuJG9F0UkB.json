@@ -1,11 +1,11 @@
 {
   "_id": "JsaFwMWuJG9F0UkB",
-  "name": "Fantasma Membro",
+  "name": "Membro Fantasma",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Este membro fica pálido, sem sangue e morto. Ainda assim, você consegue movê-lo normalmente. O membro emite uma aura tênue de Necromancy. Você pode suprimir este efeito mantendo Concentração. Isso torna seu membro físico inanimado, e um membro fantasma espectral surge dentro dele, permanecendo ligado a você. Esse membro incorpóreo atravessa criaturas e objetos e interage com o Material Plane e o Border Ethereal Plane. Se permanecer dentro de um objeto por mais de 6 segundos, ele desaparece e você sofre [[/damage 1d6 force]].</p><p><em>Tratamento</em> — Qualquer Spell que devolva os mortos à vida restaura seu membro ao normal, desde que você siga os requisitos normais da Spell.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Este membro está pálido, sem sangue e morto. Ainda assim... de alguma forma, você ainda consegue movê-lo normalmente. O membro emite uma tênue aura de Necromancy <em>(Necromancia)</em>. Você pode suprimir este efeito com um esforço de Concentration <em>(Concentração)</em>. Isso torna o seu membro físico inanimado e um membro fantasma espectral surge de dentro dele, permanecendo preso a você. Este membro incorpóreo pode atravessar criaturas e objetos e interagir tanto com o Material Plane <em>(Plano Material)</em> quanto com o Border Ethereal Plane <em>(Plano Etéreo Fronteiriço)</em>. Se o Membro Fantasma passar mais de 6 segundos dentro de um objeto, ele desaparece e você sofre <strong>[[/damage 1d6 force]]</strong>.</p><p><em>Tratamento</em> — Qualquer magia que traga os mortos de volta à vida devolve o seu membro ao normal, desde que você siga os requisitos normais da magia.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrótico Lesão Persistente"
+    "requirements": "Necrotic (Necrótico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "WxK6oORUU4i9sYvU",
-      "name": "Fantasma Membro",
+      "name": "Membro Fantasma",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

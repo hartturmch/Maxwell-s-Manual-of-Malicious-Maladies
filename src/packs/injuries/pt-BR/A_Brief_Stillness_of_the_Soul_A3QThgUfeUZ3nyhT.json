@@ -1,11 +1,11 @@
 {
   "_id": "A3QThgUfeUZ3nyhT",
-  "name": "Uma breve quietude da alma",
+  "name": "Uma Breve Quietude da Alma",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> Você teve um breve vislumbre de algo maior e não pode deixar de fazer uma pausa para um momento de contemplação distraída. Você não pode aceitar reações por  [[1d4]]  turnos. </p>",
+      "value": "<p>Você recebeu um breve vislumbre de algo maior e não consegue evitar uma pausa para um momento de contemplação distraída. Você não pode usar Reactions <em>(Reações)</em> por <strong>[[1d4]]</strong> Turns <em>(Turnos)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "RXkK2o9dwoIRIygZ",
-      "name": "Uma breve quietude da alma",
+      "name": "Uma Breve Quietude da Alma",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

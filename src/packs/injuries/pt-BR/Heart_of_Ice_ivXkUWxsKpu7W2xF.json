@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, o Frio interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente congelada (embora pareça agradavelmente fresca para você) e irradia uma aura tênue de Transmutation. Você tem Advantage em checks e Saving Throws de Constitution feitos para resistir aos efeitos ambientais do Frio. Você pode suprimir o efeito mantendo Concentração.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o frio interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente gélida <em>(embora para você pareça agradavelmente fresca)</em> e irradia uma tênue aura de Transmutation <em>(Transmutação)</em>. Você tem Advantage <em>(Vantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir aos efeitos ambientais do frio. Você pode suprimir este efeito mantendo Concentration <em>(Concentração)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

@@ -1,11 +1,11 @@
 {
   "_id": "QCwUDqgN01J2UcBO",
-  "name": "Nervos Dormentes",
+  "name": "Nervos Entorpecidos",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seus nervos foram afetados, você sente dormência e tem dificuldade para fazer seu corpo responder com a velocidade necessária. Você não pode usar Reactions por [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 14]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "value": "<p>Seus nervos estão destruídos, você sente dormência e está com dificuldade para fazer seu corpo responder com a rapidez de que precisa. Você não pode usar Reactions <em>(Reações)</em> por <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 14]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "K9M2PeCFzGhapl66",
-      "name": "Nervos Adormecidos",
+      "name": "Nervos Entorpecidos",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "vgXrjFmNYuryWa7n",
-  "name": "Traumatic Amputação",
+  "name": "Amputação Traumática",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. O corte brutal decepou seu apêndice e o lançou para longe. Ele cai a 15 feet, em uma direção aleatória, e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia de Membro DC 22.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. O corte selvagem separou o apêndice do seu corpo e o lançou à distância. Ele cai a 15 pés de você, em uma direção aleatória, e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cortante Lesão Persistente"
+    "requirements": "Slashing (Cortante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "lC51hPBMuKRZCaBK",
-      "name": "Traumatic Amputação",
+      "name": "Amputação Traumática",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

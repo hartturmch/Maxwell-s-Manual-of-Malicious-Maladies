@@ -1,11 +1,11 @@
 {
   "_id": "4rpJmO85hhHzgFjl",
-  "name": "Anêmicas",
+  "name": "Anêmico",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Quando o veneno segue seu curso, você fica com uma fraqueza permanente. Sua capacidade de carga foi reduzida pela metade. </p>",
+      "value": "<p>Quando o veneno segue seu curso, você fica com uma fraqueza permanente. Sua capacidade de carga é reduzida pela metade.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "vy4s0x2aYh9DRHPt",
-      "name": "Anêmicas",
+      "name": "Anêmico",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

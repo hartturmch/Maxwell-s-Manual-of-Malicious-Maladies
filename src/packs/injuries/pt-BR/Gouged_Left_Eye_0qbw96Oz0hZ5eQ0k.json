@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Você sofreu Dano grave diretamente no olho esquerdo. Seu olho fica <strong>sem funcionamento</strong>. Se não for tratado em 8 horas, sua visão não poderá ser salva (e será considerada <strong>ausente</strong>).</p><p><em>Tratamento</em> — Uma Cirurgia Sensorial DC 20.</p>",
+      "value": "<p>Você sofreu um dano grave diretamente no olho esquerdo. Seu olho fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 8 horas, sua visão estará além de qualquer salvação <em>(e será considerada <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "iGEArxNGwRQmdLZU",
-      "name": "Gouged Left Olho",
+      "name": "Olho Esquerdo Perfurado",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

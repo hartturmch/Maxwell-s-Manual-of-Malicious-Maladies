@@ -1,11 +1,11 @@
 {
   "_id": "Hpbu9QICvD6Krucs",
-  "name": "Hemorragia Persistente",
+  "name": "Hemorragia Teimosa",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>A cada batida do coração, você sente seu sangue vital escorrer. Ao final de cada turno, você sofre Dano aos seus Hit Points máximos proporcional ao Dano que causou a Lesão Persistente: 1–10 Dano ([[1d4]]), 11–20 Dano ([[1d6]]), 21–30 Dano ([[1d8]]), 31–40 Dano ([[1d10]]), &gt; 40 Dano ([[1d12]]).</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check estanca o sangramento. Você pode tentar novamente este check.</p>",
+      "value": "<p>A cada batida do coração, você sente o seu sangue vital se esvair. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d4]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d6]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d8]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d10]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d12]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cortante Lesão Persistente"
+    "requirements": "Slashing (Cortante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "OfvC0In2BFbZ0wia",
-      "name": "Persistente Hemorrhaging",
+      "name": "Hemorragia Teimosa",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

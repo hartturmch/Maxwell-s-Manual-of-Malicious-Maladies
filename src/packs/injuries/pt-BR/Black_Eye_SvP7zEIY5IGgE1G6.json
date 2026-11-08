@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Você tem um bom e velho shiner. Ele resolverá por conta própria em  [[1d6]]  dias, mas você pode parecer deslocado em uma companhia educada até lá. </p>",
+      "value": "<p>Você ganhou um bom e velho olho roxo. Ele vai se resolver sozinho em <strong>[[1d6]]</strong> dias, mas até lá você pode parecer deslocado em companhias refinadas.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Contundente Lesão Persistente"
+    "requirements": "Bludgeoning (Contundente) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

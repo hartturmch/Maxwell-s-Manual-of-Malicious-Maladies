@@ -1,11 +1,11 @@
 {
   "_id": "nQ9BDJmwaBvsR4oh",
-  "name": "Necrótico Ferida",
+  "name": "Ferida Necrótica",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Sua ferida apodrece com uma energia sombria. Ela resiste à cura mágica e natural. Seus Hit Points máximos são reduzidos pela quantidade de Dano que causou a Lesão Persistente.</p><p><em>Tratamento</em> — Um check de Cirurgia Geral DC 18 ou a magia Greater Restoration.</p>",
+      "value": "<p>Sua ferida apodrece com uma energia sombria. Ela resiste tanto à cura mágica quanto à natural. Seus Hit Points <em>(Pontos de Vida-HP)</em> máximos são reduzidos pela quantidade de dano que causou a lesão persistente.</p><p><em>Tratamento</em> — Um teste de General Surgery <em>(Cirurgia Geral)</em> DC 18 ou a magia Greater Restoration <em>(Restauração Superior)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrótico Lesão Persistente"
+    "requirements": "Necrotic (Necrótico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "vT7Vuk74asC7Hlbb",
-      "name": "Necrótico Ferida",
+      "name": "Ferida Necrótica",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

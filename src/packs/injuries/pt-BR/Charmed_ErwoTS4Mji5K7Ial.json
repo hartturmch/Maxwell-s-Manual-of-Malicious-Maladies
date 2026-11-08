@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Contra toda a lógica, você se sente acolhedor e querido. Você fica <strong>&Reference[charmed]{charmed}</strong> pela fonte do Dano, como se estivesse sob efeito da magia Charm Person. Este efeito dura até o final do seu próximo turno.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de Dano da fonte do encanto encerra este efeito.</p>",
+      "value": "<p>Contra toda a lógica, você se sente acolhido e querido. Você fica <strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em> pela fonte do dano, como se estivesse sob os efeitos da magia Charm Person <em>(Enfeitiçar Pessoa)</em>. Este efeito dura até o final do seu próximo Turn <em>(Turno)</em>.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de dano da fonte do encanto encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

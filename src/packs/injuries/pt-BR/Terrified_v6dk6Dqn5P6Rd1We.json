@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente um terror borbulhante subir pela garganta e, de repente, só consegue pensar em fugir. Você fica <strong>&Reference[frightened]{frightened}</strong> em relação à fonte do Dano, como se estivesse sob efeito da magia Fear (Saving Throw DC igual à metade do Dano que causou a Lesão Persistente ou 10, o que for maior).</p>",
+      "value": "<p>Você sente um terror borbulhante subindo pela garganta e, de repente, tudo em que consegue pensar é fugir. Você fica aterrorizado com a fonte do dano, como se estivesse sob o efeito da magia Fear <em>(Medo)</em> <em>(DC do Saving Throw (Teste de Resistência) igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

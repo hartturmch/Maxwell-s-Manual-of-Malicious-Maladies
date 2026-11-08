@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seu cérebro foi Danificado pela descarga elétrica e você não está agindo como antes. Você sofre uma <strong>flaw</strong> escolhida aleatoriamente ou pelo DM.</p><p><em>Tratamento</em> — Após cada Long Rest, role um d20. Com um resultado 19 ou 20, a <strong>flaw</strong> desaparece.</p>",
+      "value": "<p>Seu cérebro foi danificado pela descarga elétrica e você não está agindo como você mesmo. Você adquire um <strong>flaw</strong> <em>(defeito)</em> escolhido aleatoriamente ou pelo Dungeon Master.</p><p><em>Tratamento</em> — Após cada Long Rest <em>(Descanso Longo)</em>, role um d20. Com 19 ou 20, o <strong>flaw</strong> desaparece.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

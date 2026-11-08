@@ -1,11 +1,11 @@
 {
   "_id": "oXynahd8ruUshXUE",
-  "name": "Aterramento Cicatriz",
+  "name": "Cicatriz de Aterramento",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Role duas vezes na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Cada área do seu corpo fica com uma cicatriz redonda: uma no ponto onde a eletricidade entrou e outra no ponto onde saiu.</p>",
+      "value": "<p>Role duas vezes na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Cada área do seu corpo fica com uma cicatriz redonda: uma onde a eletricidade entrou e outra onde a eletricidade saiu.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "BNLaLhguaH8qxyxC",
-      "name": "Aterramento Cicatriz",
+      "name": "Cicatriz de Aterramento",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

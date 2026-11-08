@@ -1,11 +1,11 @@
 {
   "_id": "aaPvPvxOoiI8V8XY",
-  "name": "Ladina Cicatriz",
+  "name": "Cicatriz Canalha",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz que lhe confere um charme distinto e malandro. Quando esta cicatriz está visível, você tem +1 de bônus em Charisma (Deception) checks. Se coletar várias cicatrizes malandras, este bônus não acumula.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz que, de algum modo, lhe confere um inconfundível charme de canalha. Enquanto esta cicatriz estiver visível, você tem um bônus de +1 em testes de Charisma <em>(Carisma)</em> — Deception <em>(Enganação)</em>. Se você acumular várias Cicatrizes Canalhas, este bônus não se acumula.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "DnDLCARCtqqGXpv8",
-      "name": "Ladina Cicatriz",
+      "name": "Cicatriz Canalha",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

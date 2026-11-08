@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Você não consegue formar palavras coerentes. Você entende o que ouve, mas só consegue se comunicar por gestos e sons sem sentido. Este efeito dura [[1d6]] horas.</p><p><em>Tratamento</em> - Um Long Rest encerra esta lesão.</p>",
+      "value": "<p>Suas tentativas de se fazer entender só são recebidas com olhos semicerrados e olhares confusos. Você perde a Proficiency <em>(Proficiência)</em> em todos os idiomas, exceto o comum, que você consegue entender, mas não falar. Você não consegue ler nem escrever. Qualquer tentativa de falar um idioma resulta em uma sequência embaralhada de palavras aparentemente aleatórias. Este efeito dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Qualquer magia que permita ao conjurador compreender o significado literal ou implícito de uma comunicação funciona normalmente.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

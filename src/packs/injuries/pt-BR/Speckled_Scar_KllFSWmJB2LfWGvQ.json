@@ -1,11 +1,11 @@
 {
   "_id": "KllFSWmJB2LfWGvQ",
-  "name": "Salpicada Cicatriz",
+  "name": "Cicatriz Pontilhada",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Os detritos balísticos deixaram uma cicatriz salpicada nesta área.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Os detritos balísticos deixaram você com uma cicatriz pontilhada nesta área.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "lvgZh9t14tT8CUmG",
-      "name": "Salpicada Cicatriz",
+      "name": "Cicatriz Pontilhada",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

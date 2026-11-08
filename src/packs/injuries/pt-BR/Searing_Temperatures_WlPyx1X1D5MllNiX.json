@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Seu corpo está perigosamente quente. Você sofre desvantagem em Ability Checks e Saving Throws feitos para resistir aos efeitos ambientais de calor.</p><p><em>Tratamento</em> - Um Long Rest em ambiente fresco encerra este efeito.</p>",
+      "value": "<p>A temperatura ao seu redor dispara, aquecendo tudo ao redor de forma instantânea. Quaisquer objetos inflamáveis vestidos ou empunhados são incendiados. Você solta tudo o que for de metal e estiver carregando, em um choque repentino.</p><p><em>Tratamento</em> — Você pode apagar qualquer item vestido ou empunhado que tenha sido incendiado com uma Bonus Action <em>(Ação Bônus)</em>. Se tentar pegar algum item derrubado, faça um Saving Throw <em>(Teste de Resistência)</em> de Constitution <em>(Constituição)</em> <em>(DC igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> para enfrentar o calor e recuperá-los.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fogo Lesão Persistente"
+    "requirements": "Fire (Fogo) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "LvtSZL0IocSdIxLC",

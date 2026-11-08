@@ -1,11 +1,11 @@
 {
   "_id": "VD30q7uoIl5BIBiQ",
-  "name": "Atravessado",
+  "name": "Transpassado",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque entrou por uma extremidade e saiu pela outra. Felizmente, não atingiu nada vital, mas você ainda sente a agonia em cada movimento. Bonus Actions exigem uma Action completa. Este efeito dura [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check reduz a duração desta lesão em [[1d2]] dias.</p>",
+      "value": "<p>O ataque entrou por um lado e saiu pelo outro. Por sorte, não atingiu nada vital, mas você ainda sente a agonia em cada movimento. Bonus Actions <em>(Ações Bônus)</em> exigem uma Action <em>(Ação)</em> completa. Este efeito dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d2]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "Cnbyqb2DdRDFmHo9",
-      "name": "Atravessado",
+      "name": "Transpassado",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

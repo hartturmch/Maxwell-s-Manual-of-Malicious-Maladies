@@ -1,11 +1,11 @@
 {
   "_id": "6A75gn1Y0uxnfQWA",
-  "name": "Clarão Queimadura",
+  "name": "Queimadura por Clarão",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Você não estava preparado para a torrente avassaladora de brilho e olhou diretamente para ela. Você fica <strong>&Reference[blinded]{blinded}</strong> por [[1d6]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "value": "<p>Você não estava preparado para a torrente avassaladora de brilho e encarou-a diretamente. Você fica <strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em> por <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "wEhgy6HtB7AxbEo2",
-      "name": "Clarão Queimadura",
+      "name": "Queimadura por Clarão",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

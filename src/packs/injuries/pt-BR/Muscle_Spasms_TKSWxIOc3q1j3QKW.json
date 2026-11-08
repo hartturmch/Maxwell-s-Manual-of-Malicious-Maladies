@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seus músculos se contraem em padrões repetitivos e você tem dificuldade para coordenar seu movimento. Você tem Disadvantage em todos os ataques, checks e Saving Throws baseados em Dexterity por [[1d4]] turnos.</p>",
+      "value": "<p>Seus músculos tremem em padrões repetitivos e você tem dificuldade para coordenar seus movimentos. Você tem Disadvantage <em>(Desvantagem)</em> em todos os ataques, testes e Saving Throws <em>(Testes de Resistência)</em> baseados em Dexterity <em>(Destreza)</em> por <strong>[[1d4]]</strong> Turns <em>(Turnos)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

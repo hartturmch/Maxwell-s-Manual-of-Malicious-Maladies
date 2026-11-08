@@ -1,11 +1,11 @@
 {
   "_id": "qwGn6ahu1YIVNFan",
-  "name": "Retorcida Cicatriz",
+  "name": "Cicatriz Nodosa",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz elevada e retorcida nesta área do seu corpo.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz nodosa e elevada nesta área do seu corpo.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "pSICufQHsYAgAmR1",
-      "name": "Retorcida Cicatriz",
+      "name": "Cicatriz Nodosa",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

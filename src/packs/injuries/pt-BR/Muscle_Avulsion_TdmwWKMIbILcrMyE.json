@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu músculo se contraiu com tanta força que se soltou do osso. Seu membro fica <strong>sem funcionamento</strong> e não cicatrizará corretamente sem Cirurgia.</p><p><em>Tratamento</em> — Uma Cirurgia de Membro DC 20.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Seu músculo se contraiu com tanta força que se soltou do osso. Seu membro fica <strong>nonfunctional</strong> <em>(não funcional)</em> e não cicatrizará adequadamente sem cirurgia.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 20.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

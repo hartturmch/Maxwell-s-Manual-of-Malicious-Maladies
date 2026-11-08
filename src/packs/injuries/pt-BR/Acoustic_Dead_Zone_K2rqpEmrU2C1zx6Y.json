@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente... silencioso. Todo ruído em um raio de meio pé desta área fica inaudível, como sob efeito da magia Silence, e a área emite uma aura tênue de Illusion. Um esforço de Concentration suprime este efeito.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente... silencioso. Todo ruído em um raio de meio pé desta área do seu corpo fica inaudível, como se estivesse sob o efeito da magia Silence <em>(Silêncio)</em>, e a área emite uma aura tênue de Illusion <em>(Ilusão)</em>. Um esforço de Concentration <em>(Concentração)</em> suprime este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

@@ -1,11 +1,11 @@
 {
   "_id": "rJEderKwy0KPLa2a",
-  "name": "Surto de Wild Magic",
+  "name": "Surto de Magia Selvagem",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Um fio errante de magia se solta, deslizando em sua direção e causando caos. Role na Wild Magic Surge Table (PHB pg. 104).</p>",
+      "value": "<p>Um fio errante de magia se solta, deslizando em sua direção e causando caos. Role na Wild Magic Surge Table <em>(Tabela de Surto de Magia Selvagem — PHB pg.104)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "SsBTrqUBbEVlKT2I",

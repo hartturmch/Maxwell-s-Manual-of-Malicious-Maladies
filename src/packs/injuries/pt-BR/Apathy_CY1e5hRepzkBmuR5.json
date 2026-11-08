@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p> Sua mente foi indelevelmente alterada e você acha mais difícil se importar. Seu alinhamento muda um passo para neutro no eixo do bem/mal. Se já estiver neutro, trate este teste como um 15. </p>",
+      "value": "<p>Sua mente foi alterada de forma indelével e você simplesmente acha mais difícil se importar. Seu alinhamento se desloca um passo em direção ao neutro no eixo bem/mal. Se já for neutro, trate esta rolagem como um 15.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "LhZNHt3RmLuRoZa8",

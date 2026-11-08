@@ -1,11 +1,11 @@
 {
   "_id": "l2ONnqFfEkVfZjD1",
-  "name": "Caminho para a Sepultura",
+  "name": "Caminho para a Sua Sepultura",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você é atingido por uma visão curta e traumática da própria morte, e seu coração se enche de pavor diante desse presságio. Você tem Vulnerability à próxima fonte de Dano que o ferir; depois disso, este efeito termina.</p><p><em>Tratamento</em> — A Spell Remove Curse encerra este efeito.</p>",
+      "value": "<p>Você é atingido por uma visão breve e traumática da sua própria morte e seu coração se enche de pavor diante desse presságio. Você tem vulnerabilidade à próxima fonte de dano que o ferir, após o que este efeito termina.</p><p><em>Tratamento</em> — A magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrótico Lesão Persistente"
+    "requirements": "Necrotic (Necrótico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "Sf85lFgNDPeg5ruL",
-      "name": "Caminho para sua Sepultura",
+      "name": "Caminho para a Sua Sepultura",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

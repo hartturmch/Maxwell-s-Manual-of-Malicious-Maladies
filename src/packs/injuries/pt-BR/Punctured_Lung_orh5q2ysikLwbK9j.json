@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Você tosse sangue. A ferida atravessou suas costelas e chegou ao pulmão. Você faz checks de Strength (Athletics) e Dexterity (Acrobatics) com Disadvantage por [[1d6]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "value": "<p>Você tosse sangue. O ferimento passou pelas suas costelas e chegou ao pulmão. Você faz testes de Strength <em>(Força)</em> — Athletics <em>(Atletismo)</em> e de Dexterity <em>(Destreza)</em> — Acrobatics <em>(Acrobacia)</em> com Disadvantage <em>(Desvantagem)</em> por <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "ebha9LCFMnxfFU73",
-      "name": "Punctured Pulmão",
+      "name": "Pulmão Perfurado",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

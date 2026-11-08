@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Você sofre uma queimadura profunda que atravessa sua pele, deixando uma ferida rachada e vermelha. Durante a Initiative, você sofre 1 de Fire damage a cada 5 pés de Movement. Além disso, sofre [[/damage 1d4 fire]] sempre que fizer uma Action ou Bonus Action. Esta lesão dura [[1d8]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 16]] check reduz a duração desta lesão em [[1d8]] dias.</p>",
+      "value": "<p>Você tem uma queimadura profunda que atravessa a pele, resultando em uma ferida rachada e vermelha. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de Fire damage <em>(Dano de Fogo)</em> a cada 5 pés de Movement <em>(Movimento)</em>. Além disso, você sofre <strong>[[/damage 1d4 fire]]</strong> toda vez que usar uma Action <em>(Ação)</em> ou Bonus Action <em>(Ação Bônus)</em>. Esta lesão dura <strong>[[1d8]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 16]]</strong> reduz a duração desta lesão em <strong>[[1d8]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fogo Lesão Persistente"
+    "requirements": "Fire (Fogo) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "jMdUazpv2RikienS",
-      "name": "Terceiro Grau Queimadura",
+      "name": "Queimadura de Terceiro Grau",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

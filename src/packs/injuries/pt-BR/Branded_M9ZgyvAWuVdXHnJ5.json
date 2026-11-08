@@ -1,11 +1,11 @@
 {
   "_id": "M9ZgyvAWuVdXHnJ5",
-  "name": "Marca",
+  "name": "Marcado a Ferro",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo fica com uma cicatriz de marca bem definida e levemente deprimida.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica com uma cicatriz de marca bem definida e levemente deprimida.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fogo Lesão Persistente"
+    "requirements": "Fire (Fogo) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "p1PIPz42goAeECjT",
-      "name": "Marca",
+      "name": "Marcado a Ferro",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Quando o eco estrondoso do ataque desaparece, você percebe que suas mãos estão vazias. Tudo o que segurava é arrancado de suas mãos e cai a 50 pés de você, afastando-se da direção do ataque.</p>",
+      "value": "<p>Conforme o eco trovejante do ataque se dissipa, você percebe que suas mãos estão vazias. Tudo o que você estava segurando é arrancado do seu alcance e cai a 50 pés de você, empurrado para longe da direção do ataque.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "SP14yKoZanH0tu1K",

@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Ácido respinga sobre seu apêndice e chia enquanto começa a dissolvê-lo. O apêndice fica <strong>sem funcionamento</strong>. Se você não receber Tratamento em 30 minutos, o apêndice se dissolve e fica <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um DC 20 Saving Throw de Cirurgia de Membro. Você tem 1 check para esta Cirurgia; se não atingir a DC no primeiro check, o apêndice é perdido.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. O ácido respinga sobre o seu apêndice e chia enquanto ele começa a se dissolver. Este apêndice fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se você não receber tratamento em 30 minutos, o apêndice se dissolve por completo e fica <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 20. Você tem 1 teste para esta cirurgia; se não atingir a DC no primeiro teste, o apêndice é perdido.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Ácido Lesão Persistente"
+    "requirements": "Acid (Ácido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

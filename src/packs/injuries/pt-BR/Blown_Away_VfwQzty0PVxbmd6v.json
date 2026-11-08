@@ -1,11 +1,11 @@
 {
   "_id": "VfwQzty0PVxbmd6v",
-  "name": "E o vento levou",
+  "name": "Lançado para Longe",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>A onda de concussão faz você voar para trás. Você é afastado da fonte do Dano uma distância proporcional ao Dano da Lesão Persistente: 1–10 Dano (10 feet), 11–20 Dano (20 feet), 21–30 Dano (30 feet), 31–40 Dano (40 feet), &gt; 40 Dano (50 feet).</p>",
+      "value": "<p>A onda de concussão lança você para trás. Você é arremessado para longe da fonte do dano a uma distância em pés proporcional ao dano da lesão persistente: 1-10 de dano <em>(10 ft.)</em>, 11-20 de dano <em>(20 ft.)</em>, 21-30 de dano <em>(30 ft.)</em>, 31-40 de dano <em>(40 ft.)</em>, &gt;40 de dano <em>(50 ft.)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "SP14yKoZanH0tu1K",

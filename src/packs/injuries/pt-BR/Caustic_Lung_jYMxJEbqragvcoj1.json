@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Você inalou profundamente os vapores tóxicos do Ácido, causando um ataque de tosse. Você fica <strong>&Reference[incapacitated]{incapacitated}</strong> por [[1d4]] rodadas.</p>",
+      "value": "<p>Você inalou profundamente os vapores tóxicos do ácido e teve um acesso de tosse. Você fica <strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em> por <strong>[[1d4]]</strong> Rounds <em>(Rodadas)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Ácido Lesão Persistente"
+    "requirements": "Acid (Ácido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

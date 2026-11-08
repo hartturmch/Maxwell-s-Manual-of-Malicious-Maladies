@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Você balança a cabeça com a força do golpe arcano e ele desaparece. O conhecimento, não sua cabeça. Você perde permanentemente a capacidade de conjurar a magia que lançou mais recentemente. Nunca poderá conjurá-la novamente, por qualquer meio, incluindo class features, racial traits ou itens mágicos. Se sua Class permitir substituir magias na lista ao subir de Level, você pode substituir essa magia normalmente.</p>",
+      "value": "<p>Você balança a cabeça com a força do golpe arcano e, de repente, ele se foi. O conhecimento, não a sua cabeça. Você perde permanentemente a capacidade de conjurar a última Spell <em>(Magia)</em> que lançou. Você nunca mais poderá conjurá-la, por nenhum meio <em>(incluindo class features, racial traits ou itens mágicos)</em>. Se a sua Class <em>(Classe)</em> permitir substituir Spells da sua lista ao subir de Level, você pode substituir esta Spell normalmente.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

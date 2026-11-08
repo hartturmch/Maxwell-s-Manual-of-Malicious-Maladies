@@ -1,11 +1,11 @@
 {
   "_id": "WzxI45g7DfRH4WBZ",
-  "name": "Ponto Azul Pálido",
+  "name": "Pálido Ponto Azul",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do corpo fica com uma cicatriz pálida e azulada.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do corpo fica com uma cicatriz pálida e de tom azulado.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "KMPRjwT6fgWbhnKI",
-      "name": "Ponto Azul Pálido",
+      "name": "Pálido Ponto Azul",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

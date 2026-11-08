@@ -1,11 +1,11 @@
 {
   "_id": "FtsxfkWhYScMuGLV",
-  "name": "Roupas corroídas",
+  "name": "Roupas Corroídas",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Suas roupas foram corroídas a ponto de serem inúteis. Se forem mágicos, eles têm quaisquer efeitos mágicos suprimidos por  [[1d4]]  dias. Felizmente, você está ileso, além de uma situação potencialmente embaraçosa com os membros do seu grupo. </p>",
+      "value": "<p>Suas roupas foram corroídas a ponto de ficarem inúteis. Se forem mágicas, em vez disso têm seus efeitos mágicos suprimidos por <strong>[[1d4]]</strong> dias. Por sorte, você está ileso, exceto por uma situação potencialmente constrangedora diante dos membros do seu Party.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Ácido Lesão Persistente"
+    "requirements": "Acid (Ácido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "hz7xOtq4kabtsVtJ",

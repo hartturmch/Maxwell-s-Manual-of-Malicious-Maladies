@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O que exatamente aquele ataque atingiu? Seu fígado? Seu baço? Seja o que for, quem diria que poderia doer tanto? Você solta um grito de dor ensurdecedor. Se o inimigo não sabia onde você estava, agora sabe. Toda criatura a até 60 pés de você conhece sua localização exata, e você deixa de estar escondido.</p>",
+      "value": "<p>O que aquele ataque atingiu, afinal? O fígado? O baço? Seja o que for, quem diria que podia doer tanto? Você solta um grito de dor ensurdecedor. Se o inimigo não tinha notado você, com certeza notou agora. Todas as criaturas a até 60 pés de você sabem exatamente onde você está, e você deixa de estar escondido.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "txEFm3aMv2ObXu7k",

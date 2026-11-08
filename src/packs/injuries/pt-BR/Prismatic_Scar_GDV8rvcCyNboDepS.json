@@ -1,11 +1,11 @@
 {
   "_id": "GDV8rvcCyNboDepS",
-  "name": "Prismática Cicatriz",
+  "name": "Cicatriz Prismática",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz lisa nesta parte do corpo que parece cintilar em cores prismáticas quando a luz a atinge.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz lisa nesta parte do seu corpo que parece cintilar pelas cores prismáticas quando a luz a atinge.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "HoW3sdC98CbH5vHW",
-      "name": "Prismática Cicatriz",
+      "name": "Cicatriz Prismática",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

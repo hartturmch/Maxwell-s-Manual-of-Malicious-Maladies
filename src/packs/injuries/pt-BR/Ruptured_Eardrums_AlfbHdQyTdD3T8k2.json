@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque sônico rompeu seus tímpanos. Você fica <strong>&Reference[deafened]{deafened}</strong> e seus ouvidos ficam <strong>sem funcionamento</strong>. Se não for tratado em 24 horas, sua audição ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Sensorial DC 20.</p>",
+      "value": "<p>O ataque sônico estourou os seus tímpanos. Você fica <strong>&Reference[deafened]{deafened}</strong> <em>(Surdo)</em> e seus ouvidos ficam <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não forem tratados em 24 horas, sua audição ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

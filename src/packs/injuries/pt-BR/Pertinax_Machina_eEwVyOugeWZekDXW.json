@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Suas Spells têm dificuldade para se manifestar e sempre parecem exigir algo a mais. Qualquer Spell com custo de componente material exige o dobro desse custo para ser lançada. Se a Spell consumir os componentes, o dobro do custo em componentes é consumido.</p>",
+      "value": "<p>Suas magias têm dificuldade para pegar e sempre parecem precisar de um algo a mais. Qualquer magia com custo de componente material exige o dobro desse custo para ser conjurada. Se a magia consome os componentes, o dobro do custo em componentes é consumido.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

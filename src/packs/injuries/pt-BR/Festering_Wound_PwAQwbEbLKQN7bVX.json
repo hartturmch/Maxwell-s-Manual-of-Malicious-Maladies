@@ -1,11 +1,11 @@
 {
   "_id": "PwAQwbEbLKQN7bVX",
-  "name": "Supurante Ferida",
+  "name": "Ferida Purulenta",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Sua ferida parece inflamada nas bordas e se recusa obstinadamente a cicatrizar. Você não pode recuperar Hit Points por meios não mágicos (como Short Rests ou Long Rests).</p><p><em>Tratamento</em> — Uma vez por Long Rest, você pode fazer um [[/skill medicine 18]] check para curar esta lesão.</p>",
+      "value": "<p>Sua ferida parece inflamada nas bordas e se recusa teimosamente a cicatrizar. Você não pode recuperar Hit Points <em>(Pontos de Vida-HP)</em> por meios não mágicos <em>(como Short Rests ou Long Rests)</em>.</p><p><em>Tratamento</em> — Uma vez por Long Rest <em>(Descanso Longo)</em>, você pode fazer um teste de <strong>[[/skill medicine 18]]</strong> para curar esta lesão.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cortante Lesão Persistente"
+    "requirements": "Slashing (Cortante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "ZfRgbSOqgngTRUqB",
-      "name": "Supurante Ferida",
+      "name": "Ferida Purulenta",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

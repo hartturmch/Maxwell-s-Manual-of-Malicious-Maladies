@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Luzes dançam em sua visão e você balança a cabeça tentando clareá-la. Você fica <strong>&Reference[blinded]{blinded}</strong> até o final do seu próximo turno.</p><p><em>Tratamento</em> - A magia Lesser Restoration cura esta condição normalmente.</p>",
+      "value": "<p>Luzes dançam na sua visão e você balança a cabeça tentando clareá-la. Você fica <strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em> até o final do seu próximo Turn <em>(Turno)</em>.</p><p><em>Tratamento</em> — Uma magia Lesser Restoration <em>(Restauração Menor)</em> cura esta condição, como de costume.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

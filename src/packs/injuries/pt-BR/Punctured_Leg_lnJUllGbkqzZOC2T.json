@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque penetra na carne da sua perna. Provavelmente não é grave, mas a dor faz você tratar a perna com cuidado. Sua velocidade é reduzida em 10 feet por [[1d8]] rodadas.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
+      "value": "<p>O ataque afunda na carne da sua perna. Provavelmente não é grave, mas a dor faz você tratar a perna com cuidado. Sua velocidade é reduzida em 10 pés por <strong>[[1d8]]</strong> Rounds <em>(Rodadas)</em>.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

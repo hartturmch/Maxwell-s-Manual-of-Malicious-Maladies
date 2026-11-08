@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente tontura, e o mundo parece se mover sob seus pés. O problema piora quando você está perto de uma grande altura. Você tem Disadvantage em checks de Dexterity (Acrobatics). Você tem Disadvantage em todos os ataques e Ability Checks quando está a até 5 pés de uma altura de 15 pés ou mais.</p>",
+      "value": "<p>Você sente tontura e o mundo parece se mover sob os seus pés. O problema só piora quando você está perto de uma grande altura. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Dexterity <em>(Destreza)</em> — Acrobatics <em>(Acrobacia)</em>. Você tem Disadvantage em todos os ataques e Ability Checks <em>(Testes de Habilidade)</em> quando estiver a até 5 pés de uma altura de 15 pés ou mais.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

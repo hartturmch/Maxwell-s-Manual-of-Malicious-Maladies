@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você não pode ser curado magicamente por [[1d6]] turnos. Isso inclui magias que restauram Hit Points, curam Conditions ou ressuscitam mortos.</p>",
+      "value": "<p>Você não pode receber cura mágica por <strong>[[1d6]]</strong> Turns <em>(Turnos)</em>. Isso inclui magias que restauram Hit Points <em>(Pontos de Vida-HP)</em>, curam Conditions <em>(Condições)</em> e ressuscitam os mortos.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrótico Lesão Persistente"
+    "requirements": "Necrotic (Necrótico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

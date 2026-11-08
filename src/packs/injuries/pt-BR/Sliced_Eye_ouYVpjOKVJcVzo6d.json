@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Role para determinar aleatoriamente seu olho esquerdo ou direito. Você sofreu uma ferida grave atravessando esse olho. Ele fica <strong>sem funcionamento</strong> e, se não for tratado em 12 horas, sua visão ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Sensorial DC 20.</p>",
+      "value": "<p>Role para determinar aleatoriamente o olho esquerdo ou o direito. Você sofreu um ferimento grave que atravessa esse olho. Ele fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratado em 12 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cortante Lesão Persistente"
+    "requirements": "Slashing (Cortante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "7H6CFD7WS7EmK3Az",
-      "name": "Sliced Olho",
+      "name": "Olho Cortado",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

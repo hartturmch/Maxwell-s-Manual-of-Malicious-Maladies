@@ -1,11 +1,11 @@
 {
   "_id": "sxVV0S6YqVMTyyrg",
-  "name": "Incinerado Apêndice",
+  "name": "Apêndice Incinerado",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. As chamas intensas consumiram tudo até não restar nada além de cinzas. O apêndice fica <strong>ausente</strong> e a ferida resultante é cauterizada.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. O fogo ardente varreu tudo até restarem apenas cinzas. O apêndice fica <strong>missing</strong> <em>(ausente)</em> e a ferida resultante é cauterizada.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fogo Lesão Persistente"
+    "requirements": "Fire (Fogo) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "c5bonzHSDkPFjLME",
-      "name": "Incinerado Apêndice",
+      "name": "Apêndice Incinerado",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

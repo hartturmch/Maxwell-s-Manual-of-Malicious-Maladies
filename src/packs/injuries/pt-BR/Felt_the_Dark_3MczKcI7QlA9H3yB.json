@@ -1,11 +1,11 @@
 {
   "_id": "3MczKcI7QlA9H3yB",
-  "name": "Sentiu a Escuridão",
+  "name": "Tocado pela Escuridão",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Uma pequena partícula de poder corrompido se alojou dentro de você, e você sente uma parte minúscula da sua alma se desprender. Você adquire uma <strong>flaw</strong> que seria considerada malévola, violenta, cruel ou volátil.</p>",
+      "value": "<p>Uma pequena partícula de poder corrompido se instalou dentro de você e você sente uma pequena parte da sua alma se desequilibrar. Você adquire um <strong>flaw</strong> <em>(defeito)</em> que seria considerado malévolo, violento, cruel ou volátil.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrótico Lesão Persistente"
+    "requirements": "Necrotic (Necrótico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "1nRoeyF7X9eMLmxS",

@@ -1,11 +1,11 @@
 {
   "_id": "6zDeA1sJ8EEuT6lC",
-  "name": "Contusões Extensas",
+  "name": "Hematomas Extensos",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você tem uma contusão extensa e feia nesta área, mas ela parece pior do que realmente é. A contusão desaparecerá após [[1d8]] dias.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você tem hematomas enormes e feios nesta área, mas eles parecem piores do que realmente doem. Os hematomas desaparecem após <strong>[[1d8]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "erovdNsLrdLY00rE",
-      "name": "Contusões Extensas",
+      "name": "Hematomas Extensos",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

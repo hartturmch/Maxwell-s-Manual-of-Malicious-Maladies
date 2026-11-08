@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Role para determinar aleatoriamente o braço esquerdo ou direito. A intensidade do golpe forçou a articulação do seu ombro para fora do encaixe. Este braço fica <strong>sem funcionamento</strong>.</p><p><em>Tratamento</em> — Enquanto estiver em iniciativa, faça um [[/check con 18]] check como Bonus Action para recolocar a articulação e encerrar esta lesão. Fora de iniciativa, um [[/skill medicine 18]] check encerra esta lesão.</p>",
+      "value": "<p>Role para determinar aleatoriamente o braço esquerdo ou o direito. A intensidade do golpe forçou a articulação do seu ombro para fora do encaixe. Este braço fica <strong>nonfunctional</strong> <em>(não funcional)</em>.</p><p><em>Tratamento</em> — Em Initiative <em>(Iniciativa)</em>, faça um teste de <strong>[[/check con 18]]</strong> como Bonus Action <em>(Ação Bônus)</em> para forçar a articulação de volta ao lugar e encerrar esta lesão. Fora de Initiative, um teste de <strong>[[/skill medicine 18]]</strong> encerra esta lesão.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Contundente Lesão Persistente"
+    "requirements": "Bludgeoning (Contundente) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

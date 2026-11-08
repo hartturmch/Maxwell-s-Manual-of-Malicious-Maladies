@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Você tenta mover os pés, mas percebe que a intensidade do Frio o congelou diretamente ao chão. Você fica <strong>&Reference[restrained]{restrained}</strong>. Se estiver voando ou não estiver em contato com uma superfície, não há efeito.</p><p><em>Tratamento</em> — Um Strength check (DC igual à metade do Dano que causou a Lesão Persistente ou 10, o que for maior), como uma Action, permite libertar-se.</p>",
+      "value": "<p>Você tenta mover os pés, mas descobre que a intensidade do frio o congelou diretamente ao chão. Você fica <strong>&Reference[restrained]{restrained}</strong> <em>(Impedido)</em>. Se você estiver voando ou, de outra forma, não estiver em contato com uma superfície, não há efeito.</p><p><em>Tratamento</em> — Um teste de Strength <em>(Força)</em> <em>(DC igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> como Action <em>(Ação)</em> permite que você se liberte.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

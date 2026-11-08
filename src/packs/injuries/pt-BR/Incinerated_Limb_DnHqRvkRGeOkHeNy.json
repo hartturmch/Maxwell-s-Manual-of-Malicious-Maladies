@@ -1,11 +1,11 @@
 {
   "_id": "DnHqRvkRGeOkHeNy",
-  "name": "Incinerado Membro",
+  "name": "Membro Incinerado",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. O Fogo voraz consumiu seu membro, deixando apenas brasas fumegantes. O membro fica <strong>ausente</strong> e a ferida resultante é cauterizada.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. O fogo voraz devorou o seu membro, deixando apenas brasas fumegantes em seu rastro. O membro fica <strong>missing</strong> <em>(ausente)</em> e a ferida resultante é cauterizada.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fogo Lesão Persistente"
+    "requirements": "Fire (Fogo) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "gfacqBOpZmeU43ro",
-      "name": "Incinerado Membro",
+      "name": "Membro Incinerado",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, a eletricidade interagiu com um fio de magia natural dentro de você. Esta parte do corpo emite um pequeno arco elétrico a cada poucos minutos. Se usar uma Action para tocar esta parte do corpo em um personagem com 0 Hit Points, ele fica estável como se tivesse recebido o cantrip Spare the Dying. Você pode suprimir o arco mantendo Concentração. O membro emite uma aura tênue de Evocation.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, a eletricidade interagiu com um fio de magia natural dentro de você. Esta parte do corpo emite um pequeno arco elétrico de energia a cada poucos minutos. Se você usar uma Action <em>(Ação)</em> para tocar esta parte do corpo em um personagem com 0 Hit Points <em>(Pontos de Vida-HP)</em>, ele se estabiliza da mesma forma que com o Cantrip <em>(Truque)</em> Spare the Dying <em>(Poupar os Moribundos)</em>. Você pode suprimir o efeito de arco mantendo Concentration <em>(Concentração)</em>. O membro emite uma tênue aura de Evocation <em>(Evocação)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "LSqtDOzNjD8SdAUn",
-      "name": "Static Arco",
+      "name": "Arco Estático",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

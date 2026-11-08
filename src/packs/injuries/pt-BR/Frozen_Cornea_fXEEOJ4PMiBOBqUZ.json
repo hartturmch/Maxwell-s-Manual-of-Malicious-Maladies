@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Role para determinar aleatoriamente o olho direito ou esquerdo. O ar congelante congelou a camada superficial do seu olho. O olho fica <strong>sem funcionamento</strong>. Se não for tratado em 12 horas, sua visão ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Sensorial DC 20. Se o jogador gastar um Short Rest aquecendo a área em até 15 minutos após a lesão, a DC diminui para 10.</p>",
+      "value": "<p>Role para determinar aleatoriamente o olho direito ou o esquerdo. O ar gélido congelou a camada superficial do seu olho. O olho fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 12 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20. Se o jogador passar um Short Rest <em>(Descanso Curto)</em> reaquecendo a área em até 15 minutos após a lesão ocorrer, esta DC é reduzida para 10.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

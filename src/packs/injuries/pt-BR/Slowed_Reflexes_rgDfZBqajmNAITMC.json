@@ -1,11 +1,11 @@
 {
   "_id": "rgDfZBqajmNAITMC",
-  "name": "Reflexos Lentificados",
+  "name": "Reflexos Lentos",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>O Frio Danod permanentemente seus nervos, e seus reflexos ficaram lentos e debilitados. Você tem Disadvantage em initiative checks.</p>",
+      "value": "<p>O frio danificou permanentemente os seus nervos, e os seus reflexos ficaram embotados e lentos. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Initiative <em>(Iniciativa)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "E2JNpVUrd8RgvSYj",
-      "name": "Reflexos Lentificados",
+      "name": "Reflexos Lentos",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

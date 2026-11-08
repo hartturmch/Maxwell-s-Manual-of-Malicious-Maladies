@@ -1,11 +1,11 @@
 {
   "_id": "DTIAUdudOB28SxM9",
-  "name": "Reação de Wild Magic",
+  "name": "Retorno de Magia Selvagem",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Um fio errante de magia se solta, afastando-se de você e causando estragos. A criatura ou fonte do Dano rola na Wild Magic Surge Table (PHB pg. 104).</p>",
+      "value": "<p>Um fio errante de magia se solta, escapando de você e causando estragos. A criatura ou a fonte do dano rola na Wild Magic Surge Table <em>(Tabela de Surto de Magia Selvagem — PHB pg.104)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "SsBTrqUBbEVlKT2I",

@@ -1,11 +1,11 @@
 {
   "_id": "TxC8c7bT8mLbTDo7",
-  "name": "Small Concussive Amputação",
+  "name": "Pequena Amputação por Concussão",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. A explosão do impacto arrancou seu apêndice e o lançou para longe. Ele cai a 30 feet de você, afastando-se da direção do ataque, e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia de Membro DC 22.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. A explosão concussiva arrancou seu apêndice e o lançou pelo ar. Ele cai a 30 pés de você, empurrado para longe da direção do ataque, e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "WpwJtqJUKDHd7R5S",
-      "name": "Small Concussive Amputação",
+      "name": "Pequena Amputação por Concussão",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

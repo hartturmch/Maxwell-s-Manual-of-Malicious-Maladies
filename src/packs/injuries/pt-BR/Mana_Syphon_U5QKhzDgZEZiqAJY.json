@@ -1,11 +1,11 @@
 {
   "_id": "U5QKhzDgZEZiqAJY",
-  "name": "Dreno de Mana",
+  "name": "Sifão de Mana",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente a energia sugar sua essência arcana, deixando uma sensação persistente de vazio. Dois dos Spell Slots de maior nível que você tem disponíveis são gastos sem causar dano. Você pode preparar novamente esses Spell Slots após um Long Rest, ou conforme determinar sua Class.</p>",
+      "value": "<p>Você sente a energia sugar a sua essência arcana e fica com uma sensação persistente de vazio. Dois dos Spell Slots <em>(Espaços de Magia)</em> de maior Spell Level <em>(Level de Magia)</em> que você tem disponíveis para conjurar são gastos sem causar danos. Você pode preparar novamente esses Spell Slots normalmente após um Long Rest <em>(Descanso Longo)</em> ou conforme a sua Class <em>(Classe)</em> determinar.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "SsBTrqUBbEVlKT2I",

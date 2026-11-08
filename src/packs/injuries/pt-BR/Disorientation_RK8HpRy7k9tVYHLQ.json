@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>A Força da explosão deixa você cambaleante. Você fica <strong>&Reference[stunned]{stunned}</strong> até o final do seu próximo turno.</p>",
+      "value": "<p>A força da explosão deixou você cambaleando. Você fica <strong>&Reference[stunned]{stunned}</strong> <em>(Atordoado)</em> até o final do seu próximo Turn <em>(Turno)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

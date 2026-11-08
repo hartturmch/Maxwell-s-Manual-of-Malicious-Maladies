@@ -1,11 +1,11 @@
 {
   "_id": "9qQe15vBFlmwqHll",
-  "name": "Enamorado",
+  "name": "Apaixonado",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Um pouco confuso, você sente uma onda de afeição inesperada tomar conta de você. Você fica <strong>&Reference[charmed]{charmed}</strong> pela fonte do Dano, como se estivesse sob os efeitos da magia Charm Person. Este efeito dura [[1d4]] rodadas.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de Dano da fonte do encanto encerra este efeito.</p>",
+      "value": "<p>Um pouco confuso, você sente uma onda de afeição inesperada tomar conta de você. Você fica <strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em> pela fonte do dano, como se estivesse sob os efeitos da magia Charm Person <em>(Enfeitiçar Pessoa)</em>. Este efeito dura <strong>[[1d4]]</strong> Rounds <em>(Rodadas)</em>.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de dano da fonte do encanto encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "op3sEnZ9lvZdgCT8",
-      "name": "Enamorado",
+      "name": "Apaixonado",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

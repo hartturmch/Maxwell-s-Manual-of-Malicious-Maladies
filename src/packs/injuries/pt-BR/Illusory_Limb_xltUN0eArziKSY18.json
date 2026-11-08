@@ -1,11 +1,11 @@
 {
   "_id": "xltUN0eArziKSY18",
-  "name": "Ilusório Membro",
+  "name": "Membro Ilusório",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the psychic assault has interacted with a thread of natural magic dentro de you. The appearance of this body part keeps subtly shifting, though it feels exactly the same as antes de. This area of seu corpo fica permanentemente under the effect of a Minor Illusion spell and emits a faint aura of Illusion. You can suppress or control this effect with an effort of concentration, otherwise o corpo part slowly shifts through minor changes in colour, size, shape, and appearance seemingly in relation to your general mood. The spell save DC for this illusion is 10 + your current level.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o ataque psíquico interagiu com um fio de magia natural dentro de você. A aparência desta parte do corpo muda sutilmente o tempo todo, embora ela pareça exatamente igual ao que era antes. Esta área do seu corpo está permanentemente sob o efeito de uma magia Minor Illusion <em>(Ilusão Menor)</em> e emite uma tênue aura de Illusion <em>(Ilusão)</em>. Você pode suprimir ou controlar este efeito com um esforço de Concentration <em>(Concentração)</em>; caso contrário, a parte do corpo muda lentamente, com pequenas alterações de cor, tamanho, forma e aparência, aparentemente em relação ao seu humor geral. A Spell Save DC <em>(DC de Magia)</em> desta ilusão é 10 + o seu Level atual.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "e7eYYWkhu7Yoo0qJ",
-      "name": "Ilusório Membro",
+      "name": "Membro Ilusório",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

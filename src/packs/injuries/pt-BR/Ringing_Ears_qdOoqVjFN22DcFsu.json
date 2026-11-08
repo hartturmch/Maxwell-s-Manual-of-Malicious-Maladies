@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Você fica com um zumbido incômodo nos ouvidos. Você tem Disadvantage em Perception checks relacionados a som por [[1d6]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 12]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "value": "<p>Você fica com um zumbido incômodo nos ouvidos. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Perception <em>(Percepção)</em> relacionados a som por <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 12]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

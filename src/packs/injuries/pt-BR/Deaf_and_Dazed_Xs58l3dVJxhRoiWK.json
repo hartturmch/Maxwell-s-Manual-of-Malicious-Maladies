@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>O impacto percussivo derruba você, e a única coisa que ouve é um zumbido atonal. Você fica caído (&Reference[prone]{prone}) e <strong>&Reference[deafened]{deafened}</strong> por [[1d6]] horas.</p>",
+      "value": "<p>O ataque percussivo derruba você, e a única coisa que você ouve é um zumbido atonal. Você é derrubado e fica <strong>&Reference[prone]{prone}</strong> <em>(Caído)</em> e <strong>&Reference[deafened]{deafened}</strong> <em>(Surdo)</em> por <strong>[[1d6]]</strong> horas.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

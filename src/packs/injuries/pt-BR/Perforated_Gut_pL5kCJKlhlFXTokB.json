@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque perfurou seu intestino, causando dor intensa e sangramento interno. Você sofre 1 nível de &Reference[exhaustion]{exhaustion} ao final de cada turno.</p><p><em>Tratamento</em> - Um DC 20 Saving Throw de Cirurgia Geral encerra esta lesão.</p>",
+      "value": "<p>Você olha para o seu estômago e uma onda de medo gelado percorre seu corpo. Você sofreu um ferimento no abdômen e é só questão de tempo até que ele se torne séptico. Você fica <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em>. A cada 24 horas, você ganha 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>. Este nível de <strong>exhaustion</strong> não pode ser removido por meios não mágicos.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 21. Qualquer efeito que cure doenças remove 1 nível de <strong>exhaustion</strong>. Uma magia Lesser Restoration <em>(Restauração Menor)</em> remove temporariamente a Condition <strong>poisoned</strong> por 24 horas. Uma magia Greater Restoration <em>(Restauração Superior)</em> remove níveis de <strong>exhaustion</strong> como de costume, mas não interrompe a infecção.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

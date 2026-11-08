@@ -1,11 +1,11 @@
 {
   "_id": "ZKNUWo3SwLosVly9",
-  "name": "Explosão Maliciosa",
+  "name": "Surto Malicioso",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você fica tomado por uma fúria cega e uma compulsão violenta avassaladora. Você usa imediatamente sua Reaction para fazer um ataque melee contra a criatura mais próxima (determinada aleatoriamente). Você passa os próximos [[1d4]] turnos perseguindo e atacando a criatura mais próxima, seja ela aliada ou não.</p><p><em>Tratamento</em> — Qualquer magia ou efeito que encerraria a Rage de um Barbarian também encerra este efeito.</p>",
+      "value": "<p>Você é tomado por uma fúria cega e por uma compulsão violenta e avassaladora. Você usa imediatamente sua Reaction <em>(Reação)</em> para fazer um ataque corpo a corpo contra a criatura mais próxima <em>(aleatória)</em>. Você passa os próximos <strong>[[1d4]]</strong> Turns <em>(Turnos)</em> perseguindo e atacando a criatura mais próxima de você, seja ela amiga ou não.</p><p><em>Tratamento</em> — Qualquer magia ou efeito que encerraria a Rage <em>(Fúria)</em> de um Barbarian <em>(Bárbaro)</em> também encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrótico Lesão Persistente"
+    "requirements": "Necrotic (Necrótico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "blUO6w0yoNYGcasi",
-      "name": "Explosão Maliciosa",
+      "name": "Surto Malicioso",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Você contém um grunhido quando o ataque penetra um pouco mais profundamente. Você sofre um dado de Dano extra do mesmo tipo do Dano causado.</p>",
+      "value": "<p>Você segura um rosnado quando o ataque penetra só um pouco mais fundo. Você sofre um dado de dano extra do mesmo tipo do dano que foi causado.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "txEFm3aMv2ObXu7k",

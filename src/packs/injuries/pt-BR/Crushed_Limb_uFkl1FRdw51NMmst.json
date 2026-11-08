@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu membro é esmagado ao ponto de inutilidade e permanentemente não funcional. Se não for reconstruído, o membro não recuperará a funcionalidade. </p>  <p>  <em> Tratamento </em>  - A  DC  23 Salvar Cirurgia de Membros </p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Seu membro é esmagado a ponto de ficar inútil e permanentemente <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for reconstruído, o membro não recuperará a funcionalidade.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 23.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Contundente Lesão Persistente"
+    "requirements": "Bludgeoning (Contundente) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

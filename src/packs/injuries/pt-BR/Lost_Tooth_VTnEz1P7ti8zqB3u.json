@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Um golpe no rosto arrancou um de seus dentes da boca.</p><p><em>Tratamento</em> — Um [[/skill perception 15]] check permite recuperar o dente. Uma Cirurgia Geral DC 19 realizada dentro de 1 dia após a lesão permite recolocá-lo.</p>",
+      "value": "<p>Um golpe no rosto arrancou um dos seus dentes da boca.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill perception 15]]</strong> permite que você recupere o dente. Uma General Surgery <em>(Cirurgia Geral)</em> DC 19 em até 1 dia após a lesão permite reinserir o dente.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Contundente Lesão Persistente"
+    "requirements": "Bludgeoning (Contundente) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

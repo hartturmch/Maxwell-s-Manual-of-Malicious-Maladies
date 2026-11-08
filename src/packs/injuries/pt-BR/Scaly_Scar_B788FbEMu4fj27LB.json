@@ -1,11 +1,11 @@
 {
   "_id": "B788FbEMu4fj27LB",
-  "name": "Escamosa Cicatriz",
+  "name": "Cicatriz Escamosa",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. A lesão de Ácido resultou em uma cicatriz retorcida e escamosa, com um brilho suave da mesma cor do Ácido que causou o Dano. Você recebe +2 de Natural Armor, ou +1 se já tiver um bônus de Natural Armor.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. A lesão por ácido resultou em uma cicatriz nodosa e escamosa, com um leve brilho da mesma cor do ácido que feriu você. Você ganha +2 de Natural Armor <em>(Armadura Natural)</em> com ela, ou +1 se você já tiver um bônus de Natural Armor.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Ácido Lesão Persistente"
+    "requirements": "Acid (Ácido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "gPM4Ftmjjlf3ReFe",
-      "name": "Escamosa Cicatriz",
+      "name": "Cicatriz Escamosa",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente como se tivesse vislumbrado algo maior do que você, e uma pequena partícula dessa luz repousa em sua alma. Você adquire uma <strong>flaw</strong> que seria considerada benevolente, altruísta, inabalável ou militante.</p>",
+      "value": "<p>Você sente como se tivesse vislumbrado algo maior do que você mesmo, e uma minúscula partícula dessa luz veio repousar na sua alma. Você adquire um <strong>flaw</strong> <em>(defeito)</em> que seria considerado benevolente, abnegado, inflexível ou militante.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [],
   "folder": "yRuhPzOAD5hEAtff",

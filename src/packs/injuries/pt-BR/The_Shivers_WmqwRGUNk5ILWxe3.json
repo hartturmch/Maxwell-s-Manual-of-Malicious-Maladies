@@ -1,11 +1,11 @@
 {
   "_id": "WmqwRGUNk5ILWxe3",
-  "name": "Os Tremores",
+  "name": "Os Calafrios",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente tanto Frio que suas mãos tremem sem controle e sua voz vacila enquanto fala. As próximas três magias que você conjurar têm 50% de chance de falhar. Este efeito termina depois que três magias forem tentadas.</p>",
+      "value": "<p>Você está com tanto frio que suas mãos tremem de forma incontrolável e sua voz vacila quando você fala. As próximas três magias que você conjurar têm 50% de chance de falhar. Este efeito termina depois que três magias forem tentadas.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "vXu0zBPuEutrQUb4",
-      "name": "Os Tremores",
+      "name": "Os Calafrios",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

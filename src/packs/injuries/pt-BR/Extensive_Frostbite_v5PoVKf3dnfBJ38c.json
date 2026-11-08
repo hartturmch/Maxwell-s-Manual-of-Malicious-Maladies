@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Role duas vezes na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Estes apêndices estão firmes, congelados, pálidos e <strong>sem funcionamento</strong>. Se não forem tratados em 15 minutos, necrosarão e cairão em [[1d4]] dias (depois disso ficarão <strong>ausentes</strong>).</p><p><em>Tratamento</em> — Um Short Rest aquecendo lentamente os apêndices encerra o efeito.</p>",
+      "value": "<p>Role duas vezes na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Esses apêndices ficam rígidos, gélidos, pálidos e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não forem tratados em 15 minutos, necrosarão e cairão em <strong>[[1d4]]</strong> dias <em>(após os quais ficam <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente os apêndices.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Frio Lesão Persistente"
+    "requirements": "Cold (Gélido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

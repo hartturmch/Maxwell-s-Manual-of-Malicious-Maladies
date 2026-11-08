@@ -1,11 +1,11 @@
 {
   "_id": "L1se5pFxXJpdJLIF",
-  "name": "Persistente Aura",
+  "name": "Aura Persistente",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Às vezes surgem efeitos estranhos quando você lida com energia mágica bruta. Esta parte do corpo emite tênues fios de energia arcana nebulosa, com a cor e a aura mágica correspondentes (role [[1d4]]): 1) Preto, Necromancy; 2) Branco, Enchantment; 3) Amarelo, Illusion; 4) Violeta, Divination.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <strong>[[1d4]]</strong>)</em>: 1) Preto, Necromancy <em>(Necromancia)</em>, 2) Branco, Enchantment <em>(Encantamento)</em>, 3) Amarelo, Illusion <em>(Ilusão)</em>, 4) Violeta, Divination <em>(Adivinhação)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "95ZWJRCwLLoHzfrH",
-      "name": "Persistente Aura",
+      "name": "Aura Persistente",
       "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
       "type": "base",
       "system": {

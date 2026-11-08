@@ -1,11 +1,11 @@
 {
   "_id": "Zn2Z8JCxvUXphnzp",
-  "name": "Frágil Apego à Vida",
+  "name": "Tênue Apego à Vida",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente como se tivesse visto o rosto da morte e consegue recordar sua aparência sombria com facilidade. Você precisa de uma falha a menos em Death Saving Throws antes de morrer.</p>",
+      "value": "<p>Você sente como se tivesse visto o rosto da morte e consegue recordar o seu semblante sombrio com facilidade. Você precisa de uma falha a menos em death Saving Throws <em>(Testes de Resistência contra a morte)</em> antes de morrer.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrótico Lesão Persistente"
+    "requirements": "Necrotic (Necrótico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "b8dJgLlBDwkSk21K",
-      "name": "Frágil Apego à Vida",
+      "name": "Tênue Apego à Vida",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

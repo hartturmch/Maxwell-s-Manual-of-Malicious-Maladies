@@ -1,11 +1,11 @@
 {
   "_id": "qrBjiP5PSXP8uimU",
-  "name": "Cicatriz Rebaixada",
+  "name": "Cicatriz Deprimida",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz deprimida e afundada nessa área do corpo.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz funda e afundada nesta área do seu corpo.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "qVw4H5fWBjKOuPb1",
-      "name": "Cicatriz Rebaixada",
+      "name": "Cicatriz Deprimida",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

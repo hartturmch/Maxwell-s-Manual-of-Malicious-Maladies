@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. A eletricidade saiu violentamente do seu corpo neste ponto, carbonizando-o até ficar <strong>sem funcionamento</strong>. Se não for tratado em 24 horas, o apêndice necrosará e cairá em [[1d4]] dias (depois disso ficará <strong>ausente</strong>).</p><p><em>Tratamento</em> — Um DC 21 Saving Throw de Cirurgia de Membro.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. A eletricidade deixou seu corpo violentamente neste ponto, carbonizando-o a ponto de ficar <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 24 horas, o apêndice necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais ele fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 21.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

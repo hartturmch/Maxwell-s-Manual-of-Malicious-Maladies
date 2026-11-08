@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>A energia que atravessou você deixou uma sensação persistente de doença e náusea. Você fica <strong>&Reference[poisoned]{poisoned}</strong> por [[1d4]] dias. Durante esse período, você perde lentamente todos os pelos do corpo. Após [[1d12]] dias, eles começam a crescer novamente no ritmo normal.</p>",
+      "value": "<p>A energia que passou por você deixou uma sensação persistente de doença e náusea. Você fica <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em> por <strong>[[1d4]]</strong> dias. Durante esse período, você perde lentamente todos os pelos do corpo. Após <strong>[[1d12]]</strong> dias, eles voltam a crescer em ritmo normal.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiante Lesão Persistente"
+    "requirements": "Radiant (Radiante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

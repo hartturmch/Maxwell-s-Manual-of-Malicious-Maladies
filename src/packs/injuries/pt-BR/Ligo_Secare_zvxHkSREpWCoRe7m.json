@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente o recuo abrupto e perturbador de uma conexão rompida. Você perde o attunement de tudo com que estiver sintonizado. Não pode entrar em attunement com nada por [[1d4]] dias.</p>",
+      "value": "<p>Você sente o recuo abrupto e perturbador de uma conexão cortada. Você perde a attunement <em>(sintonização)</em> com tudo a que estiver sintonizado no momento. Você não pode se sintonizar com nada por <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Força Lesão Persistente"
+    "requirements": "Force (Energético) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

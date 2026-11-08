@@ -1,11 +1,11 @@
 {
   "_id": "U3yu96lldrg294iT",
-  "name": "Arma corroída",
+  "name": "Arma Corroída",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Sua arma foi revestida com ácido corrosivo e está ficando mais maçante a cada segundo. A cada rodada, sua arma recebe um -1 cumulativo nas Rolagens de Dano. Quando uma arma mundana atinge uma penalidade de -5, ela é destruída. Quando uma arma mágica atinge uma penalidade de -5, todos os efeitos mágicos são suprimidos por  [[1d4]]  dias (após os quais a penalidade desaparece e a arma funciona normalmente). </p>",
+      "value": "<p>Sua arma foi revestida de ácido corrosivo e fica mais cega a cada segundo. A cada Round <em>(Rodada)</em>, sua arma sofre um -1 cumulativo nas Damage Rolls <em>(Rolagens de Dano)</em>. Quando uma arma mundana chega a uma penalidade de -5, ela é destruída. Quando uma arma mágica chega a uma penalidade de -5, todos os efeitos mágicos são suprimidos por <strong>[[1d4]]</strong> dias <em>(após os quais a penalidade desaparece e a arma volta a funcionar normalmente)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Ácido Lesão Persistente"
+    "requirements": "Acid (Ácido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "CokTEv2k5xOjDXmb",
-      "name": "Arma corroída",
+      "name": "Arma Corroída",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

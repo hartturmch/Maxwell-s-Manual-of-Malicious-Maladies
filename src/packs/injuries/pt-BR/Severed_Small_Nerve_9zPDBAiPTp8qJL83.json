@@ -1,11 +1,11 @@
 {
   "_id": "9zPDBAiPTp8qJL83",
-  "name": "Seccionado Small Nerve",
+  "name": "Nervo Pequeno Seccionado",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Você sente uma dor aguda no apêndice e, em seguida, uma dormência instantânea. O apêndice fica <strong>sem funcionamento</strong> e não cicatrizará corretamente sem Cirurgia.</p><p><em>Tratamento</em> — Uma Cirurgia Sensorial DC 20.</p>",
+      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Você sente uma dor lancinante no apêndice e, em seguida, uma dormência instantânea. O apêndice fica <strong>nonfunctional</strong> <em>(não funcional)</em> e não cicatrizará adequadamente sem cirurgia.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Perfurante Lesão Persistente"
+    "requirements": "Piercing (Perfurante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "MDUuk8CnRN9HX9gE",
-      "name": "Seccionado Small Nerve",
+      "name": "Nervo Pequeno Seccionado",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

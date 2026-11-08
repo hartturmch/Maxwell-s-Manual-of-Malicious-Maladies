@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seu corpo convulsiona e trava; você mal consegue pensar, muito menos mover-se. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> por [[1d2]] rodadas. Critical hits resultantes da sua paralisia não fazem você rolar outra Lesão Persistente.</p><p><em>Tratamento</em> — A magia Lesser Restoration remove esta paralisia normalmente.</p>",
+      "value": "<p>Seu corpo convulsiona e trava, você mal consegue pensar, muito menos se mover. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> <em>(Paralisado)</em> por <strong>[[1d2]]</strong> Rounds <em>(Rodadas)</em>. Critical Hits que resultem da sua paralisia não fazem você rolar outra lesão persistente.</p><p><em>Tratamento</em> — A magia Lesser Restoration <em>(Restauração Menor)</em> remove esta paralisia, como de costume.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

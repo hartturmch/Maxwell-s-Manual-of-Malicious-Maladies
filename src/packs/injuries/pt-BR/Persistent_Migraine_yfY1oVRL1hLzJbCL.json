@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Sua cabeça lateja, a luz o incomoda e tudo o que você quer é que a dor pare. Você não pode se beneficiar de um Short Rest por [[1d4]] dias.</p>",
+      "value": "<p>Sua cabeça lateja, a luz irrita você e tudo o que você quer é que as pancadas parem. Você não obtém benefício de um Short Rest <em>(Descanso Curto)</em> por <strong>[[1d4]]</strong> dias.</p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psíquico Lesão Persistente"
+    "requirements": "Psychic (Psíquico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {

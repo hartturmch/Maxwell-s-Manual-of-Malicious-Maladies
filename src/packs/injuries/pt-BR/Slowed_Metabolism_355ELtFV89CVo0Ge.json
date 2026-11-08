@@ -1,11 +1,11 @@
 {
   "_id": "355ELtFV89CVo0Ge",
-  "name": "Metabolismo Lentificado",
+  "name": "Metabolismo Lento",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Você quase nunca sente fome e ganha peso com muita facilidade. Precisa de metade da quantidade normal de comida e água por dia. As Potions que você usa exigem um minuto completo para fazer efeito, em vez de agir imediatamente.</p>",
+      "value": "<p>Você quase nunca sente fome e engorda com muita facilidade. Você precisa de metade da quantidade normal de comida e água por dia. As poções que você usa levam um minuto inteiro para fazer efeito, em vez de agirem imediatamente.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Veneno Lesão Persistente"
+    "requirements": "Poison (Venenoso) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "fB6JzfIYnWPypDsO",
-      "name": "Metabolismo Lentificado",
+      "name": "Metabolismo Lento",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

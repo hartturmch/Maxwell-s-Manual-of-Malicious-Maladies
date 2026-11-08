@@ -1,11 +1,11 @@
 {
   "_id": "MYmVgwxklq9DZNBb",
-  "name": "Leg Estilhaços",
+  "name": "Estilhaços na Perna",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque transformou pequenos fragmentos de detritos da área ao redor em projéteis balísticos mortais, muitos dos quais penetraram profundamente nos músculos da sua perna. Sua velocidade é reduzida em 10 feet.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 22.</p>",
+      "value": "<p>O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos da sua perna. Sua velocidade é reduzida em 10 pés.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 22.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Trovão Lesão Persistente"
+    "requirements": "Thunder (Trovejante) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "CCMMwJ0D9RJsSVLk",
-      "name": "Leg Estilhaços",
+      "name": "Estilhaços na Perna",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

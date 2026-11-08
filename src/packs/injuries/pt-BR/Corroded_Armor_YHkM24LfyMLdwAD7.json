@@ -1,11 +1,11 @@
 {
   "_id": "YHkM24LfyMLdwAD7",
-  "name": "Armadura corroída",
+  "name": "Armadura Corroída",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "__X0X __ O ácido cobriu sua armadura, devorando-a lentamente. A cada turno, sua armadura recebe uma penalidade cumulativa de -1 para  AC . Quando AC da armadura atinge 10, ela é destruída. Se a armadura for mágica, seus efeitos mágicos são suprimidos por  [[1d6]]  dias e é inutilizável durante esse período (após o qual a penalidade desaparece e a armadura funciona normalmente). </p>",
+      "value": "<p>O ácido cobriu sua armadura e a devora lentamente. A cada Turn <em>(Turno)</em>, sua armadura sofre uma penalidade cumulativa de -1 na Armor Class <em>(Classe de Armadura-AC)</em>. Quando a AC da armadura chega a 10, ela é destruída. Se a armadura for mágica, seus efeitos mágicos são suprimidos por <strong>[[1d6]]</strong> dias e ela fica inutilizável durante esse período <em>(após o qual a penalidade desaparece e a armadura volta a funcionar normalmente)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Ácido Lesão Persistente"
+    "requirements": "Acid (Ácido) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "51LIXIiruzV5fIXE",
-      "name": "Armadura corroída",
+      "name": "Armadura Corroída",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

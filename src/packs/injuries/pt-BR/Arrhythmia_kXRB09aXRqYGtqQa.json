@@ -1,11 +1,11 @@
 {
   "_id": "kXRB09aXRqYGtqQa",
-  "name": "Arritmia cardíaca",
+  "name": "Arritmia",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>A eletricidade surge no âmago do seu ser, fazendo seu coração gaguejar. É muito mais difícil lidar com atividade física sem ficar exausto. Sempre que você ganhar níveis de <strong>&Reference[exhaustion]{exhaustion}</strong>, ganha um nível adicional.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 25.</p>",
+      "value": "<p>A eletricidade percorre o âmago do seu ser e faz seu coração falhar. É muito mais difícil para você suportar atividade física sem ficar muito fatigado. Sempre que você sofrer níveis de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>, sofre um nível adicional.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 25.</p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Relâmpago Lesão Persistente"
+    "requirements": "Lightning (Elétrico) Lingering Injury (Lesão Persistente)"
   },
   "effects": [
     {
       "_id": "7x9dl9zUc7uhtMUm",
-      "name": "Arritmia cardíaca",
+      "name": "Arritmia",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {
