@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Your muscle has contracted so strongly that its been torn free of the bone. Seu membro fica  <strong> sem funcionamento </strong>  and will not properly heal sem Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. </p>",
-      "name": "Muscle Avulsion",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu músculo se contraiu com tanta força que se soltou do osso. O membro fica <strong>sem funcionamento</strong> e não cicatriza corretamente sem Cirurgia.</p><p><em>Tratamento</em> — Um DC 20 Saving Throw de Cirurgia de Membro.</p>",
+      "name": "Avulsão Muscular",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.la33qmFoirnT147t",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TdmwWKMIbILcrMyE"
     },
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your brain has been Danod by the electrical surge and you're not acting like yourself. Você sofre a  <strong> flaw </strong>  chosen aleatoriamente or by the DM. </p>  <p>  <em> Tratamento </em>  - After each Long Rest roll a d20. On a 19 or 20, the  <strong> flaw </strong>  disappears. </p>",
-      "name": "Personality Change",
+      "description": "<p>Seu cérebro foi Danificado pela descarga elétrica e você não está agindo como antes. Você sofre uma <strong>flaw</strong> escolhida aleatoriamente ou pelo DM.</p><p><em>Tratamento</em> — Após cada Long Rest, role um d20. Com 19 ou 20, a <strong>flaw</strong> desaparece.</p>",
+      "name": "Mudança de Personalidade",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.HtnLT2MDX6sC6OrY",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xu5RO5Z0AGYlrUQ5"
     },
@@ -133,8 +133,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your muscles twitch in repetitive patterns and you have difficulty coordinating your movimento. Você tem disadvantage on all Dexterity based attacks, checks, and saves for  [[1d4]]  turns. </p>",
-      "name": "Muscle Spasms",
+      "description": "<p>Seus músculos se contraem em padrões repetitivos e você tem dificuldade para coordenar seu movimento. Você tem Disadvantage em ataques, checks e Saving Throws baseados em Dexterity por [[1d4]] turnos.</p>",
+      "name": "Espasmos Musculares",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.6LtXHSLYbuAwbdrQ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TKSWxIOc3q1j3QKW"
     },
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your muscles seize, your eyes roll back, and you cannot seem to Força seu corpo to function. Você fica  <strong> &Reference[paralyzed]{paralyzed} </strong>  until the end of your next turn. Critical hits as the result of your paralysis do not cause you to roll another Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - The Lesser Restoration spell removes this paralysis as usual. </p>",
-      "name": "Electrocution",
+      "description": "<p>Seus músculos travam, seus olhos reviram e você não consegue fazer o corpo funcionar. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> até o final do seu próximo turno. Critical Hits causados pela sua paralisia não exigem outra rolagem de Lesão Persistente.</p><p><em>Tratamento</em> — A Spell Lesser Restoration remove esta paralisia normalmente.</p>",
+      "name": "Eletrocussão",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.SCTneGLMu1IXH50N",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pelqSHjxykmnoJNG"
     },
@@ -187,8 +187,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your body convulses and seizes, you can hardly even think, much less move it. Você fica  <strong> &Reference[paralyzed]{paralyzed} </strong>  for  [[1d2]]  rodadas. Critical hits as the result of your paralysis do not cause you to roll another Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - The Lesser Restoration spell removes this paralysis as usual. </p>",
-      "name": "True Electrocution",
+      "description": "<p>Seu corpo convulsiona e trava; você mal consegue pensar, muito menos se mover. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> por [[1d2]] rodadas. Critical Hits causados pela sua paralisia não exigem outra rolagem de Lesão Persistente.</p><p><em>Tratamento</em> — A Spell Lesser Restoration remove esta paralisia normalmente.</p>",
+      "name": "Eletrocussão Verdadeira",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.pDQtUCLWykFeJuW2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.LoYpvUMKZCrUSAqg"
     },
@@ -214,8 +214,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your nerves are shot, you feel numb, and you're having trouble making seu corpo respond with the speed you need it to. Você não pode take reactions for  [[1d4]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check reduces the duration of this injury by  [[1d4]]  dias. </p>",
-      "name": "Numbed Nerves",
+      "description": "<p>Seus nervos foram afetados, você sente dormência e tem dificuldade para fazer seu corpo responder com a velocidade necessária. Você não pode usar Reactions por [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 14]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "name": "Nervos Dormentes",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.DlT8xu72pdkTS73u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.QCwUDqgN01J2UcBO"
     },
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role duas vezes na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of seu corpo is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
-      "name": "Aterramento Cicatriz",
+      "description": "<p>Role duas vezes na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Cada área do corpo fica com uma cicatriz redonda: uma no ponto de entrada da eletricidade e outra no ponto de saída.</p>",
+      "name": "Cicatriz de Aterramento",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.fUDRwhqypuKa64Fs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oXynahd8ruUshXUE"
     },
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This area of seu corpo is left with a Lichtenberg Figure, a scar resembling Relâmpago that runs along the path the current took through seu corpo. </p>",
-      "name": "Lichtenberg Figure",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do corpo fica com uma Figura de Lichtenberg, uma cicatriz semelhante a Lightning que acompanha o caminho da corrente pelo corpo.</p>",
+      "name": "Figura de Lichtenberg",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.PWDc7pCd3TtZH467",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.NRqRf9KwsXR2ICjf"
     },
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The electricity crackles around seu corpo for a second, looking for the closest thing to discharge to. The electricity then arcs from you to the nearest creature carrying metal weapons or wearing metal armor. This creature takes Relâmpago Dano equal to half the Dano that caused the Lesão Persistente. </p>",
-      "name": "Relâmpago Rod",
+      "description": "<p>A eletricidade crepita ao redor do seu corpo por um segundo, procurando o ponto de descarga mais próximo. Então, salta de você para a criatura mais próxima que empunhe armas metálicas ou use armadura metálica. Essa criatura sofre Lightning Dano igual à metade do Dano que causou a Lesão Persistente.</p>",
+      "name": "Bastão de Lightning",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.LERMeFqLfXhRMQvF",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.trzqu8dPofAPS68G"
     },
@@ -349,8 +349,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the electricity has interacted with a thread of natural magic dentro de you. This body part emits a small electrical arc of energy every few minutos. If you use an action to touch this body part to a character with 0 Hit Points they become stable in the same manner as the Spare the Dying cantrip. You may suppress the arcing effect by maintaining Concentração. O membro emits a faint aura of Evocation. </p>",
-      "name": "Static Arco",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, a eletricidade interagiu com um fio de magia natural dentro de você. Esta parte do corpo emite um pequeno arco elétrico a cada poucos minutos. Se usar uma Action para tocá-la em um personagem com 0 Hit Points, ele fica estável como se tivesse recebido o cantrip Spare the Dying. Você pode suprimir o arco mantendo Concentração. O membro emite uma aura tênue de Evocation.</p>",
+      "name": "Arco Estático",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.R30x9IOGKRqjyShC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Fj4AEbUuxgw3tgxA"
     },
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The electricity has violently exited seu corpo at this point, charring it to the point of being  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas, the appendage will necrotize and fall off in  [[1d4]]  dias (depois de which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Cirurgia de Membro. </p>",
-      "name": "Destructive Aterramento",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. A eletricidade saiu violentamente do seu corpo neste ponto, carbonizando-o até ficar <strong>sem funcionamento</strong>. Se não for tratado em 24 horas, o apêndice necrosará e cairá em [[1d4]] dias; depois ficará <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um DC 21 Saving Throw de Cirurgia de Membro.</p>",
+      "name": "Aterramento Destrutivo",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.YJVZUrVhCW4k7GW2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.2WbWzUxWznvk6JbL"
     },
@@ -403,8 +403,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Shocked through the heart, and you're to blame. Any time you are  <strong> &Reference[charmed]{charmed} </strong>  or  <strong> &Reference[frightened]{frightened} </strong>  you take 1 level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  25 Cirurgia Geral. </p>",
-      "name": "Heart Palpitations",
+      "description": "<p>A eletricidade atravessou seu coração, e a culpa é dela. Sempre que ficar <strong>&Reference[charmed]{charmed}</strong> ou <strong>&Reference[frightened]{frightened}</strong>, você sofre 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 25.</p>",
+      "name": "Palpitações Cardíacas",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.esbzQKHRyA0WPvGq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oUmEbf4G1zykuMiU"
     },
