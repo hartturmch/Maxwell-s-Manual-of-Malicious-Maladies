@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p> Your wound looks angry near its edges and stubbornly refuses to heal. Você não pode heal Hit Points through não mágico means (such as short or Long Rests). </p>  <p>  <em> Tratamento </em>  - Once per Long Rest you may make a  [[/skill medicine 18]]  check to heal this injury. </p>",
+      "value": "<p>Sua ferida parece inflamada nas bordas e se recusa obstinadamente a cicatrizar. Você não pode recuperar Hit Points por meios não mágicos (como Short Rests ou Long Rests).</p><p><em>Tratamento</em> — Uma vez por Long Rest, você pode fazer um [[/skill medicine 18]] check para curar esta lesão.</p>",
       "chat": ""
     },
     "source": {

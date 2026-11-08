@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Role duas vezes na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. These appendages are firm, frigid, pale, and  <strong> sem funcionamento </strong> . Se não for tratado dentro de 15 minutos they will necrotize and fall off in  [[1d4]]  dias (depois de which they are  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming the appendages. </p>",
+      "value": "<p>Role duas vezes na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Estes apêndices estão firmes, congelados, pálidos e <strong>sem funcionamento</strong>. Se não forem tratados em 15 minutos, necrosarão e cairão em [[1d4]] dias (depois disso ficarão <strong>ausentes</strong>).</p><p><em>Tratamento</em> — Um Short Rest aquecendo lentamente os apêndices encerra o efeito.</p>",
       "chat": ""
     },
     "source": {

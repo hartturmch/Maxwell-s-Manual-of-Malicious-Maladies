@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> As the divine energy fades you feel as if some of the great burden of time has left with it. Your body is  [[1d10]]  years younger. Your mind is unaffected. </p>",
+      "value": "<p>Quando a energia divina desaparece, você sente como se parte do grande peso do tempo tivesse ido embora com ela. Seu corpo fica [[1d10]] anos mais jovem. Sua mente não é afetada.</p>",
       "chat": ""
     },
     "source": {

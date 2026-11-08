@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu membro fica frozen, rigid, numb, and  <strong> sem funcionamento </strong> . Se não for tratado dentro de 15 minutos the limb will necrotize and fall off in  [[1d4]]  dias (depois de which it is  <strong> ausente </strong> ) </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming the limb. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu membro fica congelado, rígido, dormente e <strong>sem funcionamento</strong>. Se não for tratado em 15 minutos, o membro necrosará e cairá em [[1d4]] dias (depois disso ficará <strong>ausente</strong>).</p><p><em>Tratamento</em> — Um Short Rest aquecendo lentamente o membro encerra o efeito.</p>",
       "chat": ""
     },
     "source": {

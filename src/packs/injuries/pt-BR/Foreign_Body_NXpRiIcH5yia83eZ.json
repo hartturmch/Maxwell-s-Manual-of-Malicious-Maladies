@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> O ataque is over, but it's left something left behind. An arrowhead, a chip from the creature's tooth, or the broken point of a sword, perhaps. Whatever it is, you can still feel it cutting dentro de you. Any time you use an action, Bonus Action, and movimento on the same turn you are &Reference[incapacitated]{incapacitated} until the end of your next turn. </p>  <p>  <em> Tratamento </em>  - A  DC  19 Cirurgia Geral removes the foreign body and ends this effect. </p>",
+      "value": "<p>O ataque terminou, mas deixou algo para trás: talvez uma ponta de flecha, um fragmento do dente da criatura ou a ponta quebrada de uma espada. Seja o que for, você ainda sente o objeto cortando dentro de você. Sempre que usar uma Action, Bonus Action e movimento no mesmo turno, você fica &Reference[incapacitated]{incapacitated} até o final do seu próximo turno.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 19 remove o corpo estranho e encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
