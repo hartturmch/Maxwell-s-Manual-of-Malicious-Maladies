@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer attunement)</em></p><p>A Legerde-Main se parece com uma tigela de meio pé de diâmetro, gravada com runas e sigilos arcanos. Se você segurar a tigela contra a extremidade de um braço ou mão <strong>ausente</strong>, ela adere e se contrai para envolver a área. Uma mão espectral aparece, semelhante ao <em>Mage Hand</em>, um cantrip.</p><p>Essa mão paira no lugar onde sua mão estaria e você pode movê-la à vontade dentro do alcance do seu braço. Ela só pode atacar com armas <em>light</em>, não pode ativar itens mágicos e só pode carregar até 20 pounds. Um ataque desarmado com essa mão causa Force damage em vez de Bludgeoning damage.</p><p>Você pode destacá-la ou recolocá-la como uma Action, e ela não pode ser removida contra sua vontade. Ela se desprende quando você morre.</p>",
+      "value": "<p><em>Item maravilhoso (requer attunement)</em></p><p>A Legerde-Main se parece com uma tigela de meio pé de diâmetro, gravada com runas e sigilos arcanos. Se você segurar a tigela contra a extremidade de um braço ou mão <strong>ausente</strong>, ela adere e se contrai para envolver a área. Uma mão espectral aparece, semelhante à Mage Hand, um cantrip.</p><p>Essa mão paira no lugar onde sua mão estaria e você pode movê-la à vontade dentro do alcance do seu braço. Ela só pode atacar com armas <em>light</em>, não pode ativar itens mágicos e só pode carregar até 20 pounds. Um ataque desarmado com essa mão causa Force damage em vez de Bludgeoning damage.</p><p>Você pode destacá-la ou recolocá-la como uma Action, e ela não pode ser removida contra sua vontade. Ela se desprende quando você morre.</p>",
       "chat": ""
     },
     "source": {

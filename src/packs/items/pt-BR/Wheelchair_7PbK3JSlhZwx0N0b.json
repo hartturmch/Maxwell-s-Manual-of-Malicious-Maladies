@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Uma cadeira de rodas facilita o movimento de um personagem que não pode usar uma ou ambas as pernas. Usar uma cadeira de rodas permite mover-se com sua velocidade normal. Durante a iniciativa, qualquer quantidade de movimento com a cadeira exige uma object interaction (uma object interaction permite tanto o movimento quanto a Action Dash). Em terreno difícil, sua velocidade é 10 feet.</p>",
+      "value": "<p>Uma cadeira de rodas facilita o movimento de um personagem que não pode usar uma ou ambas as pernas. Usar uma cadeira de rodas permite mover-se com sua velocidade normal. Durante a Initiative, qualquer quantidade de movimento com a cadeira exige uma object interaction (uma object interaction permite tanto o movimento quanto a Action Dash). Em terreno difícil, sua velocidade é 10 pés.</p>",
       "chat": ""
     },
     "source": {
