@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Este membro está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d8]]  dias. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Este membro está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d8]]  dias. </p>",
       "chat": ""
     },
     "source": {

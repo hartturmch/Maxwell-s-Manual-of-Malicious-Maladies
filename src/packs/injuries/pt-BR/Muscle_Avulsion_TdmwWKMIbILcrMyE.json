@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Your muscle has contracted so strongly that its been torn free of the bone. Your limb is  <strong> sem funcionamento </strong>  and will not properly heal without Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Limb Cirurgia. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Your muscle has contracted so strongly that its been torn free of the bone. Your limb is  <strong> sem funcionamento </strong>  and will not properly heal without Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. </p>",
       "chat": ""
     },
     "source": {

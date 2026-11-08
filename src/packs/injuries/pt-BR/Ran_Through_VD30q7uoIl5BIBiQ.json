@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> The attack went in one end and out the other. Luckily, it's missed anything vital, but you can still feel the agony of it in every motion you make. Bonus actions require a full action instead. This effect lasts for  [[1d4]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d2]]  days. </p>",
+      "value": "<p> The attack went in one end and out the other. Luckily, it's missed anything vital, but you can still feel the agony of it in every motion you make. Bonus actions require a full action instead. Este efeito dura for  [[1d4]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d2]]  days. </p>",
       "chat": ""
     },
     "source": {

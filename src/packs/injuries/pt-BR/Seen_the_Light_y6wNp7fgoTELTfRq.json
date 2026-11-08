@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> You feel as if you've seen a glimpse of something greater than yourself, and a tiny mote of that light has come to rest on your soul. You take a  <strong> flaw </strong>  that would be considered benevolent, self-sacrificing, unyielding, or militant. </p>",
+      "value": "<p> You feel as if you've seen a glimpse of something greater than yourself, and a tiny mote of that light has come to rest on your soul. Você sofre a  <strong> flaw </strong>  that would be considered benevolent, self-sacrificing, unyielding, or militant. </p>",
       "chat": ""
     },
     "source": {

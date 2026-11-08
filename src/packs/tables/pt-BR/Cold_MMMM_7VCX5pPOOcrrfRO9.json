@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Roll to randomly determine the right or left eye. The frigid air has frozen over the surface layer of your eye. The eye is  <strong> sem funcionamento </strong> . If not treated within 12 hours, your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. If the player spends a short rest rewarming the area within 15 minutes of the injury occurring, this  DC  is decreased to 10. </p>",
+      "description": "<p> Roll to randomly determine the right or left eye. The frigid air has frozen over the surface layer of your eye. The eye is  <strong> sem funcionamento </strong> . Se não for tratado within 12 hours, your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. If the player spends um Short Rest rewarming the area within 15 minutes of the injury occurring, this  DC  is decreased to 10. </p>",
       "name": "Frozen Cornea",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fXEEOJ4PMiBOBqUZ"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Roll twice on the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. These appendages are firm, frigid, pale, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes they will necrotize and fall off in  [[1d4]]  days (after which they are  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the appendages. </p>",
+      "description": "<p> Role duas vezes na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. These appendages are firm, frigid, pale, and  <strong> sem funcionamento </strong> . Se não for tratado within 15 minutes they will necrotize and fall off in  [[1d4]]  days (after which they are  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming the appendages. </p>",
       "name": "Extensive Frostbite",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.v5PoVKf3dnfBJ38c"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your core body temperature has plummeted dangerously low. While on initiative you function as if affected by both the  <em> Slow </em>  and  <em> Confusion </em>  spells. If untreated for one hour, you fall  <strong> &Reference[unconscious]{unconscious} <strong> . </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming yourself ends this effect. </strong>  </strong>  </p>",
+      "description": "<p> Your core body temperature has plummeted dangerously low. While on initiative you function as if affected by both the  <em> Slow </em>  and  <em> Confusion </em>  spells. Se não for tratado for one hour, you fall  <strong> &Reference[unconscious]{unconscious} <strong> . </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming yourself ends this effect. </strong>  </strong>  </p>",
       "name": "Severe Hypothermia",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.c6fr5xJn7uYmpTbt"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The extreme Frio has leeched away a large amount of your body heat. While on initiative you function as if affected by the Slow spell. If untreated for two hours, the condition advances to Severe Hypothermia. </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming yourself ends this effect. </p>",
+      "description": "<p> The extreme Frio has leeched away a large amount of your body heat. While on initiative you function as if affected by the Slow spell. Se não for tratado for two hours, the condition advances to Severe Hypothermia. </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming yourself ends this effect. </p>",
       "name": "Hypothermia",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KP5l2GWmommEsNFo"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This body area is left with a pale, blue-tinged scar. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This body area is left with a pale, blue-tinged scar. </p>",
       "name": "Pale Blue Dot",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WzxI45g7DfRH4WBZ"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You cannot take the  <em> dash </em>  action. This effect lasts  [[1d6]]  rounds. </p>",
+      "description": "<p> Você não pode take the  <em> dash </em>  action. Este efeito dura  [[1d6]]  rounds. </p>",
       "name": "Gelo Nipped Toes",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.dD4Ahma09dBrSDPR"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You are Frio. So Frio. You stumble. You fumble. You tumble. You mumble and grumble. You cannot take the  <em> disengage </em>  action for  [[1d6]]  turns. </p>",
+      "description": "<p> You are Frio. So Frio. You stumble. You fumble. You tumble. You mumble and grumble. Você não pode take the  <em> disengage </em>  action for  [[1d6]]  turns. </p>",
       "name": "The Umbles",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.SEeyX0wZ8DrrYk7O"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the Frio has interacted with a thread of natural magic within you. This area of your body is permanently frigid (though to you it feels pleasantly cool) and it radiates a faint aura of Transmutation. You have advantage on Constitution checks and saves made to resist the environmental effects of Frio. You may suppress this effect by maintaining Concentração. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the Frio has interacted with a thread of natural magic within you. This area of your body fica permanentemente frigid (though to you it feels pleasantly cool) and it radiates a faint aura of Transmutation. You have advantage on Constitution checks and saves made to resist the environmental effects of Frio. You may suppress this effect by maintaining Concentração. </p>",
       "name": "Heart of Ice",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ivXkUWxsKpu7W2xF"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. This appendage is firm, frigid, pale, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes it will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the appendage. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. This appendage is firm, frigid, pale, and  <strong> sem funcionamento </strong> . Se não for tratado within 15 minutes it will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming the appendage. </p>",
       "name": "Gelo Mordido Apêndice",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bpeQ09urKr3yUOk0"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Your limb is frozen, rigid, numb, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ) </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the limb. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Your limb is frozen, rigid, numb, and  <strong> sem funcionamento </strong> . Se não for tratado within 15 minutes the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ) </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming the limb. </p>",
       "name": "Gelo Mordido Membro",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.u88lSICkmHVEB4DT"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The Frio has permanently damaged your nerves and your reflexes have become dull and sluggish. You have disadvantage on initiative checks. </p>",
+      "description": "<p> The Frio has permanently Danod your nerves and your reflexes have become dull and sluggish. You have disadvantage on initiative checks. </p>",
       "name": "Slowed Reflexes",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rgDfZBqajmNAITMC"

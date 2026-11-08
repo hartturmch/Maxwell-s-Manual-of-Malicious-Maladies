@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p> You now tend to experience nosebleeds when you exert a great Força of mental effort. The nosebleeds occur when (roll  [[1d6]] ): 1) You are  <strong> &Reference[frightened]{frightened} </strong> , 2) You are  <strong> &Reference[charmed]{charmed} </strong> , 3) You make an Intelligence saving throw, 4) You make a Wisdom saving throw, 5) You make a Charisma saving throw, 6) You take Psíquico Dano. </p>",
+      "value": "<p> You now tend to experience nosebleeds when you exert a great Força of mental effort. The nosebleeds occur when (roll  [[1d6]] ): 1) You are  <strong> &Reference[frightened]{frightened} </strong> , 2) You are  <strong> &Reference[charmed]{charmed} </strong> , 3) You make an Intelligence Saving Throw, 4) You make a Wisdom Saving Throw, 5) You make a Charisma Saving Throw, 6) Você sofre Psíquico Dano. </p>",
       "chat": ""
     },
     "source": {

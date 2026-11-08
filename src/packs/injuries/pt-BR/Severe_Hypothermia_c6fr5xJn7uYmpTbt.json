@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Your core body temperature has plummeted dangerously low. While on initiative you function as if affected by both the  <em> Slow </em>  and  <em> Confusion </em>  spells. If untreated for one hour, you fall  <strong> &Reference[unconscious]{unconscious} <strong> . </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming yourself ends this effect. </strong>  </strong>  </p>",
+      "value": "<p> Your core body temperature has plummeted dangerously low. While on initiative you function as if affected by both the  <em> Slow </em>  and  <em> Confusion </em>  spells. Se não for tratado for one hour, you fall  <strong> &Reference[unconscious]{unconscious} <strong> . </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming yourself ends this effect. </strong>  </strong>  </p>",
       "chat": ""
     },
     "source": {

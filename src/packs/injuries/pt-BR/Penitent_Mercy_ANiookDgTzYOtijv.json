@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> You seem to have lost your stomach for killing. The thought of taking a life fills you with abject disgust. You may not willingly take a life. Any Dano dealt by you that reduces a creature’s hit points to 0 automatically knocks them out instead of killing them. This effect lasts  [[1d4]]  days. </p>",
+      "value": "<p> You seem to have lost your stomach for killing. The thought of taking a life fills you with abject disgust. You may not willingly take a life. Any Dano dealt by you that reduces a creature’s Hit Points to 0 automatically knocks them out instead of killing them. Este efeito dura  [[1d4]]  days. </p>",
       "chat": ""
     },
     "source": {

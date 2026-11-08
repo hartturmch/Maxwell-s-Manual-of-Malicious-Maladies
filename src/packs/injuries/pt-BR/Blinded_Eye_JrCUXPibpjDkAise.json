@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>  </strong>  </p>  <p> Role aleatoriamente para o olho direito ou esquerdo. Mesmo através de pálpebras fechadas, tudo o que você pode ver é uma brancura vazia. Seu olho está  <strong> não funcional </strong> e, se não for tratado dentro de 24 horas, sua visão ficará permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
+      "value": "<p>  </strong>  </p>  <p> Role aleatoriamente para o olho direito ou esquerdo. Mesmo através de pálpebras fechadas, tudo o que você pode ver é uma brancura vazia. Seu olho está  <strong> não funcional </strong> e, se não for tratado dentro de 24 horas, sua visão ficará permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
       "chat": ""
     },
     "source": {

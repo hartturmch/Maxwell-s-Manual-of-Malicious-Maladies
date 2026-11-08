@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> The extreme Frio has leeched away a large amount of your body heat. While on initiative you function as if affected by the Slow spell. If untreated for two hours, the condition advances to Severe Hypothermia. </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming yourself ends this effect. </p>",
+      "value": "<p> The extreme Frio has leeched away a large amount of your body heat. While on initiative you function as if affected by the Slow spell. Se não for tratado for two hours, the condition advances to Severe Hypothermia. </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming yourself ends this effect. </p>",
       "chat": ""
     },
     "source": {

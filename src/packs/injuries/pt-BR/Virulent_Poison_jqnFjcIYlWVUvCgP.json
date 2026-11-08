@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>O veneno se espalha rapidamente pelo seu corpo. Você fica <strong>&Reference[poisoned]{poisoned}</strong> e sofre [[1d6]] de Poison Damage ao final de cada turno.</p><p><em>Tratamento</em> - Um DC 18 Saving Throw ou uma dose de antitoxina encerra esta lesão.</p>",
+      "value": "<p>O veneno se espalha rapidamente pelo seu corpo. Você fica <strong>&Reference[poisoned]{poisoned}</strong> e sofre [[1d6]] de Poison Dano ao final de cada turno.</p><p><em>Tratamento</em> - Um DC 18 Saving Throw ou uma dose de antitoxina encerra esta lesão.</p>",
       "chat": ""
     },
     "source": {

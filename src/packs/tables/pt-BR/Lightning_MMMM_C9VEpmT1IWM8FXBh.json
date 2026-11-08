@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Your muscle has contracted so strongly that its been torn free of the bone. Your limb is  <strong> sem funcionamento </strong>  and will not properly heal without Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Limb Cirurgia. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Your muscle has contracted so strongly that its been torn free of the bone. Your limb is  <strong> sem funcionamento </strong>  and will not properly heal without Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. </p>",
       "name": "Muscle Avulsion",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.la33qmFoirnT147t",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TdmwWKMIbILcrMyE"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your brain has been damaged by the electrical surge and you're not acting like yourself. You take a  <strong> flaw </strong>  chosen randomly or by the DM. </p>  <p>  <em> Tratamento </em>  - After each long rest roll a d20. On a 19 or 20, the  <strong> flaw </strong>  disappears. </p>",
+      "description": "<p> Your brain has been Danod by the electrical surge and you're not acting like yourself. Você sofre a  <strong> flaw </strong>  chosen randomly or by the DM. </p>  <p>  <em> Tratamento </em>  - After each Long Rest roll a d20. On a 19 or 20, the  <strong> flaw </strong>  disappears. </p>",
       "name": "Personality Change",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.HtnLT2MDX6sC6OrY",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xu5RO5Z0AGYlrUQ5"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your nerves are shot, you feel numb, and you're having trouble making your body respond with the speed you need it to. You cannot take reactions for  [[1d4]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check reduces the duration of this injury by  [[1d4]]  days. </p>",
+      "description": "<p> Your nerves are shot, you feel numb, and you're having trouble making your body respond with the speed you need it to. Você não pode take reactions for  [[1d4]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check reduces the duration of this injury by  [[1d4]]  days. </p>",
       "name": "Numbed Nerves",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.DlT8xu72pdkTS73u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.QCwUDqgN01J2UcBO"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Roll twice on the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of your body is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
+      "description": "<p> Role duas vezes na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of your body is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
       "name": "Aterramento Cicatriz",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.fUDRwhqypuKa64Fs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oXynahd8ruUshXUE"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This area of your body is left with a Lichtenberg Figure, a scar resembling Relâmpago that runs along the path the current took through your body. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This area of your body is left with a Lichtenberg Figure, a scar resembling Relâmpago that runs along the path the current took through your body. </p>",
       "name": "Lichtenberg Figure",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.PWDc7pCd3TtZH467",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.NRqRf9KwsXR2ICjf"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the electricity has interacted with a thread of natural magic within you. This body part emits a small electrical arc of energy every few minutes. If you use an action to touch this body part to a character with 0 hit points they become stable in the same manner as the Spare the Dying cantrip. You may suppress the arcing effect by maintaining Concentração. The limb emits a faint aura of Evocation. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the electricity has interacted with a thread of natural magic within you. This body part emits a small electrical arc of energy every few minutes. If you use an action to touch this body part to a character with 0 Hit Points they become stable in the same manner as the Spare the Dying cantrip. You may suppress the arcing effect by maintaining Concentração. The limb emits a faint aura of Evocation. </p>",
       "name": "Static Arco",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.R30x9IOGKRqjyShC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Fj4AEbUuxgw3tgxA"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The electricity has violently exited your body at this point, charring it to the point of being  <strong> sem funcionamento </strong> . If not treated within 24 hours, the appendage will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Limb Cirurgia. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The electricity has violently exited your body at this point, charring it to the point of being  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas, the appendage will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Cirurgia de Membro. </p>",
       "name": "Destructive Aterramento",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.YJVZUrVhCW4k7GW2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.2WbWzUxWznvk6JbL"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Shocked through the heart, and you're to blame. Any time you are  <strong> &Reference[charmed]{charmed} </strong>  or  <strong> &Reference[frightened]{frightened} </strong>  you take 1 level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  25 General Cirurgia. </p>",
+      "description": "<p> Shocked through the heart, and you're to blame. Any time you are  <strong> &Reference[charmed]{charmed} </strong>  or  <strong> &Reference[frightened]{frightened} </strong>  you take 1 level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  25 Cirurgia Geral. </p>",
       "name": "Heart Palpitations",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.esbzQKHRyA0WPvGq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oUmEbf4G1zykuMiU"

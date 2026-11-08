@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Ácido coats your limb, and you hear the sizzle as it starts to dissolve. This limb is  <strong> sem funcionamento </strong> . If you do not receive Tratamento within 30 minutes, the limb dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Ácido coats your limb, and you hear the sizzle as it starts to dissolve. This limb is  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos, the limb dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
       "chat": ""
     },
     "source": {

@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> An errant thread of magic comes loose, slipping away from you and causing havoc. The creature or source of the Dano rolls on the Wild Magic Surge Table (PHB pg.104). </p>",
+      "description": "<p> An errant thread of magic comes loose, slipping away from you and causing havoc. The creature or fonte do Dano rolls on the Wild Magic Surge Table (PHB pg.104). </p>",
       "name": "Wild Magic Feedback",
       "_key": "!tables.results!8RjcealuGnn8dloA.MTUxPdpjAEKeViPx",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.DTIAUdudOB28SxM9"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> An errant thread of magic comes loose, slipping towards you and causing chaos. Role na the Wild Magic Surge Table (PHB pg.104). </p>",
+      "description": "<p> An errant thread of magic comes loose, slipping towards you and causing chaos. Role na Wild Magic Surge Table (PHB pg.104). </p>",
       "name": "Wild Magic Surge",
       "_key": "!tables.results!8RjcealuGnn8dloA.m4YnstFN51ZMQIOS",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rJEderKwy0KPLa2a"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel an almost anticlimactic pop and then, nothing. All your spell slots are harmlessly expended. You may reprepare spells as usual after a long rest or as your class dictates. </p>",
+      "description": "<p> You feel an almost anticlimactic pop and then, nothing. All your Spell Slots are harmlessly expended. You may reprepare spells as usual after um Long Rest or as your class dictates. </p>",
       "name": "Mana Discharge",
       "_key": "!tables.results!8RjcealuGnn8dloA.5QvTtWKXTKFWbQbc",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.uN9O52wUdAGEAISb"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Sometimes there are strange side effects when you deal with raw magical energy. This body part emits faint, misty whisps of arcane energy with the following color and faint magical aura (roll  [[1d4]] ): 1) Orange, Conjuration, 2) Red, Evocation, 3) Blue, Abjuration, 4) Green, Transmutation. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Sometimes there are strange side effects when you deal with raw magical energy. This body part emits faint, misty whisps of arcane energy with the following color and faint magical aura (roll  [[1d4]] ): 1) Orange, Conjuration, 2) Red, Evocation, 3) Blue, Abjuration, 4) Green, Transmutation. </p>",
       "name": "Persistente Aura",
       "_key": "!tables.results!8RjcealuGnn8dloA.TtN76YZO4sdKH2he",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Uzg4qnzgKmEFpYcI"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Sometimes there are strange side effects when you deal with raw magical energy. This body part emits faint, misty whisps of arcane energy with the following color and faint magical aura (roll  [[1d4]] ): 1) Black, Necromancy, 2) White, Enchantment, 3) Yellow, Illusion, 4) Violet, Divination. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Sometimes there are strange side effects when you deal with raw magical energy. This body part emits faint, misty whisps of arcane energy with the following color and faint magical aura (roll  [[1d4]] ): 1) Black, Necromancy, 2) White, Enchantment, 3) Yellow, Illusion, 4) Violet, Divination. </p>",
       "name": "Persistente Aura",
       "_key": "!tables.results!8RjcealuGnn8dloA.SVfKTmuMaYswE7XX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.L1se5pFxXJpdJLIF"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel the energy tug violently at your arcane essence until a portion of it tears loose. One of the highest level spell slots you have available to cast is harmlessly expended. You may reprepare this spell slot as usual after a long rest or as your class dictates. </p>",
+      "description": "<p> You feel the energy tug violently at your arcane essence until a portion of it tears loose. One of the highest level Spell Slots you have available to cast is harmlessly expended. You may reprepare this spell slot as usual after um Long Rest or as your class dictates. </p>",
       "name": "Mana Queimadura",
       "_key": "!tables.results!8RjcealuGnn8dloA.PYPnUAvwDiw2fUEl",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.5ne8JQFoOuSed1Z0"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel the energy suck away your arcane essence and are left with a lingering feeling of emptiness. Two of the highest level spell slots you have available to cast are harmlessly expended. You may reprepare these spell slots as usual after a long rest or as your class dictates. </p>",
+      "description": "<p> You feel the energy suck away your arcane essence and are left with a lingering feeling of emptiness. Two of the highest level Spell Slots you have available to cast are harmlessly expended. You may reprepare these Spell Slots as usual after um Long Rest or as your class dictates. </p>",
       "name": "Mana Syphon",
       "_key": "!tables.results!8RjcealuGnn8dloA.zhFIFbNkjeu30sJa",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.U5QKhzDgZEZiqAJY"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. When the arcane energy has been expelled and the pain recedes, you flex your limb and find some of that energy has decided to stick with you. Unarmed strikes and weapons wielded by this limb count as magical for the purpose of overcoming resistance and immunity to non- magical attacks and Dano. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. When the arcane energy has been expelled and the pain recedes, you flex your limb and find some of that energy has decided to stick with you. Unarmed strikes and weapons wielded by this limb count as magical for the purpose of overcoming resistance and immunity to não mágico attacks and Dano. </p>",
       "name": "Imbuant Artus",
       "_key": "!tables.results!8RjcealuGnn8dloA.OBME27B4D4i5Uk9i",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.LFr27kEqjtG87DrX"

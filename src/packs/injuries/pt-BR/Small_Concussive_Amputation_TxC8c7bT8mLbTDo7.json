@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The concussive blast has torn your appendage free and sent it flying. It lands 30 feet away from you, pushed away from the direction of the attack, and is considered  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The concussive blast has torn your appendage free and sent it flying. It lands 30 feet away from you, pushed away from the direction of the attack, and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
       "chat": ""
     },
     "source": {

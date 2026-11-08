@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel like you've seen the face of death and can recall its grim visage with ease. You require one less failed death saving throw before you die. </p>",
+      "description": "<p> You feel like you've seen the face of death and can recall its grim visage with ease. You require one less failed death Saving Throw before you die. </p>",
       "name": "Tenuous Grip on Life",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.mflZMTM1nS2HFcfX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Zn2Z8JCxvUXphnzp"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your wound festers with a dark energy. It resists both magical and natural healing. Your maximum hit points are reduced by the amount of Dano that caused the Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - A  DC  18 General Cirurgia check or the Greater Restoration spell. </p>",
+      "description": "<p> Your wound festers with a dark energy. It resists both magical and natural healing. Your maximum Hit Points are reduced by the amount of Dano that caused the Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - A  DC  18 Cirurgia Geral check or the Greater Restoration spell. </p>",
       "name": "Necrótico Ferida",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.yq7N0ZmXyvnIExgW",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.nQ9BDJmwaBvsR4oh"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel frail, drained, as if your life's very essence has been stolen away from you. You have disadvantage on Strength (Athletics) checks and both Strength and Constitution saving throws for  [[1d4]]  days. </p>",
+      "description": "<p> You feel frail, drained, as if your life's very essence has been stolen away from you. You have disadvantage on Strength (Athletics) checks and both Strength and Constitution Saving Throws for  [[1d4]]  days. </p>",
       "name": "Withered Longe",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.zgGMdkoNVSiuodwE",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yHzmaTQ5WMPjxjLM"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> All positive emotion within you shatters like a mirror and you are left only with painful, distracting shards. If you have Inspiration, you lose it. You lose any nonmagical effect granting you a temporary bonus or advantage (such as Bardic Inspiration, Barbarian Rage, the Dodge action, or the Help action). </p>",
+      "description": "<p> All positive emotion within you shatters like a mirror and you are left only with painful, distracting shards. If you have Inspiration, you lose it. You lose any não mágico effect granting you a temporary bonus or advantage (such as Bardic Inspiration, Barbarian Rage, the Dodge action, or the Help action). </p>",
       "name": "Sorrow",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.nyeVzSKBd68wKmr8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rJls35rZ1woHNjOQ"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with a curious scar that appears to be a shadow over the wounded area. No amount of light seems to be able to eliminate this shadow. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a curious scar that appears to be a shadow over the wounded area. No amount of light seems to be able to eliminate this shadow. </p>",
       "name": "Sombra Cicatriz",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.fOM1XBQOuP86dTQO",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ZSjESgzEimHy5aTL"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You cannot be magically healed for  [[1d6]]  turns. This includes spells which restore hit points, cure conditions, and raise the dead. </p>",
+      "description": "<p> Você não pode be magically healed for  [[1d6]]  turns. This includes spells which restore Hit Points, cure conditions, and raise the dead. </p>",
       "name": "Mitotic Rejection",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.zTAXVuVF0GijLXbM",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.i7VC1FIxuVSPkPUS"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. This limb is pale, bloodless, and dead. Yet somehow...you can still move it normally. The limb emits a faint aura of Necromancy. You can suppress this effect with an effort of concentration. This renders your physical limb inanimate and a ghostly, phantom limb appears from within it, staying attached to you. This incorporeal limb can pass through creatures and objects and interact with both the Material Plane and the Border Ethereal Plane. If the Phantom Limb ever spends more than 6 seconds inside an object, it flickers from existence and you take [[/damage 1d6 force]].</p><p><em>Treatment</em> - Any spell that returns the dead to life will return your limb to normal, provided you follow the spell's normal requirements.</p>",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. This limb is pale, bloodless, and dead. Yet somehow...you can still move it normally. The limb emits a faint aura of Necromancy. You can suppress this effect with an effort of concentration. This renders your physical limb inanimate and a ghostly, phantom limb appears from within it, staying attached to you. This incorporeal limb can pass through creatures and objects and interact with both the Material Plane and the Border Ethereal Plane. If the Phantom Limb ever spends more than 6 seconds inside an object, it flickers from existence and you take [[/damage 1d6 force]].</p><p><em>Tratamento</em> - Any spell that returns the dead to life will return your limb to normal, provided you follow the spell's normal requirements.</p>",
       "name": "Fantasma Membro",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.NNEoVJmXjmNndWAs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.JsaFwMWuJG9F0UkB"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Slowly, you feel the building urge to destroy something beautiful. You have  [[1d6]]  days to commit an act of senseless destruction or violence (outside of what would be normal behavior for your character). If you do not do this within the time limit, the compulsion builds to distracting levels, and you have disadvantage to all attack rolls, ability checks, and saving throws until you do. </p>",
+      "description": "<p> Slowly, you feel the building urge to destroy something beautiful. You have  [[1d6]]  days to commit an act of senseless destruction or violence (outside of what would be normal behavior for your character). If you do not do this within the time limit, the compulsion builds to distracting levels, and you have disadvantage to all attack rolls, Ability Checks, and Saving Throws until you do. </p>",
       "name": "Insidious Compulsion",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.e6palVsMklFOzEPx",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FY5fuwuHmYXwkIpF"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A small mote of corrupt power has taken residence within you and you feel a tiny part of your soul become unhinged. You take a  <strong> flaw </strong>  that would be considered malevolent, violent, cruel, or volatile. </p>",
+      "description": "<p> A small mote of corrupt power has taken residence within you and you feel a tiny part of your soul become unhinged. Você sofre a  <strong> flaw </strong>  that would be considered malevolent, violent, cruel, or volatile. </p>",
       "name": "Felt the Escuros",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.09TizzFme7VtzSV9",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.3MczKcI7QlA9H3yB"

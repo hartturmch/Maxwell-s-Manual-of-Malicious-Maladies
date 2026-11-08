@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This is a prosthetic attachment with a hook or simple grasping mechanism that may be attached in place of a  <strong> ausente  </strong> arm or hand. Wearing this prosthetic allows you to ignore the penalty to ability checks normally requiring the use of both arms. This prosthetic may not be used to make attacks. </p>",
+      "value": "<p> This is a prosthetic attachment with a hook or simple grasping mechanism that may be attached in place of a  <strong> ausente  </strong> arm or hand. Wearing this prosthetic allows you to ignore the penalty to Ability Checks normally requiring the use of both arms. This prosthetic may not be used to make attacks. </p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the electricity has interacted with a thread of natural magic within you. This body part emits a small electrical arc of energy every few minutes. If you use an action to touch this body part to a character with 0 hit points they become stable in the same manner as the Spare the Dying cantrip. You may suppress the arcing effect by maintaining Concentração. The limb emits a faint aura of Evocation. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the electricity has interacted with a thread of natural magic within you. This body part emits a small electrical arc of energy every few minutes. If you use an action to touch this body part to a character with 0 Hit Points they become stable in the same manner as the Spare the Dying cantrip. You may suppress the arcing effect by maintaining Concentração. The limb emits a faint aura of Evocation. </p>",
       "chat": ""
     },
     "source": {

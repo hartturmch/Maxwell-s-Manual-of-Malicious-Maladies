@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Seu membro é esmagado ao ponto de inutilidade e permanentemente não funcional. Se não for reconstruído, o membro não recuperará a funcionalidade. </p>  <p>  <em> Tratamento </em>  - A  DC  23 Salvar Cirurgia de Membros </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu membro é esmagado ao ponto de inutilidade e permanentemente não funcional. Se não for reconstruído, o membro não recuperará a funcionalidade. </p>  <p>  <em> Tratamento </em>  - A  DC  23 Salvar Cirurgia de Membros </p>",
       "chat": ""
     },
     "source": {

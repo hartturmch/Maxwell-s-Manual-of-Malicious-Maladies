@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Você sente uma dor aguda quando o golpe cai diretamente em uma de suas extremidades. Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. Esse apêndice está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d10]]  dias. </p>",
+      "value": "<p> Você sente uma dor aguda quando o golpe cai diretamente em uma de suas extremidades. Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Esse apêndice está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d10]]  dias. </p>",
       "chat": ""
     },
     "source": {

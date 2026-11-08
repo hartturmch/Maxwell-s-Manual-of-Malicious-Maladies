@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque perfurou seu intestino, causando dor intensa e sangramento interno. Você sofre 1 nível de &Reference[exhaustion]{exhaustion} ao final de cada turno.</p><p><em>Tratamento</em> - Um DC 20 Saving Throw de General Surgery encerra esta lesão.</p>",
+      "value": "<p>O ataque perfurou seu intestino, causando dor intensa e sangramento interno. Você sofre 1 nível de &Reference[exhaustion]{exhaustion} ao final de cada turno.</p><p><em>Tratamento</em> - Um DC 20 Saving Throw de Cirurgia Geral encerra esta lesão.</p>",
       "chat": ""
     },
     "source": {

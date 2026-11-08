@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Os vapores cáusticos do ácido causaram estragos em suas cordas vocais. Sua voz é  <strong> sem funcionamento </strong>  e você é mudo. Se não receber tratamento dentro de 30 minutos, ficará permanentemente  <strong> em falta </strong> . </p>  <p>  <em> Tratamento <em>  - A  DC  19 Teste de Resistência Sense Cirurgia </em>  </em>  </p>",
+      "value": "<p> Os vapores cáusticos do ácido causaram estragos em suas cordas vocais. Sua voz é  <strong> sem funcionamento </strong>  e você é mudo. Se não receber tratamento dentro de 30 minutos, ficará permanentemente  <strong> em falta </strong> . </p>  <p>  <em> Tratamento <em>  - A  DC  19 Teste de Resistência Cirurgia Sensorial </em>  </em>  </p>",
       "chat": ""
     },
     "source": {

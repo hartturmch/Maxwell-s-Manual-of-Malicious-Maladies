@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Your skin bubbles and blisters as the burning flashes over it. While on initiative you take 1 Fogo Dano per 5 feet of movement. This injury heals in  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d8]]  days. </p>",
+      "value": "<p> Your skin bubbles and blisters as the burning flashes over it. While on initiative you take 1 Fogo Dano per 5 feet of movement. Esta lesão cicatriza in  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d8]]  days. </p>",
       "chat": ""
     },
     "source": {

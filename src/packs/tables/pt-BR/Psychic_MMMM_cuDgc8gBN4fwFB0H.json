@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your brain feels wired, and you cannot Força it to rest no matter how hard you try. You cannot benefit from short or long rests for  [[1d4]]  days (You do not regain HD, cannot regain spell slots or prepare spells, and do not heal). During this time you are immune to magical sleep. </p>",
+      "description": "<p> Your brain feels wired, and you cannot Força it to rest no matter how hard you try. Você não pode benefit from short or Long Rests for  [[1d4]]  days (You do not regain HD, cannot regain Spell Slots or prepare spells, and do not heal). During this time you are immune to magical sleep. </p>",
       "name": "Insomnia",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.EZ6bgj4yx3zMpXPo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pCWU8PhiTCfifdKr"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You feel a bubbling terror rising into your throat, and suddenly all you can think of is getting away. You are terrified of the source of the Dano as if affected by the Fear spell (saving throw  DC  equals half the Dano that caused the Lesão Persistente or 10, whichever number is higher). </p>",
+      "description": "<p> You feel a bubbling terror rising into your throat, and suddenly all you can think of is getting away. You are terrified of the fonte do Dano as if affected by the Fear spell (Saving Throw  DC  equals half the Dano that caused the Lesão Persistente or 10, whichever number is higher). </p>",
       "name": "Terrified",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.p0UXIAtKZElWJZog",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.v6dk6Dqn5P6Rd1We"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>  </strong>  </p>  <p> A sudden jolt of intense fear lances through you from your scalp to your toes. You are terrified of the source of the Dano as if affected by the Fear spell until the end of your next turn. </p>",
+      "description": "<p>  </strong>  </p>  <p> A sudden jolt of intense fear lances through you from your scalp to your toes. You are terrified of the fonte do Dano as if affected by the Fear spell until the end of your next turn. </p>",
       "name": "Frightened",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.bGHXchy2VclhgzQw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.44eqJ9SEijuuorlY"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Your head throbs, the light aggravates you, and all you want is for the pounding to stop. You cannot benefit from a short rest for  [[1d4]]  days. </p>",
+      "description": "<p> Your head throbs, the light aggravates you, and all you want is for the pounding to stop. Você não pode benefit from um Short Rest for  [[1d4]]  days. </p>",
       "name": "Persistent Migraine",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.EVJB4rTlqsfmkgiK",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yfY1oVRL1hLzJbCL"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> You now tend to experience nosebleeds when you exert a great Força of mental effort. The nosebleeds occur when (roll  [[1d6]] ): 1) You are  <strong> &Reference[frightened]{frightened} </strong> , 2) You are  <strong> &Reference[charmed]{charmed} </strong> , 3) You make an Intelligence saving throw, 4) You make a Wisdom saving throw, 5) You make a Charisma saving throw, 6) You take Psíquico Dano. </p>",
+      "description": "<p> You now tend to experience nosebleeds when you exert a great Força of mental effort. The nosebleeds occur when (roll  [[1d6]] ): 1) You are  <strong> &Reference[frightened]{frightened} </strong> , 2) You are  <strong> &Reference[charmed]{charmed} </strong> , 3) You make an Intelligence Saving Throw, 4) You make a Wisdom Saving Throw, 5) You make a Charisma Saving Throw, 6) Você sofre Psíquico Dano. </p>",
       "name": "Nosebleeds",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.DV2ycF0Vvm3riVrN",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xxtbp9GbBhiqace6"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A bit confused, you feel a wave of unexpected affection wash over you. You are  <strong> &Reference[charmed]{charmed} </strong>  by the source of the Dano as if under the effects of the Charm Person spell. This effect lasts  [[1d4]]  rounds. </p>  <p>  <em> Tratamento </em>  - Taking any amount of Dano from the source of the charm ends this effect. </p>",
+      "description": "<p> A bit confused, you feel a wave of unexpected affection wash over you. You are  <strong> &Reference[charmed]{charmed} </strong>  by the fonte do Dano as if under the effects of the Charm Person spell. Este efeito dura  [[1d4]]  rounds. </p>  <p>  <em> Tratamento </em>  - Taking any amount of Dano from the source of the charm ends this effect. </p>",
       "name": "Enamoured",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.EaSfdGr8uuntehqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9qQe15vBFlmwqHll"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. In a freak instance of chance, the psychic assault has interacted with a thread of natural magic within you. The appearance of this body part keeps subtly shifting, though it feels exactly the same as before. This area of your body is permanently under the effect of a Minor Illusion spell and emits a faint aura of Illusion. You can suppress or control this effect with an effort of concentration, otherwise the body part slowly shifts through minor changes in colour, size, shape, and appearance seemingly in relation to your general mood. The spell save DC for this illusion is 10 + your current level.</p>",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the psychic assault has interacted with a thread of natural magic within you. The appearance of this body part keeps subtly shifting, though it feels exactly the same as before. This area of your body fica permanentemente under the effect of a Minor Illusion spell and emits a faint aura of Illusion. You can suppress or control this effect with an effort of concentration, otherwise the body part slowly shifts through minor changes in colour, size, shape, and appearance seemingly in relation to your general mood. The spell save DC for this illusion is 10 + your current level.</p>",
       "name": "Ilusório Membro",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.uVDiJW99HxlAYB6D",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xltUN0eArziKSY18"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your attempts to be understood are met with nothing but narrowed eyes and confused looks. You lose proficiency with all languages except common, which you can understand, but not speak. You cannot read or write. Any attempt to speak a language results in a garbled string of seemingly random words. This effect lasts [[1d4]] days.</p><p><em>Treatment</em> - Any spell that allows the caster to comprehend the literal or implied meaning of communication will function as normal.</p>",
+      "description": "<p>Your attempts to be understood are met with nothing but narrowed eyes and confused looks. You lose proficiency with all languages except common, which you can understand, but not speak. Você não pode read or write. Any attempt to speak a language results in a garbled string of seemingly random words. Este efeito dura [[1d4]] days.</p><p><em>Tratamento</em> - Any spell that allows the caster to comprehend the literal or implied meaning of communication will function as normal.</p>",
       "name": "Temporária Aphasia",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.hVP100SCgORrLxxu",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.eo0LfZSYSd2oVoXH"

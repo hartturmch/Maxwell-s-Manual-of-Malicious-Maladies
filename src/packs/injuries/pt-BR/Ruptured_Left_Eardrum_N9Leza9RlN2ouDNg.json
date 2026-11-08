@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> A violent impact to the side of your head has caused your left eardrum to rupture. Your left ear is  <strong> sem funcionamento </strong> . If it is not treated within 24 hours, your hearing in this ear is permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia </p>",
+      "value": "<p> A violent impact to the side of your head has caused your left eardrum to rupture. Your left ear is  <strong> sem funcionamento </strong> . If it is not treated dentro de 24 horas, your hearing in this ear fica permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial </p>",
       "chat": ""
     },
     "source": {

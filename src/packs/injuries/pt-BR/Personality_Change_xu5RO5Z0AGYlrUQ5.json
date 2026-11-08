@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Your brain has been damaged by the electrical surge and you're not acting like yourself. You take a  <strong> flaw </strong>  chosen randomly or by the DM. </p>  <p>  <em> Tratamento </em>  - After each long rest roll a d20. On a 19 or 20, the  <strong> flaw </strong>  disappears. </p>",
+      "value": "<p> Your brain has been Danod by the electrical surge and you're not acting like yourself. Você sofre a  <strong> flaw </strong>  chosen randomly or by the DM. </p>  <p>  <em> Tratamento </em>  - After each Long Rest roll a d20. On a 19 or 20, the  <strong> flaw </strong>  disappears. </p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p> You see blood trickling from your wound. It must be a nicked vein because it's difficult to staunch. At the end of each turn you take Dano to your maximum hit points scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d2]] ), 11-20 Dano ( [[1d4]] ), 21-30 Dano ( [[1d6]] ), 31-40 Dano ( [[1d8]] ),  &gt; 40 Dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check staunches the bleeding. You may reattempt this check. </p>",
+      "value": "<p> You see blood trickling from your wound. It must be a nicked vein because it's difficult to staunch. At the end of each turn you take Dano to your maximum Hit Points scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d2]] ), 11-20 Dano ( [[1d4]] ), 21-30 Dano ( [[1d6]] ), 31-40 Dano ( [[1d8]] ),  &gt; 40 Dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 14]]  check staunches the bleeding. You may reattempt this check. </p>",
       "chat": ""
     },
     "source": {

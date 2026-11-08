@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The limb is charred black, completely covered in extensive burns, and  <strong> sem funcionamento </strong> . If untreated within 24 hours the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The limb is charred black, completely covered in extensive burns, and  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
       "chat": ""
     },
     "source": {

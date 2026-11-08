@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A violent impact to the side of your head has caused your right eardrum to rupture. Your right ear is  <strong> sem funcionamento </strong> . If it is not treated within 24 hours, your hearing in this ear is permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia </p>",
+      "description": "<p> A violent impact to the side of your head has caused your right eardrum to rupture. Your right ear is  <strong> sem funcionamento </strong> . If it is not treated dentro de 24 horas, your hearing in this ear fica permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial </p>",
       "name": "Ruptured Right Eardrum",
       "_key": "!tables.results!48xZVriedgL4S9IO.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.q9Q4d8UdipnM6SiC"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The enormous impact of the blow has caused your limb to be torn from its socket. The limb is  <strong> ausente </strong>  and thrown 15 feet in a random direction. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The enormous impact of the blow has caused your limb to be torn from its socket. The limb is  <strong> ausente </strong>  and thrown 15 feet in a random direction. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro </p>",
       "name": "Membro Torn Asunder",
       "_key": "!tables.results!48xZVriedgL4S9IO.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rULySNi5rRtLc7gG"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A blow to your face has knocked one of your teeth clean out of your mouth. </p>  <p>  <em> Tratamento </em>  - A  [[/skill perception 15]]  check will allow you to recover the tooth. A  DC  19 General Cirurgia within 1 day of the injury occurring allows you to reinsert the tooth. </p>",
+      "description": "<p> A blow to your face has knocked one of your teeth clean out of your mouth. </p>  <p>  <em> Tratamento </em>  - A  [[/skill perception 15]]  check will allow you to recover the tooth. A  DC  19 Cirurgia Geral within 1 day of the injury occurring allows you to reinsert the tooth. </p>",
       "name": "Lost Tooth",
       "_key": "!tables.results!48xZVriedgL4S9IO.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VTnEz1P7ti8zqB3u"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você sente uma dor aguda quando o golpe cai diretamente em uma de suas extremidades. Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. Esse apêndice está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d10]]  dias. </p>",
+      "description": "<p> Você sente uma dor aguda quando o golpe cai diretamente em uma de suas extremidades. Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Esse apêndice está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d10]]  dias. </p>",
       "name": "Apêndice Quebrado",
       "_key": "!tables.results!48xZVriedgL4S9IO.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.X5INGDuWp9MrN4cF"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Roll to randomly determine the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is  <strong> sem funcionamento </strong> . </p>  <p>  <em> Tratamento </em>  - While on initiative, make a  [[/check con 18]]  check as a bonus action to Força the joint into place and end this injury. Off initiative, a  [[/skill medicine 18]]  check will end this injury. </p>",
+      "description": "<p> Roll to randomly determine the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is  <strong> sem funcionamento </strong> . </p>  <p>  <em> Tratamento </em>  - While on initiative, make a  [[/check con 18]]  check as a Bonus Action to Força the joint into place and end this injury. Off initiative, a  [[/skill medicine 18]]  check will end this injury. </p>",
       "name": "Dislocated Shoulder",
       "_key": "!tables.results!48xZVriedgL4S9IO.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pIhpZqWVD3qPb6xd"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Este membro está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d8]]  dias. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Este membro está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d8]]  dias. </p>",
       "name": "Membro Quebrado",
       "_key": "!tables.results!48xZVriedgL4S9IO.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6G4qwq1APU6BSmQu"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Seu membro é esmagado ao ponto de inutilidade e permanentemente não funcional. Se não for reconstruído, o membro não recuperará a funcionalidade. </p>  <p>  <em> Tratamento </em>  - A  DC  23 Salvar Cirurgia de Membros </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu membro é esmagado ao ponto de inutilidade e permanentemente não funcional. Se não for reconstruído, o membro não recuperará a funcionalidade. </p>  <p>  <em> Tratamento </em>  - A  DC  23 Salvar Cirurgia de Membros </p>",
       "name": "Membro Esmagado",
       "_key": "!tables.results!48xZVriedgL4S9IO.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.uFkl1FRdw51NMmst"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A violent impact to the side of your head has caused your left eardrum to rupture. Your left ear is  <strong> sem funcionamento </strong> . If it is not treated within 24 hours, your hearing in this ear is permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia </p>",
+      "description": "<p> A violent impact to the side of your head has caused your left eardrum to rupture. Your left ear is  <strong> sem funcionamento </strong> . If it is not treated dentro de 24 horas, your hearing in this ear fica permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial </p>",
       "name": "Ruptured Left Eardrum",
       "_key": "!tables.results!48xZVriedgL4S9IO.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.N9Leza9RlN2ouDNg"

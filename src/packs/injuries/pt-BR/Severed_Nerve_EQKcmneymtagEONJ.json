@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Through precision or just sheer luck, the blow has severed a nerve in one of your major limbs. This limb is  <strong> sem funcionamento </strong>  and will not heal properly without Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Through precision or just sheer luck, the blow has severed a nerve in one of your major limbs. This limb is  <strong> sem funcionamento </strong>  and não cicatrizará corretamente without Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
       "chat": ""
     },
     "source": {

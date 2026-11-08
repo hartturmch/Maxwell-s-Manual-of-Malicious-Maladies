@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with a scar that somehow gives you a distinct roguish charm. When this scar is visible you have a +1 bonus to Charisma (Deception) checks. If you collect multiple Roguish Scars, this bonus does not stack. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com a scar that somehow gives you a distinct roguish charm. When this scar is visible you have a +1 bonus to Charisma (Deception) checks. If you collect multiple Roguish Scars, this bonus does not stack. </p>",
       "chat": ""
     },
     "source": {

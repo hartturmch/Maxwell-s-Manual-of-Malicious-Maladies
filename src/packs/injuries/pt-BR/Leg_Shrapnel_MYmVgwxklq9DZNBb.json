@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> The attack has turned small fragments of debris in the surrounding area into deadly ballistic projectiles, many of which have found their way deep into your leg muscles. Your speed is reduced by 10 feet. </p>  <p>  <em> Tratamento </em>  - A  DC  22 General Cirurgia. </p>",
+      "value": "<p> The attack has turned small fragments of debris in the surrounding area into deadly ballistic projectiles, many of which have found their way deep into your leg muscles. Your speed is reduced by 10 feet. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Cirurgia Geral. </p>",
       "chat": ""
     },
     "source": {

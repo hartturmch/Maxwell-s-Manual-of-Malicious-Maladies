@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Ácido injury has resulted in a scar that is gnarled and scaly with a light sheen the same color as the Ácido that damaged you. You gain +2 Natural Armor from it, or +1 if you already have a Natural Armor bonus. </p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Ácido injury has resulted in a scar that is gnarled and scaly with a light sheen the same color as the Ácido that Danod you. You gain +2 Natural Armor from it, or +1 if you already have a Natural Armor bonus. </p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Roll to randomly determine your left or right ear. The Veneno has spread to the delicate structures in your inner ear. This ear is  <strong> sem funcionamento </strong> , and if not treated within 12 hours, your hearing will be damaged beyond repair (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
+      "value": "<p> Roll to randomly determine your left or right ear. The Veneno has spread to the delicate structures in your inner ear. This ear is  <strong> sem funcionamento </strong> , and if not treated within 12 hours, your hearing will be Danod beyond repair (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
       "chat": ""
     },
     "source": {

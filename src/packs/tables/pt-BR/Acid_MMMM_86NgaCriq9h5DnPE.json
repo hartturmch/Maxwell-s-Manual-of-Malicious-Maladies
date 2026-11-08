@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Ácido has splashed over both of your eyes. You are  <strong> &Reference[blinded]{blinded} </strong>  and both your eyes are  <strong> sem funcionamento </strong> . If you do not receive Tratamento within 30 minutes your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia </p>",
+      "description": "<p> Ácido has splashed over both of your eyes. You are  <strong> &Reference[blinded]{blinded} </strong>  and both your eyes are  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial </p>",
       "name": "Ocular Corrosion",
       "_key": "!tables.results!86NgaCriq9h5DnPE.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.cQfVucRkiIr8jfxJ"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Ácido coats your limb, and you hear the sizzle as it starts to dissolve. This limb is  <strong> sem funcionamento </strong> . If you do not receive Tratamento within 30 minutes, the limb dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Ácido coats your limb, and you hear the sizzle as it starts to dissolve. This limb is  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos, the limb dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
       "name": "Dissolvido Membro",
       "_key": "!tables.results!86NgaCriq9h5DnPE.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.F99iIEP9a1Eyum7w"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. Ácido splashes over your appendage and sizzles as it begins to dissolve. This appendage is  <strong> sem funcionamento </strong> . If you do not receive Tratamento within 30 minutes, the appendage dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the appendage is lost. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Ácido splashes over your appendage and sizzles as it begins to dissolve. This appendage is  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos, the appendage dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the appendage is lost. </p>",
       "name": "Dissolvido Apêndice",
       "_key": "!tables.results!86NgaCriq9h5DnPE.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.EVyTfL4pCoQ3QAC5"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Ácido injury has resulted in a scar that is gnarled and scaly with a light sheen the same color as the Ácido that damaged you. You gain +2 Natural Armor from it, or +1 if you already have a Natural Armor bonus. </p>",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Ácido injury has resulted in a scar that is gnarled and scaly with a light sheen the same color as the Ácido that Danod you. You gain +2 Natural Armor from it, or +1 if you already have a Natural Armor bonus. </p>",
       "name": "Escamosa Cicatriz",
       "_key": "!tables.results!86NgaCriq9h5DnPE.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.B788FbEMu4fj27LB"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Os vapores cáusticos do ácido causaram estragos em suas cordas vocais. Sua voz é  <strong> sem funcionamento </strong>  e você é mudo. Se não receber tratamento dentro de 30 minutos, ficará permanentemente  <strong> em falta </strong> . </p>  <p>  <em> Tratamento <em>  - A  DC  19 Teste de Resistência Sense Cirurgia </em>  </em>  </p>",
+      "description": "<p> Os vapores cáusticos do ácido causaram estragos em suas cordas vocais. Sua voz é  <strong> sem funcionamento </strong>  e você é mudo. Se não receber tratamento dentro de 30 minutos, ficará permanentemente  <strong> em falta </strong> . </p>  <p>  <em> Tratamento <em>  - A  DC  19 Teste de Resistência Cirurgia Sensorial </em>  </em>  </p>",
       "name": "Cordas vocais corroídas",
       "_key": "!tables.results!86NgaCriq9h5DnPE.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WWAdXxyYno3SBvWy"

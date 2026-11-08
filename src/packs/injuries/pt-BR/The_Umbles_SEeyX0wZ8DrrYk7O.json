@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> You are Frio. So Frio. You stumble. You fumble. You tumble. You mumble and grumble. You cannot take the  <em> disengage </em>  action for  [[1d6]]  turns. </p>",
+      "value": "<p> You are Frio. So Frio. You stumble. You fumble. You tumble. You mumble and grumble. Você não pode take the  <em> disengage </em>  action for  [[1d6]]  turns. </p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Shocked through the heart, and you're to blame. Any time you are  <strong> &Reference[charmed]{charmed} </strong>  or  <strong> &Reference[frightened]{frightened} </strong>  you take 1 level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  25 General Cirurgia. </p>",
+      "value": "<p> Shocked through the heart, and you're to blame. Any time you are  <strong> &Reference[charmed]{charmed} </strong>  or  <strong> &Reference[frightened]{frightened} </strong>  you take 1 level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  25 Cirurgia Geral. </p>",
       "chat": ""
     },
     "source": {

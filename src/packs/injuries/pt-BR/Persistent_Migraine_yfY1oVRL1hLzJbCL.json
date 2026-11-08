@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p> Your head throbs, the light aggravates you, and all you want is for the pounding to stop. You cannot benefit from a short rest for  [[1d4]]  days. </p>",
+      "value": "<p> Your head throbs, the light aggravates you, and all you want is for the pounding to stop. Você não pode benefit from um Short Rest for  [[1d4]]  days. </p>",
       "chat": ""
     },
     "source": {

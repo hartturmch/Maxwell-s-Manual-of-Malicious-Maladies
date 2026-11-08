@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Roll twice on the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of your body is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
+      "value": "<p> Role duas vezes na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of your body is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
       "chat": ""
     },
     "source": {
