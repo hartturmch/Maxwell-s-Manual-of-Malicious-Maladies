@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Você sente a sick, oily feeling deep in your stomach and bile roiling up your throat. Você tem disadvantage on all Ability Checks for  [[1d6]]  rodadas. </p>",
+      "value": "<p>Você sente uma sensação doentia e oleosa no fundo do estômago, enquanto a bile sobe pela garganta. Você tem Disadvantage em todos os Ability Checks por [[1d6]] rodadas.</p>",
       "chat": ""
     },
     "source": {

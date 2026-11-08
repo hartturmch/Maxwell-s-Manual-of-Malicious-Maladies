@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p> Your wound festers with a dark energy. It resists both magical and natural healing. Your maximum Hit Points are reduced by the amount of Dano that caused the Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - A  DC  18 Cirurgia Geral check or the Greater Restoration spell. </p>",
+      "value": "<p>Sua ferida apodrece com uma energia sombria. Ela resiste à cura mágica e natural. Seus Hit Points máximos são reduzidos pela quantidade de Dano que causou a Lesão Persistente.</p><p><em>Tratamento</em> — Um check de Cirurgia Geral DC 18 ou a magia Greater Restoration.</p>",
       "chat": ""
     },
     "source": {

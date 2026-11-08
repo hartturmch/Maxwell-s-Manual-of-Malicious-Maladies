@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Your muscles twitch in repetitive patterns and you have difficulty coordinating your movimento. Você tem disadvantage on all Dexterity based attacks, checks, and saves for  [[1d4]]  turns. </p>",
+      "value": "<p>Seus músculos se contraem em padrões repetitivos e você tem dificuldade para coordenar seu movimento. Você tem Disadvantage em todos os ataques, checks e Saving Throws baseados em Dexterity por [[1d4]] turnos.</p>",
       "chat": ""
     },
     "source": {
