@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. The voracious Fogo has devoured seu membro, leaving nothing but smoking cinders in its wake. O membro is  <strong> ausente </strong> , and the resulting wound is cauterized </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. O Fogo voraz consumiu seu membro, deixando apenas brasas fumegantes. O membro fica <strong>ausente</strong> e a ferida resultante é cauterizada.</p>",
       "chat": ""
     },
     "source": {

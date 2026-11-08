@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>  </strong>  </p>  <p> A sudden jolt of intense fear lances through you from your scalp to your toes. Você fica terrified of the fonte do Dano as if affected by the Fear spell until the end of your next turn. </p>",
+      "value": "<p>Um súbito choque de medo intenso percorre você do couro cabeludo aos dedos dos pés. Você fica <strong>&Reference[frightened]{frightened}</strong> em relação à fonte do Dano, como se estivesse sob efeito da magia Fear, até o final do seu próximo turno.</p>",
       "chat": ""
     },
     "source": {

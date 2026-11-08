@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. O membro is charred black, completely covered in extensive burns, and  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas the limb will necrotize and fall off in  [[1d4]]  dias (depois de which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. O membro está preto e carbonizado, coberto por queimaduras extensas, e fica <strong>sem funcionamento</strong>. Se não for tratado em 24 horas, o membro necrosará e cairá em [[1d4]] dias (depois disso ficará <strong>ausente</strong>).</p><p><em>Tratamento</em> — Uma Cirurgia de Membro DC 21. Você tem 1 check para esta Cirurgia; se não atingir a DC no primeiro check, o membro será perdido.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p> Your brain feels wired, and you cannot Força it to rest no matter how hard you try. Você não pode benefit from short or Long Rests for  [[1d4]]  dias (You do not regain HD, cannot regain Spell Slots or prepare spells, and do not heal). During this time you are immune to magical sleep. </p>",
+      "value": "<p>Seu cérebro parece estar ligado, e você não consegue fazê-lo descansar, por mais que tente. Você não pode se beneficiar de Short Rests ou Long Rests por [[1d4]] dias (não recupera HD, não recupera Spell Slots, não pode preparar magias e não se cura). Durante esse período, você fica imune ao sono mágico.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The blazing fires have scoured through until nothing but ash remains. O apêndice is  <strong> ausente </strong>  and the resulting wound is cauterized. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. As chamas intensas consumiram tudo até não restar nada além de cinzas. O apêndice fica <strong>ausente</strong> e a ferida resultante é cauterizada.</p>",
       "chat": ""
     },
     "source": {

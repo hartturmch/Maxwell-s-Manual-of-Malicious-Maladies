@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> The extreme Frio has leeched away a large amount of seu corpo heat. While on initiative you function as if affected by the Slow spell. Se não for tratado for two horas, the condition advances to Severe Hypothermia. </p>  <p>  <em> Tratamento </em>  - A Short Rest slowly rewarming yourself ends this effect. </p>",
+      "value": "<p>O Frio extremo removeu grande parte do calor do seu corpo. Durante a iniciativa, você funciona como se estivesse sob efeito da magia Slow. Se não for tratado por duas horas, o estado avança para Hypothermia Severe.</p><p><em>Tratamento</em> — Um Short Rest aquecendo você lentamente encerra este efeito.</p>",
       "chat": ""
     },
     "source": {
