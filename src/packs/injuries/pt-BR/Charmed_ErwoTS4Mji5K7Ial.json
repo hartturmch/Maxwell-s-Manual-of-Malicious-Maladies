@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>  </strong>  </p>  <p> Contra toda a lógica, você se sente acolhedor e querido. Você é  <strong> &Referência[charmed]{charmed} __X5X __  pela fonte do dano como se estivesse sob os efeitos do feitiço Pessoa Encantada. Este efeito dura até o final do seu próximo turno. </p>  <p>  <em> Tratamento </em>  - Tirar qualquer quantidade de dano da fonte do amuleto acaba com esse efeito. </p>",
+      "value": "<p>Contra toda a lógica, você se sente acolhedor e querido. Você fica <strong>&Reference[charmed]{charmed}</strong> pela fonte do Dano, como se estivesse sob efeito da magia Charm Person. Este efeito dura até o final do seu próximo turno.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de Dano da fonte do encanto encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

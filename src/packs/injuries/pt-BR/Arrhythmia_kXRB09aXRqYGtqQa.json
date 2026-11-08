@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> A eletricidade surge no âmago do seu ser, fazendo com que seu coração gagueje. É muito mais difícil para você lidar com a atividade física sem ficar muito cansado. Sempre que você fizer níveis de  <strong> eReferência[exaustão]{exaustão} </strong>, você faz um nível adicional. </p>  <p>  <em> Tratamento </em>  - A  DC  25 Cirurgia Geral. </p>",
+      "value": "<p>A eletricidade surge no âmago do seu ser, fazendo seu coração gaguejar. É muito mais difícil lidar com atividade física sem ficar exausto. Sempre que você ganhar níveis de <strong>&Reference[exhaustion]{exhaustion}</strong>, ganha um nível adicional.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 25.</p>",
       "chat": ""
     },
     "source": {

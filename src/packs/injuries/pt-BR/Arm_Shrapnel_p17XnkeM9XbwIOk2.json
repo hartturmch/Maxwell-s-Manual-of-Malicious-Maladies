@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Role para determinar aleatoriamente o braço esquerdo ou direito. O ataque transformou pequenos fragmentos de detritos na área circundante em projéteis balísticos mortais, muitos dos quais encontraram seu caminho profundamente em seus músculos do braço. Ataques feitos por este braço têm desvantagem. Os escudos usados por este braço fornecem 1  AC  em vez de 2  AC . </p>  <p>  <em> Tratamento </em>  - A  DC  21 Cirurgia Geral. </p>",
+      "value": "<p>Role para determinar aleatoriamente o braço esquerdo ou direito. O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, muitos dos quais penetraram profundamente nos músculos do braço. Ataques feitos com este braço têm Disadvantage. Shields usados por este braço fornecem 1 de Armor Class em vez de 2.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 21.</p>",
       "chat": ""
     },
     "source": {

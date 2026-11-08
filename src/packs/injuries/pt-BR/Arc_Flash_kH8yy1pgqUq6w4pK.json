@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "__X0X __ A corrente elétrica incendiou você. No início do seu turno, você sofre dano de incêndio dimensionado para o dano que causou o ferimento persistente: 1-10 dano ( [[1d2]] ), 11-20 dano ( [[1d4]] ), 21-30 dano ( [[1d6]] ), 31-40 dano ( __ X4X __ ),  __ X5X __ 40 dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - Você pode usar uma ação para extinguir as chamas. </p>",
+      "value": "<p>A corrente elétrica incendeia você. No início do seu turno, você sofre Fire damage proporcional ao Dano que causou a Lesão Persistente: 1–10 Dano ([[1d2]]), 11–20 Dano ([[1d4]]), 21–30 Dano ([[1d6]]), 31–40 Dano ([[1d8]]), &gt; 40 Dano ([[1d10]]).</p><p><em>Tratamento</em> — Você pode usar uma Action para apagar as chamas.</p>",
       "chat": ""
     },
     "source": {

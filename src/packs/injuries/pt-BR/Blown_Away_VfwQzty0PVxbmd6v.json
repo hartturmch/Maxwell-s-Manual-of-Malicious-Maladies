@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> A onda concussiva faz você voar de volta. Você é levado para longe da fonte do dano uma quantidade de pés dimensionada para o dano do ferimento persistente: 1-10 de dano (10 pés), 11-20 de dano (20 pés), 21-30 de dano (30 pés), 31-40 de dano (40 pés).),  &gt; 40 de dano (50 pés). </p>",
+      "value": "<p>A onda de concussão faz você voar para trás. Você é afastado da fonte do Dano uma distância proporcional ao Dano da Lesão Persistente: 1–10 Dano (10 feet), 11–20 Dano (20 feet), 21–30 Dano (30 feet), 31–40 Dano (40 feet), &gt; 40 Dano (50 feet).</p>",
       "chat": ""
     },
     "source": {

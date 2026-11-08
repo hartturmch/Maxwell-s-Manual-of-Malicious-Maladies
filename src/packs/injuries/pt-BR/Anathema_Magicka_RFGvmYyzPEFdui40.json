@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Você balança a cabeça com a força do golpe arcano e ele se foi. O conhecimento, ou seja, não a sua cabeça. Você perde a capacidade de conjurar sua magia conjurada mais recentemente permanentemente. Você nunca pode conjurar esta magia novamente por qualquer meio (incluindo características de classe, características raciais ou itens mágicos). Se sua classe permitir que você substitua magias em sua lista de magias ao subir de nível, você pode substituir essa magia normalmente. </p>",
+      "value": "<p>Você balança a cabeça com a força do golpe arcano e ele desaparece. O conhecimento, não sua cabeça. Você perde permanentemente a capacidade de conjurar a magia que lançou mais recentemente. Nunca poderá conjurá-la novamente, por qualquer meio, incluindo class features, racial traits ou itens mágicos. Se sua Class permitir substituir magias na lista ao subir de Level, você pode substituir essa magia normalmente.</p>",
       "chat": ""
     },
     "source": {

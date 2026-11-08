@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> O ácido deixou você com uma queimadura superficial, mas dolorosa. Você sofre 1 ponto de dano ácido por 1,5 metro de movimento enquanto estiver por iniciativa. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 13]] acaba com esse efeito. </p>",
+      "value": "<p>O Ácido respinga sobre você e queima sua pele. Você sofre Fire damage e fica <strong>&Reference[poisoned]{poisoned}</strong> até o final do seu próximo turno.</p>",
       "chat": ""
     },
     "source": {

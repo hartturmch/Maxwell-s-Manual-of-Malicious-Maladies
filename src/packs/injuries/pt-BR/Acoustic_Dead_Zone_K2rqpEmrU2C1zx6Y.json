@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha instância de acaso, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente...silencioso. Todo o ruído dentro de um raio de meio metro desta área do seu corpo é inaudível como se estivesse sob o efeito de um feitiço de Silêncio, e a área emite uma leve aura de Ilusão. Um esforço de concentração suprimirá esse efeito. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente... silencioso. Todo ruído em um raio de meio pé desta área fica inaudível, como sob efeito da magia Silence, e a área emite uma aura tênue de Illusion. Um esforço de Concentration suprime este efeito.</p>",
       "chat": ""
     },
     "source": {

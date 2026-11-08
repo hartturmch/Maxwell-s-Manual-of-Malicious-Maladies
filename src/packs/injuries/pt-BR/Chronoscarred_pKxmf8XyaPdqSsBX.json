@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p> Todas as células do seu corpo protestam quando são agredidas pelo próprio fluxo do tempo. Seu corpo envelhece  [[1d10]]  anos. Sua mente não é afetada. </p>",
+      "value": "<p>Todas as células do seu corpo protestam quando são agredidas pelo próprio fluxo do tempo. Seu corpo envelhece [[1d10]] anos. Sua mente não é afetada.</p>",
       "chat": ""
     },
     "source": {

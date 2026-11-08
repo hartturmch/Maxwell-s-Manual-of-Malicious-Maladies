@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Você já foi frígido demais e sua pele desenvolve facilmente uma erupção cutânea e bolhas no frio. Você tem desvantagem em testes de Constituição e testes de resistência feitos para resistir aos efeitos ambientais do frio. </p>",
+      "value": "<p>Você ficou exposto a Frio intenso demais, e sua pele desenvolve facilmente erupções e bolhas no frio. Você tem Disadvantage em Constitution checks e Saving Throws feitos para resistir aos efeitos ambientais do Frio.</p>",
       "chat": ""
     },
     "source": {

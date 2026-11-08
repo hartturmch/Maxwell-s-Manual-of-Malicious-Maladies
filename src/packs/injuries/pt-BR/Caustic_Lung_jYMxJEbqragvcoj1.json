@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Você inalou profundamente os vapores tóxicos do ácido, causando um ataque de tosse. Você é  <strong> ereferência[incapacitado]{incapacitado} </strong>  para  [[1d4]]  rodadas. </p>",
+      "value": "<p>Você inalou profundamente os vapores tóxicos do Ácido, causando um ataque de tosse. Você fica <strong>&Reference[incapacitated]{incapacitated}</strong> por [[1d4]] rodadas.</p>",
       "chat": ""
     },
     "source": {
