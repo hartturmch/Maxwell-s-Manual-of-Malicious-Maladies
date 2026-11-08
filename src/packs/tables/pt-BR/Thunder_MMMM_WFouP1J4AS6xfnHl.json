@@ -25,8 +25,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The sonic assault has blown out your eardrums. Você fica  <strong> &Reference[deafened]{deafened} </strong>  and your ears are  <strong> sem funcionamento </strong> . Se não for tratado dentro de 24 horas, your hearing will be permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
-      "name": "Ruptured Eardrums",
+      "description": "<p>O ataque sônico estourou seus tímpanos. Você fica <strong>&Reference[deafened]{deafened}</strong> e suas orelhas ficam <strong>sem funcionamento</strong>. Se não for tratado em 24 horas, sua audição ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
+      "name": "Tímpanos Rompidos",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.ztM5gVgtQz6uvqbU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.AlfbHdQyTdD3T8k2"
     },
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. A explosão de concussão rasgou seu membro e o fez navegar pelo ar. Ele cai a 9 metros de você, se afasta da direção do ataque e é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  __ X8X__  22 Salvar Cirurgia de Membros. </p>",
-      "name": "Amputação concussiva",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. A explosão concussiva rasgou seu membro e o lançou pelo ar. Ele cai a 30 pés de você, afastando-se da direção do ataque, e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia de Membro DC 22.</p>",
+      "name": "Amputação Concussiva",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.kP6XF0CpmoJeDrTm",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4V5MtYMFihK5kGRQ"
     },
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. The concussive blast has torn seu apêndice free and sent it flying. It lands 30 pés away from you, pushed away from the direction of the attack, and é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Cirurgia de Membro. </p>",
-      "name": "Small Concussive Amputação",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. A explosão concussiva arrancou seu apêndice e o lançou pelo ar. Ele cai a 30 pés de você, afastando-se da direção do ataque, e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia de Membro DC 22.</p>",
+      "name": "Amputação Concussiva de Apêndice",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.DecRr9ddWmuCoJxo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TxC8c7bT8mLbTDo7"
     },
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> O ataque causou turned small fragments of debris in the surrounding area into deadly ballistic projectiles, many of which have found their way deep into your leg muscles. Your speed is reduced by 10 pés. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Cirurgia Geral. </p>",
-      "name": "Leg Estilhaços",
+      "description": "<p>O ataque transformou pequenos fragmentos de detritos ao redor em projéteis balísticos mortais, muitos dos quais penetraram profundamente nos músculos da sua perna. Sua velocidade é reduzida em 10 pés.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 22.</p>",
+      "name": "Estilhaços na Perna",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.BBJaCd6HEtUUad4N",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.MYmVgwxklq9DZNBb"
     },
@@ -133,8 +133,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The Força of the blast has left you reeling. Você fica  <strong> &Reference[stunned]{stunned} </strong>  until the end of your next turn. </p>",
-      "name": "Disorientation",
+      "description": "<p>A força da explosão deixou você cambaleando. Você fica <strong>&Reference[stunned]{stunned}</strong> até o final do seu próximo turno.</p>",
+      "name": "Desorientação",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.DXCaYTtOvInEZ3Cs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.RK8HpRy7k9tVYHLQ"
     },
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> As the attack's thunderous echo fades, you find that your hands are empty. Anything you were holding is wrenched free of your grip and lands 50 pés from you, pushed away from the direction of the attack. </p>",
-      "name": "Percussive Disarming",
+      "description": "<p>Quando o eco estrondoso do ataque desaparece, você percebe que suas mãos estão vazias. Tudo o que segurava é arrancado de suas mãos e cai a 50 pés de você, afastando-se da direção do ataque.</p>",
+      "name": "Desarme Percussivo",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.X537LT1JwzCPLPGZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0hIGI5Kb2k0dNTYz"
     },
@@ -187,8 +187,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você fica com an annoying ringing in your ears. Você tem disadvantage on perception checks related to sound for  [[1d6]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d4]]  dias. </p>",
-      "name": "Ringing Ears",
+      "description": "<p>Você fica com um zumbido irritante nos ouvidos. Você tem Disadvantage em Perception checks relacionados a som por [[1d6]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 12]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
+      "name": "Ouvidos Zumbindo",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.vGAyqeXVuNRbDvbd",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.qdOoqVjFN22DcFsu"
     },
@@ -214,8 +214,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você fica bowled over by the percussive assault and the only thing you hear is an atonal ringing. Você fica caído e &Reference[prone]{prone} and  <strong> &Reference[deafened]{deafened} </strong>  for  [[1d6]]  horas. </p>",
-      "name": "Deaf and Dazed",
+      "description": "<p>Você é derrubado pelo ataque percussivo e a única coisa que ouve é um zumbido atonal. Você fica Prone e <strong>&Reference[deafened]{deafened}</strong> por [[1d6]] horas.</p>",
+      "name": "Surdo e Atordoado",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.zvO3kKzfye3ms1vq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Xs58l3dVJxhRoiWK"
     },
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você tem massive, ugly bruising in this area, but it looks worse than it feels. The bruising will fade depois de  [[1d8]]  dias. </p>",
-      "name": "Extensive Bruising",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você tem hematomas enormes e feios nesta área, mas parecem piores do que realmente são. Os hematomas desaparecem após [[1d8]] dias.</p>",
+      "name": "Hematomas Extensos",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.H3KQp2q2HYRZ8pjf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6zDeA1sJ8EEuT6lC"
     },
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The ballistic debris has left you with a speckled scar in this area. </p>",
-      "name": "Salpicada Cicatriz",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Os detritos balísticos deixam uma cicatriz salpicada nesta área.</p>",
+      "name": "Cicatriz Salpicada",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.rXb1olOhTtnN2cOX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KllFSWmJB2LfWGvQ"
     },
@@ -295,8 +295,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> The Força of the blast has knocked you backwards. Você fica pushed away from the fonte do Dano an amount of pés scaled to the Dano from the Lesão Persistente: 1-10 Dano (5 ft.), 11-20 Dano (10 ft.), 21-30 Dano (15 ft.), 31-40 Dano (20 ft.),  &gt; 40 Dano (25 ft.). </p>",
-      "name": "Knocked Around",
+      "description": "<p>A força da explosão empurra você para trás. Você é empurrado para longe da fonte do Dano uma distância em pés proporcional ao Dano da Lesão Persistente: 1–10 Dano (5 pés), 11–20 Dano (10 pés), 21–30 Dano (15 pés), 31–40 Dano (20 pés), mais de 40 Dano (25 pés).</p>",
+      "name": "Arremessado",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.Rg9HOdLZ1sGMs1Vy",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FhCwNWb1qDsdOlod"
     },
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A onda concussiva faz você voar de volta. Você é levado para longe da fonte do dano uma quantidade de pés dimensionada para o dano do ferimento persistente: 1-10 de dano (10 pés), 11-20 de dano (20 pés), 21-30 de dano (30 pés), 31-40 de dano (40 pés).),  &gt; 40 de dano (50 pés). </p>",
-      "name": "E o vento levou",
+      "description": "<p>A onda concussiva faz você voar para trás. Você é levado para longe da fonte do Dano uma distância em pés proporcional ao Dano da Lesão Persistente: 1–10 Dano (10 pés), 11–20 Dano (20 pés), 21–30 Dano (30 pés), 31–40 Dano (40 pés), mais de 40 Dano (50 pés).</p>",
+      "name": "E o Vento Levou",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.1K7ziF2905TF81hD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VfwQzty0PVxbmd6v"
     },
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha instância de acaso, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente...silencioso. Todo o ruído dentro de um raio de meio metro desta área do seu corpo é inaudível como se estivesse sob o efeito de um feitiço de Silêncio, e a área emite uma leve aura de Ilusão. Um esforço de concentração suprimirá esse efeito. </p>",
+      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do corpo parece estranhamente... silencioso. Todo som em um raio de 5 pés desta área é inaudível, como se estivesse sob efeito da Spell Silence, e a área emite uma aura tênue de Illusion. Um esforço de Concentração suprime este efeito.</p>",
       "name": "Zona Morta Acústica",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.06Vrx0BaMGA97oX4",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.K2rqpEmrU2C1zx6Y"
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role para determinar aleatoriamente o braço esquerdo ou direito. O ataque transformou pequenos fragmentos de detritos na área circundante em projéteis balísticos mortais, muitos dos quais encontraram seu caminho profundamente em seus músculos do braço. Ataques feitos por este braço têm desvantagem. Os escudos usados por este braço fornecem 1  AC  em vez de 2  AC . </p>  <p>  <em> Tratamento </em>  - A  DC  21 Cirurgia Geral. </p>",
-      "name": "Estilhaços de Braço",
+      "description": "<p>Role para determinar aleatoriamente o braço esquerdo ou direito. O ataque transformou pequenos fragmentos de detritos ao redor em projéteis balísticos mortais, muitos dos quais penetraram profundamente nos músculos do braço. Attacks feitos com este braço têm Disadvantage. Shields usados por este braço fornecem 1 AC em vez de 2 AC.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 21.</p>",
+      "name": "Estilhaços no Braço",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.VPBroH9Abx7BTHGv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.p17XnkeM9XbwIOk2"
     },
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A força de concussão reverbera através do gás dentro de seus pulmões, causando grandes danos a eles. Você só pode prender a respiração pela metade da duração normal. Além disso, os vasos sanguíneos dos seus olhos se romperam, tornando o branco dos seus olhos da cor do seu sangue por  [[1d6]]  dias. </p>",
+      "description": "<p>A força concussiva reverbera pelo gás dentro dos pulmões, causando grande Dano. Você só consegue prender a respiração pela metade da duração normal. Além disso, os vasos sanguíneos dos olhos se rompem, deixando o branco dos olhos da cor do sangue por [[1d6]] dias.</p>",
       "name": "Barotrauma",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.hwDumUeDIFQLqEv0",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.z0j29n8pFxD6w9gw"
@@ -430,8 +430,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role para determinar aleatoriamente your left or right eye. An unlucky piece of shrapnel has ricocheted straight into your eye. This eye is  <strong> sem funcionamento </strong> . Se não for tratado dentro de 4 horas, your vision permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
-      "name": "Unlucky Estilhaços",
+      "description": "<p>Role para determinar aleatoriamente o olho esquerdo ou direito. Um estilhaço desafortunado ricocheteou direto para dentro do olho. Esse olho fica <strong>sem funcionamento</strong>. Se não for tratado em 4 horas, sua visão ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
+      "name": "Estilhaço Desafortunado",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.Hf4diVrhEcm22wud",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.q1dofzfulyAPfSzJ"
     }
