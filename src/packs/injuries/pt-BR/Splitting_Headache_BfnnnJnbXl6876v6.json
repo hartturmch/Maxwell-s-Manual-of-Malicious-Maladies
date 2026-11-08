@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> You can feel your head pounding as the Veneno pumps through your veins. You gain no advantage from Short Rests until you take um Long Rest. </p>",
+      "value": "<p>Você sente a cabeça latejar enquanto o Veneno percorre suas veias. Você não recebe Advantage de Short Rests até realizar um Long Rest.</p>",
       "chat": ""
     },
     "source": {
