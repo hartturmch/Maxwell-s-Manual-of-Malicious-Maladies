@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso</em></p><p>Estas luvas finas de couro têm costuras vermelhas que parecem brilhar suavemente quando os dedos se movem. Se você tiver proficiência em <em>Gestural</em> e fizer sinais usando as luvas, elas traduzem os gestos para <em>Common</em>. Essa “fala” mantém a ênfase, o volume e o tom pretendidos.</p><p>Você pode usar essa “fala” como componente verbal para seu Spellcasting.</p><p>Estas luvas emitem uma aura fraca de Illusion.</p>",
+      "value": "<p><em>Wondrous item (Item Maravilhoso)</em></p><p>Estas luvas finas de couro têm costuras vermelhas que parecem cintilar suavemente quando os dedos da luva se movem. Se você tem Proficiency <em>(Proficiência)</em> em <em>Gestural</em> <em>(Gestual)</em> e faz sinais usando estas luvas, elas traduzem os gestos para <em>Common</em> <em>(Comum)</em>. Essa 'fala' mantém a ênfase, o volume e o tom pretendidos dos seus sinais.</p><p>Você pode usar essa 'fala' como o componente verbal das suas conjurações.</p><p>Estas luvas emitem uma tênue aura de Illusion <em>(Ilusão)</em>.</p>",
       "chat": ""
     },
     "source": {

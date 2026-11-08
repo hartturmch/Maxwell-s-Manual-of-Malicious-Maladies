@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Uma Bengala branca tem vários pés de comprimento e é usada por pessoas cegas para perceber o ambiente ao redor. Se um personagem <strong>blinded</strong> treinar com uma Bengala branca por dois meses (ou por um período menor, a critério do DM), poderá usá-la para obter blindsight até seu alcance.</p>",
+      "value": "<p>Uma bengala branca é uma bengala de vários pés de comprimento usada por pessoas cegas para ter uma noção do que as cerca. Se um personagem <strong>blinded</strong> <em>(cego)</em> treinar com uma bengala branca por dois meses <em>(ou por um período menor, a critério do Dungeon Master)</em>, ele pode usá-la para obter blindsight <em>(visão às cegas)</em> até o seu alcance.</p>",
       "chat": ""
     },
     "source": {

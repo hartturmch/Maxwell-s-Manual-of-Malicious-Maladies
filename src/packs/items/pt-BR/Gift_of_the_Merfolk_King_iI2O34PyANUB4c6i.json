@@ -1,5 +1,5 @@
 {
-  "name": "Presente do Rei Tritão",
+  "name": "Dádiva do Rei dos Merfolk",
   "type": "equipment",
   "img": "icons/commodities/biological/shell-ribbed-gold.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p><p>Este item se parece com uma concha simples e inofensiva. Ele funciona como um Ersatz Ear, com os seguintes acréscimos:</p><p>Enquanto estiver removido, você pode usar Concentração para ouvir através da concha. Se em algum momento estiver em um plano diferente daquele onde está a concha, o efeito continua funcionando por [[/r 1d6]] dias antes de você perder a sintonia.</p>",
+      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Este item lembra uma concha do mar simples e de aparência inofensiva. Ele funciona de forma idêntica a uma Ersatz Ear <em>(Orelha Postiça)</em>, mas com as seguintes adições:</p><p>Enquanto estiver removida, você pode usar Concentration <em>(Concentração)</em> para ouvir através da concha. Se em algum momento você estiver em um plano diferente da concha, este efeito continua a funcionar por <strong>[[/r 1d6]]</strong> dias antes de você perder a sintonização.</p>",
       "chat": ""
     },
     "source": {

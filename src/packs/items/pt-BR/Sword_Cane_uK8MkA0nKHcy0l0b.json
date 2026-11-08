@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Esta Bengala aparentemente simples esconde uma lâmina fina e terrivelmente afiada. Normalmente, este objeto funciona como uma Bengala. Um personagem pode usar uma object interaction para sacar ou guardar a lâmina. Enquanto estiver sacada, ela funciona como uma rapier (causando [[1d8]] de Piercing damage com a propriedade finesse). Enquanto a lâmina estiver sacada, o personagem não recebe a redução de penalidade de movimento oferecida pela Bengala.</p>",
+      "value": "<p>Esta bengala aparentemente simples abriga uma lâmina fina e perversamente afiada. Normalmente, este objeto funciona como uma bengala. Um personagem pode usar uma object interaction <em>(interação com objeto)</em> para sacar ou embainhar a lâmina interna. Enquanto estiver sacada, ela funciona como um rapier <em>(rapieira)</em>, causando 1d8 de Piercing damage <em>(Dano Perfurante)</em> e tendo a propriedade <em>finesse</em> <em>(acuidade)</em>. Enquanto a lâmina estiver sacada, o personagem não recebe a redução de penalidade de movimento que a bengala oferece.</p>",
       "chat": ""
     },
     "source": {
@@ -76,7 +76,7 @@
         "denomination": 8,
         "bonus": "",
         "types": [
-          "Perfurante"
+          "piercing"
         ],
         "custom": {
           "enabled": false,

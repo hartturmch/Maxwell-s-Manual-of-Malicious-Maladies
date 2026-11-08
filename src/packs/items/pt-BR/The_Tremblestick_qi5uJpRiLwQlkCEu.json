@@ -1,5 +1,5 @@
 {
-  "name": "Bastão Tremeluzente",
+  "name": "O Bastão Trêmulo",
   "type": "equipment",
   "img": "icons/weapons/staves/staff-forked-wood.webp",
   "effects": [
@@ -27,7 +27,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "Bastão Tremeluzente",
+      "name": "O Bastão Trêmulo (AC)",
       "img": "icons/weapons/staves/staff-forked-wood.webp",
       "type": "base",
       "system": {
@@ -91,7 +91,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer attunement)</em></p><p>Esta haste fina, com três pés de comprimento, parece feita de metal preto liso e ressoa com uma vibração sutil quando encostada ao chão. Se você estiver <strong>blinded</strong> e segurar o Bastão Tremeluzente contra o chão, ganha blindsight em um raio de 30 pés. Além disso, a haste vibra ritmicamente em resposta a ataques iminentes, alertando você e concedendo um bônus de +2 à sua Armor Class.</p><p> </p>",
+      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Esta haste fina, de três pés de comprimento, parece feita de um metal preto e liso e ressoa com uma vibração sutil quando encostada no chão. Se você estiver cego e segurar o Bastão Trêmulo contra o chão, você ganha blindsight <em>(visão às cegas)</em> em um raio de 30 pés. Além disso, a haste vibra ritmicamente em resposta a ataques iminentes, avisando você e concedendo um bônus de +2 na sua AC <em>(Armor Class — Classe de Armadura)</em>.</p><p> </p>",
       "chat": ""
     },
     "source": {

@@ -28,7 +28,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Estas ferramentas são necessárias para realizar procedimentos cirúrgicos complexos, como amputações e transplantes. Sem elas, testes de Medicine para esses procedimentos são feitos com Disadvantage.</p>",
+      "value": "<p>Esta bolsa de couro preto contém tudo o que você precisaria para realizar uma cirurgia, incluindo anestésicos, bisturis, pinças, bandagens, unguentos e suturas de categute impregnadas com resíduo de Healing Potion <em>(Poção de Cura)</em> para ajudar a acelerar a cicatrização e prevenir infecções. A Proficiency <em>(Proficiência)</em> com estas ferramentas permite que você adicione o seu bônus de proficiência a qualquer Ability Check <em>(Teste de Habilidade)</em> que fizer para realizar uma cirurgia. A proficiência com as ferramentas de cirurgião é necessária para tentar uma cirurgia.</p>",
       "chat": ""
     },
     "source": {

@@ -1,5 +1,5 @@
 {
-  "name": "Peixe Lendário",
+  "name": "Peixe da Fábula",
   "type": "equipment",
   "img": "icons/commodities/gems/gem-rough-pear-orange.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p><p>Curiosamente, este brinco não se parece com um peixe, mas com uma lágrima amarela alongada. Quando o usa, você entende qualquer fala audível dentro de 30 pés de você como se estivesse sob os efeitos da magia <em>Comprehend Languages</em>.</p><p>Você percebe essa linguagem traduzida telepaticamente. O Peixe Lendário possui uma aura de Divination.</p>",
+      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Curiosamente, este brinco não lembra um peixe de forma alguma, mas sim uma gota alongada e amarela. Enquanto o estiver usando, você entende qualquer fala audível a até 30 pés de você, como se estivesse sob os efeitos da magia <em>Comprehend Languages</em> <em>(Compreender Idiomas)</em>.</p><p>Você percebe esse idioma traduzido de forma telepática. O Peixe da Fábula tem uma aura de Divination <em>(Adivinhação)</em>.</p>",
       "chat": ""
     },
     "source": {

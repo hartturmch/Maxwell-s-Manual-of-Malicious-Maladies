@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este item se parece com um chifre curvado. Quando você segura a extremidade estreita junto ao canal auditivo, pode ignorar qualquer desvantagem em testes relacionados à audição. Uma criatura que fale pela extremidade larga pode ser ouvida claramente por você.</p>",
+      "value": "<p>Este item lembra um chifre enrolado. Quando você segura a ponta estreita junto ao canal auditivo, você pode ignorar qualquer Disadvantage <em>(Desvantagem)</em> em testes de Wisdom <em>(Sabedoria)</em> — Perception <em>(Percepção)</em> feitos para ouvir que tenha sido causada por uma lesão persistente.</p>",
       "chat": ""
     },
     "source": {

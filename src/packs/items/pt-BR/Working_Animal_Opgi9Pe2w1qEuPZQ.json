@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Qualquer animal com Intelligence 3 ou superior pode ser um animal de trabalho. Esses animais rigorosamente treinados aprendem desde o nascimento a prestar muita atenção ao seu mestre e ao ambiente ao redor. Sempre que você faria um Wisdom (Perception) check, pode fazer com que seu animal de trabalho faça o Wisdom (Perception) check em seu lugar. Seu animal pode usar linguagem corporal para comunicar informações não específicas com base no resultado do teste, como “está tudo bem”, “tenha cuidado” ou “perigo à frente”.</p>",
+      "value": "<p>Qualquer animal com Intelligence <em>(Inteligência)</em> 3 ou superior é capaz de ser um animal de trabalho. Esses animais, rigorosamente treinados, são ensinados desde o nascimento a ficar muito atentos ao seu mestre e ao ambiente. Sempre que você fosse fazer um teste de Wisdom <em>(Sabedoria)</em> — Perception <em>(Percepção)</em>, você pode fazer com que o seu animal de trabalho o faça no seu lugar. Seu animal de trabalho pode usar linguagem corporal para comunicar informações não específicas com base no resultado do teste, como \"está tudo bem\", \"tenha cuidado\" ou \"perigo à frente\".</p>",
       "chat": ""
     },
     "source": {

@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer attunement)</em></p><p>Esta pequena esfera de vidro parece conter uma névoa cinzenta fantasmagórica ondulando dentro dela. Se você estiver com um olho <strong>ausente</strong> e inserir a esfera na cavidade ocular, o Olho Etéreo permite enxergar o Ethereal Plane. Essa visão termina quando você fecha o olho. Tentar olhar simultaneamente para o Ethereal Plane e o Material Plane provoca uma avalanche de informações sensoriais. Olhar para os dois planos ao mesmo tempo faz você sofrer 1 de Psychic damage por rodada.</p><p>O olho possui uma aura de Divination.</p>",
+      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Esta pequena esfera de vidro parece ter uma névoa cinzenta e fantasmagórica ondulando em seu interior. Se você estiver com um olho <strong>missing</strong> <em>(ausente)</em> e encaixá-la naquela órbita, o Olho Etéreo permite que você veja o Ethereal Plane <em>(Plano Etéreo)</em>. Essa visão cessa quando você fecha aquele olho. Tentar olhar para o Ethereal Plane e para o Material Plane <em>(Plano Material)</em> ao mesmo tempo resulta em uma enxurrada de informações sensoriais. Olhar para esses planos simultaneamente faz você sofrer 1 de Psychic damage <em>(Dano Psíquico)</em> por Round <em>(Rodada)</em>.</p><p>O olho tem uma aura de Divination <em>(Adivinhação)</em>.</p>",
       "chat": ""
     },
     "source": {

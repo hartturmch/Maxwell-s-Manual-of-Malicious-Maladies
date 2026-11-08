@@ -1,6 +1,6 @@
 {
   "_id": "f9Vnys9Ypf3YSG9P",
-  "name": "Manto da Autoridade Arcana",
+  "name": "Capa da Autoridade Arcana",
   "type": "equipment",
   "img": "icons/equipment/back/cloak-collared-purple-gold.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p><p>Este manto ricamente bordado era usado para exibir, de relance, sua associação com o arcano. Enquanto o veste, você pode dizer uma palavra de comando para pairar alguns centímetros acima do chão e se mover com metade da sua velocidade. Você mantém essa velocidade independentemente de terreno difícil ou penalidades de movimento causadas por lesões. Você não pode ficar <em>prone</em>. Este efeito continua até você dizer a palavra de comando novamente, mesmo se estiver inconsciente ou incapacitado.</p><p>Este manto possui uma aura de Transmutation.</p>",
+      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Esta capa ostensivamente bordada era originalmente usada como uma forma de exibir, à primeira vista, a sua ligação com o arcano. Enquanto estiver vestindo esta capa, você pode falar uma palavra de comando para flutuar alguns centímetros acima do chão e se mover à metade da sua velocidade. Você mantém essa velocidade independentemente de qualquer terreno difícil ou de penalidades de movimento causadas por lesões. Você não pode ser derrubado e ficar <em>prone</em> <em>(caído)</em>. Este efeito continua até você falar a palavra de comando novamente, mesmo que você esteja inconsciente ou incapacitado.</p><p>Esta capa tem uma aura de Transmutation <em>(Transmutação)</em>.</p>",
       "chat": ""
     },
     "source": {

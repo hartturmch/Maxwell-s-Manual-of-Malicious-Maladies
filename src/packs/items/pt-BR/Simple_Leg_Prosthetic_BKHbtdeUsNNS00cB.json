@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Esta prótese possui um pino simples ou uma faixa de metal curvada, que pode ser fixada no lugar de uma perna ou pé <strong>ausente</strong>. Usar esta prótese permite ignorar as penalidades de movimento e de testes de Dexterity associadas à sua lesão.</p>",
+      "value": "<p>Este é um acessório protético com um simples pino ou uma faixa de metal curvada, que pode ser encaixado no lugar de uma perna ou de um pé <strong>missing</strong> <em>(ausente)</em>. Usar esta prótese permite que você ignore as penalidades de movimento e em testes de Dexterity <em>(Destreza)</em> associadas à sua lesão.</p>",
       "chat": ""
     },
     "source": {

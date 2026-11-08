@@ -1,5 +1,5 @@
 {
-  "name": "Presente da Rainha das Fadas",
+  "name": "Dádiva da Rainha das Fadas",
   "type": "equipment",
   "img": "icons/commodities/biological/eye-purple.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p><p>Este item se parece, de forma perturbadora, com um globo ocular de íris roxa escura, reproduzido nos mínimos detalhes. Ele funciona como um Ersatz Eye (XGE pg.137), com os seguintes acréscimos:</p><p>Enquanto estiver removido, você pode usar Concentração para enxergar através do olho. Se em algum momento estiver em um plano diferente daquele onde está o globo ocular, o efeito continua funcionando por [[/r 1d6]] dias antes de você perder a sintonia.</p>",
+      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Este item, de forma perturbadora, lembra um globo ocular com uma íris roxo-escura até o menor detalhe <em>(incluindo uma sensação ligeiramente úmida)</em>. Ele funciona de forma idêntica a um Ersatz Eye <em>(Olho Postiço — XGE pg.137)</em>, mas com as seguintes adições:</p><p>Enquanto estiver removido, você pode usar Concentration <em>(Concentração)</em> para enxergar através do olho. Se em algum momento você estiver em um plano diferente do globo ocular, este efeito continua a funcionar por <strong>[[/r 1d6]]</strong> dias antes de você perder a sintonização.</p>",
       "chat": ""
     },
     "source": {

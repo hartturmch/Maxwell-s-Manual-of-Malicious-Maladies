@@ -1,5 +1,5 @@
 {
-  "name": "Gancho de Capitão",
+  "name": "Gancho do Capitão",
   "type": "weapon",
   "img": "icons/weapons/fist/hook.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este gancho curvado e perverso é famoso por sua associação com piratas cruéis. Você pode prender este gancho no lugar de uma mão <strong>ausente</strong>. Enquanto estiver preso, o gancho é uma arma que causa 1d4 de dano perfurante e possui as propriedades leve e finesse.</p>",
+      "value": "<p>Este gancho perversamente curvado tem fama de estar associado a piratas infames. Você pode encaixar este gancho no lugar de uma mão <strong>missing</strong> <em>(ausente)</em>. Enquanto estiver encaixado, o gancho é uma arma que causa 1d4 de Piercing damage <em>(Dano Perfurante)</em> e tem as propriedades <em>light</em> <em>(leve)</em> e <em>finesse</em> <em>(acuidade)</em>.</p>",
       "chat": ""
     },
     "source": {
@@ -76,7 +76,7 @@
         "denomination": 4,
         "bonus": "",
         "types": [
-          "Perfurante"
+          "piercing"
         ],
         "custom": {
           "enabled": false,

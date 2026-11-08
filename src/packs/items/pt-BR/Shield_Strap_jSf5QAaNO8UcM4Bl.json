@@ -1,5 +1,5 @@
 {
-  "name": "Correia de Escudo",
+  "name": "Alça de Escudo",
   "type": "equipment",
   "img": "icons/sundries/survival/leather-strap-brown.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este conjunto de correias de couro pode ser preso a qualquer shield com um teste de Tinker's Tools DC 15. Ele permite prender o shield a um braço <strong>sem</strong> mão ou com amputação abaixo do cotovelo. Um shield com esta modificação exige uma Action para vestir ou remover. Enquanto o shield estiver preso ao seu braço, você tem Advantage em quaisquer testes para desarmá-lo.</p>",
+      "value": "<p>Este conjunto de tiras de couro pode ser fixado a qualquer escudo com um teste de Tinker's Tools <em>(Ferramentas de Funileiro)</em> DC 15. Elas permitem que o escudo seja preso a um braço com a mão <strong>missing</strong> <em>(ausente)</em> ou com uma amputação abaixo do cotovelo. Um escudo com esta modificação exige uma Action <em>(Ação)</em> para ser vestido ou retirado. Enquanto o escudo estiver preso ao seu braço, você tem Advantage <em>(Vantagem)</em> em quaisquer testes feitos para desarmá-lo.</p>",
       "chat": ""
     },
     "source": {

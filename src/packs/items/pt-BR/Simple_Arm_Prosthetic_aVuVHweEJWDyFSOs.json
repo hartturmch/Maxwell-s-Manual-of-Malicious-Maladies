@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Esta prótese possui um gancho ou mecanismo simples de preensão, que pode ser fixado no lugar de um braço ou mão <strong>ausente</strong>. Usar esta prótese permite ignorar a penalidade em Ability Checks que normalmente exigiriam o uso dos dois braços. Esta prótese não pode ser usada para fazer ataques.</p>",
+      "value": "<p>Este é um acessório protético com um gancho ou um mecanismo simples de preensão, que pode ser encaixado no lugar de um braço ou de uma mão <strong>missing</strong> <em>(ausente)</em>. Usar esta prótese permite que você ignore a penalidade em Ability Checks <em>(Testes de Habilidade)</em> que normalmente exigem o uso dos dois braços. Esta prótese não pode ser usada para fazer ataques.</p>",
       "chat": ""
     },
     "source": {

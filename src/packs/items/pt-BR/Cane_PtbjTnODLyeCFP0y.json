@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>De um simples bastão a um cajado ornamentado, uma bengala ajuda você a se locomover. Bengalas exigem uma mão para serem usadas e permitem ignorar até 10 pés de penalidade de movimento causada por uma Lesão Persistente em uma perna.</p>",
+      "value": "<p>De um simples bastão a um cajado ornamentado, uma bengala ajuda você a se locomover. Bengalas exigem um braço para serem usadas e permitem que você ignore até 10 pés de penalidade de movimento causada por uma lesão persistente em uma das pernas.</p>",
       "chat": ""
     },
     "source": {
