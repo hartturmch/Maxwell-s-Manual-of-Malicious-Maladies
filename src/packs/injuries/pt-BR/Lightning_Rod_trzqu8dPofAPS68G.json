@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> The electricity crackles around seu corpo for a second, looking for the closest thing to discharge to. The electricity then arcs from you to the nearest creature carrying metal weapons or wearing metal armor. This creature takes Relâmpago Dano equal to half the Dano that caused the Lesão Persistente. </p>",
+      "value": "<p>A eletricidade estala ao redor do seu corpo por um segundo, procurando o ponto mais próximo para descarregar. Em seguida, salta de você para a criatura mais próxima que carregue armas metálicas ou use armadura metálica. Essa criatura sofre Relâmpago Dano igual à metade do Dano que causou a Lesão Persistente.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p> Você não pode take the  <em> dash </em>  action. Este efeito dura  [[1d6]]  rodadas. </p>",
+      "value": "<p>Você não pode usar a Action <em>Dash</em>. Este efeito dura [[1d6]] rodadas.</p>",
       "chat": ""
     },
     "source": {

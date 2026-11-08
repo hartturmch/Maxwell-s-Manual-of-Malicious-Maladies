@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p> Slowly, you feel the building urge to destroy something beautiful. Você tem  [[1d6]]  dias to commit an act of senseless destruction or violence (outside of what would be normal behavior for your character). If you do not do this dentro de the time limit, the compulsion builds to distracting levels, and you have disadvantage to all attack rolls, Ability Checks, and Saving Throws until you do. </p>",
+      "value": "<p>Aos poucos, você sente crescer o impulso de destruir algo belo. Você tem [[1d6]] dias para cometer um ato de destruição ou violência sem sentido (fora do comportamento normal do seu personagem). Se não fizer isso dentro do prazo, a compulsão atinge níveis perturbadores, e você tem Disadvantage em todos os attack rolls, Ability Checks e Saving Throws até cumprir o ato.</p>",
       "chat": ""
     },
     "source": {
