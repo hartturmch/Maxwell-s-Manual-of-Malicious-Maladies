@@ -1,5 +1,5 @@
 {
-  "name": "Fogo Finger",
+  "name": "Dedo de Fogo",
   "type": "equipment",
   "img": "icons/commodities/biological/stinger-insect-yellow.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>Fogo fingers are the pet project of a (rather eccentric) wizard who had more than one of her fingers bitten off in an illconceived attempt to breed swamp dragons. These magical prosthetics attach to your hand in place of a <strong>ausente </strong>finger. They function identically to the finger while in place, removing any penalty associated with the <strong>ausente </strong>finger.</p>\n<p>Fogo fingers may contain the same spells as any wand of common or uncommon rarity. Casting from the Fogo finger merely requires pointing the finger and may be done even while wielding an item in the same hand.</p>\n<p>You can detach or reattach a Fogo finger as an action, and it can't be removed against your will. It detaches if you die.</p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p><p>Os Dedos de Fogo são o projeto de um mago bastante excêntrico que teve mais de um dedo mordido ao tentar, sem bom senso, criar dragões do pântano. Essas próteses mágicas se prendem à sua mão no lugar de um dedo <strong>ausente</strong>. Elas funcionam como o dedo original, removendo qualquer penalidade associada ao dedo <strong>ausente</strong>.</p><p>Dedos de Fogo podem conter as mesmas magias que qualquer wand de raridade common ou uncommon. Conjurar a partir do Dedo de Fogo exige apenas apontá-lo e pode ser feito mesmo enquanto você empunha um item na mesma mão.</p><p>Você pode desprender ou prender novamente um Dedo de Fogo como uma Action, e ele não pode ser removido contra sua vontade. Ele se desprende quando você morre.</p>",
       "chat": ""
     },
     "source": {

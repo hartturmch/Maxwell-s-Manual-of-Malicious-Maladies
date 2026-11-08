@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This ostentatiously embroidered cloak was originally used as an at-a-glance way to display your association with the arcane. While wearing this cloak you may speak a command word to hover a few inches above the ground and move at half your speed. You maintain this speed regardless of any difficult terrain or movimento penalties granted from injuries. Você não pode be knocked <em>prone</em>. Este efeito continua until you speak the command word, even if you are unconscious or incapacitated.</p>\n<p>This cloak has an aura of Transmutation.</p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p><p>Este manto ricamente bordado era usado para exibir, de relance, sua associação com o arcano. Enquanto o veste, você pode dizer uma palavra de comando para pairar alguns centímetros acima do chão e se mover com metade da sua velocidade. Você mantém essa velocidade independentemente de terreno difícil ou penalidades de movimento causadas por lesões. Você não pode ficar <em>prone</em>. Este efeito continua até você dizer a palavra de comando novamente, mesmo se estiver inconsciente ou incapacitado.</p><p>Este manto possui uma aura de Transmutation.</p>",
       "chat": ""
     },
     "source": {

@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This item, unnervingly, resembles an eyeball with a dark purple iris down to the smallest detail (including a slightly moist feeling). It functions identically to an Ersatz Eye (XGE pg.137), but with the following additions:</p>\n<p>While removed, you may use Concentração to see through the eye. If at any time you are on a different plane as the eyeball, this effect continues to function for [[/r 1d6]] dias antes de you are unattuned.</p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p><p>Este item se parece, de forma perturbadora, com um globo ocular de íris roxa escura, reproduzido nos mínimos detalhes. Ele funciona como um Ersatz Eye (XGE pg.137), com os seguintes acréscimos:</p><p>Enquanto estiver removido, você pode usar Concentração para enxergar através do olho. Se em algum momento estiver em um plano diferente daquele onde está o globo ocular, o efeito continua funcionando por [[/r 1d6]] dias antes de você perder a sintonia.</p>",
       "chat": ""
     },
     "source": {

@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This is a prosthetic attachment with a simple peg or bent band of metal that may be attached in place of a  <strong> ausente  </strong> leg or foot. Wearing this prosthetic allows you to ignore the movimento and Dexterity check penalties associated with sua lesão. </p>",
+      "value": "<p>Esta prótese possui um pino simples ou uma faixa de metal curvada, que pode ser fixada no lugar de uma perna ou pé <strong>ausente</strong>. Usar esta prótese permite ignorar as penalidades de movimento e de testes de Dexterity associadas à sua lesão.</p>",
       "chat": ""
     },
     "source": {

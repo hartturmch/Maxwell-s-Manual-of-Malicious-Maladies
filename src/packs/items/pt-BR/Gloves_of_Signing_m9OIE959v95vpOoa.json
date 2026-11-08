@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso</em></p>\n<p>These thin leather gloves have red stitching that appears to shimmer softly as the fingers of the glove move. If you are proficient in <em>Gestural </em>and sign using these gloves, the gloves translate the gestures into <em>Common</em>. This 'speech' retains the intended emphasis, volume, and tone of your signing.</p>\n<p>You may use this 'speech' as the verbal component for your spellcasting.</p>\n<p>These gloves emit a faint aura of Illusion.</p>",
+      "value": "<p><em>Item maravilhoso</em></p><p>Estas luvas finas de couro têm costuras vermelhas que parecem brilhar suavemente quando os dedos se movem. Se você tiver proficiência em <em>Gestural</em> e fizer sinais usando as luvas, elas traduzem os gestos para <em>Common</em>. Essa “fala” mantém a ênfase, o volume e o tom pretendidos.</p><p>Você pode usar essa “fala” como componente verbal para seu Spellcasting.</p><p>Estas luvas emitem uma aura fraca de Illusion.</p>",
       "chat": ""
     },
     "source": {

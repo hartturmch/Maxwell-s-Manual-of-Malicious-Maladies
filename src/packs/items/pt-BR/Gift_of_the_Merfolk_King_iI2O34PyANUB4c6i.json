@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This item resembles a simple, innocuous looking seashell. It functions identically to an Ersatz Ear, but with the following additions:</p>\n<p>While removed, you may use Concentração to hear through the seashell. If at any time you are on a different plane as the seashell, this effect continues to function for [[/r 1d6]] dias antes de you are unattuned.</p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p><p>Este item se parece com uma concha simples e inofensiva. Ele funciona como um Ersatz Ear, com os seguintes acréscimos:</p><p>Enquanto estiver removido, você pode usar Concentração para ouvir através da concha. Se em algum momento estiver em um plano diferente daquele onde está a concha, o efeito continua funcionando por [[/r 1d6]] dias antes de você perder a sintonia.</p>",
       "chat": ""
     },
     "source": {

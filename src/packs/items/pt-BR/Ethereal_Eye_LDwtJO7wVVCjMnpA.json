@@ -1,5 +1,5 @@
 {
-  "name": "Ethereal Olho",
+  "name": "Olho Etéreo",
   "type": "equipment",
   "img": "icons/commodities/gems/pearl-swirl-blue.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This small sphere of glass appears to have a ghostly grey Névoa undulating dentro de it. If you are <strong>ausente </strong>an eye and imbed it in that eye socket, the Ethereal Eye allows you to see into the Ethereal Plane. This sight stops when you close that eye. Attempting to look into both the Ethereal Plane and the Material Plane at the same time results in a barrage of sensory information. Looking into these planes simultaneously results in you taking 1 Psíquico Dano per round.</p>\n<p>The eye has an aura of divination.</p>",
+      "value": "<p><em>Item maravilhoso (requer attunement)</em></p><p>Esta pequena esfera de vidro parece conter uma névoa cinzenta fantasmagórica ondulando dentro dela. Se você estiver com um olho <strong>ausente</strong> e inserir a esfera na cavidade ocular, o Olho Etéreo permite enxergar o Ethereal Plane. Essa visão termina quando você fecha o olho. Tentar olhar simultaneamente para o Ethereal Plane e o Material Plane provoca uma avalanche de informações sensoriais. Olhar para os dois planos ao mesmo tempo faz você sofrer 1 de Psychic damage por rodada.</p><p>O olho possui uma aura de Divination.</p>",
       "chat": ""
     },
     "source": {

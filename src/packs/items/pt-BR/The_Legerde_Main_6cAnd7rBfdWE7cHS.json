@@ -1,5 +1,5 @@
 {
-  "name": "The Legerde-Main",
+  "name": "A Legerde-Main",
   "type": "equipment",
   "img": "icons/tools/laboratory/bowl-powder-purple.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>The Legerde-Main resembles a half foot diameter bowl engraved with arcane runes and sigils. If you hold the bowl to an end of a <strong>ausente </strong>arm or hand, it adheres and shrinks to cup the area. A spectral hand then appears, similar to the <em>Mage Hand</em> cantrip.</p>\n<p>This hand hovers in place of where your hand would be, and you may move it dentro de your arm's reach at will. It can only attack with <em>light </em>weapons, cannot activate magic items, and can only carry up to 20 pounds. An unarmed attack with this hand deals Força Dano instead of Contundente Dano.</p>\n<p>You can detach or reattach it as an action, and it can't be removed against your will. It detaches if you die.</p>",
+      "value": "<p><em>Item maravilhoso (requer attunement)</em></p>\n<p>A Legerde-Main se parece com uma tigela de meio pé de diâmetro, gravada com runas e sigilos arcanos. Se você segurar a tigela contra a extremidade de um braço ou mão <strong>ausente</strong>, ela adere e se contrai para envolver a área. Uma mão espectral aparece, semelhante ao <em>Mage Hand</em>, um cantrip.</p>\n<p>Essa mão paira no lugar onde sua mão estaria e você pode movê-la à vontade dentro do alcance do seu braço. Ela só pode atacar com armas <em>light</em>, não pode ativar itens mágicos e só pode carregar até 20 pounds. Um ataque desarmado com essa mão causa Force damage em vez de Bludgeoning damage.</p>\n<p>Você pode destacá-la ou recolocá-la como uma Action, e ela não pode ser removida contra sua vontade. Ela se desprende quando você morre.</p>",
       "chat": ""
     },
     "source": {

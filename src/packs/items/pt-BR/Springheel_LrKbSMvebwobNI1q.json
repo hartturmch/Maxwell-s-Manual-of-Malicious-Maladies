@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This gadget of Gnomish make appears to be a clockwork foot featuring a heavy spring coiled dentro de its heel. It may be attached to a  <strong> ausente  </strong> leg or foot where it acts as a Simple Leg Prosthetic. As an action you may compress the spring and lock it in place. The next time you make a Strength (Athletics) ability check to jump, the mechanism fires, releasing the spring and giving you advantage on this check. </p>",
+      "value": "<p>Este dispositivo de fabricação Gnomish parece um pé mecânico com uma mola pesada enrolada dentro do calcanhar. Ele pode ser fixado no lugar de uma perna ou pé <strong>ausente</strong>, funcionando como uma Prótese Simples de Perna. Como uma Action, você pode comprimir a mola e travá-la no lugar. Na próxima vez que fizer um Ability Check de Strength (Athletics) para saltar, o mecanismo dispara, liberando a mola e concedendo Advantage nesse teste.</p>",
       "chat": ""
     },
     "source": {

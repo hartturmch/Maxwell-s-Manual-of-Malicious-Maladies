@@ -91,7 +91,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This thin, three-foot-long rod appears to be made of a smooth black metal and resonates with a subtle vibration when touched to the ground. If you are blinded and hold the Tremblestick to the ground, you gain blindsight in a 30 foot radius. In addition, the rod vibrates rhythmically in response to impending attacks, warning you and giving a +2 bonus to your AC.</p>\n<p> </p>",
+      "value": "<p><em>Item maravilhoso (requer attunement)</em></p>\n<p>Esta haste fina, com três pés de comprimento, parece feita de metal preto liso e ressoa com uma vibração sutil quando encostada ao chão. Se você estiver <strong>blinded</strong> e segurar o Bastão Tremeluzente contra o chão, ganha blindsight em um raio de 30 feet. Além disso, a haste vibra ritmicamente em resposta a ataques iminentes, alertando você e concedendo um bônus de +2 à sua Armor Class.</p>\n<p> </p>",
       "chat": ""
     },
     "source": {

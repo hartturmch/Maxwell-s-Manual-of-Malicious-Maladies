@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este animal foi treinado para auxiliar em tarefas de transporte e trabalho. Ele obedece aos comandos de seu cuidador e pode carregar equipamentos adequados ao seu porte.</p>",
+      "value": "<p>Qualquer animal com Intelligence 3 ou superior pode ser um animal de trabalho. Esses animais rigorosamente treinados aprendem desde o nascimento a prestar muita atenção ao seu mestre e ao ambiente ao redor. Sempre que você faria um Wisdom (Perception) check, pode fazer com que seu animal de trabalho faça o Wisdom (Perception) check em seu lugar. Seu animal pode usar linguagem corporal para comunicar informações não específicas com base no resultado do teste, como “está tudo bem”, “tenha cuidado” ou “perigo à frente”.</p>",
       "chat": ""
     },
     "source": {

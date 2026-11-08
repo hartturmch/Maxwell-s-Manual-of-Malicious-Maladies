@@ -1,5 +1,5 @@
 {
-  "name": "Sela de Correias",
+  "name": "Sela com Correias",
   "type": "equipment",
   "img": "icons/containers/bags/satchel-leather-grey.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This saddle is specifically constructed for people who have lost the use of their legs and includes leather straps that secure the rider in place. Mounting and dismounting this saddle requires an action instead of half of your movimento. Você tem advantage on Dexterity Saving Throws made to prevent being thrown from your mount while using this saddle. </p>",
+      "value": "<p>Esta sela foi construída especificamente para pessoas que perderam o uso das pernas e inclui correias de couro que mantêm o cavaleiro no lugar. Montar e desmontar desta sela exige uma Action, em vez de metade do seu movimento. Você tem Advantage em Saving Throws de Dexterity feitos para evitar ser arremessado da montaria enquanto usa esta sela.</p>",
       "chat": ""
     },
     "source": {

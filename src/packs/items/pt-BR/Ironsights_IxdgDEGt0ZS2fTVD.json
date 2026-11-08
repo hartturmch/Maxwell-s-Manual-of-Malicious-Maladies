@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This delicate crosshair attachment can be fitted to any crossbow with a  DC  15 Tinker's Tools check. While fitted, you may ignore the penalty to ranged attacks when one of your eyes is  <strong> sem funcionamento  </strong> or  <strong> ausente </strong> . </p>",
+      "value": "<p>Este acessório delicado de mira pode ser instalado em qualquer crossbow com um teste de Tinker’s Tools DC 15. Enquanto instalado, você pode ignorar a penalidade em ataques à distância quando um de seus olhos estiver <strong>sem funcionamento</strong> ou <strong>ausente</strong>.</p>",
       "chat": ""
     },
     "source": {

@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This set of leather straps can be affixed to any shield with a  DC  15 Tinker's Tools check. They allow the shield to be attached to an arm  <strong> ausente  </strong> a hand or with a below-the-elbow amputation. A shield with this modification requires an action to don or doff. While the shield is strapped to your arm, you have advantage to any checks made to disarm it. </p>",
+      "value": "<p>Este conjunto de correias de couro pode ser preso a qualquer shield com um teste de Tinker's Tools DC 15. Ele permite prender o shield a um braço <strong>sem</strong> mão ou com amputação abaixo do cotovelo. Um shield com esta modificação exige uma Action para vestir ou remover. Enquanto o shield estiver preso ao seu braço, você tem Advantage em quaisquer testes para desarmá-lo.</p>",
       "chat": ""
     },
     "source": {

@@ -1,5 +1,5 @@
 {
-  "name": "Periapt of the Terceiro Olho",
+  "name": "Pendente do Terceiro Olho",
   "type": "equipment",
   "img": "icons/equipment/neck/necklace-eye-orange.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This pink pearl on a thin silver chain is designed to sit in the middle of your forehead. You may attune to it by painting a small dot the same colour as your eyes onto the pearl. While wearing the periapt you may open a telepathic link with one creature at a time, allowing you to send and receive thoughts in any language you understand. This telepathic link functions out to a range of 30 pés.</p>",
+      "value": "<p><em>Item maravilhoso (requer attunement)</em></p>\n<p>Esta pérola rosa, presa a uma fina corrente de prata, foi feita para ficar no centro da sua testa. Você pode entrar em attunement com ela pintando na pérola um pequeno ponto da mesma cor dos seus olhos. Enquanto usar o pendente, pode abrir um elo telepático com uma criatura por vez, permitindo enviar e receber pensamentos em qualquer idioma que compreenda. Esse elo telepático funciona a uma distância de até 30 feet.</p>",
       "chat": ""
     },
     "source": {

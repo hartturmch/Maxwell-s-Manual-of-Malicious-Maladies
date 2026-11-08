@@ -28,7 +28,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This black leather bag contains everything you'd need to perform Cirurgia, including anesthetics, scalpels, clamps, bandages, salves, and catgut sutures imbued with healing potion residue to help speed healing and prevent infection. Proficiency with these tools allows you to add your proficiency bonus to any ability check you make to perform Cirurgia. Proficiency with surgeons' tool is required to attempt Cirurgia. </p>",
+      "value": "<p>Estas ferramentas são necessárias para realizar procedimentos cirúrgicos complexos, como amputações e transplantes. Sem elas, testes de Medicine para esses procedimentos são feitos com Disadvantage.</p>",
       "chat": ""
     },
     "source": {

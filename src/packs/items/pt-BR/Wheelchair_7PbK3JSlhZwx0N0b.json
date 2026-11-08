@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> A wheelchair facilitates movimento for a character sem the use of one or both legs. Using a wheelchair allows you to move at your normal speed. While on initiative, any amount of movimento with the wheelchair requires an object interaction (one object interaction allows both movimento and the dash action). On difficult terrain, your speed is 10 pés. </p>",
+      "value": "<p>Uma cadeira de rodas facilita o movimento de um personagem que não pode usar uma ou ambas as pernas. Usar uma cadeira de rodas permite mover-se com sua velocidade normal. Durante a iniciativa, qualquer quantidade de movimento com a cadeira exige uma object interaction (uma object interaction permite tanto o movimento quanto a Action Dash). Em terreno difícil, sua velocidade é 10 feet.</p>",
       "chat": ""
     },
     "source": {
