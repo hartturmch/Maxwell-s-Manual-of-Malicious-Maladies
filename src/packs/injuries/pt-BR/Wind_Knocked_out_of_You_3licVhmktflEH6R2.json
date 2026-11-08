@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> You gasp for breath as the blow knocks you flat onto your back. Você fica  <strong> &Reference[prone]{prone} </strong>  and you lose  <strong> Concentração </strong> . </p>",
+      "value": "<p>Você busca ar enquanto o golpe o derruba de costas. Você fica <strong>&Reference[prone]{prone}</strong> e perde <strong>Concentração</strong>.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p> You seem to have lost your stomach for killing. The thought of taking a life fills you with abject disgust. You may not willingly take a life. Any Dano dealt by you that reduces a creature’s Hit Points to 0 automatically knocks them out instead of killing them. Este efeito dura  [[1d4]]  dias. </p>",
+      "value": "<p>Você parece ter perdido a vontade de matar. A ideia de tirar uma vida o enche de repulsa absoluta. Você não pode tirar uma vida voluntariamente. Qualquer Dano causado por você que reduza os Hit Points de uma criatura a 0 a deixa inconsciente em vez de matá-la. Este efeito dura [[1d4]] dias.</p>",
       "chat": ""
     },
     "source": {

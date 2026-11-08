@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has interacted with seu corpo in a thoroughly unexpected way, causing a strange alteration in appearance. This area of seu corpo takes on a physical attribute somehow related to the source of the Veneno (such as green scales from the Veneno breath of a dragon). At the DM's discretion, this new attribute may give you a +1 bonus to an ability check. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. O Veneno interagiu com seu corpo de uma forma totalmente inesperada, causando uma alteração estranha em sua aparência. Esta área do corpo adquire um atributo físico relacionado à fonte do Veneno, como escamas verdes produzidas pelo sopro venenoso de um dragão. A critério do DM, esse novo atributo pode conceder +1 em um Ability Check.</p>",
       "chat": ""
     },
     "source": {

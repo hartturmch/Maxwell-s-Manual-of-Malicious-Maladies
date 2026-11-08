@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p> Your brain has been Danod by the electrical surge and you're not acting like yourself. Você sofre a  <strong> flaw </strong>  chosen aleatoriamente or by the DM. </p>  <p>  <em> Tratamento </em>  - After each Long Rest roll a d20. On a 19 or 20, the  <strong> flaw </strong>  disappears. </p>",
+      "value": "<p>Seu cérebro foi Danificado pela descarga elétrica e você não está agindo como antes. Você sofre uma <strong>flaw</strong> escolhida aleatoriamente ou pelo DM.</p><p><em>Tratamento</em> — Após cada Long Rest, role um d20. Com um resultado 19 ou 20, a <strong>flaw</strong> desaparece.</p>",
       "chat": ""
     },
     "source": {

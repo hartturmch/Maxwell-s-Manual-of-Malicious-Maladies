@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Role para determinar aleatoriamente your left or right eye. An unlucky piece of shrapnel has ricocheted straight into your eye. This eye is  <strong> sem funcionamento </strong> . Se não for tratado dentro de 4 horas, your vision permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia Sensorial. </p>",
+      "value": "<p>Role para determinar aleatoriamente seu olho esquerdo ou direito. Um estilhaço ricocheteou diretamente para dentro do seu olho. Esse olho fica <strong>sem funcionamento</strong>. Se não for tratado em 4 horas, sua visão ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um DC 20 Saving Throw de Cirurgia Sensorial.</p>",
       "chat": ""
     },
     "source": {

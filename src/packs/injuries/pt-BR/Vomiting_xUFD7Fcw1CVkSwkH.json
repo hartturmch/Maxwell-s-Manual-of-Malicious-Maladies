@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Você sente sick, and sem warning, the last meal you ate is purged from your stomach. Você fica &Reference[incapacitated]{incapacitated} until the end of your next turn, and you have disadvantage on all Ability Checks for  [[1d2]]  rodadas. </p>",
+      "value": "<p>Você sente enjoo e, sem aviso, a última refeição que fez é expelida do estômago. Você fica &Reference[incapacitated]{incapacitated} até o final do seu próximo turno e tem Disadvantage em todos os Ability Checks por [[1d2]] rodadas.</p>",
       "chat": ""
     },
     "source": {

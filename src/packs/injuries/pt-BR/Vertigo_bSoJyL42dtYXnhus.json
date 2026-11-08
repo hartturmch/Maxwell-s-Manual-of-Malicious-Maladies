@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> Você sente dizzy, the world seems to be shifting under your pés. The problem only gets worse when you're near a great height. Você tem disadvantage on Dexterity (Acrobatics) checks. Você tem disadvantage on all attacks and Ability Checks when you are dentro de 5 pés of a height 15 pés or greater. </p>",
+      "value": "<p>Você sente tontura, e o mundo parece se mover sob seus pés. O problema piora quando você está perto de uma grande altura. Você tem Disadvantage em checks de Dexterity (Acrobatics). Você tem Disadvantage em todos os ataques e Ability Checks quando está a até 5 pés de uma altura de 15 pés ou mais.</p>",
       "chat": ""
     },
     "source": {

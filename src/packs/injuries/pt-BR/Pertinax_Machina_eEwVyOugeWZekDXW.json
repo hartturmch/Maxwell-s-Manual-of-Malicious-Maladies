@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Your spells struggle to take and always seem like they need a little something extra. Any spell with a material component cost requires double that cost to cast. If the spell consumes the components, double the cost in components are consumed. </p>",
+      "value": "<p>Suas Spells têm dificuldade para se manifestar e sempre parecem exigir algo a mais. Qualquer Spell com custo de componente material exige o dobro desse custo para ser lançada. Se a Spell consumir os componentes, o dobro do custo em componentes é consumido.</p>",
       "chat": ""
     },
     "source": {
