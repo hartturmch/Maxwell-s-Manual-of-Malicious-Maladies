@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Role duas vezes na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Esses apêndices ficam rígidos, gélidos, pálidos e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não forem tratados em 15 minutos, necrosarão e cairão em <strong>[[1d4]]</strong> dias <em>(após os quais ficam <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente os apêndices.</p>",
+      "value": "<p>Role duas vezes na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. Esses apêndices ficam rígidos, gélidos, pálidos e <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não forem tratados em 15 minutos, necrosarão e cairão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(após os quais ficam <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente os apêndices.</p>",
       "chat": ""
     },
     "source": {

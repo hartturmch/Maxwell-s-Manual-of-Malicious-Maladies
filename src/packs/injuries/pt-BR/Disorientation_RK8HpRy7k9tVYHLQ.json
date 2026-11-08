@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>A força da explosão deixou você cambaleando. Você fica <strong>&Reference[stunned]{stunned}</strong> <em>(Atordoado)</em> até o final do seu próximo Turn <em>(Turno)</em>.</p>",
+      "value": "<p>A força da explosão deixou você cambaleando. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[stunned]{stunned}</strong> <em>(Atordoado)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>.</p>",
       "chat": ""
     },
     "source": {

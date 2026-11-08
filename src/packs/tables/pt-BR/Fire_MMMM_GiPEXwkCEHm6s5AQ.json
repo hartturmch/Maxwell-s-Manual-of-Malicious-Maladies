@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você simplesmente não aguenta o calor. Qualquer exposição faz você suar, ficar vermelho como beterraba e se cansar rapidamente. Você tem Disadvantage <em>(Desvantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir aos efeitos ambientais do calor.</p>",
+      "description": "<p>Você simplesmente não aguenta o calor. Qualquer exposição faz você suar, ficar vermelho como beterraba e se cansar rapidamente. Você tem Disadvantage <em>(Desvantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> feitos para resistir aos efeitos ambientais do calor.</p>",
       "name": "Intolerância ao Calor",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.OJLiaikwTzInU7TS"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. O membro está carbonizado, completamente coberto por queimaduras extensas, e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 24 horas, o membro necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 21. Você tem 1 teste para esta cirurgia; se não atingir a DC no primeiro teste, o membro é perdido.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. O membro está carbonizado, completamente coberto por queimaduras extensas, e <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não for tratado em 24 horas, o membro necrosará e cairá em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(após os quais fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 21. Você tem 1 teste para esta cirurgia; se não atingir a <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> no primeiro teste, o membro é perdido.</p>",
       "name": "Membro Imolado",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yT5kgfA025rQer4Z"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. O apêndice está carbonizado, completamente coberto por queimaduras extensas, e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 24 horas, o apêndice necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 21. Você tem 1 teste para esta cirurgia; se não atingir a DC no primeiro teste, o apêndice é perdido.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. O apêndice está carbonizado, completamente coberto por queimaduras extensas, e <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não for tratado em 24 horas, o apêndice necrosará e cairá em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(após os quais fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 21. Você tem 1 teste para esta cirurgia; se não atingir a <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> no primeiro teste, o apêndice é perdido.</p>",
       "name": "Apêndice Imolado",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.vRdaFYg1tf8BQzpb"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você tem uma queimadura profunda que atravessa a pele, resultando em uma ferida rachada e vermelha. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de Fire damage <em>(Dano de Fogo)</em> a cada 5 pés de Movement <em>(Movimento)</em>. Além disso, você sofre <strong>[[/damage 1d4 fire]]</strong> toda vez que usar uma Action <em>(Ação)</em> ou Bonus Action <em>(Ação Bônus)</em>. Esta lesão dura <strong>[[1d8]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 16]]</strong> reduz a duração desta lesão em <strong>[[1d8]]</strong> dias.</p>",
+      "description": "<p>Você tem uma queimadura profunda que atravessa a pele, resultando em uma ferida rachada e vermelha. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de <span class=\"mmm-term\" style=\"color:#C00000;font-weight:bold\">Fire damage <em>(Dano de Fogo)</em></span> a cada 5 pés de Movement <em>(Movimento)</em>. Além disso, você sofre <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/damage 1d4 fire]]</strong></span> toda vez que usar uma Action <em>(Ação)</em> ou Bonus Action <em>(Ação Bônus)</em>. Esta lesão dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 16]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> dias.</p>",
       "name": "Queimadura de Terceiro Grau",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.kXGOMWu1FZh4IvGt"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O suor brota na sua testa, seu pulso fica fraco e seus músculos parecem sem força. Você sofre 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Um Long Rest <em>(Descanso Longo)</em> ou a magia <em>Greater Restoration</em> <em>(Restauração Superior)</em> remove esta <strong>exhaustion</strong>, como de costume.</p>",
+      "description": "<p>O suor brota na sua testa, seu pulso fica fraco e seus músculos parecem sem força. Você sofre 1 nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Long Rest <em>(Descanso Longo)</em> ou a magia <em>Greater Restoration</em> <em>(Restauração Superior)</em> remove esta <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span>, como de costume.</p>",
       "name": "Exaustão pelo Calor",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.6nva89TqTbTkG7Je",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.eev0iOyegv32i2Qd"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Uma queimadura vermelha e irritada se espalha pela sua pele. Ela é sensível e dolorosa ao movimento. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de Fire damage <em>(Dano de Fogo)</em> a cada 10 pés de Movement <em>(Movimento)</em>. Esta lesão cura em <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 10]]</strong> reduz a duração desta lesão em <strong>[[1d6]]</strong> dias.</p>",
+      "description": "<p>Uma queimadura vermelha e irritada se espalha pela sua pele. Ela é sensível e dolorosa ao movimento. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de <span class=\"mmm-term\" style=\"color:#C00000;font-weight:bold\">Fire damage <em>(Dano de Fogo)</em></span> a cada 10 pés de Movement <em>(Movimento)</em>. Esta lesão cura em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 10]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p>",
       "name": "Queimadura de Primeiro Grau",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9pc4FS0NqzFBHWCj"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Está tão quente que você sente que vai desmaiar. Seus músculos estão em cãibra. Parece que o seu sangue está prestes a ferver dentro do corpo. Você sofre 2 níveis de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Um Long Rest <em>(Descanso Longo)</em> ou a magia <em>Greater Restoration</em> <em>(Restauração Superior)</em> remove esta <strong>exhaustion</strong>, como de costume.</p>",
+      "description": "<p>Está tão quente que você sente que vai desmaiar. Seus músculos estão em cãibra. Parece que o seu sangue está prestes a ferver dentro do corpo. Você sofre 2 níveis de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Long Rest <em>(Descanso Longo)</em> ou a magia <em>Greater Restoration</em> <em>(Restauração Superior)</em> remove esta <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span>, como de costume.</p>",
       "name": "Insolação",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.otfmlySDqRZqwR8w"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Sua pele forma bolhas e empola enquanto a queimadura se alastra sobre ela. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de Fire damage <em>(Dano de Fogo)</em> a cada 5 pés de Movement <em>(Movimento)</em>. Esta lesão cura em <strong>[[1d8]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 12]]</strong> reduz a duração desta lesão em <strong>[[1d8]]</strong> dias.</p>",
+      "description": "<p>Sua pele forma bolhas e empola enquanto a queimadura se alastra sobre ela. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de <span class=\"mmm-term\" style=\"color:#C00000;font-weight:bold\">Fire damage <em>(Dano de Fogo)</em></span> a cada 5 pés de Movement <em>(Movimento)</em>. Esta lesão cura em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 12]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> dias.</p>",
       "name": "Queimadura de Segundo Grau",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.UNUqJXPoCNir0bef"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica com uma cicatriz de queimadura vincada e enrugada.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica com uma cicatriz de queimadura vincada e enrugada.</p>",
       "name": "Cicatriz de Queimadura",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.tZX2BDxFKJt7d7O9"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica com uma cicatriz de marca bem definida e levemente deprimida.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica com uma cicatriz de marca bem definida e levemente deprimida.</p>",
       "name": "Marcado a Ferro",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ZPVbTc1a7OJmxAyZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.M9ZgyvAWuVdXHnJ5"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você. Está. Em. Chamas. Chamas dançantes lambem o seu corpo. No início do seu Turn <em>(Turno)</em>, você sofre Fire damage <em>(Dano de Fogo)</em> proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d2]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d4]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d6]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d8]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d10]]</strong>)</em>.</p><p><em>Tratamento</em> — Você pode usar uma Action <em>(Ação)</em> para apagar as chamas.</p>",
+      "description": "<p>Você. Está. Em. Chamas. Chamas dançantes lambem o seu corpo. No início do seu <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, você sofre <span class=\"mmm-term\" style=\"color:#C00000;font-weight:bold\">Fire damage <em>(Dano de Fogo)</em></span> proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span>)</em>, 11-20 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>, 21-30 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span>)</em>, 31-40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span>)</em>, &gt;40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span>)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Você pode usar uma Action <em>(Ação)</em> para apagar as chamas.</p>",
       "name": "Em Chamas",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9T9VFivK7dzTehXC"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A temperatura ao seu redor dispara, aquecendo tudo ao redor de forma instantânea. Quaisquer objetos inflamáveis vestidos ou empunhados são incendiados. Você solta tudo o que for de metal e estiver carregando, em um choque repentino.</p><p><em>Tratamento</em> — Você pode apagar qualquer item vestido ou empunhado que tenha sido incendiado com uma Bonus Action <em>(Ação Bônus)</em>. Se tentar pegar algum item derrubado, faça um Saving Throw <em>(Teste de Resistência)</em> de Constitution <em>(Constituição)</em> <em>(DC igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> para enfrentar o calor e recuperá-los.</p>",
+      "description": "<p>A temperatura ao seu redor dispara, aquecendo tudo ao redor de forma instantânea. Quaisquer objetos inflamáveis vestidos ou empunhados são incendiados. Você solta tudo o que for de metal e estiver carregando, em um choque repentino.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Você pode apagar qualquer item vestido ou empunhado que tenha sido incendiado com uma Bonus Action <em>(Ação Bônus)</em>. Se tentar pegar algum item derrubado, faça um Saving Throw <em>(Teste de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> para enfrentar o calor e recuperá-los.</p>",
       "name": "Temperaturas Escaldantes",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WlPyx1X1D5MllNiX"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o calor interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente quente <em>(embora para você pareça agradavelmente morna)</em> e irradia uma tênue aura de Transmutation <em>(Transmutação)</em>. Você tem Advantage <em>(Vantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir aos efeitos ambientais do calor. Você pode suprimir este efeito mantendo Concentration <em>(Concentração)</em>.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o calor interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente quente <em>(embora para você pareça agradavelmente morna)</em> e irradia uma tênue aura de <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Transmutation <em>(Transmutação)</em></span>. Você tem Advantage <em>(Vantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> feitos para resistir aos efeitos ambientais do calor. Você pode suprimir este efeito mantendo <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span>.</p>",
       "name": "Fogo Interior",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ONRCEI0PF2jD4mah"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. O fogo ardente varreu tudo até restarem apenas cinzas. O apêndice fica <strong>missing</strong> <em>(ausente)</em> e a ferida resultante é cauterizada.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. O fogo ardente varreu tudo até restarem apenas cinzas. O apêndice fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span> e a ferida resultante é cauterizada.</p>",
       "name": "Apêndice Incinerado",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sxVV0S6YqVMTyyrg"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. O fogo voraz devorou o seu membro, deixando apenas brasas fumegantes em seu rastro. O membro fica <strong>missing</strong> <em>(ausente)</em> e a ferida resultante é cauterizada.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. O fogo voraz devorou o seu membro, deixando apenas brasas fumegantes em seu rastro. O membro fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span> e a ferida resultante é cauterizada.</p>",
       "name": "Membro Incinerado",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.DnHqRvkRGeOkHeNy"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você inala o ar escaldante ao seu redor e ele queima um caminho direto até os pulmões. Seu paladar e seu olfato ficam <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não forem tratados em 24 horas, ficarão permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Você inala o ar escaldante ao seu redor e ele queima um caminho direto até os pulmões. Seu paladar e seu olfato ficam <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não forem tratados em 24 horas, ficarão permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Queimadura das Vias Aéreas",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9NSMJlilDK1lbi5h"

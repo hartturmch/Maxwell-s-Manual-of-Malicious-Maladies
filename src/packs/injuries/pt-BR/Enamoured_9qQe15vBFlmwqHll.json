@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Um pouco confuso, você sente uma onda de afeição inesperada tomar conta de você. Você fica <strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em> pela fonte do dano, como se estivesse sob os efeitos da magia Charm Person <em>(Enfeitiçar Pessoa)</em>. Este efeito dura <strong>[[1d4]]</strong> Rounds <em>(Rodadas)</em>.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de dano da fonte do encanto encerra este efeito.</p>",
+      "value": "<p>Um pouco confuso, você sente uma onda de afeição inesperada tomar conta de você. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em></span> pela fonte do dano, como se estivesse sob os efeitos da magia Charm Person <em>(Enfeitiçar Pessoa)</em>. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Rounds <em>(Rodadas)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Sofrer qualquer quantidade de dano da fonte do encanto encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

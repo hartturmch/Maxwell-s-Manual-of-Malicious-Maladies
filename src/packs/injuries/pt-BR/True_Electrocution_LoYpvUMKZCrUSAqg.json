@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seu corpo convulsiona e trava, você mal consegue pensar, muito menos se mover. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> <em>(Paralisado)</em> por <strong>[[1d2]]</strong> Rounds <em>(Rodadas)</em>. Critical Hits que resultem da sua paralisia não fazem você rolar outra lesão persistente.</p><p><em>Tratamento</em> — A magia Lesser Restoration <em>(Restauração Menor)</em> remove esta paralisia, como de costume.</p>",
+      "value": "<p>Seu corpo convulsiona e trava, você mal consegue pensar, muito menos se mover. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[paralyzed]{paralyzed}</strong> <em>(Paralisado)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Rounds <em>(Rodadas)</em></span>. <span class=\"mmm-term\" style=\"color:#C00000;font-weight:bold\">Critical Hits</span> que resultem da sua paralisia não fazem você rolar outra lesão persistente.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — A magia Lesser Restoration <em>(Restauração Menor)</em> remove esta paralisia, como de costume.</p>",
       "chat": ""
     },
     "source": {

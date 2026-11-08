@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Qualquer personagem amigável que você tocar ou com quem interagir fisicamente sofre Acid damage <em>(Dano Ácido)</em> igual ao seu Level. Criaturas que você agarrar sofrem esse dano no início do Turn <em>(Turno)</em> delas. Este efeito dura 1 minuto.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> encerra este efeito. Você pode tentar este teste novamente.</p>",
+      "value": "<p>Qualquer personagem amigável que você tocar ou com quem interagir fisicamente sofre <span class=\"mmm-term\" style=\"color:#70AD47;font-weight:bold\">Acid damage <em>(Dano Ácido)</em></span> igual ao seu Level. Criaturas que você agarrar sofrem esse dano no início do <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span> delas. Este efeito dura 1 minuto.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> encerra este efeito. Você pode tentar este teste novamente.</p>",
       "chat": ""
     },
     "source": {

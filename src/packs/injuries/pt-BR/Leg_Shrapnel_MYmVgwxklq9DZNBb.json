@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos da sua perna. Sua velocidade é reduzida em 10 pés.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 22.</p>",
+      "value": "<p>O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos da sua perna. Sua velocidade é reduzida em 10 pés.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 22.</p>",
       "chat": ""
     },
     "source": {

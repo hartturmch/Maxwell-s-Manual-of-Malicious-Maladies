@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Role aleatoriamente para determinar o olho direito ou o esquerdo. Mesmo através das pálpebras fechadas, tudo o que você vê é uma brancura vazia. Seu olho fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratado em 24 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "value": "<p>Role aleatoriamente para determinar o olho direito ou o esquerdo. Mesmo através das pálpebras fechadas, tudo o que você vê é uma brancura vazia. Seu olho fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e, se não for tratado em 24 horas, sua visão ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "chat": ""
     },
     "source": {

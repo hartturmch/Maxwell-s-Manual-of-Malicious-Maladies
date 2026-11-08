@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente a energia negativa se agarrando a você, trabalhando ativamente contra você. Você é afligido como se estivesse sob a magia Bestow Curse <em>(Rogar Maldição)</em>, com a maldição específica escolhida aleatoriamente ou pelo Dungeon Master. Para fins de identificação de alvos, presume-se que a fonte do dano é o conjurador da maldição. A maldição dura até o próximo nascer do sol.</p><p><em>Tratamento</em> — Uma magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito, como de costume.</p>",
+      "value": "<p>Você sente a energia negativa se agarrando a você, trabalhando ativamente contra você. Você é afligido como se estivesse sob a magia Bestow Curse <em>(Rogar Maldição)</em>, com a maldição específica escolhida aleatoriamente ou pelo Dungeon Master. Para fins de identificação de alvos, presume-se que a fonte do dano é o conjurador da maldição. A maldição dura até o próximo nascer do sol.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito, como de costume.</p>",
       "chat": ""
     },
     "source": {

@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este engenho de fabricação gnômica parece um pé de mecanismo de relojoaria com uma mola pesada enrolada no calcanhar. Ele pode ser encaixado em uma perna ou em um pé <strong>missing</strong> <em>(ausente)</em>, onde atua como uma Prótese Simples de Perna. Com uma Action <em>(Ação)</em>, você pode comprimir a mola e travá-la no lugar. Na próxima vez que você fizer um Ability Check <em>(Teste de Habilidade)</em> de Strength <em>(Força)</em> — Athletics <em>(Atletismo)</em> para saltar, o mecanismo dispara, liberando a mola e concedendo a você Advantage <em>(Vantagem)</em> nesse teste.</p>",
+      "value": "<p>Este engenho de fabricação gnômica parece um pé de mecanismo de relojoaria com uma mola pesada enrolada no calcanhar. Ele pode ser encaixado em uma perna ou em um pé <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>, onde atua como uma Prótese Simples de Perna. Com uma Action <em>(Ação)</em>, você pode comprimir a mola e travá-la no lugar. Na próxima vez que você fizer um Ability Check <em>(Teste de Habilidade)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Strength <em>(Força)</em></span> — Athletics <em>(Atletismo)</em> para saltar, o mecanismo dispara, liberando a mola e concedendo a você Advantage <em>(Vantagem)</em> nesse teste.</p>",
       "chat": ""
     },
     "source": {

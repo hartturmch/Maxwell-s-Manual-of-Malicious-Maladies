@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz que, de algum modo, lhe confere um inconfundível charme de canalha. Enquanto esta cicatriz estiver visível, você tem um bônus de +1 em testes de Charisma <em>(Carisma)</em> — Deception <em>(Enganação)</em>. Se você acumular várias Cicatrizes Canalhas, este bônus não se acumula.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz que, de algum modo, lhe confere um inconfundível charme de canalha. Enquanto esta cicatriz estiver visível, você tem um bônus de +1 em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Charisma <em>(Carisma)</em></span> — Deception <em>(Enganação)</em>. Se você acumular várias Cicatrizes Canalhas, este bônus não se acumula.</p>",
       "chat": ""
     },
     "source": {

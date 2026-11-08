@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sofreu um dano grave diretamente no olho direito. Seu olho fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 8 horas, sua visão estará além de qualquer salvação <em>(e será considerada <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Você sofreu um dano grave diretamente no olho direito. Seu olho fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não for tratado em 8 horas, sua visão estará além de qualquer salvação <em>(e será considerada <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Olho Direito Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.yLN128lJJZIGs328",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sro4iySc6JaCyeC8"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Por precisão ou pura sorte, o golpe seccionou um nervo em um dos seus membros principais. Este membro fica <strong>nonfunctional</strong> <em>(não funcional)</em> e não cicatrizará adequadamente sem cirurgia.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. Por precisão ou pura sorte, o golpe seccionou um nervo em um dos seus membros principais. Este membro fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e não cicatrizará adequadamente sem cirurgia.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 22.</p>",
       "name": "Nervo Seccionado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.bcMmetrn1kEnOtWh",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.EQKcmneymtagEONJ"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Você sente uma dor lancinante no apêndice e, em seguida, uma dormência instantânea. O apêndice fica <strong>nonfunctional</strong> <em>(não funcional)</em> e não cicatrizará adequadamente sem cirurgia.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. Você sente uma dor lancinante no apêndice e, em seguida, uma dormência instantânea. O apêndice fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e não cicatrizará adequadamente sem cirurgia.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Nervo Pequeno Seccionado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.skC4JU5didgRpylO",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9zPDBAiPTp8qJL83"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A ferida superficial se fecha com facilidade, mas o ataque deixou uma contaminação insidiosa bem no fundo. No final de cada Long Rest <em>(Descanso Longo)</em>, role o Hit Die <em>(Dado de Vida)</em> da sua Class <em>(Classe)</em> e reduza seus Hit Points <em>(Pontos de Vida-HP)</em> máximos nesse valor. Se este efeito reduzir seus Hit Points a 0, você fica <strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em> e morrerá em <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Uma vez por dia, você pode tentar um Saving Throw <em>(Teste de Resistência)</em> <strong>[[/save con 22]]</strong> ou um teste de <strong>[[/skill medicine 17]]</strong>. Um sucesso em qualquer um deles cura a infecção. A magia Greater Restoration <em>(Restauração Superior)</em> restaura o dano aos Hit Points máximos, como de costume, mas não cura a infecção.</p>",
+      "description": "<p>A ferida superficial se fecha com facilidade, mas o ataque deixou uma contaminação insidiosa bem no fundo. No final de cada Long Rest <em>(Descanso Longo)</em>, role o Hit Die <em>(Dado de Vida)</em> da sua Class <em>(Classe)</em> e reduza seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> máximos nesse valor. Se este efeito reduzir seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points</span> a 0, você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em></span> e morrerá em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma vez por dia, você pode tentar um Saving Throw <em>(Teste de Resistência)</em> <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/save con 22]]</strong></span> ou um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 17]]</strong></span>. Um sucesso em qualquer um deles cura a infecção. A magia Greater Restoration <em>(Restauração Superior)</em> restaura o dano aos <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points</span> máximos, como de costume, mas não cura a infecção.</p>",
       "name": "Infecção Profunda",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.EbOaybmpQ1DH9o1Q",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.M4b2nqm2LIfXaaPi"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque afunda na carne do seu braço. Provavelmente não é grave, mas a dor faz você tratar o braço com cuidado. Você deixa de ter uma interação gratuita com objeto por Turn <em>(Turno)</em>. Este efeito dura <strong>[[1d8]]</strong> Turns.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
+      "description": "<p>O ataque afunda na carne do seu braço. Provavelmente não é grave, mas a dor faz você tratar o braço com cuidado. Você deixa de ter uma interação gratuita com objeto por <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns</span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
       "name": "Braço Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.zaqfj8ATVvZfuhS9",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.A75rbXBYeRWjcMgh"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você tosse sangue. O ferimento passou pelas suas costelas e chegou ao pulmão. Você faz testes de Strength <em>(Força)</em> — Athletics <em>(Atletismo)</em> e de Dexterity <em>(Destreza)</em> — Acrobatics <em>(Acrobacia)</em> com Disadvantage <em>(Desvantagem)</em> por <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>Você tosse sangue. O ferimento passou pelas suas costelas e chegou ao pulmão. Você faz testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Strength <em>(Força)</em></span> — Athletics <em>(Atletismo)</em> e de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Dexterity <em>(Destreza)</em></span> — Acrobatics <em>(Acrobacia)</em> com Disadvantage <em>(Desvantagem)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Pulmão Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.CHYjAHhd6HGi7wPd",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.orh5q2ysikLwbK9j"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque entrou por um lado e saiu pelo outro. Por sorte, não atingiu nada vital, mas você ainda sente a agonia em cada movimento. Bonus Actions <em>(Ações Bônus)</em> exigem uma Action <em>(Ação)</em> completa. Este efeito dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d2]]</strong> dias.</p>",
+      "description": "<p>O ataque entrou por um lado e saiu pelo outro. Por sorte, não atingiu nada vital, mas você ainda sente a agonia em cada movimento. Bonus Actions <em>(Ações Bônus)</em> exigem uma Action <em>(Ação)</em> completa. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span> dias.</p>",
       "name": "Transpassado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.Y9fL3J6lqkMrFLBe",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VD30q7uoIl5BIBiQ"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz nodosa e elevada nesta área do seu corpo.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz nodosa e elevada nesta área do seu corpo.</p>",
       "name": "Cicatriz Nodosa",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.aKUjrMMnskhPmMM9",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.qwGn6ahu1YIVNFan"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz funda e afundada nesta área do seu corpo.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz funda e afundada nesta área do seu corpo.</p>",
       "name": "Cicatriz Deprimida",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.i9r8DxUoTmd4u6mg",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.qrBjiP5PSXP8uimU"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque afunda na carne da sua perna. Provavelmente não é grave, mas a dor faz você tratar a perna com cuidado. Sua velocidade é reduzida em 10 pés por <strong>[[1d8]]</strong> Rounds <em>(Rodadas)</em>.</p><p><em>Tratamento</em> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
+      "description": "<p>O ataque afunda na carne da sua perna. Provavelmente não é grave, mas a dor faz você tratar a perna com cuidado. Sua velocidade é reduzida em 10 pés por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Rounds <em>(Rodadas)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Qualquer quantidade de cura mágica encerra este efeito.</p>",
       "name": "Perna Perfurada",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.bkU63wCwsEEre4Be",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.lnJUllGbkqzZOC2T"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz que, de algum modo, lhe confere um inconfundível charme de canalha. Enquanto esta cicatriz estiver visível, você tem um bônus de +1 em testes de Charisma <em>(Carisma)</em> — Deception <em>(Enganação)</em>. Se você acumular várias Cicatrizes Canalhas, este bônus não se acumula.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz que, de algum modo, lhe confere um inconfundível charme de canalha. Enquanto esta cicatriz estiver visível, você tem um bônus de +1 em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Charisma <em>(Carisma)</em></span> — Deception <em>(Enganação)</em>. Se você acumular várias Cicatrizes Canalhas, este bônus não se acumula.</p>",
       "name": "Cicatriz Canalha",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.dBsarJyCkvoy5aGE",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.aaPvPvxOoiI8V8XY"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque acabou, mas deixou algo para trás. Uma ponta de flecha, uma lasca do dente da criatura ou a ponta quebrada de uma espada, talvez. Seja o que for, você ainda sente aquilo cortando dentro de você. Sempre que você usar uma Action <em>(Ação)</em>, uma Bonus Action <em>(Ação Bônus)</em> e Movement <em>(Movimento)</em> no mesmo Turn <em>(Turno)</em>, você fica <strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em> até o final do seu próximo Turn.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 19 remove o corpo estranho e encerra este efeito.</p>",
+      "description": "<p>O ataque acabou, mas deixou algo para trás. Uma ponta de flecha, uma lasca do dente da criatura ou a ponta quebrada de uma espada, talvez. Seja o que for, você ainda sente aquilo cortando dentro de você. Sempre que você usar uma Action <em>(Ação)</em>, uma Bonus Action <em>(Ação Bônus)</em> e Movement <em>(Movimento)</em> no mesmo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn</span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 19 remove o corpo estranho e encerra este efeito.</p>",
       "name": "Corpo Estranho",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.uPrSnGc5S0eE8And",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.NXpRiIcH5yia83eZ"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você olha para o seu estômago e uma onda de medo gelado percorre seu corpo. Você sofreu um ferimento no abdômen e é só questão de tempo até que ele se torne séptico. Você fica <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em>. A cada 24 horas, você ganha 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>. Este nível de <strong>exhaustion</strong> não pode ser removido por meios não mágicos.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 21. Qualquer efeito que cure doenças remove 1 nível de <strong>exhaustion</strong>. Uma magia Lesser Restoration <em>(Restauração Menor)</em> remove temporariamente a Condition <strong>poisoned</strong> por 24 horas. Uma magia Greater Restoration <em>(Restauração Superior)</em> remove níveis de <strong>exhaustion</strong> como de costume, mas não interrompe a infecção.</p>",
+      "description": "<p>Você olha para o seu estômago e uma onda de medo gelado percorre seu corpo. Você sofreu um ferimento no abdômen e é só questão de tempo até que ele se torne séptico. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em></span>. A cada 24 horas, você ganha 1 nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em></span>. Este nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span> não pode ser removido por meios não mágicos.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 21. Qualquer efeito que cure doenças remove 1 nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span>. Uma magia Lesser Restoration <em>(Restauração Menor)</em> remove temporariamente a <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\">Condition</span> <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>poisoned</strong></span> por 24 horas. Uma magia Greater Restoration <em>(Restauração Superior)</em> remove níveis de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span> como de costume, mas não interrompe a infecção.</p>",
       "name": "Intestino Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.Bmiptv20mT1pqEC2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pL5kCJKlhlFXTokB"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sofreu um dano grave diretamente no olho esquerdo. Seu olho fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 8 horas, sua visão estará além de qualquer salvação <em>(e será considerada <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Você sofreu um dano grave diretamente no olho esquerdo. Seu olho fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não for tratado em 8 horas, sua visão estará além de qualquer salvação <em>(e será considerada <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Olho Esquerdo Perfurado",
       "_key": "!tables.results!2oSzCvvLq2kw4Upk.904sfKRT6BHhuZU1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0qbw96Oz0hZ5eQ0k"

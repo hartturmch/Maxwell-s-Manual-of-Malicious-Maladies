@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role aleatoriamente para determinar o olho direito ou o esquerdo. Mesmo através das pálpebras fechadas, tudo o que você vê é uma brancura vazia. Seu olho fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratado em 24 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Role aleatoriamente para determinar o olho direito ou o esquerdo. Mesmo através das pálpebras fechadas, tudo o que você vê é uma brancura vazia. Seu olho fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e, se não for tratado em 24 horas, sua visão ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Olho Cego",
       "_key": "!tables.results!NETyZmaaW25oqjPV.BgSJvTFaJlpmTfik",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.JrCUXPibpjDkAise"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A energia que passou por você deixou uma sensação persistente de doença e náusea. Você fica <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em> por <strong>[[1d4]]</strong> dias. Durante esse período, você perde lentamente todos os pelos do corpo. Após <strong>[[1d12]]</strong> dias, eles voltam a crescer em ritmo normal.</p>",
+      "description": "<p>A energia que passou por você deixou uma sensação persistente de doença e náusea. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias. Durante esse período, você perde lentamente todos os pelos do corpo. Após <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d12]]</strong></span> dias, eles voltam a crescer em ritmo normal.</p>",
       "name": "Irradiado",
       "_key": "!tables.results!NETyZmaaW25oqjPV.lrhilZ4XgVufhGvY",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6Xj07LrPNOteJ3Pt"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você não estava preparado para a torrente avassaladora de brilho e encarou-a diretamente. Você fica <strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em> por <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>Você não estava preparado para a torrente avassaladora de brilho e encarou-a diretamente. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Queimadura por Clarão",
       "_key": "!tables.results!NETyZmaaW25oqjPV.6bgk8XgFA4nhs5G8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6A75gn1Y0uxnfQWA"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você pisca para tirar as manchas dos olhos, mas sua visão demora a voltar. Você fica <strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em> por <strong>[[1d4]]</strong> Turns <em>(Turnos)</em>.</p><p><em>Tratamento</em> — Uma magia Lesser Restoration <em>(Restauração Menor)</em> cura esta condição, como de costume.</p>",
+      "description": "<p>Você pisca para tirar as manchas dos olhos, mas sua visão demora a voltar. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns <em>(Turnos)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma magia Lesser Restoration <em>(Restauração Menor)</em> cura esta condição, como de costume.</p>",
       "name": "Deslumbrado",
       "_key": "!tables.results!NETyZmaaW25oqjPV.9tPQibbeSeTnr580",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4gP7JROYju8qofQq"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Luzes dançam na sua visão e você balança a cabeça tentando clareá-la. Você fica <strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em> até o final do seu próximo Turn <em>(Turno)</em>.</p><p><em>Tratamento</em> — Uma magia Lesser Restoration <em>(Restauração Menor)</em> cura esta condição, como de costume.</p>",
+      "description": "<p>Luzes dançam na sua visão e você balança a cabeça tentando clareá-la. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma magia Lesser Restoration <em>(Restauração Menor)</em> cura esta condição, como de costume.</p>",
       "name": "Ofuscado",
       "_key": "!tables.results!NETyZmaaW25oqjPV.fpgnoKKfrVlPHYRx",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.PMLqI1xVq357Hm5f"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Curiosamente, depois que a radiância do ataque se dissipa, você fica com um brilho verde e opaco. Isso afeta você da mesma maneira que a magia Faerie Fire <em>(Fogo das Fadas)</em>, embora o efeito em si não seja mágico. Dura <strong>[[1d20]]</strong> horas.</p>",
+      "description": "<p>Curiosamente, depois que a radiância do ataque se dissipa, você fica com um brilho verde e opaco. Isso afeta você da mesma maneira que a magia Faerie Fire <em>(Fogo das Fadas)</em>, embora o efeito em si não seja mágico. Dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d20]]</strong></span> horas.</p>",
       "name": "Brilho Sobrenatural",
       "_key": "!tables.results!NETyZmaaW25oqjPV.tdhm9ulx9NkOBEnU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.mX668VDAc2KUZGfN"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Parece que você perdeu o estômago para matar. A ideia de tirar uma vida enche você de nojo profundo. Você não pode tirar uma vida voluntariamente. Qualquer dano causado por você que reduza os Hit Points <em>(Pontos de Vida-HP)</em> de uma criatura a 0 a deixa inconsciente automaticamente, em vez de matá-la. Este efeito dura <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>Parece que você perdeu o estômago para matar. A ideia de tirar uma vida enche você de nojo profundo. Você não pode tirar uma vida voluntariamente. Qualquer dano causado por você que reduza os <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> de uma criatura a 0 a deixa inconsciente automaticamente, em vez de matá-la. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Misericórdia Penitente",
       "_key": "!tables.results!NETyZmaaW25oqjPV.MPAheSRgAl4bAfeT",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ANiookDgTzYOtijv"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz lisa nesta parte do seu corpo que parece cintilar pelas cores prismáticas quando a luz a atinge.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz lisa nesta parte do seu corpo que parece cintilar pelas cores prismáticas quando a luz a atinge.</p>",
       "name": "Cicatriz Prismática",
       "_key": "!tables.results!NETyZmaaW25oqjPV.nqSFhNH3fXoiyeAC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GDV8rvcCyNboDepS"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica branqueada, de um branco de osso, e os pelos não crescem mais nela.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica branqueada, de um branco de osso, e os pelos não crescem mais nela.</p>",
       "name": "Descolorido",
       "_key": "!tables.results!NETyZmaaW25oqjPV.4bINWP9AZmpOf3Eq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.q6TsKI59GuLp8Ioh"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A luz imprime uma queimadura vermelha e dolorosa na sua pele. Você sofre 1 de Radiant damage <em>(Dano Radiante)</em> a cada 10 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>. Esta lesão dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 12]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>A luz imprime uma queimadura vermelha e dolorosa na sua pele. Você sofre 1 de <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">Radiant damage <em>(Dano Radiante)</em></span> a cada 10 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>. Esta lesão dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 12]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Queimadura de Sol",
       "_key": "!tables.results!NETyZmaaW25oqjPV.D4Z1HciIJyvtEAGU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FulHxPsnRF8SRaEF"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você recebeu um breve vislumbre de algo maior e não consegue evitar uma pausa para um momento de contemplação distraída. Você não pode usar Reactions <em>(Reações)</em> por <strong>[[1d4]]</strong> Turns <em>(Turnos)</em>.</p>",
+      "description": "<p>Você recebeu um breve vislumbre de algo maior e não consegue evitar uma pausa para um momento de contemplação distraída. Você não pode usar Reactions <em>(Reações)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns <em>(Turnos)</em></span>.</p>",
       "name": "Uma Breve Quietude da Alma",
       "_key": "!tables.results!NETyZmaaW25oqjPV.nEpQe4pRirFbn6C8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.A3QThgUfeUZ3nyhT"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo emite um clarão repentino de radiância, que então se reduz a um brilho suave e opaco. Ela emite luz plena em um raio de 5 pés, penumbra em mais 5 pés de raio e tem uma tênue aura de Evocation <em>(Evocação)</em>. Um esforço de Concentration <em>(Concentração)</em> pode suprimir este efeito ou intensificar a luz até o brilho de uma tocha.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo emite um clarão repentino de radiância, que então se reduz a um brilho suave e opaco. Ela emite luz plena em um raio de 5 pés, penumbra em mais 5 pés de raio e tem uma tênue aura de <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Evocation <em>(Evocação)</em></span>. Um esforço de <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span> pode suprimir este efeito ou intensificar a luz até o brilho de uma tocha.</p>",
       "name": "Halo",
       "_key": "!tables.results!NETyZmaaW25oqjPV.u0C7I3bWsbxwWa3P",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4shxAtjIDbmzIUBU"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Conforme a energia do ataque se dissipa, uma revelação arranha a borda do seu cérebro, você tem certeza disso. Você tem <strong>[[1d6]]</strong> dias para se afastar das atividades e passar 24 horas sozinho, em contemplação silenciosa e individual sobre o seu deus, o seu sistema de crenças ou você mesmo. Depois disso, você chega a uma percepção esclarecedora. Se você não fizer isso dentro do prazo, a vontade incômoda cresce a níveis que distraem e você tem Disadvantage <em>(Desvantagem)</em> em todas as attack rolls <em>(jogadas de ataque)</em>, Ability Checks <em>(Testes de Habilidade)</em> e Saving Throws <em>(Testes de Resistência)</em> até fazê-lo.</p>",
+      "description": "<p>Conforme a energia do ataque se dissipa, uma revelação arranha a borda do seu cérebro, você tem certeza disso. Você tem <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias para se afastar das atividades e passar 24 horas sozinho, em contemplação silenciosa e individual sobre o seu deus, o seu sistema de crenças ou você mesmo. Depois disso, você chega a uma percepção esclarecedora. Se você não fizer isso dentro do prazo, a vontade incômoda cresce a níveis que distraem e você tem Disadvantage <em>(Desvantagem)</em> em todas as attack rolls <em>(jogadas de ataque)</em>, Ability Checks <em>(Testes de Habilidade)</em> e Saving Throws <em>(Testes de Resistência)</em> até fazê-lo.</p>",
       "name": "Epifania Forçada",
       "_key": "!tables.results!NETyZmaaW25oqjPV.fkLgkzG3A8ZqHG81",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Ek9w6MKsFiA0ztDh"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Conforme a energia divina se esvai, você sente como se parte do grande peso do tempo tivesse partido com ela. Seu corpo fica <strong>[[1d10]]</strong> anos mais jovem. Sua mente não é afetada.</p>",
+      "description": "<p>Conforme a energia divina se esvai, você sente como se parte do grande peso do tempo tivesse partido com ela. Seu corpo fica <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span> anos mais jovem. Sua mente não é afetada.</p>",
       "name": "Fonte da Juventude",
       "_key": "!tables.results!NETyZmaaW25oqjPV.BvwrOa4dT538ATC3",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.27oyKKLJ3qXHlFpM"

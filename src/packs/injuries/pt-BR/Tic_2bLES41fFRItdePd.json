@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque psíquico deixou você com um pequeno tique vocal ou motor, um comportamento compulsivo breve que você acha difícil ou impossível suprimir. O Dungeon Master pode escolher um tique específico ou rolar para determiná-lo aleatoriamente <em>(<strong>[[1d6]]</strong>)</em>: 1) Piscar do olho, 2) Estalar os dedos, 3) Tocar outras pessoas ou coisas, 4) Grunhir, 5) Repetir um som ou frase, 6) Fazer caretas.</p>",
+      "value": "<p>O ataque psíquico deixou você com um pequeno tique vocal ou motor, um comportamento compulsivo breve que você acha difícil ou impossível suprimir. O Dungeon Master pode escolher um tique específico ou rolar para determiná-lo aleatoriamente <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span>)</em>: 1) Piscar do olho, 2) Estalar os dedos, 3) Tocar outras pessoas ou coisas, 4) Grunhir, 5) Repetir um som ou frase, 6) Fazer caretas.</p>",
       "chat": ""
     },
     "source": {

@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Este item lembra uma concha do mar simples e de aparência inofensiva. Ele funciona de forma idêntica a uma Ersatz Ear <em>(Orelha Postiça)</em>, mas com as seguintes adições:</p><p>Enquanto estiver removida, você pode usar Concentration <em>(Concentração)</em> para ouvir através da concha. Se em algum momento você estiver em um plano diferente da concha, este efeito continua a funcionar por <strong>[[/r 1d6]]</strong> dias antes de você perder a sintonização.</p>",
+      "value": "<p><em>Wondrous item (<span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Item</span> Maravilhoso, requer sintonização)</em></p><p>Este item lembra uma concha do mar simples e de aparência inofensiva. Ele funciona de forma idêntica a uma Ersatz Ear <em>(Orelha Postiça)</em>, mas com as seguintes adições:</p><p>Enquanto estiver removida, você pode usar <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span> para ouvir através da concha. Se em algum momento você estiver em um plano diferente da concha, este efeito continua a funcionar por <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/r 1d6]]</strong></span> dias antes de você perder a sintonização.</p>",
       "chat": ""
     },
     "source": {

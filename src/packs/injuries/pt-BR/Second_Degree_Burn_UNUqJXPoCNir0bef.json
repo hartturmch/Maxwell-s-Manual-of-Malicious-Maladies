@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Sua pele forma bolhas e empola enquanto a queimadura se alastra sobre ela. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de Fire damage <em>(Dano de Fogo)</em> a cada 5 pés de Movement <em>(Movimento)</em>. Esta lesão cura em <strong>[[1d8]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 12]]</strong> reduz a duração desta lesão em <strong>[[1d8]]</strong> dias.</p>",
+      "value": "<p>Sua pele forma bolhas e empola enquanto a queimadura se alastra sobre ela. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você sofre 1 de <span class=\"mmm-term\" style=\"color:#C00000;font-weight:bold\">Fire damage <em>(Dano de Fogo)</em></span> a cada 5 pés de Movement <em>(Movimento)</em>. Esta lesão cura em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 12]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

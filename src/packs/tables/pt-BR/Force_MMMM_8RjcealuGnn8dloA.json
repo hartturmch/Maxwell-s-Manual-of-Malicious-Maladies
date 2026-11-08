@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Quando a energia arcana atinge você, você sente algo dentro de si chiar e se apagar. Você perde a capacidade de conjurar magias por qualquer meio <em>(incluindo class features, racial traits ou itens mágicos)</em> por <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>Quando a energia arcana atinge você, você sente algo dentro de si chiar e se apagar. Você perde a capacidade de conjurar magias por qualquer meio <em>(incluindo class features, racial traits ou itens mágicos)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Null Arcana",
       "_key": "!tables.results!8RjcealuGnn8dloA.yYOE0v0vTiVWNtMp",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.7sz0vgON8LBgdaZ9"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente o recuo abrupto e perturbador de uma conexão cortada. Você perde a attunement <em>(sintonização)</em> com tudo a que estiver sintonizado no momento. Você não pode se sintonizar com nada por <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>Você sente o recuo abrupto e perturbador de uma conexão cortada. Você perde a attunement <em>(sintonização)</em> com tudo a que estiver sintonizado no momento. Você não pode se sintonizar com nada por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Ligo Secare",
       "_key": "!tables.results!8RjcealuGnn8dloA.T2cz3fukuLog312a",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.zvxHkSREpWCoRe7m"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente a magia pulsar e ressoar com o resíduo arcano que se agarra a você, vindo da última magia que conjurou. Há uma sensação ardente no fundo da sua mente. Você perde a capacidade de conjurar magias da mesma escola de magia da magia mais recente que conjurou por <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>Você sente a magia pulsar e ressoar com o resíduo arcano que se agarra a você, vindo da última magia que conjurou. Há uma sensação ardente no fundo da sua mente. Você perde a capacidade de conjurar magias da mesma escola de magia da magia mais recente que conjurou por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Null Scola",
       "_key": "!tables.results!8RjcealuGnn8dloA.W1Ft2bd1SLI51gAl",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.8noSUaYtJmdkIDhK"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <strong>[[1d4]]</strong>)</em>: 1) Laranja, Conjuration <em>(Conjuração)</em>, 2) Vermelho, Evocation <em>(Evocação)</em>, 3) Azul, Abjuration <em>(Abjuração)</em>, 4) Verde, Transmutation <em>(Transmutação)</em>.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>: 1) Laranja, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Conjuration <em>(Conjuração)</em></span>, 2) Vermelho, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Evocation <em>(Evocação)</em></span>, 3) Azul, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Abjuration <em>(Abjuração)</em></span>, 4) Verde, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Transmutation <em>(Transmutação)</em></span>.</p>",
       "name": "Aura Persistente",
       "_key": "!tables.results!8RjcealuGnn8dloA.TtN76YZO4sdKH2he",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Uzg4qnzgKmEFpYcI"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <strong>[[1d4]]</strong>)</em>: 1) Preto, Necromancy <em>(Necromancia)</em>, 2) Branco, Enchantment <em>(Encantamento)</em>, 3) Amarelo, Illusion <em>(Ilusão)</em>, 4) Violeta, Divination <em>(Adivinhação)</em>.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>: 1) Preto, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Necromancy <em>(Necromancia)</em></span>, 2) Branco, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Enchantment <em>(Encantamento)</em></span>, 3) Amarelo, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Illusion <em>(Ilusão)</em></span>, 4) Violeta, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Divination <em>(Adivinhação)</em></span>.</p>",
       "name": "Aura Persistente",
       "_key": "!tables.results!8RjcealuGnn8dloA.SVfKTmuMaYswE7XX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.L1se5pFxXJpdJLIF"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Quando a energia arcana é expulsa e a dor recua, você flexiona o membro e descobre que parte dessa energia decidiu ficar com você. Ataques desarmados e armas empunhadas por este membro contam como mágicos para fins de superar resistência e imunidade a ataques e dano não mágicos.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. Quando a energia arcana é expulsa e a dor recua, você flexiona o membro e descobre que parte dessa energia decidiu ficar com você. Ataques desarmados e armas empunhadas por este membro contam como mágicos para fins de superar resistência e imunidade a ataques e dano não mágicos.</p>",
       "name": "Imbuant Artus",
       "_key": "!tables.results!8RjcealuGnn8dloA.OBME27B4D4i5Uk9i",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.LFr27kEqjtG87DrX"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seu equipamento mágico chia e começa a emitir um zumbido agudo. Você tem quase certeza de que ele não deveria fazer isso... Escolha aleatoriamente um dos seus itens mágicos que tenha cargas e role <strong>[[1d4]]</strong>. Essa quantidade de cargas é gasta imediatamente <em>(alvos escolhidos aleatoriamente, se necessário)</em> e as cargas máximas do item são reduzidas permanentemente nessa quantidade <em>(até um mínimo de 1)</em>.</p>",
+      "description": "<p>Seu equipamento mágico chia e começa a emitir um zumbido agudo. Você tem quase certeza de que ele não deveria fazer isso... Escolha aleatoriamente um dos seus itens mágicos que tenha cargas e role <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>. Essa quantidade de cargas é gasta imediatamente <em>(alvos escolhidos aleatoriamente, se necessário)</em> e as cargas máximas do item são reduzidas permanentemente nessa quantidade <em>(até um mínimo de 1)</em>.</p>",
       "name": "Dessico Vis",
       "_key": "!tables.results!8RjcealuGnn8dloA.jQl5kXu2R1Nu4iGI",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GN3Bqp6kAIcHtluY"

@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Aos poucos, você sente crescer o impulso de destruir algo belo. Você tem <strong>[[1d6]]</strong> dias para cometer um ato de destruição ou violência sem sentido <em>(fora do que seria o comportamento normal do seu personagem)</em>. Se não fizer isso dentro do prazo, a compulsão cresce a níveis que distraem e você tem Disadvantage <em>(Desvantagem)</em> em todas as attack rolls <em>(jogadas de ataque)</em>, Ability Checks <em>(Testes de Habilidade)</em> e Saving Throws <em>(Testes de Resistência)</em> até fazê-lo.</p>",
+      "value": "<p>Aos poucos, você sente crescer o impulso de destruir algo belo. Você tem <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias para cometer um ato de destruição ou violência sem sentido <em>(fora do que seria o comportamento normal do seu personagem)</em>. Se não fizer isso dentro do prazo, a compulsão cresce a níveis que distraem e você tem Disadvantage <em>(Desvantagem)</em> em todas as attack rolls <em>(jogadas de ataque)</em>, Ability Checks <em>(Testes de Habilidade)</em> e Saving Throws <em>(Testes de Resistência)</em> até fazê-lo.</p>",
       "chat": ""
     },
     "source": {

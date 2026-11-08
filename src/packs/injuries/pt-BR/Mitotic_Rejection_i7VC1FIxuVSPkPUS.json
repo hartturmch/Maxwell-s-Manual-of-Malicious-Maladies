@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você não pode receber cura mágica por <strong>[[1d6]]</strong> Turns <em>(Turnos)</em>. Isso inclui magias que restauram Hit Points <em>(Pontos de Vida-HP)</em>, curam Conditions <em>(Condições)</em> e ressuscitam os mortos.</p>",
+      "value": "<p>Você não pode receber cura mágica por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns <em>(Turnos)</em></span>. Isso inclui magias que restauram <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span>, curam <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\">Conditions <em>(Condições)</em></span> e ressuscitam os mortos.</p>",
       "chat": ""
     },
     "source": {

@@ -91,7 +91,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Esta haste fina, de três pés de comprimento, parece feita de um metal preto e liso e ressoa com uma vibração sutil quando encostada no chão. Se você estiver cego e segurar o Bastão Trêmulo contra o chão, você ganha blindsight <em>(visão às cegas)</em> em um raio de 30 pés. Além disso, a haste vibra ritmicamente em resposta a ataques iminentes, avisando você e concedendo um bônus de +2 na sua AC <em>(Armor Class — Classe de Armadura)</em>.</p><p> </p>",
+      "value": "<p><em>Wondrous item (<span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Item</span> Maravilhoso, requer sintonização)</em></p><p>Esta haste fina, de três pés de comprimento, parece feita de um metal preto e liso e ressoa com uma vibração sutil quando encostada no chão. Se você estiver cego e segurar o Bastão Trêmulo contra o chão, você ganha blindsight <em>(visão às cegas)</em> em um raio de 30 pés. Além disso, a haste vibra ritmicamente em resposta a ataques iminentes, avisando você e concedendo um bônus de +2 na sua <span class=\"mmm-term\" style=\"color:#7F7F7F;font-weight:bold\">AC</span> <em>(<span class=\"mmm-term\" style=\"color:#7F7F7F;font-weight:bold\">Armor Class</span> — Classe de Armadura)</em>.</p><p> </p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>O frio extremo drenou grande parte do calor do seu corpo. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito da magia Slow <em>(Lentidão)</em>. Se não for tratada por duas horas, a condição evolui para Hipotermia Grave.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
+      "value": "<p>O frio extremo drenou grande parte do calor do seu corpo. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito da magia Slow <em>(Lentidão)</em>. Se não for tratada por duas horas, a condição evolui para Hipotermia Grave.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

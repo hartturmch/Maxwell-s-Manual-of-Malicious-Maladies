@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <strong>[[1d4]]</strong>)</em>: 1) Laranja, Conjuration <em>(Conjuração)</em>, 2) Vermelho, Evocation <em>(Evocação)</em>, 3) Azul, Abjuration <em>(Abjuração)</em>, 4) Verde, Transmutation <em>(Transmutação)</em>.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>: 1) Laranja, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Conjuration <em>(Conjuração)</em></span>, 2) Vermelho, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Evocation <em>(Evocação)</em></span>, 3) Azul, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Abjuration <em>(Abjuração)</em></span>, 4) Verde, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Transmutation <em>(Transmutação)</em></span>.</p>",
       "chat": ""
     },
     "source": {

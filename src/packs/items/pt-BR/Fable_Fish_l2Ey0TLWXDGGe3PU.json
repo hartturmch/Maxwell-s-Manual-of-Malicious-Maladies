@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Curiosamente, este brinco não lembra um peixe de forma alguma, mas sim uma gota alongada e amarela. Enquanto o estiver usando, você entende qualquer fala audível a até 30 pés de você, como se estivesse sob os efeitos da magia <em>Comprehend Languages</em> <em>(Compreender Idiomas)</em>.</p><p>Você percebe esse idioma traduzido de forma telepática. O Peixe da Fábula tem uma aura de Divination <em>(Adivinhação)</em>.</p>",
+      "value": "<p><em>Wondrous item (<span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Item</span> Maravilhoso, requer sintonização)</em></p><p>Curiosamente, este brinco não lembra um peixe de forma alguma, mas sim uma gota alongada e amarela. Enquanto o estiver usando, você entende qualquer fala audível a até 30 pés de você, como se estivesse sob os efeitos da magia <em>Comprehend Languages</em> <em>(Compreender Idiomas)</em>.</p><p>Você percebe esse idioma traduzido de forma telepática. O Peixe da Fábula tem uma aura de <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Divination <em>(Adivinhação)</em></span>.</p>",
       "chat": ""
     },
     "source": {

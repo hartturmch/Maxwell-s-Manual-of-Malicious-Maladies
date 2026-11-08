@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este é um acessório protético com uma porta vazia na extremidade, que pode ser encaixado no lugar de um braço ou de uma mão <strong>missing</strong> <em>(ausente)</em>. A porta da prótese pode ser ajustada para aceitar qualquer conjunto de ferramentas, desde um martelo de piton do Climber's Kit <em>(Kit de Escalador)</em> até o arco de um violino. Usar esta prótese permite que você utilize qualquer conjunto de ferramentas ou instrumento normalmente, desde que tenha Proficiency <em>(Proficiência)</em> com eles.</p>",
+      "value": "<p>Este é um acessório protético com uma porta vazia na extremidade, que pode ser encaixado no lugar de um braço ou de uma mão <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>. A porta da prótese pode ser ajustada para aceitar qualquer conjunto de ferramentas, desde um martelo de piton do Climber's Kit <em>(Kit de Escalador)</em> até o arco de um violino. Usar esta prótese permite que você utilize qualquer conjunto de ferramentas ou instrumento normalmente, desde que tenha Proficiency <em>(Proficiência)</em> com eles.</p>",
       "chat": ""
     },
     "source": {

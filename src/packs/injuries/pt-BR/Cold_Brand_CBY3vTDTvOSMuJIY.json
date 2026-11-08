@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo foi marcada pelo frio e resultará em uma cicatriz definida e pálida. Qualquer pelo na área afetada volta a crescer branco.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo foi marcada pelo frio e resultará em uma cicatriz definida e pálida. Qualquer pelo na área afetada volta a crescer branco.</p>",
       "chat": ""
     },
     "source": {

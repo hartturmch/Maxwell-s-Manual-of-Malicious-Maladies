@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Você ficou gelado vezes demais e sua pele desenvolve facilmente erupções e bolhas no frio. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Constitution <em>(Constituição)</em> e em Saving Throws <em>(Testes de Resistência)</em> feitos para resistir aos efeitos ambientais do frio.</p>",
+      "value": "<p>Você ficou gelado vezes demais e sua pele desenvolve facilmente erupções e bolhas no frio. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> e em Saving Throws <em>(Testes de Resistência)</em> feitos para resistir aos efeitos ambientais do frio.</p>",
       "chat": ""
     },
     "source": {

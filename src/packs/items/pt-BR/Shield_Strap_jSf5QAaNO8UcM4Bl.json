@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este conjunto de tiras de couro pode ser fixado a qualquer escudo com um teste de Tinker's Tools <em>(Ferramentas de Funileiro)</em> DC 15. Elas permitem que o escudo seja preso a um braço com a mão <strong>missing</strong> <em>(ausente)</em> ou com uma amputação abaixo do cotovelo. Um escudo com esta modificação exige uma Action <em>(Ação)</em> para ser vestido ou retirado. Enquanto o escudo estiver preso ao seu braço, você tem Advantage <em>(Vantagem)</em> em quaisquer testes feitos para desarmá-lo.</p>",
+      "value": "<p>Este conjunto de tiras de couro pode ser fixado a qualquer escudo com um teste de Tinker's Tools <em>(Ferramentas de Funileiro)</em> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 15. Elas permitem que o escudo seja preso a um braço com a mão <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span> ou com uma amputação abaixo do cotovelo. Um escudo com esta modificação exige uma Action <em>(Ação)</em> para ser vestido ou retirado. Enquanto o escudo estiver preso ao seu braço, você tem Advantage <em>(Vantagem)</em> em quaisquer testes feitos para desarmá-lo.</p>",
       "chat": ""
     },
     "source": {

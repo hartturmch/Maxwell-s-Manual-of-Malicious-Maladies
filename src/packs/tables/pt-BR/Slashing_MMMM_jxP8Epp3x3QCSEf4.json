@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role para determinar aleatoriamente o olho esquerdo ou o direito. Você sofreu um ferimento grave que atravessa esse olho. Ele fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratado em 12 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Role para determinar aleatoriamente o olho esquerdo ou o direito. Você sofreu um ferimento grave que atravessa esse olho. Ele fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e, se não for tratado em 12 horas, sua visão ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Olho Cortado",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.vJ9f19tCiLkLf7jr",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ouYVpjOKVJcVzo6d"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. A intensidade do golpe cortou seu membro fora. Ele cai decepado aos seus pés e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. A intensidade do golpe cortou seu membro fora. Ele cai decepado aos seus pés e é considerado <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 22.</p>",
       "name": "Membro Decepado",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.Asnooo7m3fC7TmqL",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.N825I9jeVzOOG1li"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. A selvageria do golpe decepou um dos seus pequenos apêndices. Ele cai aos seus pés e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. A selvageria do golpe decepou um dos seus pequenos apêndices. Ele cai aos seus pés e é considerado <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 22.</p>",
       "name": "Apêndice Decepado",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.HMMk2aJGt9NxZ2fo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sSk5qFNlNiYSl3iE"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque atingiu um dos seus pontos vitais e abriu uma grande artéria. Você está sangrando até a morte. No final de cada Turn <em>(Turno)</em>, sofra um nível de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 16]]</strong> estanca o sangramento. Se você falhar no teste, não sofre um nível de <strong>exhaustion</strong> no final do seu próximo Turn. Você pode tentar este teste novamente.</p>",
+      "description": "<p>O ataque atingiu um dos seus pontos vitais e abriu uma grande artéria. Você está sangrando até a morte. No final de cada <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, sofra um nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 16]]</strong></span> estanca o sangramento. Se você falhar no teste, não sofre um nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span> no final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn</span>. Você pode tentar este teste novamente.</p>",
       "name": "Exsanguinação",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.4WtHsXCOByvPqij8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fsDFlNpXHNC3JAvA"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você vê o sangue jorrar da sua ferida e sente certa tontura. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d4]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d6]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d8]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d10]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d12]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 11]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
+      "description": "<p>Você vê o sangue jorrar da sua ferida e sente certa tontura. No final de cada <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, você sofre dano em seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>, 11-20 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span>)</em>, 21-30 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span>)</em>, 31-40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span>)</em>, &gt;40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d12]]</strong></span>)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 11]]</strong></span> estanca o sangramento. Você pode tentar este teste novamente.</p>",
       "name": "Hemorragia",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.1aZFemaaN5LlhCtn",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Ma7pEt7l2Srdr5x0"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você vê sangue escorrendo da sua ferida. Não é muito, mas se acumula. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d2]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d4]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d6]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d8]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d10]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 10]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
+      "description": "<p>Você vê sangue escorrendo da sua ferida. Não é muito, mas se acumula. No final de cada <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, você sofre dano em seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span>)</em>, 11-20 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>, 21-30 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span>)</em>, 31-40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span>)</em>, &gt;40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span>)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 10]]</strong></span> estanca o sangramento. Você pode tentar este teste novamente.</p>",
       "name": "Sangramento",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.Eb52VVrgBOgdFzXF",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.kLN81kihulFLvoUF"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Sua ferida parece inflamada nas bordas e se recusa teimosamente a cicatrizar. Você não pode recuperar Hit Points <em>(Pontos de Vida-HP)</em> por meios não mágicos <em>(como Short Rests ou Long Rests)</em>.</p><p><em>Tratamento</em> — Uma vez por Long Rest <em>(Descanso Longo)</em>, você pode fazer um teste de <strong>[[/skill medicine 18]]</strong> para curar esta lesão.</p>",
+      "description": "<p>Sua ferida parece inflamada nas bordas e se recusa teimosamente a cicatrizar. Você não pode recuperar <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> por meios não mágicos <em>(como Short Rests ou Long Rests)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma vez por Long Rest <em>(Descanso Longo)</em>, você pode fazer um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 18]]</strong></span> para curar esta lesão.</p>",
       "name": "Ferida Purulenta",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.nDeul6oAuIUnZGGW",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.PwAQwbEbLKQN7bVX"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sofreu um corte longo e doloroso em uma das pernas. Sua velocidade é reduzida em 10 pés. Esta lesão dura <strong>[[1d8]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d6]]</strong> dias.</p>",
+      "description": "<p>Você sofreu um corte longo e doloroso em uma das pernas. Sua velocidade é reduzida em 10 pés. Esta lesão dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p>",
       "name": "Laceração na Perna",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.0SpCq7yz5ExlheSP",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0N9c1tfXaC3LLtM9"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz fina e sinuosa nesta área do seu corpo.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz fina e sinuosa nesta área do seu corpo.</p>",
       "name": "Cicatriz Sinuosa",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.24omQYVqdDvxO96H",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GAIZ0crw1xfeih5e"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz grossa e elevada nesta área do seu corpo.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz grossa e elevada nesta área do seu corpo.</p>",
       "name": "Cicatriz Hipertrófica",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.HOt6FHGr0ZB8HD4q",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.7nYfZ3fHkvw58c1N"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você vê sangue escorrendo da sua ferida. Deve ser uma veia atingida, porque é difícil estancar. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d2]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d4]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d6]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d8]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d10]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 14]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
+      "description": "<p>Você vê sangue escorrendo da sua ferida. Deve ser uma veia atingida, porque é difícil estancar. No final de cada <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, você sofre dano em seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span>)</em>, 11-20 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>, 21-30 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span>)</em>, 31-40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span>)</em>, &gt;40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span>)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 14]]</strong></span> estanca o sangramento. Você pode tentar este teste novamente.</p>",
       "name": "Sangramento Teimoso",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.ULdXoOmf1zja8rHU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.aBreJKa3HM2XyIZ0"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A cada batida do coração, você sente o seu sangue vital se esvair. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d4]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d6]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d8]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d10]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d12]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
+      "description": "<p>A cada batida do coração, você sente o seu sangue vital se esvair. No final de cada <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, você sofre dano em seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>, 11-20 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span>)</em>, 21-30 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span>)</em>, 31-40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span>)</em>, &gt;40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d12]]</strong></span>)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> estanca o sangramento. Você pode tentar este teste novamente.</p>",
       "name": "Hemorragia Teimosa",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.jjDysUgbU0T1hgDo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Hpbu9QICvD6Krucs"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz que parece particularmente bem posicionada em você. Enquanto esta cicatriz estiver visível, você tem um bônus de +1 em testes de Charisma <em>(Carisma)</em> — Persuasion <em>(Persuasão)</em>. Se você acumular várias Cicatrizes Estéticas, este bônus não se acumula.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz que parece particularmente bem posicionada em você. Enquanto esta cicatriz estiver visível, você tem um bônus de +1 em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Charisma <em>(Carisma)</em></span> — Persuasion <em>(Persuasão)</em>. Se você acumular várias Cicatrizes Estéticas, este bônus não se acumula.</p>",
       "name": "Cicatriz Estética",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.1caSPQ1b5Aw6cIXu",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Pimuqy6axq5N7OaX"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. O corte selvagem separou o apêndice do seu corpo e o lançou à distância. Ele cai a 15 pés de você, em uma direção aleatória, e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. O corte selvagem separou o apêndice do seu corpo e o lançou à distância. Ele cai a 15 pés de você, em uma direção aleatória, e é considerado <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 22.</p>",
       "name": "Amputação Traumática",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.R7sfEmITW4uzGcZt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.vgXrjFmNYuryWa7n"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente o corte rasgar a parte de trás da sua perna e tropeça, gritando de dor. Sua velocidade é reduzida em 10 pés.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 20.</p>",
+      "description": "<p>Você sente o corte rasgar a parte de trás da sua perna e tropeça, gritando de dor. Sua velocidade é reduzida em 10 pés.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Jarrete Cortado",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.AK2seB56EtUmGd8E",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.QRT4v9jRYhYslvoN"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role para determinar aleatoriamente a orelha esquerda ou a direita. Você sofreu um ferimento grave que atravessa essa orelha. Ela fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratada em 12 horas, sua audição ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Role para determinar aleatoriamente a orelha esquerda ou a direita. Você sofreu um ferimento grave que atravessa essa orelha. Ela fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e, se não for tratada em 12 horas, sua audição ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Orelha Cortada",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.sCkgW7G6qNeUbNQb",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Z7ONgJVC7OytBi9e"

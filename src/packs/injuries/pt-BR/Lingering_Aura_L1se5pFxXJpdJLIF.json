@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <strong>[[1d4]]</strong>)</em>: 1) Preto, Necromancy <em>(Necromancia)</em>, 2) Branco, Enchantment <em>(Encantamento)</em>, 3) Amarelo, Illusion <em>(Ilusão)</em>, 4) Violeta, Divination <em>(Adivinhação)</em>.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>: 1) Preto, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Necromancy <em>(Necromancia)</em></span>, 2) Branco, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Enchantment <em>(Encantamento)</em></span>, 3) Amarelo, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Illusion <em>(Ilusão)</em></span>, 4) Violeta, <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Divination <em>(Adivinhação)</em></span>.</p>",
       "chat": ""
     },
     "source": {

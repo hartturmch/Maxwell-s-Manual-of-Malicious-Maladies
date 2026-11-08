@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Sua ferida apodrece com uma energia sombria. Ela resiste tanto à cura mágica quanto à natural. Seus Hit Points <em>(Pontos de Vida-HP)</em> máximos são reduzidos pela quantidade de dano que causou a lesão persistente.</p><p><em>Tratamento</em> — Um teste de General Surgery <em>(Cirurgia Geral)</em> DC 18 ou a magia Greater Restoration <em>(Restauração Superior)</em>.</p>",
+      "description": "<p>Sua ferida apodrece com uma energia sombria. Ela resiste tanto à cura mágica quanto à natural. Seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> máximos são reduzidos pela quantidade de dano que causou a lesão persistente.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 18 ou a magia Greater Restoration <em>(Restauração Superior)</em>.</p>",
       "name": "Ferida Necrótica",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.yq7N0ZmXyvnIExgW",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.nQ9BDJmwaBvsR4oh"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você se sente frágil, drenado, como se a própria essência da sua vida tivesse sido roubada de você. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Strength <em>(Força)</em> — Athletics <em>(Atletismo)</em> e em Saving Throws <em>(Testes de Resistência)</em> de Strength e de Constitution <em>(Constituição)</em> por <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>Você se sente frágil, drenado, como se a própria essência da sua vida tivesse sido roubada de você. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Strength <em>(Força)</em></span> — Athletics <em>(Atletismo)</em> e em Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Strength</span> e de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Definhado",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.zgGMdkoNVSiuodwE",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yHzmaTQ5WMPjxjLM"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você é tomado por uma fúria cega e por uma compulsão violenta e avassaladora. Você usa imediatamente sua Reaction <em>(Reação)</em> para fazer um ataque corpo a corpo contra a criatura mais próxima <em>(aleatória)</em>. Você passa os próximos <strong>[[1d4]]</strong> Turns <em>(Turnos)</em> perseguindo e atacando a criatura mais próxima de você, seja ela amiga ou não.</p><p><em>Tratamento</em> — Qualquer magia ou efeito que encerraria a Rage <em>(Fúria)</em> de um Barbarian <em>(Bárbaro)</em> também encerra este efeito.</p>",
+      "description": "<p>Você é tomado por uma fúria cega e por uma compulsão violenta e avassaladora. Você usa imediatamente sua Reaction <em>(Reação)</em> para fazer um ataque corpo a corpo contra a criatura mais próxima <em>(aleatória)</em>. Você passa os próximos <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns <em>(Turnos)</em></span> perseguindo e atacando a criatura mais próxima de você, seja ela amiga ou não.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Qualquer magia ou efeito que encerraria a Rage <em>(Fúria)</em> de um Barbarian <em>(Bárbaro)</em> também encerra este efeito.</p>",
       "name": "Surto Malicioso",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.OHQKqZgivvQDESXa",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ZKNUWo3SwLosVly9"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você é atormentado pelo fedor persistente de carne podre. Ele gruda em você e pode ser percebido por qualquer um a até 5 pés de você. Por <strong>[[1d6]]</strong> dias, você tem Disadvantage <em>(Desvantagem)</em> em todos os testes baseados em Charisma <em>(Carisma)</em>.</p><p><em>Tratamento</em> — Esfregar-se até ficar limpo em um banho longo e quente reduz a duração deste efeito em <strong>[[1d6]]</strong> dias.</p>",
+      "description": "<p>Você é atormentado pelo fedor persistente de carne podre. Ele gruda em você e pode ser percebido por qualquer um a até 5 pés de você. Por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias, você tem Disadvantage <em>(Desvantagem)</em> em todos os testes baseados em <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Charisma <em>(Carisma)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Esfregar-se até ficar limpo em um banho longo e quente reduz a duração deste efeito em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p>",
       "name": "O Fedor da Decomposição",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.A5vVDEmuZMEdx3Ra",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rzg5uTI2aZ83kitr"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente a energia negativa se agarrando a você, trabalhando ativamente contra você. Você é afligido como se estivesse sob a magia Bestow Curse <em>(Rogar Maldição)</em>, com a maldição específica escolhida aleatoriamente ou pelo Dungeon Master. Para fins de identificação de alvos, presume-se que a fonte do dano é o conjurador da maldição. A maldição dura até o próximo nascer do sol.</p><p><em>Tratamento</em> — Uma magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito, como de costume.</p>",
+      "description": "<p>Você sente a energia negativa se agarrando a você, trabalhando ativamente contra você. Você é afligido como se estivesse sob a magia Bestow Curse <em>(Rogar Maldição)</em>, com a maldição específica escolhida aleatoriamente ou pelo Dungeon Master. Para fins de identificação de alvos, presume-se que a fonte do dano é o conjurador da maldição. A maldição dura até o próximo nascer do sol.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito, como de costume.</p>",
       "name": "Amaldiçoado",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.PUOXb7ZJ4DWysTzn",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VfyN786tmBqxOPRr"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz curiosa que parece uma sombra sobre a área ferida. Nenhuma quantidade de luz parece capaz de eliminar essa sombra.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz curiosa que parece uma sombra sobre a área ferida. Nenhuma quantidade de luz parece capaz de eliminar essa sombra.</p>",
       "name": "Cicatriz de Sombra",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.fOM1XBQOuP86dTQO",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ZSjESgzEimHy5aTL"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma escuridão persistente ao longo das veias nesta área do seu corpo.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma escuridão persistente ao longo das veias nesta área do seu corpo.</p>",
       "name": "Vasos Escuros",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.dvQP3UB7lq3KM0jR",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yL6cNNz65ZGH7l5W"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você não pode receber cura mágica por <strong>[[1d6]]</strong> Turns <em>(Turnos)</em>. Isso inclui magias que restauram Hit Points <em>(Pontos de Vida-HP)</em>, curam Conditions <em>(Condições)</em> e ressuscitam os mortos.</p>",
+      "description": "<p>Você não pode receber cura mágica por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns <em>(Turnos)</em></span>. Isso inclui magias que restauram <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span>, curam <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\">Conditions <em>(Condições)</em></span> e ressuscitam os mortos.</p>",
       "name": "Rejeição Mitótica",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.zTAXVuVF0GijLXbM",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.i7VC1FIxuVSPkPUS"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você é atingido por uma visão breve e traumática da sua própria morte e seu coração se enche de pavor diante desse presságio. Você tem vulnerabilidade à próxima fonte de dano que o ferir, após o que este efeito termina.</p><p><em>Tratamento</em> — A magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito.</p>",
+      "description": "<p>Você é atingido por uma visão breve e traumática da sua própria morte e seu coração se enche de pavor diante desse presságio. Você tem vulnerabilidade à próxima fonte de dano que o ferir, após o que este efeito termina.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — A magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito.</p>",
       "name": "Caminho para a Sua Sepultura",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.wUP0u5dCuO9LWR2f",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.l2ONnqFfEkVfZjD1"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Este membro está pálido, sem sangue e morto. Ainda assim... de alguma forma, você ainda consegue movê-lo normalmente. O membro emite uma tênue aura de Necromancy <em>(Necromancia)</em>. Você pode suprimir este efeito com um esforço de Concentration <em>(Concentração)</em>. Isso torna o seu membro físico inanimado e um membro fantasma espectral surge de dentro dele, permanecendo preso a você. Este membro incorpóreo pode atravessar criaturas e objetos e interagir tanto com o Material Plane <em>(Plano Material)</em> quanto com o Border Ethereal Plane <em>(Plano Etéreo Fronteiriço)</em>. Se o Membro Fantasma passar mais de 6 segundos dentro de um objeto, ele desaparece e você sofre <strong>[[/damage 1d6 force]]</strong>.</p><p><em>Tratamento</em> — Qualquer magia que traga os mortos de volta à vida devolve o seu membro ao normal, desde que você siga os requisitos normais da magia.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. Este membro está pálido, sem sangue e morto. Ainda assim... de alguma forma, você ainda consegue movê-lo normalmente. O membro emite uma tênue aura de <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Necromancy <em>(Necromancia)</em></span>. Você pode suprimir este efeito com um esforço de <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span>. Isso torna o seu membro físico inanimado e um membro fantasma espectral surge de dentro dele, permanecendo preso a você. Este membro incorpóreo pode atravessar criaturas e objetos e interagir tanto com o <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Material Plane <em>(Plano Material)</em></span> quanto com o <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Border Ethereal Plane <em>(Plano Etéreo Fronteiriço)</em></span>. Se o Membro Fantasma passar mais de 6 segundos dentro de um objeto, ele desaparece e você sofre <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/damage 1d6 force]]</strong></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Qualquer magia que traga os mortos de volta à vida devolve o seu membro ao normal, desde que você siga os requisitos normais da magia.</p>",
       "name": "Membro Fantasma",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.NNEoVJmXjmNndWAs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.JsaFwMWuJG9F0UkB"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Aos poucos, você sente crescer o impulso de destruir algo belo. Você tem <strong>[[1d6]]</strong> dias para cometer um ato de destruição ou violência sem sentido <em>(fora do que seria o comportamento normal do seu personagem)</em>. Se não fizer isso dentro do prazo, a compulsão cresce a níveis que distraem e você tem Disadvantage <em>(Desvantagem)</em> em todas as attack rolls <em>(jogadas de ataque)</em>, Ability Checks <em>(Testes de Habilidade)</em> e Saving Throws <em>(Testes de Resistência)</em> até fazê-lo.</p>",
+      "description": "<p>Aos poucos, você sente crescer o impulso de destruir algo belo. Você tem <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias para cometer um ato de destruição ou violência sem sentido <em>(fora do que seria o comportamento normal do seu personagem)</em>. Se não fizer isso dentro do prazo, a compulsão cresce a níveis que distraem e você tem Disadvantage <em>(Desvantagem)</em> em todas as attack rolls <em>(jogadas de ataque)</em>, Ability Checks <em>(Testes de Habilidade)</em> e Saving Throws <em>(Testes de Resistência)</em> até fazê-lo.</p>",
       "name": "Compulsão Insidiosa",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.e6palVsMklFOzEPx",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FY5fuwuHmYXwkIpF"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Cada célula do seu corpo protesta ao ser agredida pelo próprio fluxo do tempo. Seu corpo envelhece <strong>[[1d10]]</strong> anos. Sua mente não é afetada.</p>",
+      "description": "<p>Cada célula do seu corpo protesta ao ser agredida pelo próprio fluxo do tempo. Seu corpo envelhece <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span> anos. Sua mente não é afetada.</p>",
       "name": "Cronocicatrizado",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.JIn4VzwNYZmH5URA",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pKxmf8XyaPdqSsBX"

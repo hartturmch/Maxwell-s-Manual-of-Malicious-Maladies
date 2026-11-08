@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Este item, de forma perturbadora, lembra um globo ocular com uma íris roxo-escura até o menor detalhe <em>(incluindo uma sensação ligeiramente úmida)</em>. Ele funciona de forma idêntica a um Ersatz Eye <em>(Olho Postiço — XGE pg.137)</em>, mas com as seguintes adições:</p><p>Enquanto estiver removido, você pode usar Concentration <em>(Concentração)</em> para enxergar através do olho. Se em algum momento você estiver em um plano diferente do globo ocular, este efeito continua a funcionar por <strong>[[/r 1d6]]</strong> dias antes de você perder a sintonização.</p>",
+      "value": "<p><em>Wondrous item (<span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Item</span> Maravilhoso, requer sintonização)</em></p><p>Este item, de forma perturbadora, lembra um globo ocular com uma íris roxo-escura até o menor detalhe <em>(incluindo uma sensação ligeiramente úmida)</em>. Ele funciona de forma idêntica a um Ersatz Eye <em>(Olho Postiço — XGE pg.137)</em>, mas com as seguintes adições:</p><p>Enquanto estiver removido, você pode usar <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span> para enxergar através do olho. Se em algum momento você estiver em um plano diferente do globo ocular, este efeito continua a funcionar por <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/r 1d6]]</strong></span> dias antes de você perder a sintonização.</p>",
       "chat": ""
     },
     "source": {

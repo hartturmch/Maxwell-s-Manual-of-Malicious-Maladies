@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente... silencioso. Todo ruído em um raio de meio pé desta área do seu corpo fica inaudível, como se estivesse sob o efeito da magia Silence <em>(Silêncio)</em>, e a área emite uma aura tênue de Illusion <em>(Ilusão)</em>. Um esforço de Concentration <em>(Concentração)</em> suprime este efeito.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente... silencioso. Todo ruído em um raio de meio pé desta área do seu corpo fica inaudível, como se estivesse sob o efeito da magia Silence <em>(Silêncio)</em>, e a área emite uma aura tênue de <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Illusion <em>(Ilusão)</em></span>. Um esforço de <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span> suprime este efeito.</p>",
       "chat": ""
     },
     "source": {

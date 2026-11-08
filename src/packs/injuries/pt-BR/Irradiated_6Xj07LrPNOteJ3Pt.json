@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>A energia que passou por você deixou uma sensação persistente de doença e náusea. Você fica <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em> por <strong>[[1d4]]</strong> dias. Durante esse período, você perde lentamente todos os pelos do corpo. Após <strong>[[1d12]]</strong> dias, eles voltam a crescer em ritmo normal.</p>",
+      "value": "<p>A energia que passou por você deixou uma sensação persistente de doença e náusea. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias. Durante esse período, você perde lentamente todos os pelos do corpo. Após <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d12]]</strong></span> dias, eles voltam a crescer em ritmo normal.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Cada célula do seu corpo protesta ao ser agredida pelo próprio fluxo do tempo. Seu corpo envelhece <strong>[[1d10]]</strong> anos. Sua mente não é afetada.</p>",
+      "value": "<p>Cada célula do seu corpo protesta ao ser agredida pelo próprio fluxo do tempo. Seu corpo envelhece <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span> anos. Sua mente não é afetada.</p>",
       "chat": ""
     },
     "source": {

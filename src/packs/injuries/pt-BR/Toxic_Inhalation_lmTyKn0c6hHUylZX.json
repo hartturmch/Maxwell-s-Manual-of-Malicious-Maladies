@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Você inalou os vapores tóxicos do ácido e tem um acesso violento de tosse. Você fica <strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em> até o final do seu próximo Turn <em>(Turno)</em>.</p>",
+      "value": "<p>Você inalou os vapores tóxicos do ácido e tem um acesso violento de tosse. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>.</p>",
       "chat": ""
     },
     "source": {

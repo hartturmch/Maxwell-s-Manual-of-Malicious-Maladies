@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Você tenta mover os pés, mas descobre que a intensidade do frio o congelou diretamente ao chão. Você fica <strong>&Reference[restrained]{restrained}</strong> <em>(Impedido)</em>. Se você estiver voando ou, de outra forma, não estiver em contato com uma superfície, não há efeito.</p><p><em>Tratamento</em> — Um teste de Strength <em>(Força)</em> <em>(DC igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> como Action <em>(Ação)</em> permite que você se liberte.</p>",
+      "value": "<p>Você tenta mover os pés, mas descobre que a intensidade do frio o congelou diretamente ao chão. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[restrained]{restrained}</strong> <em>(Impedido)</em></span>. Se você estiver voando ou, de outra forma, não estiver em contato com uma superfície, não há efeito.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Strength <em>(Força)</em></span> <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> como Action <em>(Ação)</em> permite que você se liberte.</p>",
       "chat": ""
     },
     "source": {

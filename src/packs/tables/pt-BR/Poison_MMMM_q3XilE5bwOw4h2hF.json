@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role para determinar aleatoriamente a orelha esquerda ou a direita. O veneno se espalhou para as estruturas delicadas do seu ouvido interno. Esta orelha fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratada em 12 horas, sua audição será danificada além de qualquer reparo <em>(e será considerada <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Role para determinar aleatoriamente a orelha esquerda ou a direita. O veneno se espalhou para as estruturas delicadas do seu ouvido interno. Esta orelha fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e, se não for tratada em 12 horas, sua audição será danificada além de qualquer reparo <em>(e será considerada <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Ototoxicidade",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.Hsc8etMZL7Sap72X",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Jh5GQtGEJ82iKXlf"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente tontura e o mundo parece se mover sob os seus pés. O problema só piora quando você está perto de uma grande altura. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Dexterity <em>(Destreza)</em> — Acrobatics <em>(Acrobacia)</em>. Você tem Disadvantage em todos os ataques e Ability Checks <em>(Testes de Habilidade)</em> quando estiver a até 5 pés de uma altura de 15 pés ou mais.</p>",
+      "description": "<p>Você sente tontura e o mundo parece se mover sob os seus pés. O problema só piora quando você está perto de uma grande altura. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Dexterity <em>(Destreza)</em></span> — Acrobatics <em>(Acrobacia)</em>. Você tem Disadvantage em todos os ataques e Ability Checks <em>(Testes de Habilidade)</em> quando estiver a até 5 pés de uma altura de 15 pés ou mais.</p>",
       "name": "Vertigem",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.G7xrg03aujYcFpuC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bSoJyL42dtYXnhus"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O veneno é particularmente forte e você não consegue se livrar dele. Você fica <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em> por <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Após cada Long Rest <em>(Descanso Longo)</em>, você pode fazer um Saving Throw <em>(Teste de Resistência)</em> de Constitution <em>(Constituição)</em> <em>(DC igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em>. Com um sucesso, você deixa de ficar <strong>poisoned</strong>. Qualquer efeito que cure veneno <em>(como a magia Lesser Restoration — Restauração Menor)</em> em vez disso suprime temporariamente o veneno por uma hora.</p>",
+      "description": "<p>O veneno é particularmente forte e você não consegue se livrar dele. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Após cada Long Rest <em>(Descanso Longo)</em>, você pode fazer um Saving Throw <em>(Teste de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em>. Com um sucesso, você deixa de ficar <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>poisoned</strong></span>. Qualquer efeito que cure veneno <em>(como a magia Lesser Restoration — Restauração Menor)</em> em vez disso suprime temporariamente o veneno por uma hora.</p>",
       "name": "Veneno Persistente",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.RD5wCeBle5MmS1Vw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sUz9koOyxAZQx0TT"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente fisicamente o veneno corroendo você por dentro, e a adrenalina que corre em você só ajuda a espalhá-lo pelo corpo. No início do seu Turn <em>(Turno)</em>, você sofre Poison damage <em>(Dano Venenoso)</em> proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d2]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d4]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d6]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d8]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d10]]</strong>)</em>. Este efeito continua até você sair de Initiative <em>(Iniciativa)</em>.</p><p><em>Tratamento</em> — Qualquer magia ou efeito que cure a Condition <em>(Condição)</em> <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em> encerra este efeito.</p>",
+      "description": "<p>Você sente fisicamente o veneno corroendo você por dentro, e a adrenalina que corre em você só ajuda a espalhá-lo pelo corpo. No início do seu <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, você sofre <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Poison damage <em>(Dano Venenoso)</em></span> proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span>)</em>, 11-20 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>, 21-30 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span>)</em>, 31-40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span>)</em>, &gt;40 de dano <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span>)</em>. Este efeito continua até você sair de Initiative <em>(Iniciativa)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Qualquer magia ou efeito que cure a <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\">Condition <em>(Condição)</em></span> <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em></span> encerra este efeito.</p>",
       "name": "Veneno Virulento",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.ZQBdf2TLoIW7lxJJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.jqnFjcIYlWVUvCgP"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seus lábios ficam azuis, você fica sem fôlego e sente que não consegue puxar ar suficiente, por mais que tente. Você sofre três níveis de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Você pode remover esses níveis de <strong>exhaustion</strong> com um Long Rest <em>(Descanso Longo)</em> ou um Short Rest <em>(Descanso Curto)</em>. Qualquer magia ou efeito que remova um nível de <strong>exhaustion</strong> remove todos os três.</p>",
+      "description": "<p>Seus lábios ficam azuis, você fica sem fôlego e sente que não consegue puxar ar suficiente, por mais que tente. Você sofre três níveis de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Você pode remover esses níveis de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span> com um Long Rest <em>(Descanso Longo)</em> ou um Short Rest <em>(Descanso Curto)</em>. Qualquer magia ou efeito que remova um nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span> remove todos os três.</p>",
       "name": "Cianótico",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.rZ6ZM30dF9VvEIAB",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.gprtHUF88gShjZhh"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seus olhos ficam embaçados, sua visão se turva e formas distintas viram manchas amorfas. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Wisdom <em>(Sabedoria)</em> — Perception <em>(Percepção)</em> que dependam da visão e em todos os ataques à distância por <strong>[[1d4]]</strong> dias. Se você tem darkvision <em>(visão no escuro)</em>, você a perde durante esse período.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d2]]</strong> dias.</p>",
+      "description": "<p>Seus olhos ficam embaçados, sua visão se turva e formas distintas viram manchas amorfas. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Wisdom <em>(Sabedoria)</em></span> — <span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Perception <em>(Percepção)</em></span> que dependam da visão e em todos os ataques à distância por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias. Se você tem darkvision <em>(visão no escuro)</em>, você a perde durante esse período.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span> dias.</p>",
       "name": "Visão Turva",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.tGfvJCHrzePrLc1j",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.PaLdXDLkYkynIM5B"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. O veneno teve o efeito curioso de tingir a sua pele. Esta área do seu corpo assumiu um tom claro da mesma cor do veneno, ou role para determinar a cor aleatoriamente <em>(<strong>[[1d4]]</strong>)</em>: 1) Verde 2) Roxo 3) Laranja 4) Azul.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. O veneno teve o efeito curioso de tingir a sua pele. Esta área do seu corpo assumiu um tom claro da mesma cor do veneno, ou role para determinar a cor aleatoriamente <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>: 1) Verde 2) Roxo 3) Laranja 4) Azul.</p>",
       "name": "Pigmentação Residual",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.PuEKXr40WSebEExu",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.1cV2EP1JyjpXSGro"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Suas veias ficaram cicatrizadas nesta área, levemente elevadas e pigmentadas da mesma cor do veneno, ou role para determinar a cor aleatoriamente <em>(<strong>[[1d4]]</strong>)</em>: 1) Verde 2) Cinza 3) Vermelho 4) Marrom.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Suas veias ficaram cicatrizadas nesta área, levemente elevadas e pigmentadas da mesma cor do veneno, ou role para determinar a cor aleatoriamente <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>: 1) Verde 2) Cinza 3) Vermelho 4) Marrom.</p>",
       "name": "Veias Cicatrizadas",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.9fXp7DF60mdD7FkZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0KcVInZ6xdrUmDo5"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente uma sensação oleosa e enjoada no fundo do estômago e a bile subindo pela garganta. Você tem Disadvantage <em>(Desvantagem)</em> em todos os Ability Checks <em>(Testes de Habilidade)</em> por <strong>[[1d6]]</strong> Rounds <em>(Rodadas)</em>.</p>",
+      "description": "<p>Você sente uma sensação oleosa e enjoada no fundo do estômago e a bile subindo pela garganta. Você tem Disadvantage <em>(Desvantagem)</em> em todos os Ability Checks <em>(Testes de Habilidade)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Rounds <em>(Rodadas)</em></span>.</p>",
       "name": "Náusea",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.rp03XJHLJUqDDvDj",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.IfX8yzJSedJO9ip7"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você se sente mal e, sem aviso, a última refeição é expulsa do seu estômago. Você fica <strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em> até o final do seu próximo Turn <em>(Turno)</em> e tem Disadvantage <em>(Desvantagem)</em> em todos os Ability Checks <em>(Testes de Habilidade)</em> por <strong>[[1d2]]</strong> Rounds <em>(Rodadas)</em>.</p>",
+      "description": "<p>Você se sente mal e, sem aviso, a última refeição é expulsa do seu estômago. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span> e tem Disadvantage <em>(Desvantagem)</em> em todos os Ability Checks <em>(Testes de Habilidade)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Rounds <em>(Rodadas)</em></span>.</p>",
       "name": "Vômito",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.Uq1Unk5crrNGRZw3",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xUFD7Fcw1CVkSwkH"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. O veneno interagiu com o seu corpo de uma forma totalmente inesperada, causando uma alteração estranha na aparência. Esta área do seu corpo adquire uma característica física de algum modo relacionada à fonte do veneno <em>(como escamas verdes, vindas do sopro venenoso de um dragão)</em>. A critério do Dungeon Master, esta nova característica pode lhe conceder um bônus de +1 em um Ability Check <em>(Teste de Habilidade)</em>.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. O veneno interagiu com o seu corpo de uma forma totalmente inesperada, causando uma alteração estranha na aparência. Esta área do seu corpo adquire uma característica física de algum modo relacionada à fonte do veneno <em>(como escamas verdes, vindas do sopro venenoso de um dragão)</em>. A critério do Dungeon Master, esta nova característica pode lhe conceder um bônus de +1 em um Ability Check <em>(Teste de Habilidade)</em>.</p>",
       "name": "Mutágeno Inesperado",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.K7BESebKblaanQFy",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.puryOFgcAqhw2jh7"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O veneno deixou seu fígado cicatrizado e danificado. Nunca houve momento melhor para parar de beber. Qualquer quantidade de álcool que você consumir faz você ficar com a Condition <em>(Condição)</em> <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em>. Álcool ou outras drogas afetam você pelo dobro da duração normal. Você tem Disadvantage <em>(Desvantagem)</em> em quaisquer testes ou Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir a veneno.</p>",
+      "description": "<p>O veneno deixou seu fígado cicatrizado e danificado. Nunca houve momento melhor para parar de beber. Qualquer quantidade de álcool que você consumir faz você ficar com a <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\">Condition <em>(Condição)</em></span> <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em></span>. Álcool ou outras drogas afetam você pelo dobro da duração normal. Você tem Disadvantage <em>(Desvantagem)</em> em quaisquer testes ou Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> feitos para resistir a veneno.</p>",
       "name": "Cirrose Hepática",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.qgZbFavXAaQtONWN",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.UlEPild1l1r57sMT"

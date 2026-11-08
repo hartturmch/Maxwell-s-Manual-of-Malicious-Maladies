@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque percussivo derruba você, e a única coisa que você ouve é um zumbido atonal. Você é derrubado e fica <strong>&Reference[prone]{prone}</strong> <em>(Caído)</em> e <strong>&Reference[deafened]{deafened}</strong> <em>(Surdo)</em> por <strong>[[1d6]]</strong> horas.</p>",
+      "value": "<p>O ataque percussivo derruba você, e a única coisa que você ouve é um zumbido atonal. Você é derrubado e fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[prone]{prone}</strong> <em>(Caído)</em></span> e <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[deafened]{deafened}</strong> <em>(Surdo)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> horas.</p>",
       "chat": ""
     },
     "source": {

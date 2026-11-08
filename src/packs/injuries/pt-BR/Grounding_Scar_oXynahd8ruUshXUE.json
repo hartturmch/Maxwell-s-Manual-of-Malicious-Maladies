@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Role duas vezes na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Cada área do seu corpo fica com uma cicatriz redonda: uma onde a eletricidade entrou e outra onde a eletricidade saiu.</p>",
+      "value": "<p>Role duas vezes na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Cada área do seu corpo fica com uma cicatriz redonda: uma onde a eletricidade entrou e outra onde a eletricidade saiu.</p>",
       "chat": ""
     },
     "source": {

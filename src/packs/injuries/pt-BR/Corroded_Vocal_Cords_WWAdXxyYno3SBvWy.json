@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Os vapores cáusticos do ácido causaram estragos nas suas cordas vocais. Sua voz fica <strong>nonfunctional</strong> <em>(não funcional)</em> e você fica mudo. Se não receber tratamento em 30 minutos, ela ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 19.</p>",
+      "value": "<p>Os vapores cáusticos do ácido causaram estragos nas suas cordas vocais. Sua voz fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e você fica mudo. Se não receber tratamento em 30 minutos, ela ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 19.</p>",
       "chat": ""
     },
     "source": {

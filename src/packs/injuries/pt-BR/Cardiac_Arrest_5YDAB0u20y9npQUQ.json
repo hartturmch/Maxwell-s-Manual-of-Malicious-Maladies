@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Quando a eletricidade deixa o seu coração, ele bate uma última vez antes do silêncio. Você fica <strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em> e morrendo, e seus Hit Points <em>(Pontos de Vida-HP)</em> caem a 0.</p><p><em>Tratamento</em> — Se você for estabilizado, seu coração volta a galopar; você deixa de ficar <strong>unconscious</strong> e seus Hit Points voltam ao total que tinham antes de cair a 0.</p>",
+      "value": "<p>Quando a eletricidade deixa o seu coração, ele bate uma última vez antes do silêncio. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em></span> e morrendo, e seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> caem a 0.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Se você for estabilizado, seu coração volta a galopar; você deixa de ficar <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>unconscious</strong></span> e seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points</span> voltam ao total que tinham antes de cair a 0.</p>",
       "chat": ""
     },
     "source": {

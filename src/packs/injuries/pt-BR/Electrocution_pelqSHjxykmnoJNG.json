@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seus músculos travam, seus olhos reviram e você não consegue forçar o corpo a funcionar. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> <em>(Paralisado)</em> até o final do seu próximo Turn <em>(Turno)</em>. Critical Hits que resultem da sua paralisia não fazem você rolar outra lesão persistente.</p><p><em>Tratamento</em> — A magia Lesser Restoration <em>(Restauração Menor)</em> remove esta paralisia, como de costume.</p>",
+      "value": "<p>Seus músculos travam, seus olhos reviram e você não consegue forçar o corpo a funcionar. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[paralyzed]{paralyzed}</strong> <em>(Paralisado)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>. <span class=\"mmm-term\" style=\"color:#C00000;font-weight:bold\">Critical Hits</span> que resultem da sua paralisia não fazem você rolar outra lesão persistente.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — A magia Lesser Restoration <em>(Restauração Menor)</em> remove esta paralisia, como de costume.</p>",
       "chat": ""
     },
     "source": {

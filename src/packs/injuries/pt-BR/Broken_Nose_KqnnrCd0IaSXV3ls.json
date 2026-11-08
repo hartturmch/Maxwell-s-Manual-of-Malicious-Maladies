@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Um impacto forte no rosto deixou você com o nariz dolorosamente quebrado.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 8]]</strong> coloca o nariz de volta no lugar; caso contrário, há 50% de chance de ele cicatrizar levemente torto em <strong>[[1d6]]</strong> dias. A DC deste teste aumenta em 2 cada vez que o seu nariz é quebrado.</p>",
+      "value": "<p>Um impacto forte no rosto deixou você com o nariz dolorosamente quebrado.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 8]]</strong></span> coloca o nariz de volta no lugar; caso contrário, há 50% de chance de ele cicatrizar levemente torto em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias. A <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> deste teste aumenta em 2 cada vez que o seu nariz é quebrado.</p>",
       "chat": ""
     },
     "source": {

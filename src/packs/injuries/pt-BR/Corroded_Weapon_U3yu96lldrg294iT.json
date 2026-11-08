@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Sua arma foi revestida de ácido corrosivo e fica mais cega a cada segundo. A cada Round <em>(Rodada)</em>, sua arma sofre um -1 cumulativo nas Damage Rolls <em>(Rolagens de Dano)</em>. Quando uma arma mundana chega a uma penalidade de -5, ela é destruída. Quando uma arma mágica chega a uma penalidade de -5, todos os efeitos mágicos são suprimidos por <strong>[[1d4]]</strong> dias <em>(após os quais a penalidade desaparece e a arma volta a funcionar normalmente)</em>.</p>",
+      "value": "<p>Sua arma foi revestida de ácido corrosivo e fica mais cega a cada segundo. A cada <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Round <em>(Rodada)</em></span>, sua arma sofre um -1 cumulativo nas Damage Rolls <em>(Rolagens de Dano)</em>. Quando uma arma mundana chega a uma penalidade de -5, ela é destruída. Quando uma arma mágica chega a uma penalidade de -5, todos os efeitos mágicos são suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(após os quais a penalidade desaparece e a arma volta a funcionar normalmente)</em>.</p>",
       "chat": ""
     },
     "source": {

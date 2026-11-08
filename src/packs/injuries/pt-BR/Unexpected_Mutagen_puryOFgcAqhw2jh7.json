@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. O veneno interagiu com o seu corpo de uma forma totalmente inesperada, causando uma alteração estranha na aparência. Esta área do seu corpo adquire uma característica física de algum modo relacionada à fonte do veneno <em>(como escamas verdes, vindas do sopro venenoso de um dragão)</em>. A critério do Dungeon Master, esta nova característica pode lhe conceder um bônus de +1 em um Ability Check <em>(Teste de Habilidade)</em>.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. O veneno interagiu com o seu corpo de uma forma totalmente inesperada, causando uma alteração estranha na aparência. Esta área do seu corpo adquire uma característica física de algum modo relacionada à fonte do veneno <em>(como escamas verdes, vindas do sopro venenoso de um dragão)</em>. A critério do Dungeon Master, esta nova característica pode lhe conceder um bônus de +1 em um Ability Check <em>(Teste de Habilidade)</em>.</p>",
       "chat": ""
     },
     "source": {

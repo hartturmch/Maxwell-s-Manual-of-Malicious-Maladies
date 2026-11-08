@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>O ácido corroeu a essência de um dos seus itens mágicos, expulsando sua energia arcana e tornando-o mundano. Escolha aleatoriamente um item mágico que esteja com você. Esse item perde todos os efeitos mágicos permanentemente. Se a raridade do item for Legendary ou Artifact, em vez disso seus efeitos mágicos são suprimidos por <strong>[[3d6]]</strong> dias <em>(e voltam ao normal após esse período)</em>.</p>",
+      "value": "<p>O ácido corroeu a essência de um dos seus itens mágicos, expulsando sua energia arcana e tornando-o mundano. Escolha aleatoriamente um item mágico que esteja com você. Esse item perde todos os efeitos mágicos permanentemente. Se a raridade do item for Legendary ou Artifact, em vez disso seus efeitos mágicos são suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[3d6]]</strong></span> dias <em>(e voltam ao normal após esse período)</em>.</p>",
       "chat": ""
     },
     "source": {

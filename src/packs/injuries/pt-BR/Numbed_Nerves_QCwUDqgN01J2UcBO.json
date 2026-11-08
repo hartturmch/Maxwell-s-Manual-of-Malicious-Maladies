@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seus nervos estão destruídos, você sente dormência e está com dificuldade para fazer seu corpo responder com a rapidez de que precisa. Você não pode usar Reactions <em>(Reações)</em> por <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 14]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
+      "value": "<p>Seus nervos estão destruídos, você sente dormência e está com dificuldade para fazer seu corpo responder com a rapidez de que precisa. Você não pode usar Reactions <em>(Reações)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 14]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Conforme a energia divina se esvai, você sente como se parte do grande peso do tempo tivesse partido com ela. Seu corpo fica <strong>[[1d10]]</strong> anos mais jovem. Sua mente não é afetada.</p>",
+      "value": "<p>Conforme a energia divina se esvai, você sente como se parte do grande peso do tempo tivesse partido com ela. Seu corpo fica <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10]]</strong></span> anos mais jovem. Sua mente não é afetada.</p>",
       "chat": ""
     },
     "source": {

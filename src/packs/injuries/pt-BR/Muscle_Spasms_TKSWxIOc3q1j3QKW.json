@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seus músculos tremem em padrões repetitivos e você tem dificuldade para coordenar seus movimentos. Você tem Disadvantage <em>(Desvantagem)</em> em todos os ataques, testes e Saving Throws <em>(Testes de Resistência)</em> baseados em Dexterity <em>(Destreza)</em> por <strong>[[1d4]]</strong> Turns <em>(Turnos)</em>.</p>",
+      "value": "<p>Seus músculos tremem em padrões repetitivos e você tem dificuldade para coordenar seus movimentos. Você tem Disadvantage <em>(Desvantagem)</em> em todos os ataques, testes e Saving Throws <em>(Testes de Resistência)</em> baseados em <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Dexterity <em>(Destreza)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns <em>(Turnos)</em></span>.</p>",
       "chat": ""
     },
     "source": {

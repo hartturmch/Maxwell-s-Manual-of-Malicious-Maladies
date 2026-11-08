@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Você ganhou um bom e velho olho roxo. Ele vai se resolver sozinho em <strong>[[1d6]]</strong> dias, mas até lá você pode parecer deslocado em companhias refinadas.</p>",
+      "value": "<p>Você ganhou um bom e velho olho roxo. Ele vai se resolver sozinho em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias, mas até lá você pode parecer deslocado em companhias refinadas.</p>",
       "chat": ""
     },
     "source": {

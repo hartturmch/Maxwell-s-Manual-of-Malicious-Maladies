@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente algo dentro da sua mente ficar um pouco desequilibrado. Role na Long Term Madness Table <em>(Tabela de Loucura de Longo Prazo — DMG pg.260)</em>. Este efeito dura <strong>[[1d10 * 10]]</strong> horas.</p>",
+      "value": "<p>Você sente algo dentro da sua mente ficar um pouco desequilibrado. Role na Long Term Madness Table <em>(Tabela de Loucura de Longo Prazo — DMG pg.260)</em>. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d10 * 10]]</strong></span> horas.</p>",
       "chat": ""
     },
     "source": {

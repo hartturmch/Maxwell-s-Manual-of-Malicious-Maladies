@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente um terror borbulhante subindo pela garganta e, de repente, tudo em que consegue pensar é fugir. Você fica aterrorizado com a fonte do dano, como se estivesse sob o efeito da magia Fear <em>(Medo)</em> <em>(DC do Saving Throw (Teste de Resistência) igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em>.</p>",
+      "value": "<p>Você sente um terror borbulhante subindo pela garganta e, de repente, tudo em que consegue pensar é fugir. Você fica aterrorizado com a fonte do dano, como se estivesse sob o efeito da magia Fear <em>(Medo)</em> <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> do Saving Throw (Teste de Resistência) igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em>.</p>",
       "chat": ""
     },
     "source": {

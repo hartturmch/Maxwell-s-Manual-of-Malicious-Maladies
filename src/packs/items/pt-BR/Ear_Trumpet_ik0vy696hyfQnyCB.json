@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este item lembra um chifre enrolado. Quando você segura a ponta estreita junto ao canal auditivo, você pode ignorar qualquer Disadvantage <em>(Desvantagem)</em> em testes de Wisdom <em>(Sabedoria)</em> — Perception <em>(Percepção)</em> feitos para ouvir que tenha sido causada por uma lesão persistente.</p>",
+      "value": "<p>Este item lembra um chifre enrolado. Quando você segura a ponta estreita junto ao canal auditivo, você pode ignorar qualquer Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Wisdom <em>(Sabedoria)</em></span> — <span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Perception <em>(Percepção)</em></span> feitos para ouvir que tenha sido causada por uma lesão persistente.</p>",
       "chat": ""
     },
     "source": {

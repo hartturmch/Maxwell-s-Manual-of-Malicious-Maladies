@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Sua ferida apodrece com uma energia sombria. Ela resiste tanto à cura mágica quanto à natural. Seus Hit Points <em>(Pontos de Vida-HP)</em> máximos são reduzidos pela quantidade de dano que causou a lesão persistente.</p><p><em>Tratamento</em> — Um teste de General Surgery <em>(Cirurgia Geral)</em> DC 18 ou a magia Greater Restoration <em>(Restauração Superior)</em>.</p>",
+      "value": "<p>Sua ferida apodrece com uma energia sombria. Ela resiste tanto à cura mágica quanto à natural. Seus <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> máximos são reduzidos pela quantidade de dano que causou a lesão persistente.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 18 ou a magia Greater Restoration <em>(Restauração Superior)</em>.</p>",
       "chat": ""
     },
     "source": {

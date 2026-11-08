@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente tontura e o mundo parece se mover sob os seus pés. O problema só piora quando você está perto de uma grande altura. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Dexterity <em>(Destreza)</em> — Acrobatics <em>(Acrobacia)</em>. Você tem Disadvantage em todos os ataques e Ability Checks <em>(Testes de Habilidade)</em> quando estiver a até 5 pés de uma altura de 15 pés ou mais.</p>",
+      "value": "<p>Você sente tontura e o mundo parece se mover sob os seus pés. O problema só piora quando você está perto de uma grande altura. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Dexterity <em>(Destreza)</em></span> — Acrobatics <em>(Acrobacia)</em>. Você tem Disadvantage em todos os ataques e Ability Checks <em>(Testes de Habilidade)</em> quando estiver a até 5 pés de uma altura de 15 pés ou mais.</p>",
       "chat": ""
     },
     "source": {

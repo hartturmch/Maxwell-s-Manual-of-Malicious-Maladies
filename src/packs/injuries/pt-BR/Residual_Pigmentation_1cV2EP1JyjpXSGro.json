@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. O veneno teve o efeito curioso de tingir a sua pele. Esta área do seu corpo assumiu um tom claro da mesma cor do veneno, ou role para determinar a cor aleatoriamente <em>(<strong>[[1d4]]</strong>)</em>: 1) Verde 2) Roxo 3) Laranja 4) Azul.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. O veneno teve o efeito curioso de tingir a sua pele. Esta área do seu corpo assumiu um tom claro da mesma cor do veneno, ou role para determinar a cor aleatoriamente <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>)</em>: 1) Verde 2) Roxo 3) Laranja 4) Azul.</p>",
       "chat": ""
     },
     "source": {

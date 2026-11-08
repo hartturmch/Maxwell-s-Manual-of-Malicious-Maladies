@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este gancho perversamente curvado tem fama de estar associado a piratas infames. Você pode encaixar este gancho no lugar de uma mão <strong>missing</strong> <em>(ausente)</em>. Enquanto estiver encaixado, o gancho é uma arma que causa 1d4 de Piercing damage <em>(Dano Perfurante)</em> e tem as propriedades <em>light</em> <em>(leve)</em> e <em>finesse</em> <em>(acuidade)</em>.</p>",
+      "value": "<p>Este gancho perversamente curvado tem fama de estar associado a piratas infames. Você pode encaixar este gancho no lugar de uma mão <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>. Enquanto estiver encaixado, o gancho é uma arma que causa <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">1d4</span> de <span class=\"mmm-term\" style=\"color:#7F7F7F;font-weight:bold\">Piercing damage <em>(Dano Perfurante)</em></span> e tem as propriedades <em>light</em> <em>(leve)</em> e <em>finesse</em> <em>(acuidade)</em>.</p>",
       "chat": ""
     },
     "source": {

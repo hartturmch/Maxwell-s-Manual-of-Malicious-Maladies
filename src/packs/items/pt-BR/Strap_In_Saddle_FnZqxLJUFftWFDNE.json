@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Esta sela é construída especificamente para pessoas que perderam o uso das pernas e inclui correias de couro que prendem o cavaleiro no lugar. Montar e desmontar desta sela exige uma Action <em>(Ação)</em>, em vez de metade do seu Movement <em>(Movimento)</em>. Você tem Advantage <em>(Vantagem)</em> em Saving Throws <em>(Testes de Resistência)</em> de Dexterity <em>(Destreza)</em> feitos para evitar ser derrubado da montaria enquanto usa esta sela.</p>",
+      "value": "<p>Esta sela é construída especificamente para pessoas que perderam o uso das pernas e inclui correias de couro que prendem o cavaleiro no lugar. Montar e desmontar desta sela exige uma Action <em>(Ação)</em>, em vez de metade do seu Movement <em>(Movimento)</em>. Você tem Advantage <em>(Vantagem)</em> em Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Dexterity <em>(Destreza)</em></span> feitos para evitar ser derrubado da montaria enquanto usa esta sela.</p>",
       "chat": ""
     },
     "source": {

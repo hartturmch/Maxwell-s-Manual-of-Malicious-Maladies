@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Seus olhos ficam embaçados, sua visão se turva e formas distintas viram manchas amorfas. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Wisdom <em>(Sabedoria)</em> — Perception <em>(Percepção)</em> que dependam da visão e em todos os ataques à distância por <strong>[[1d4]]</strong> dias. Se você tem darkvision <em>(visão no escuro)</em>, você a perde durante esse período.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d2]]</strong> dias.</p>",
+      "value": "<p>Seus olhos ficam embaçados, sua visão se turva e formas distintas viram manchas amorfas. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Wisdom <em>(Sabedoria)</em></span> — <span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Perception <em>(Percepção)</em></span> que dependam da visão e em todos os ataques à distância por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias. Se você tem darkvision <em>(visão no escuro)</em>, você a perde durante esse período.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

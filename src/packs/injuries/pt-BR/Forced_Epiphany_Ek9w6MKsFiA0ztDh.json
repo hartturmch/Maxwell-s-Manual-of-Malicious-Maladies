@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Conforme a energia do ataque se dissipa, uma revelação arranha a borda do seu cérebro, você tem certeza disso. Você tem <strong>[[1d6]]</strong> dias para se afastar das atividades e passar 24 horas sozinho, em contemplação silenciosa e individual sobre o seu deus, o seu sistema de crenças ou você mesmo. Depois disso, você chega a uma percepção esclarecedora. Se você não fizer isso dentro do prazo, a vontade incômoda cresce a níveis que distraem e você tem Disadvantage <em>(Desvantagem)</em> em todas as attack rolls <em>(jogadas de ataque)</em>, Ability Checks <em>(Testes de Habilidade)</em> e Saving Throws <em>(Testes de Resistência)</em> até fazê-lo.</p>",
+      "value": "<p>Conforme a energia do ataque se dissipa, uma revelação arranha a borda do seu cérebro, você tem certeza disso. Você tem <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias para se afastar das atividades e passar 24 horas sozinho, em contemplação silenciosa e individual sobre o seu deus, o seu sistema de crenças ou você mesmo. Depois disso, você chega a uma percepção esclarecedora. Se você não fizer isso dentro do prazo, a vontade incômoda cresce a níveis que distraem e você tem Disadvantage <em>(Desvantagem)</em> em todas as attack rolls <em>(jogadas de ataque)</em>, Ability Checks <em>(Testes de Habilidade)</em> e Saving Throws <em>(Testes de Resistência)</em> até fazê-lo.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Seu escudo é dissolvido e destruído. Se o seu escudo for mágico, em vez disso ele tem seus efeitos mágicos suprimidos por <strong>[[1d4]]</strong> dias e fica inutilizável durante esse período.</p>",
+      "value": "<p>Seu escudo é dissolvido e destruído. Se o seu escudo for mágico, em vez disso ele tem seus efeitos mágicos suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias e fica inutilizável durante esse período.</p>",
       "chat": ""
     },
     "source": {

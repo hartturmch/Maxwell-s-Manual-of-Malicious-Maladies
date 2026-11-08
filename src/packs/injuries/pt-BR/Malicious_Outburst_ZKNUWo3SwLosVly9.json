@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você é tomado por uma fúria cega e por uma compulsão violenta e avassaladora. Você usa imediatamente sua Reaction <em>(Reação)</em> para fazer um ataque corpo a corpo contra a criatura mais próxima <em>(aleatória)</em>. Você passa os próximos <strong>[[1d4]]</strong> Turns <em>(Turnos)</em> perseguindo e atacando a criatura mais próxima de você, seja ela amiga ou não.</p><p><em>Tratamento</em> — Qualquer magia ou efeito que encerraria a Rage <em>(Fúria)</em> de um Barbarian <em>(Bárbaro)</em> também encerra este efeito.</p>",
+      "value": "<p>Você é tomado por uma fúria cega e por uma compulsão violenta e avassaladora. Você usa imediatamente sua Reaction <em>(Reação)</em> para fazer um ataque corpo a corpo contra a criatura mais próxima <em>(aleatória)</em>. Você passa os próximos <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns <em>(Turnos)</em></span> perseguindo e atacando a criatura mais próxima de você, seja ela amiga ou não.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Qualquer magia ou efeito que encerraria a Rage <em>(Fúria)</em> de um Barbarian <em>(Bárbaro)</em> também encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você é atingido por uma visão breve e traumática da sua própria morte e seu coração se enche de pavor diante desse presságio. Você tem vulnerabilidade à próxima fonte de dano que o ferir, após o que este efeito termina.</p><p><em>Tratamento</em> — A magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito.</p>",
+      "value": "<p>Você é atingido por uma visão breve e traumática da sua própria morte e seu coração se enche de pavor diante desse presságio. Você tem vulnerabilidade à próxima fonte de dano que o ferir, após o que este efeito termina.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — A magia Remove Curse <em>(Remover Maldição)</em> encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role para determinar aleatoriamente o braço esquerdo ou o direito. O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos do seu braço. Ataques feitos com este braço têm Disadvantage <em>(Desvantagem)</em>. Escudos usados por este braço fornecem 1 de Armor Class <em>(Classe de Armadura-AC)</em> em vez de 2.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 21.</p>",
+      "value": "<p>Role para determinar aleatoriamente o braço esquerdo ou o direito. O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos do seu braço. Ataques feitos com este braço têm Disadvantage <em>(Desvantagem)</em>. Escudos usados por este braço fornecem 1 de <span class=\"mmm-term\" style=\"color:#7F7F7F;font-weight:bold\">Armor Class <em>(Classe de Armadura-AC)</em></span> em vez de 2.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 21.</p>",
       "chat": ""
     },
     "source": {

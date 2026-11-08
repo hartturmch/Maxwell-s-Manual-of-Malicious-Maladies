@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Seu cérebro parece ligado na tomada e você não consegue forçá-lo a descansar, por mais que tente. Você não obtém benefício de Short Rests <em>(Descansos Curtos)</em> ou Long Rests <em>(Descansos Longos)</em> por <strong>[[1d4]]</strong> dias <em>(você não recupera HD, não recupera Spell Slots (Espaços de Magia) nem prepara magias e não se cura)</em>. Durante esse período, você é imune a sono mágico.</p>",
+      "value": "<p>Seu cérebro parece ligado na tomada e você não consegue forçá-lo a descansar, por mais que tente. Você não obtém benefício de Short Rests <em>(Descansos Curtos)</em> ou Long Rests <em>(Descansos Longos)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(você não recupera HD, não recupera Spell Slots (Espaços de Magia) nem prepara magias e não se cura)</em>. Durante esse período, você é imune a sono mágico.</p>",
       "chat": ""
     },
     "source": {

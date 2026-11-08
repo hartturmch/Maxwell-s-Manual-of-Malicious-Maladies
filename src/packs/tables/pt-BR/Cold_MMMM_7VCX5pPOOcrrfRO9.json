@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você ficou gelado vezes demais e sua pele desenvolve facilmente erupções e bolhas no frio. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Constitution <em>(Constituição)</em> e em Saving Throws <em>(Testes de Resistência)</em> feitos para resistir aos efeitos ambientais do frio.</p>",
+      "description": "<p>Você ficou gelado vezes demais e sua pele desenvolve facilmente erupções e bolhas no frio. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> e em Saving Throws <em>(Testes de Resistência)</em> feitos para resistir aos efeitos ambientais do frio.</p>",
       "name": "Frieiras",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.84oGAFCT3QrgRHj6"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role para determinar aleatoriamente o olho direito ou o esquerdo. O ar gélido congelou a camada superficial do seu olho. O olho fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 12 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20. Se o jogador passar um Short Rest <em>(Descanso Curto)</em> reaquecendo a área em até 15 minutos após a lesão ocorrer, esta DC é reduzida para 10.</p>",
+      "description": "<p>Role para determinar aleatoriamente o olho direito ou o esquerdo. O ar gélido congelou a camada superficial do seu olho. O olho fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não for tratado em 12 horas, sua visão ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20. Se o jogador passar um Short Rest <em>(Descanso Curto)</em> reaquecendo a área em até 15 minutos após a lesão ocorrer, esta <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> é reduzida para 10.</p>",
       "name": "Córnea Congelada",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fXEEOJ4PMiBOBqUZ"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role duas vezes na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Esses apêndices ficam rígidos, gélidos, pálidos e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não forem tratados em 15 minutos, necrosarão e cairão em <strong>[[1d4]]</strong> dias <em>(após os quais ficam <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente os apêndices.</p>",
+      "description": "<p>Role duas vezes na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. Esses apêndices ficam rígidos, gélidos, pálidos e <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não forem tratados em 15 minutos, necrosarão e cairão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(após os quais ficam <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente os apêndices.</p>",
       "name": "Congelamento Extenso",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.v5PoVKf3dnfBJ38c"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A temperatura central do seu corpo despencou a níveis perigosos. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito das magias <em>Slow</em> <em>(Lentidão)</em> e <em>Confusion</em> <em>(Confusão)</em>. Se não for tratada por uma hora, você fica <strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
+      "description": "<p>A temperatura central do seu corpo despencou a níveis perigosos. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito das magias <em>Slow</em> <em>(Lentidão)</em> e <em>Confusion</em> <em>(Confusão)</em>. Se não for tratada por uma hora, você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
       "name": "Hipotermia Grave",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.c6fr5xJn7uYmpTbt"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você tenta mover os pés, mas descobre que a intensidade do frio o congelou diretamente ao chão. Você fica <strong>&Reference[restrained]{restrained}</strong> <em>(Impedido)</em>. Se você estiver voando ou, de outra forma, não estiver em contato com uma superfície, não há efeito.</p><p><em>Tratamento</em> — Um teste de Strength <em>(Força)</em> <em>(DC igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> como Action <em>(Ação)</em> permite que você se liberte.</p>",
+      "description": "<p>Você tenta mover os pés, mas descobre que a intensidade do frio o congelou diretamente ao chão. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[restrained]{restrained}</strong> <em>(Impedido)</em></span>. Se você estiver voando ou, de outra forma, não estiver em contato com uma superfície, não há efeito.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Strength <em>(Força)</em></span> <em>(<span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> como Action <em>(Ação)</em> permite que você se liberte.</p>",
       "name": "Congelado no Lugar",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.iHMtpZsTEJogJdXu"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O frio extremo drenou grande parte do calor do seu corpo. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito da magia Slow <em>(Lentidão)</em>. Se não for tratada por duas horas, a condição evolui para Hipotermia Grave.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
+      "description": "<p>O frio extremo drenou grande parte do calor do seu corpo. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito da magia Slow <em>(Lentidão)</em>. Se não for tratada por duas horas, a condição evolui para Hipotermia Grave.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
       "name": "Hipotermia",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KP5l2GWmommEsNFo"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do corpo fica com uma cicatriz pálida e de tom azulado.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Esta área do corpo fica com uma cicatriz pálida e de tom azulado.</p>",
       "name": "Pálido Ponto Azul",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WzxI45g7DfRH4WBZ"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo foi marcada pelo frio e resultará em uma cicatriz definida e pálida. Qualquer pelo na área afetada volta a crescer branco.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo foi marcada pelo frio e resultará em uma cicatriz definida e pálida. Qualquer pelo na área afetada volta a crescer branco.</p>",
       "name": "Marca Gélida",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ZPVbTc1a7OJmxAyZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.CBY3vTDTvOSMuJIY"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você não pode usar a ação <em>Dash</em> <em>(Correr)</em>. Este efeito dura <strong>[[1d6]]</strong> Rounds <em>(Rodadas)</em>.</p>",
+      "description": "<p>Você não pode usar a ação <em>Dash</em> <em>(Correr)</em>. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Rounds <em>(Rodadas)</em></span>.</p>",
       "name": "Dedos dos Pés Queimados pelo Frio",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.dD4Ahma09dBrSDPR"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você está com frio. Tanto frio. Você tropeça. Você se atrapalha. Você cai. Você murmura e resmunga. Você não pode usar a ação <em>Disengage</em> <em>(Desengajar)</em> por <strong>[[1d6]]</strong> Turns <em>(Turnos)</em>.</p>",
+      "description": "<p>Você está com frio. Tanto frio. Você tropeça. Você se atrapalha. Você cai. Você murmura e resmunga. Você não pode usar a ação <em>Disengage</em> <em>(Desengajar)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turns <em>(Turnos)</em></span>.</p>",
       "name": "Os Tropeços",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.SEeyX0wZ8DrrYk7O"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o frio interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente gélida <em>(embora para você pareça agradavelmente fresca)</em> e irradia uma tênue aura de Transmutation <em>(Transmutação)</em>. Você tem Advantage <em>(Vantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir aos efeitos ambientais do frio. Você pode suprimir este efeito mantendo Concentration <em>(Concentração)</em>.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o frio interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente gélida <em>(embora para você pareça agradavelmente fresca)</em> e irradia uma tênue aura de <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Transmutation <em>(Transmutação)</em></span>. Você tem Advantage <em>(Vantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> feitos para resistir aos efeitos ambientais do frio. Você pode suprimir este efeito mantendo <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span>.</p>",
       "name": "Coração de Gelo",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ivXkUWxsKpu7W2xF"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Este apêndice fica rígido, gélido, pálido e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 15 minutos, necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente o apêndice.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. Este apêndice fica rígido, gélido, pálido e <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não for tratado em 15 minutos, necrosará e cairá em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(após os quais fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente o apêndice.</p>",
       "name": "Apêndice Congelado",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bpeQ09urKr3yUOk0"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Seu membro fica congelado, rígido, dormente e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 15 minutos, o membro necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente o membro.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. Seu membro fica congelado, rígido, dormente e <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não for tratado em 15 minutos, o membro necrosará e cairá em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(após os quais fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong></span> (ausente))</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente o membro.</p>",
       "name": "Membro Congelado",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.u88lSICkmHVEB4DT"

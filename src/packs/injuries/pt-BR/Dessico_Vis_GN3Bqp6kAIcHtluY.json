@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Seu equipamento mágico chia e começa a emitir um zumbido agudo. Você tem quase certeza de que ele não deveria fazer isso... Escolha aleatoriamente um dos seus itens mágicos que tenha cargas e role <strong>[[1d4]]</strong>. Essa quantidade de cargas é gasta imediatamente <em>(alvos escolhidos aleatoriamente, se necessário)</em> e as cargas máximas do item são reduzidas permanentemente nessa quantidade <em>(até um mínimo de 1)</em>.</p>",
+      "value": "<p>Seu equipamento mágico chia e começa a emitir um zumbido agudo. Você tem quase certeza de que ele não deveria fazer isso... Escolha aleatoriamente um dos seus itens mágicos que tenha cargas e role <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>. Essa quantidade de cargas é gasta imediatamente <em>(alvos escolhidos aleatoriamente, se necessário)</em> e as cargas máximas do item são reduzidas permanentemente nessa quantidade <em>(até um mínimo de 1)</em>.</p>",
       "chat": ""
     },
     "source": {

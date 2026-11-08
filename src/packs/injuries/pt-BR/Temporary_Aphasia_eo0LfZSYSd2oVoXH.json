@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Suas tentativas de se fazer entender só são recebidas com olhos semicerrados e olhares confusos. Você perde a Proficiency <em>(Proficiência)</em> em todos os idiomas, exceto o comum, que você consegue entender, mas não falar. Você não consegue ler nem escrever. Qualquer tentativa de falar um idioma resulta em uma sequência embaralhada de palavras aparentemente aleatórias. Este efeito dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Qualquer magia que permita ao conjurador compreender o significado literal ou implícito de uma comunicação funciona normalmente.</p>",
+      "value": "<p>Suas tentativas de se fazer entender só são recebidas com olhos semicerrados e olhares confusos. Você perde a Proficiency <em>(Proficiência)</em> em todos os idiomas, exceto o comum, que você consegue entender, mas não falar. Você não consegue ler nem escrever. Qualquer tentativa de falar um idioma resulta em uma sequência embaralhada de palavras aparentemente aleatórias. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Qualquer magia que permita ao conjurador compreender o significado literal ou implícito de uma comunicação funciona normalmente.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>O veneno deixou seu fígado cicatrizado e danificado. Nunca houve momento melhor para parar de beber. Qualquer quantidade de álcool que você consumir faz você ficar com a Condition <em>(Condição)</em> <strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em>. Álcool ou outras drogas afetam você pelo dobro da duração normal. Você tem Disadvantage <em>(Desvantagem)</em> em quaisquer testes ou Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir a veneno.</p>",
+      "value": "<p>O veneno deixou seu fígado cicatrizado e danificado. Nunca houve momento melhor para parar de beber. Qualquer quantidade de álcool que você consumir faz você ficar com a <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\">Condition <em>(Condição)</em></span> <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[poisoned]{poisoned}</strong> <em>(Envenenado)</em></span>. Álcool ou outras drogas afetam você pelo dobro da duração normal. Você tem Disadvantage <em>(Desvantagem)</em> em quaisquer testes ou Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> feitos para resistir a veneno.</p>",
       "chat": ""
     },
     "source": {

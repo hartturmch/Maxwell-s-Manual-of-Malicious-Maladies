@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo emite um clarão repentino de radiância, que então se reduz a um brilho suave e opaco. Ela emite luz plena em um raio de 5 pés, penumbra em mais 5 pés de raio e tem uma tênue aura de Evocation <em>(Evocação)</em>. Um esforço de Concentration <em>(Concentração)</em> pode suprimir este efeito ou intensificar a luz até o brilho de uma tocha.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo emite um clarão repentino de radiância, que então se reduz a um brilho suave e opaco. Ela emite luz plena em um raio de 5 pés, penumbra em mais 5 pés de raio e tem uma tênue aura de <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Evocation <em>(Evocação)</em></span>. Um esforço de <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span> pode suprimir este efeito ou intensificar a luz até o brilho de uma tocha.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>O ácido deixou em você uma queimadura superficial, porém dolorosa. Você sofre 1 ponto de Acid damage <em>(Dano Ácido)</em> a cada 5 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 13]]</strong> encerra este efeito.</p>",
+      "value": "<p>O ácido deixou em você uma queimadura superficial, porém dolorosa. Você sofre 1 ponto de <span class=\"mmm-term\" style=\"color:#70AD47;font-weight:bold\">Acid damage <em>(Dano Ácido)</em></span> a cada 5 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 13]]</strong></span> encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

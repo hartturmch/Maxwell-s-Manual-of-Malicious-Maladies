@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Seu cérebro foi danificado pela descarga elétrica e você não está agindo como você mesmo. Você adquire um <strong>flaw</strong> <em>(defeito)</em> escolhido aleatoriamente ou pelo Dungeon Master.</p><p><em>Tratamento</em> — Após cada Long Rest <em>(Descanso Longo)</em>, role um d20. Com 19 ou 20, o <strong>flaw</strong> desaparece.</p>",
+      "value": "<p>Seu cérebro foi danificado pela descarga elétrica e você não está agindo como você mesmo. Você adquire um <strong>flaw</strong> <em>(defeito)</em> escolhido aleatoriamente ou pelo Dungeon Master.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Após cada Long Rest <em>(Descanso Longo)</em>, role um d20. Com 19 ou 20, o <strong>flaw</strong> desaparece.</p>",
       "chat": ""
     },
     "source": {

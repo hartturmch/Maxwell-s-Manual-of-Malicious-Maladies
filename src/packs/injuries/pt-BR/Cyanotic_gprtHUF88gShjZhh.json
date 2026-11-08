@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Seus lábios ficam azuis, você fica sem fôlego e sente que não consegue puxar ar suficiente, por mais que tente. Você sofre três níveis de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Você pode remover esses níveis de <strong>exhaustion</strong> com um Long Rest <em>(Descanso Longo)</em> ou um Short Rest <em>(Descanso Curto)</em>. Qualquer magia ou efeito que remova um nível de <strong>exhaustion</strong> remove todos os três.</p>",
+      "value": "<p>Seus lábios ficam azuis, você fica sem fôlego e sente que não consegue puxar ar suficiente, por mais que tente. Você sofre três níveis de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Você pode remover esses níveis de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span> com um Long Rest <em>(Descanso Longo)</em> ou um Short Rest <em>(Descanso Curto)</em>. Qualquer magia ou efeito que remova um nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span> remove todos os três.</p>",
       "chat": ""
     },
     "source": {

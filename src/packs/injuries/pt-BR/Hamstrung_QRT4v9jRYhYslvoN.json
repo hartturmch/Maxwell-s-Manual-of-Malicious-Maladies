@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Você sente o corte rasgar a parte de trás da sua perna e tropeça, gritando de dor. Sua velocidade é reduzida em 10 pés.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 20.</p>",
+      "value": "<p>Você sente o corte rasgar a parte de trás da sua perna e tropeça, gritando de dor. Sua velocidade é reduzida em 10 pés.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "chat": ""
     },
     "source": {

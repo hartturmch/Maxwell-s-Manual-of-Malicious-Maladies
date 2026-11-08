@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque sônico estourou os seus tímpanos. Você fica <strong>&Reference[deafened]{deafened}</strong> <em>(Surdo)</em> e seus ouvidos ficam <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não forem tratados em 24 horas, sua audição ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>O ataque sônico estourou os seus tímpanos. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[deafened]{deafened}</strong> <em>(Surdo)</em></span> e seus ouvidos ficam <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não forem tratados em 24 horas, sua audição ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Tímpanos Rompidos",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.ztM5gVgtQz6uvqbU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.AlfbHdQyTdD3T8k2"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. A explosão concussiva arrancou seu membro e o lançou pelo ar. Ele cai a 30 pés de você, empurrado para longe da direção do ataque, e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. A explosão concussiva arrancou seu membro e o lançou pelo ar. Ele cai a 30 pés de você, empurrado para longe da direção do ataque, e é considerado <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 22.</p>",
       "name": "Amputação por Concussão",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.kP6XF0CpmoJeDrTm",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4V5MtYMFihK5kGRQ"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. A explosão concussiva arrancou seu apêndice e o lançou pelo ar. Ele cai a 30 pés de você, empurrado para longe da direção do ataque, e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. A explosão concussiva arrancou seu apêndice e o lançou pelo ar. Ele cai a 30 pés de você, empurrado para longe da direção do ataque, e é considerado <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 22.</p>",
       "name": "Pequena Amputação por Concussão",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.DecRr9ddWmuCoJxo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TxC8c7bT8mLbTDo7"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos da sua perna. Sua velocidade é reduzida em 10 pés.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 22.</p>",
+      "description": "<p>O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos da sua perna. Sua velocidade é reduzida em 10 pés.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 22.</p>",
       "name": "Estilhaços na Perna",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.BBJaCd6HEtUUad4N",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.MYmVgwxklq9DZNBb"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A força da explosão deixou você cambaleando. Você fica <strong>&Reference[stunned]{stunned}</strong> <em>(Atordoado)</em> até o final do seu próximo Turn <em>(Turno)</em>.</p>",
+      "description": "<p>A força da explosão deixou você cambaleando. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[stunned]{stunned}</strong> <em>(Atordoado)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>.</p>",
       "name": "Desorientação",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.DXCaYTtOvInEZ3Cs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.RK8HpRy7k9tVYHLQ"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você fica com um zumbido incômodo nos ouvidos. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Perception <em>(Percepção)</em> relacionados a som por <strong>[[1d6]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 12]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
+      "description": "<p>Você fica com um zumbido incômodo nos ouvidos. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Perception <em>(Percepção)</em></span> relacionados a som por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 12]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "name": "Zumbido nos Ouvidos",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.vGAyqeXVuNRbDvbd",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.qdOoqVjFN22DcFsu"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque percussivo derruba você, e a única coisa que você ouve é um zumbido atonal. Você é derrubado e fica <strong>&Reference[prone]{prone}</strong> <em>(Caído)</em> e <strong>&Reference[deafened]{deafened}</strong> <em>(Surdo)</em> por <strong>[[1d6]]</strong> horas.</p>",
+      "description": "<p>O ataque percussivo derruba você, e a única coisa que você ouve é um zumbido atonal. Você é derrubado e fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[prone]{prone}</strong> <em>(Caído)</em></span> e <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[deafened]{deafened}</strong> <em>(Surdo)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> horas.</p>",
       "name": "Surdo e Atordoado",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.zvO3kKzfye3ms1vq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Xs58l3dVJxhRoiWK"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você tem hematomas enormes e feios nesta área, mas eles parecem piores do que realmente doem. Os hematomas desaparecem após <strong>[[1d8]]</strong> dias.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você tem hematomas enormes e feios nesta área, mas eles parecem piores do que realmente doem. Os hematomas desaparecem após <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d8]]</strong></span> dias.</p>",
       "name": "Hematomas Extensos",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.H3KQp2q2HYRZ8pjf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6zDeA1sJ8EEuT6lC"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Os detritos balísticos deixaram você com uma cicatriz pontilhada nesta área.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Os detritos balísticos deixaram você com uma cicatriz pontilhada nesta área.</p>",
       "name": "Cicatriz Pontilhada",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.rXb1olOhTtnN2cOX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KllFSWmJB2LfWGvQ"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente... silencioso. Todo ruído em um raio de meio pé desta área do seu corpo fica inaudível, como se estivesse sob o efeito da magia Silence <em>(Silêncio)</em>, e a área emite uma aura tênue de Illusion <em>(Ilusão)</em>. Um esforço de Concentration <em>(Concentração)</em> suprime este efeito.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente... silencioso. Todo ruído em um raio de meio pé desta área do seu corpo fica inaudível, como se estivesse sob o efeito da magia Silence <em>(Silêncio)</em>, e a área emite uma aura tênue de <span class=\"mmm-term\" style=\"color:#7030A0;font-weight:bold\">Illusion <em>(Ilusão)</em></span>. Um esforço de <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span> suprime este efeito.</p>",
       "name": "Zona Morta Acústica",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.06Vrx0BaMGA97oX4",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.K2rqpEmrU2C1zx6Y"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role para determinar aleatoriamente o braço esquerdo ou o direito. O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos do seu braço. Ataques feitos com este braço têm Disadvantage <em>(Desvantagem)</em>. Escudos usados por este braço fornecem 1 de Armor Class <em>(Classe de Armadura-AC)</em> em vez de 2.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 21.</p>",
+      "description": "<p>Role para determinar aleatoriamente o braço esquerdo ou o direito. O ataque transformou pequenos fragmentos de detritos da área em projéteis balísticos mortais, e muitos deles se alojaram fundo nos músculos do seu braço. Ataques feitos com este braço têm Disadvantage <em>(Desvantagem)</em>. Escudos usados por este braço fornecem 1 de <span class=\"mmm-term\" style=\"color:#7F7F7F;font-weight:bold\">Armor Class <em>(Classe de Armadura-AC)</em></span> em vez de 2.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 21.</p>",
       "name": "Estilhaços no Braço",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.VPBroH9Abx7BTHGv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.p17XnkeM9XbwIOk2"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A força da concussão reverbera pelo gás dentro dos seus pulmões e causa grandes danos a eles. Você só consegue prender a respiração por metade da duração normal. Além disso, os vasos sanguíneos dos seus olhos se romperam, e o branco dos seus olhos fica da cor do seu sangue por <strong>[[1d6]]</strong> dias.</p>",
+      "description": "<p>A força da concussão reverbera pelo gás dentro dos seus pulmões e causa grandes danos a eles. Você só consegue prender a respiração por metade da duração normal. Além disso, os vasos sanguíneos dos seus olhos se romperam, e o branco dos seus olhos fica da cor do seu sangue por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p>",
       "name": "Barotrauma",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.hwDumUeDIFQLqEv0",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.z0j29n8pFxD6w9gw"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role para determinar aleatoriamente o olho esquerdo ou o direito. Um estilhaço azarado ricocheteou direto no seu olho. Este olho fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 4 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>Role para determinar aleatoriamente o olho esquerdo ou o direito. Um estilhaço azarado ricocheteou direto no seu olho. Este olho fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se não for tratado em 4 horas, sua visão ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Estilhaço Azarado",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.Hf4diVrhEcm22wud",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.q1dofzfulyAPfSzJ"

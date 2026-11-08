@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>A luz imprime uma queimadura vermelha e dolorosa na sua pele. Você sofre 1 de Radiant damage <em>(Dano Radiante)</em> a cada 10 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>. Esta lesão dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 12]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
+      "value": "<p>A luz imprime uma queimadura vermelha e dolorosa na sua pele. Você sofre 1 de <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">Radiant damage <em>(Dano Radiante)</em></span> a cada 10 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>. Esta lesão dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 12]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

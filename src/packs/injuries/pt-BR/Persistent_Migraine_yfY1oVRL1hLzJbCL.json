@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Sua cabeça lateja, a luz irrita você e tudo o que você quer é que as pancadas parem. Você não obtém benefício de um Short Rest <em>(Descanso Curto)</em> por <strong>[[1d4]]</strong> dias.</p>",
+      "value": "<p>Sua cabeça lateja, a luz irrita você e tudo o que você quer é que as pancadas parem. Você não obtém benefício de um Short Rest <em>(Descanso Curto)</em> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

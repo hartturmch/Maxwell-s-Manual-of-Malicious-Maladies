@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ácido respingou sobre os seus dois olhos. Você fica <strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em> e ambos os olhos ficam <strong>nonfunctional</strong> <em>(não funcional)</em>. Se você não receber tratamento em 30 minutos, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
+      "description": "<p>O ácido respingou sobre os seus dois olhos. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em></span> e ambos os olhos ficam <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se você não receber tratamento em 30 minutos, sua visão ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20.</p>",
       "name": "Corrosão Ocular",
       "_key": "!tables.results!86NgaCriq9h5DnPE.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.cQfVucRkiIr8jfxJ"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. O ácido cobre o seu membro e você ouve o chiado enquanto ele começa a se dissolver. Este membro fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se você não receber tratamento em 30 minutos, o membro se dissolve por completo e fica <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 20. Você tem 1 teste para esta cirurgia; se não atingir a DC no primeiro teste, o membro é perdido.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. O ácido cobre o seu membro e você ouve o chiado enquanto ele começa a se dissolver. Este membro fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se você não receber tratamento em 30 minutos, o membro se dissolve por completo e fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20. Você tem 1 teste para esta cirurgia; se não atingir a <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> no primeiro teste, o membro é perdido.</p>",
       "name": "Membro Dissolvido",
       "_key": "!tables.results!86NgaCriq9h5DnPE.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.F99iIEP9a1Eyum7w"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. O ácido respinga sobre o seu apêndice e chia enquanto ele começa a se dissolver. Este apêndice fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se você não receber tratamento em 30 minutos, o apêndice se dissolve por completo e fica <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 20. Você tem 1 teste para esta cirurgia; se não atingir a DC no primeiro teste, o apêndice é perdido.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong></span> <em>(Tabela de Apêndices Pequenos)</em>. O ácido respinga sobre o seu apêndice e chia enquanto ele começa a se dissolver. Este apêndice fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span>. Se você não receber tratamento em 30 minutos, o apêndice se dissolve por completo e fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 20. Você tem 1 teste para esta cirurgia; se não atingir a <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> no primeiro teste, o apêndice é perdido.</p>",
       "name": "Apêndice Dissolvido",
       "_key": "!tables.results!86NgaCriq9h5DnPE.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.EVyTfL4pCoQ3QAC5"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Sua arma foi revestida de ácido corrosivo e fica mais cega a cada segundo. A cada Round <em>(Rodada)</em>, sua arma sofre um -1 cumulativo nas Damage Rolls <em>(Rolagens de Dano)</em>. Quando uma arma mundana chega a uma penalidade de -5, ela é destruída. Quando uma arma mágica chega a uma penalidade de -5, todos os efeitos mágicos são suprimidos por <strong>[[1d4]]</strong> dias <em>(após os quais a penalidade desaparece e a arma volta a funcionar normalmente)</em>.</p>",
+      "description": "<p>Sua arma foi revestida de ácido corrosivo e fica mais cega a cada segundo. A cada <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Round <em>(Rodada)</em></span>, sua arma sofre um -1 cumulativo nas Damage Rolls <em>(Rolagens de Dano)</em>. Quando uma arma mundana chega a uma penalidade de -5, ela é destruída. Quando uma arma mágica chega a uma penalidade de -5, todos os efeitos mágicos são suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias <em>(após os quais a penalidade desaparece e a arma volta a funcionar normalmente)</em>.</p>",
       "name": "Arma Corroída",
       "_key": "!tables.results!86NgaCriq9h5DnPE.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.U3yu96lldrg294iT"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Qualquer personagem amigável que você tocar ou com quem interagir fisicamente sofre Acid damage <em>(Dano Ácido)</em> igual ao seu Level. Criaturas que você agarrar sofrem esse dano no início do Turn <em>(Turno)</em> delas. Este efeito dura 1 minuto.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> encerra este efeito. Você pode tentar este teste novamente.</p>",
+      "description": "<p>Qualquer personagem amigável que você tocar ou com quem interagir fisicamente sofre <span class=\"mmm-term\" style=\"color:#70AD47;font-weight:bold\">Acid damage <em>(Dano Ácido)</em></span> igual ao seu Level. Criaturas que você agarrar sofrem esse dano no início do <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span> delas. Este efeito dura 1 minuto.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> encerra este efeito. Você pode tentar este teste novamente.</p>",
       "name": "Revestimento Cáustico",
       "_key": "!tables.results!86NgaCriq9h5DnPE.6nva89TqTbTkG7Je",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.E8op63o7hvqWFV29"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ácido deixou em você uma queimadura superficial, porém dolorosa. Você sofre 1 ponto de Acid damage <em>(Dano Ácido)</em> a cada 5 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 13]]</strong> encerra este efeito.</p>",
+      "description": "<p>O ácido deixou em você uma queimadura superficial, porém dolorosa. Você sofre 1 ponto de <span class=\"mmm-term\" style=\"color:#70AD47;font-weight:bold\">Acid damage <em>(Dano Ácido)</em></span> a cada 5 pés de Movement <em>(Movimento)</em> enquanto estiver em Initiative <em>(Iniciativa)</em>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 13]]</strong></span> encerra este efeito.</p>",
       "name": "Queimadura Cáustica",
       "_key": "!tables.results!86NgaCriq9h5DnPE.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ckLBg5ZeYjJ45b0v"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seu foco arcano ou bolsa de componentes de magia é dissolvido e destruído. Se o seu foco arcano for mágico, em vez disso ele tem seus efeitos mágicos suprimidos por <strong>[[1d4]]</strong> dias e fica inutilizável durante esse período.</p>",
+      "description": "<p>Seu foco arcano ou bolsa de componentes de magia é dissolvido e destruído. Se o seu foco arcano for mágico, em vez disso ele tem seus efeitos mágicos suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias e fica inutilizável durante esse período.</p>",
       "name": "Foco Arcano Dissolvido",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fEwQPOzKcjEadDda"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seu escudo é dissolvido e destruído. Se o seu escudo for mágico, em vez disso ele tem seus efeitos mágicos suprimidos por <strong>[[1d4]]</strong> dias e fica inutilizável durante esse período.</p>",
+      "description": "<p>Seu escudo é dissolvido e destruído. Se o seu escudo for mágico, em vez disso ele tem seus efeitos mágicos suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias e fica inutilizável durante esse período.</p>",
       "name": "Escudo Dissolvido",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.wBaJp5JT0iOjiQVu"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz salpicada de branco prateado, resultado de respingos de ácido nessa área do seu corpo.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz salpicada de branco prateado, resultado de respingos de ácido nessa área do seu corpo.</p>",
       "name": "Cicatriz Salpicada",
       "_key": "!tables.results!86NgaCriq9h5DnPE.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.tmjBbGdxPWBqM0xW"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Suas roupas foram corroídas a ponto de ficarem inúteis. Se forem mágicas, em vez disso têm seus efeitos mágicos suprimidos por <strong>[[1d4]]</strong> dias. Por sorte, você está ileso, exceto por uma situação potencialmente constrangedora diante dos membros do seu Party.</p>",
+      "description": "<p>Suas roupas foram corroídas a ponto de ficarem inúteis. Se forem mágicas, em vez disso têm seus efeitos mágicos suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias. Por sorte, você está ileso, exceto por uma situação potencialmente constrangedora diante dos membros do seu Party.</p>",
       "name": "Roupas Corroídas",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ZPVbTc1a7OJmxAyZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FtsxfkWhYScMuGLV"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você inalou os vapores tóxicos do ácido e tem um acesso violento de tosse. Você fica <strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em> até o final do seu próximo Turn <em>(Turno)</em>.</p>",
+      "description": "<p>Você inalou os vapores tóxicos do ácido e tem um acesso violento de tosse. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>.</p>",
       "name": "Inalação Tóxica",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.lmTyKn0c6hHUylZX"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você inalou profundamente os vapores tóxicos do ácido e teve um acesso de tosse. Você fica <strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em> por <strong>[[1d4]]</strong> Rounds <em>(Rodadas)</em>.</p>",
+      "description": "<p>Você inalou profundamente os vapores tóxicos do ácido e teve um acesso de tosse. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[incapacitated]{incapacitated}</strong> <em>(Incapacitado)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Rounds <em>(Rodadas)</em></span>.</p>",
       "name": "Pulmão Cáustico",
       "_key": "!tables.results!86NgaCriq9h5DnPE.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.jYMxJEbqragvcoj1"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. A lesão por ácido resultou em uma cicatriz nodosa e escamosa, com um leve brilho da mesma cor do ácido que feriu você. Você ganha +2 de Natural Armor <em>(Armadura Natural)</em> com ela, ou +1 se você já tiver um bônus de Natural Armor.</p>",
+      "description": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong></span> <em>(Tabela de Cicatrizes)</em>. A lesão por ácido resultou em uma cicatriz nodosa e escamosa, com um leve brilho da mesma cor do ácido que feriu você. Você ganha +2 de Natural Armor <em>(Armadura Natural)</em> com ela, ou +1 se você já tiver um bônus de Natural Armor.</p>",
       "name": "Cicatriz Escamosa",
       "_key": "!tables.results!86NgaCriq9h5DnPE.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.B788FbEMu4fj27LB"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ácido cobriu sua armadura e a devora lentamente. A cada Turn <em>(Turno)</em>, sua armadura sofre uma penalidade cumulativa de -1 na Armor Class <em>(Classe de Armadura-AC)</em>. Quando a AC da armadura chega a 10, ela é destruída. Se a armadura for mágica, seus efeitos mágicos são suprimidos por <strong>[[1d6]]</strong> dias e ela fica inutilizável durante esse período <em>(após o qual a penalidade desaparece e a armadura volta a funcionar normalmente)</em>.</p>",
+      "description": "<p>O ácido cobriu sua armadura e a devora lentamente. A cada <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>, sua armadura sofre uma penalidade cumulativa de -1 na <span class=\"mmm-term\" style=\"color:#7F7F7F;font-weight:bold\">Armor Class <em>(Classe de Armadura-AC)</em></span>. Quando a <span class=\"mmm-term\" style=\"color:#7F7F7F;font-weight:bold\">AC</span> da armadura chega a 10, ela é destruída. Se a armadura for mágica, seus efeitos mágicos são suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias e ela fica inutilizável durante esse período <em>(após o qual a penalidade desaparece e a armadura volta a funcionar normalmente)</em>.</p>",
       "name": "Armadura Corroída",
       "_key": "!tables.results!86NgaCriq9h5DnPE.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.YHkM24LfyMLdwAD7"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ácido corroeu a essência de um dos seus itens mágicos, expulsando sua energia arcana e tornando-o mundano. Escolha aleatoriamente um item mágico que esteja com você. Esse item perde todos os efeitos mágicos permanentemente. Se a raridade do item for Legendary ou Artifact, em vez disso seus efeitos mágicos são suprimidos por <strong>[[3d6]]</strong> dias <em>(e voltam ao normal após esse período)</em>.</p>",
+      "description": "<p>O ácido corroeu a essência de um dos seus itens mágicos, expulsando sua energia arcana e tornando-o mundano. Escolha aleatoriamente um item mágico que esteja com você. Esse item perde todos os efeitos mágicos permanentemente. Se a raridade do item for Legendary ou Artifact, em vez disso seus efeitos mágicos são suprimidos por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[3d6]]</strong></span> dias <em>(e voltam ao normal após esse período)</em>.</p>",
       "name": "Magia Dissolvida",
       "_key": "!tables.results!86NgaCriq9h5DnPE.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.g5MTkNtAkdzOjMsf"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Os vapores cáusticos do ácido causaram estragos nas suas cordas vocais. Sua voz fica <strong>nonfunctional</strong> <em>(não funcional)</em> e você fica mudo. Se não receber tratamento em 30 minutos, ela ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 19.</p>",
+      "description": "<p>Os vapores cáusticos do ácido causaram estragos nas suas cordas vocais. Sua voz fica <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> e você fica mudo. Se não receber tratamento em 30 minutos, ela ficará permanentemente <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 19.</p>",
       "name": "Cordas Vocais Corroídas",
       "_key": "!tables.results!86NgaCriq9h5DnPE.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WWAdXxyYno3SBvWy"

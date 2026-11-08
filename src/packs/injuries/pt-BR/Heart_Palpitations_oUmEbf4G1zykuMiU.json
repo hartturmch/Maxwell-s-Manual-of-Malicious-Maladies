@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Atingido por um choque no coração, e a culpa é sua. Sempre que você ficar <strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em> ou <strong>&Reference[frightened]{frightened}</strong> <em>(Amedrontado)</em>, você sofre 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 25.</p>",
+      "value": "<p>Atingido por um choque no coração, e a culpa é sua. Sempre que você ficar <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em></span> ou <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[frightened]{frightened}</strong> <em>(Amedrontado)</em></span>, você sofre 1 nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma <span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\">General Surgery <em>(Cirurgia Geral)</em></span> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 25.</p>",
       "chat": ""
     },
     "source": {

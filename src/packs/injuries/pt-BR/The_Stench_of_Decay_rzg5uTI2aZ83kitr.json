@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você é atormentado pelo fedor persistente de carne podre. Ele gruda em você e pode ser percebido por qualquer um a até 5 pés de você. Por <strong>[[1d6]]</strong> dias, você tem Disadvantage <em>(Desvantagem)</em> em todos os testes baseados em Charisma <em>(Carisma)</em>.</p><p><em>Tratamento</em> — Esfregar-se até ficar limpo em um banho longo e quente reduz a duração deste efeito em <strong>[[1d6]]</strong> dias.</p>",
+      "value": "<p>Você é atormentado pelo fedor persistente de carne podre. Ele gruda em você e pode ser percebido por qualquer um a até 5 pés de você. Por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias, você tem Disadvantage <em>(Desvantagem)</em> em todos os testes baseados em <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Charisma <em>(Carisma)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Esfregar-se até ficar limpo em um banho longo e quente reduz a duração deste efeito em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d6]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

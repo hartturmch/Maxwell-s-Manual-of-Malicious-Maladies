@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>Este delicado acessório de mira pode ser encaixado em qualquer besta com um teste de Tinker's Tools <em>(Ferramentas de Funileiro)</em> DC 15. Enquanto estiver encaixado, você pode ignorar a penalidade em ataques à distância quando um dos seus olhos estiver <strong>nonfunctional</strong> <em>(não funcional)</em> ou <strong>missing</strong> <em>(ausente)</em>.</p>",
+      "value": "<p>Este delicado acessório de mira pode ser encaixado em qualquer besta com um teste de Tinker's Tools <em>(Ferramentas de Funileiro)</em> <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\">DC</span> 15. Enquanto estiver encaixado, você pode ignorar a penalidade em ataques à distância quando um dos seus olhos estiver <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>nonfunctional</strong> <em>(não funcional)</em></span> ou <span class=\"mmm-term\" style=\"color:#7F6000;font-weight:bold\"><strong>missing</strong> <em>(ausente)</em></span>.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>A temperatura central do seu corpo despencou a níveis perigosos. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito das magias <em>Slow</em> <em>(Lentidão)</em> e <em>Confusion</em> <em>(Confusão)</em>. Se não for tratada por uma hora, você fica <strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
+      "value": "<p>A temperatura central do seu corpo despencou a níveis perigosos. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito das magias <em>Slow</em> <em>(Lentidão)</em> e <em>Confusion</em> <em>(Confusão)</em>. Se não for tratada por uma hora, você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Luzes dançam na sua visão e você balança a cabeça tentando clareá-la. Você fica <strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em> até o final do seu próximo Turn <em>(Turno)</em>.</p><p><em>Tratamento</em> — Uma magia Lesser Restoration <em>(Restauração Menor)</em> cura esta condição, como de costume.</p>",
+      "value": "<p>Luzes dançam na sua visão e você balança a cabeça tentando clareá-la. Você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[blinded]{blinded}</strong> <em>(Cego)</em></span> até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Uma magia Lesser Restoration <em>(Restauração Menor)</em> cura esta condição, como de costume.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Você simplesmente não aguenta o calor. Qualquer exposição faz você suar, ficar vermelho como beterraba e se cansar rapidamente. Você tem Disadvantage <em>(Desvantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir aos efeitos ambientais do calor.</p>",
+      "value": "<p>Você simplesmente não aguenta o calor. Qualquer exposição faz você suar, ficar vermelho como beterraba e se cansar rapidamente. Você tem Disadvantage <em>(Desvantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> feitos para resistir aos efeitos ambientais do calor.</p>",
       "chat": ""
     },
     "source": {

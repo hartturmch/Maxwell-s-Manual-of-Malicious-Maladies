@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Quando a energia arcana é expulsa e a dor recua, você flexiona o membro e descobre que parte dessa energia decidiu ficar com você. Ataques desarmados e armas empunhadas por este membro contam como mágicos para fins de superar resistência e imunidade a ataques e dano não mágicos.</p>",
+      "value": "<p>Role na <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong></span> <em>(Tabela de Membros Grandes)</em>. Quando a energia arcana é expulsa e a dor recua, você flexiona o membro e descobre que parte dessa energia decidiu ficar com você. Ataques desarmados e armas empunhadas por este membro contam como mágicos para fins de superar resistência e imunidade a ataques e dano não mágicos.</p>",
       "chat": ""
     },
     "source": {

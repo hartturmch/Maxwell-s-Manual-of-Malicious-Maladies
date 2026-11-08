@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Subconscientemente, seu cérebro fez uma ligação entre algo aleatório e a dor que sentiu, e agora você não consegue deixar de associar os dois. O Dungeon Master escolhe algo único sobre a fonte do dano ou sobre o cenário atual. Sempre que você se move a menos de 15 pés dessa coisa, você fica <strong>&Reference[frightened]{frightened}</strong> <em>(Amedrontado)</em> até se afastar pelo menos 50 pés dela.</p>",
+      "value": "<p>Subconscientemente, seu cérebro fez uma ligação entre algo aleatório e a dor que sentiu, e agora você não consegue deixar de associar os dois. O Dungeon Master escolhe algo único sobre a fonte do dano ou sobre o cenário atual. Sempre que você se move a menos de 15 pés dessa coisa, você fica <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[frightened]{frightened}</strong> <em>(Amedrontado)</em></span> até se afastar pelo menos 50 pés dela.</p>",
       "chat": ""
     },
     "source": {

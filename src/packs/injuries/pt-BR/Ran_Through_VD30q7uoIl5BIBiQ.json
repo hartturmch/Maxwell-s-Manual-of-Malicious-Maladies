@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O ataque entrou por um lado e saiu pelo outro. Por sorte, não atingiu nada vital, mas você ainda sente a agonia em cada movimento. Bonus Actions <em>(Ações Bônus)</em> exigem uma Action <em>(Ação)</em> completa. Este efeito dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d2]]</strong> dias.</p>",
+      "value": "<p>O ataque entrou por um lado e saiu pelo outro. Por sorte, não atingiu nada vital, mas você ainda sente a agonia em cada movimento. Bonus Actions <em>(Ações Bônus)</em> exigem uma Action <em>(Ação)</em> completa. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um teste de <span class=\"mmm-term\" style=\"color:#0563C1;font-weight:bold\"><strong>[[/skill medicine 15]]</strong></span> reduz a duração desta lesão em <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d2]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

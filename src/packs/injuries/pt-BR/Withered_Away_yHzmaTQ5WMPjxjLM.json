@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Você se sente frágil, drenado, como se a própria essência da sua vida tivesse sido roubada de você. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Strength <em>(Força)</em> — Athletics <em>(Atletismo)</em> e em Saving Throws <em>(Testes de Resistência)</em> de Strength e de Constitution <em>(Constituição)</em> por <strong>[[1d4]]</strong> dias.</p>",
+      "value": "<p>Você se sente frágil, drenado, como se a própria essência da sua vida tivesse sido roubada de você. Você tem Disadvantage <em>(Desvantagem)</em> em testes de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Strength <em>(Força)</em></span> — Athletics <em>(Atletismo)</em> e em Saving Throws <em>(Testes de Resistência)</em> de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Strength</span> e de <span class=\"mmm-term\" style=\"color:#2F5597;font-weight:bold\">Constitution <em>(Constituição)</em></span> por <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Um choque súbito de medo intenso atravessa você do couro cabeludo até os dedos dos pés. Você fica aterrorizado com a fonte do dano, como se estivesse sob o efeito da magia Fear <em>(Medo)</em>, até o final do seu próximo Turn <em>(Turno)</em>.</p>",
+      "value": "<p>Um choque súbito de medo intenso atravessa você do couro cabeludo até os dedos dos pés. Você fica aterrorizado com a fonte do dano, como se estivesse sob o efeito da magia Fear <em>(Medo)</em>, até o final do seu próximo <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Turn <em>(Turno)</em></span>.</p>",
       "chat": ""
     },
     "source": {

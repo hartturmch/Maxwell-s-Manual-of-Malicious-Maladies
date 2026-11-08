@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (Item Maravilhoso, requer sintonização)</em></p><p>Esta pérola rosa em uma fina corrente de prata foi feita para ficar no meio da sua testa. Você pode se sintonizar com ela pintando na pérola um pequeno ponto da mesma cor dos seus olhos. Enquanto estiver usando o periapto, você pode abrir um elo telepático com uma criatura por vez, permitindo enviar e receber pensamentos em qualquer idioma que você entenda. Este elo telepático funciona em um alcance de 30 pés.</p>",
+      "value": "<p><em>Wondrous item (<span class=\"mmm-term\" style=\"color:#2F75B5;font-weight:bold\">Item</span> Maravilhoso, requer sintonização)</em></p><p>Esta pérola rosa em uma fina corrente de prata foi feita para ficar no meio da sua testa. Você pode se sintonizar com ela pintando na pérola um pequeno ponto da mesma cor dos seus olhos. Enquanto estiver usando o periapto, você pode abrir um elo telepático com uma criatura por vez, permitindo enviar e receber pensamentos em qualquer idioma que você entenda. Este elo telepático funciona em um alcance de 30 pés.</p>",
       "chat": ""
     },
     "source": {

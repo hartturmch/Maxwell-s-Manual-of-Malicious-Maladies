@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Parece que você perdeu o estômago para matar. A ideia de tirar uma vida enche você de nojo profundo. Você não pode tirar uma vida voluntariamente. Qualquer dano causado por você que reduza os Hit Points <em>(Pontos de Vida-HP)</em> de uma criatura a 0 a deixa inconsciente automaticamente, em vez de matá-la. Este efeito dura <strong>[[1d4]]</strong> dias.</p>",
+      "value": "<p>Parece que você perdeu o estômago para matar. A ideia de tirar uma vida enche você de nojo profundo. Você não pode tirar uma vida voluntariamente. Qualquer dano causado por você que reduza os <span class=\"mmm-term\" style=\"color:#8B0000;font-weight:bold\">Hit Points <em>(Pontos de Vida-HP)</em></span> de uma criatura a 0 a deixa inconsciente automaticamente, em vez de matá-la. Este efeito dura <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span> dias.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>A eletricidade crepita ao redor do seu corpo por um segundo, procurando a coisa mais próxima para se descarregar. Em seguida, a eletricidade salta de você para a criatura mais próxima que carregue armas de metal ou use armadura de metal. Essa criatura sofre Lightning damage <em>(Dano Elétrico)</em> igual à metade do dano que causou a lesão persistente.</p>",
+      "value": "<p>A eletricidade crepita ao redor do seu corpo por um segundo, procurando a coisa mais próxima para se descarregar. Em seguida, a eletricidade salta de você para a criatura mais próxima que carregue armas de metal ou use armadura de metal. Essa criatura sofre <span class=\"mmm-term\" style=\"color:#FFC000;font-weight:bold\">Lightning damage <em>(Dano Elétrico)</em></span> igual à metade do dano que causou a lesão persistente.</p>",
       "chat": ""
     },
     "source": {

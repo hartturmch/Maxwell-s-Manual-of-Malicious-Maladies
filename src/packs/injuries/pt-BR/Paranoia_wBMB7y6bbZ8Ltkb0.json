@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Você acha difícil parar de se distrair com a sensação de que há alguém ou alguma coisa à sua caça. Sempre que precisar manter Concentration <em>(Concentração)</em>, role <strong>[[1d4]]</strong>. Esse é o número máximo de Rounds <em>(Rodadas)</em> em que você pode manter a concentração naquela magia ou efeito.</p>",
+      "value": "<p>Você acha difícil parar de se distrair com a sensação de que há alguém ou alguma coisa à sua caça. Sempre que precisar manter <span class=\"mmm-term\" style=\"color:#00A6E6;font-weight:bold\">Concentration <em>(Concentração)</em></span>, role <span class=\"mmm-term\" style=\"color:#BF9000;font-weight:bold\"><strong>[[1d4]]</strong></span>. Esse é o número máximo de <span class=\"mmm-term\" style=\"color:#4472C4;font-weight:bold\">Rounds <em>(Rodadas)</em></span> em que você pode manter a concentração naquela magia ou efeito.</p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>O suor brota na sua testa, seu pulso fica fraco e seus músculos parecem sem força. Você sofre 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Um Long Rest <em>(Descanso Longo)</em> ou a magia <em>Greater Restoration</em> <em>(Restauração Superior)</em> remove esta <strong>exhaustion</strong>, como de costume.</p>",
+      "value": "<p>O suor brota na sua testa, seu pulso fica fraco e seus músculos parecem sem força. Você sofre 1 nível de <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em></span>.</p><p><span class=\"mmm-term\" style=\"color:#548235;font-weight:bold\"><em>Tratamento</em></span> — Um Long Rest <em>(Descanso Longo)</em> ou a magia <em>Greater Restoration</em> <em>(Restauração Superior)</em> remove esta <span class=\"mmm-term\" style=\"color:#C00080;font-weight:bold\"><strong>exhaustion</strong></span>, como de costume.</p>",
       "chat": ""
     },
     "source": {
