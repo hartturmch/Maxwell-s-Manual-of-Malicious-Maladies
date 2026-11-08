@@ -1,11 +1,11 @@
 {
   "_id": "84oGAFCT3QrgRHj6",
-  "name": "Chilblains",
+  "name": "Frieiras",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>You've been frigid one too many times and your skin easily develops a rash and blisters in cold. You have disadvantage to Constitution checks and saving throws made to resist the environmental effects of cold.</p>",
+      "value": "<p> Você já foi frígido demais e sua pele desenvolve facilmente uma erupção cutânea e bolhas no frio. Você tem desvantagem em testes de Constituição e testes de resistência feitos para resistir aos efeitos ambientais do frio. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cold Lingering Injury"
+    "requirements": "Frio Lesão Persistente"
   },
   "effects": [
     {
       "_id": "sa9ISr7aNzIVx4im",
-      "name": "Chilblains",
+      "name": "Frieiras",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

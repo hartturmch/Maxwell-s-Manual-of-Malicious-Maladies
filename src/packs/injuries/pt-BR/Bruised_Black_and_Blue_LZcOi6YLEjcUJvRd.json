@@ -1,11 +1,11 @@
 {
   "_id": "LZcOi6YLEjcUJvRd",
-  "name": "Bruised Black and Blue",
+  "name": "Preto e azul machucado",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Your entire body aches and you are left with some extensive ugly bruises. Any time you make a Strength (Athletics) or Dexterity (Acrobatics) check you take bludgeoning damage scaled to the damage that caused the lingering injury: 1-10 damage ([[1d4]]), 11-20 damage ([[1d6]]), 21-30 damage ([[1d8]]), 31-40 damage ([[1d10]]), &gt;40 damage ([[1d12]]). This injury resolves on its own in [[1d4]] days.</p>",
+      "value": "<p> Todo o seu corpo dói e você fica com alguns hematomas feios extensos. Sempre que você fizer um teste de Força (Atletismo) ou Destreza (Acrobacia), você sofre dano contundente dimensionado para o dano que causou a lesão persistente: 1-10 de dano ( [[1d4]] ), 11-20 de dano ( [[1d6]] ), 21-30 de dano ( [[1d8]] ), 31-40 de dano ( __ X4X __ ),  __ X5X __ 40 de dano ( [[1d12]] ). Esta lesão se resolve sozinha em  [[1d4]]  dias. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
       "_id": "YENGrpqfQTcwHZtw",
-      "name": "Bruised Black and Blue",
+      "name": "Preto e azul machucado",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

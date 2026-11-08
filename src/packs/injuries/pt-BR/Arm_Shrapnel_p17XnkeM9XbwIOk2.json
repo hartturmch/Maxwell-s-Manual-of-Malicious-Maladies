@@ -1,11 +1,11 @@
 {
   "_id": "p17XnkeM9XbwIOk2",
-  "name": "Arm Shrapnel",
+  "name": "Estilhaços de Braço",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Roll to randomly determine the left or right arm. The attack has turned small fragments of debris in the surrounding area into deadly ballistic projectiles, many of which have found their way deep into your arm muscles. Attacks made by this arm have disadvantage. Shields used by this arm provide 1 AC instead of 2 AC.</p><p><em>Treatment</em> - A DC 21 General Surgery.</p>",
+      "value": "<p> Role para determinar aleatoriamente o braço esquerdo ou direito. O ataque transformou pequenos fragmentos de detritos na área circundante em projéteis balísticos mortais, muitos dos quais encontraram seu caminho profundamente em seus músculos do braço. Ataques feitos por este braço têm desvantagem. Os escudos usados por este braço fornecem 1  AC  em vez de 2  AC . </p>  <p>  <em> Tratamento </em>  - A  DC  21 Cirurgia Geral. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Thunder Lingering Injury"
+    "requirements": "Trovão Lesão Persistente"
   },
   "effects": [
     {
       "_id": "WFYqpd4pcR3HvTNl",
-      "name": "Arm Shrapnel",
+      "name": "Estilhaços de Braço",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

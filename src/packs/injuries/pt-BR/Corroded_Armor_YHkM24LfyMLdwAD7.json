@@ -1,11 +1,11 @@
 {
   "_id": "YHkM24LfyMLdwAD7",
-  "name": "Corroded Armor",
+  "name": "Armadura corroída",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>The acid has covered your armor, slowly eating away at it. Each turn your armor takes a cumulative -1 penalty to AC. When the armor's AC reaches 10, it is destroyed. If the armor is magical, its magical effects are instead suppressed for [[1d6]] days and it is unusable during this time (after which the penalty disappears and the armor functions normally).</p>",
+      "value": "__X0X __ O ácido cobriu sua armadura, devorando-a lentamente. A cada turno, sua armadura recebe uma penalidade cumulativa de -1 para  AC . Quando AC da armadura atinge 10, ela é destruída. Se a armadura for mágica, seus efeitos mágicos são suprimidos por  [[1d6]]  dias e é inutilizável durante esse período (após o qual a penalidade desaparece e a armadura funciona normalmente). </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Acid Lingering Injury"
+    "requirements": "Ácido Lesão Persistente"
   },
   "effects": [
     {
       "_id": "51LIXIiruzV5fIXE",
-      "name": "Corroded Armor",
+      "name": "Armadura corroída",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

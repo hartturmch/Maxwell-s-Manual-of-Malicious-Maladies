@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>A violent impact to the side of your head has caused your left eardrum to rupture. Your left ear is <strong>nonfunctional</strong>. If it is not treated within 24 hours, your hearing in this ear is permanently <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 20 Save Sense Surgery</p>",
+      "value": "<p> A violent impact to the side of your head has caused your left eardrum to rupture. Your left ear is  <strong> sem funcionamento </strong> . If it is not treated within 24 hours, your hearing in this ear is permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {

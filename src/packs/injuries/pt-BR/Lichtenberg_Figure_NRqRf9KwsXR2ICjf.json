@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. This area of your body is left with a Lichtenberg Figure, a scar resembling lightning that runs along the path the current took through your body.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This area of your body is left with a Lichtenberg Figure, a scar resembling Relâmpago that runs along the path the current took through your body. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [
     {

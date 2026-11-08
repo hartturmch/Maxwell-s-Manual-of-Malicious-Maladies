@@ -1,11 +1,11 @@
 {
   "_id": "JrCUXPibpjDkAise",
-  "name": "Blinded Eye",
+  "name": "Olho Cego",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p></strong></p><p>Roll randomly for the right or left eye. Even through closed lids all you can see is an empty whiteness. Your eye is <strong>nonfunctional</strong>, and if not treated within 24 hours your vision will be permanently <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 20 Save Sense Surgery.</p>",
+      "value": "<p>  </strong>  </p>  <p> Role aleatoriamente para o olho direito ou esquerdo. Mesmo através de pálpebras fechadas, tudo o que você pode ver é uma brancura vazia. Seu olho está  <strong> não funcional </strong> e, se não for tratado dentro de 24 horas, sua visão ficará permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [
     {
       "_id": "Z463G7UoeUZwlh2s",
-      "name": "Blinded Eye",
+      "name": "Olho Cego",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "TrZx8sD7agOMofVc",
-  "name": "A Taste of Madness",
+  "name": "Um Sabor de Loucura",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>You feel something within your mind come a touch unhinged. Roll on the Long Term Madness Table (DMG pg.260). This effect lasts [[1d10 * 10]] hours.</p>",
+      "value": "<p> Você sente algo em sua mente ficar um pouco desequilibrado. Role a Tabela de Loucura de Longo Prazo (LdMe pág.260). Este efeito dura  [[1d10 * 10]]  horas. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psychic Lingering Injury"
+    "requirements": "Psíquico Lesão Persistente"
   },
   "effects": [
     {
       "_id": "cJ2rZJC7endKx7qT",
-      "name": "A Taste of Madness",
+      "name": "Um Sabor de Loucura",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

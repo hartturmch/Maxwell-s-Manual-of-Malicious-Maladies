@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Oddly, after the radiance of the attack fades you are left with a dull, green glow. This affects you in the same manner as the Faerie Fire spell, though the effect itself is non-magical. It last [[1d20]] hours.</p>",
+      "value": "<p> Oddly, after the radiance of the attack fades you are left with a dull, green glow. This affects you in the same manner as the Faerie Fogo spell, though the effect itself is non-magical. It last  [[1d20]]  hours. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [
     {

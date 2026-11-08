@@ -1,11 +1,11 @@
 {
   "_id": "EVyTfL4pCoQ3QAC5",
-  "name": "Dissolved apêndice",
+  "name": "Dissolved Appendage",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. Acid splashes over your appendage and sizzles as it begins to dissolve. This appendage is <strong>nonfunctional</strong>. If you do not receive treatment within 30 minutes, the appendage dissolves away and is <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 20 Save Limb Surgery. You get 1 check for this surgery; if you do not meet the DC on the first check, the appendage is lost.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. Ácido splashes over your appendage and sizzles as it begins to dissolve. This appendage is  <strong> sem funcionamento </strong> . If you do not receive Tratamento within 30 minutes, the appendage dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the appendage is lost. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Acid Lingering Injury"
+    "requirements": "Ácido Lesão Persistente"
   },
   "effects": [
     {

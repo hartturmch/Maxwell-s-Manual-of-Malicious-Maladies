@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>The purging light has scoured clean the filth in your soul. Your alignment shifts one step towards good. If your alignment is already good, treat this roll as a 15.</p>",
+      "value": "<p> The purging light has scoured clean the filth in your soul. Your alignment shifts one step towards good. If your alignment is already good, treat this roll as a 15. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [],
   "folder": "yRuhPzOAD5hEAtff",

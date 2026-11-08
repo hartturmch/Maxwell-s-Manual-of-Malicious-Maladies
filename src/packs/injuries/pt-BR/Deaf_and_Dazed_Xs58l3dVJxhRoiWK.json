@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>You are bowled over by the percussive assault and the only thing you hear is an atonal ringing. You are knocked &Reference[prone]{prone} and <strong>&Reference[deafened]{deafened}</strong> for [[1d6]] hours.</p>",
+      "value": "<p> You are bowled over by the percussive assault and the only thing you hear is an atonal ringing. You are knocked &Reference[prone]{prone} and  <strong> &Reference[deafened]{deafened} </strong>  for  [[1d6]]  hours. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Thunder Lingering Injury"
+    "requirements": "Trovão Lesão Persistente"
   },
   "effects": [
     {

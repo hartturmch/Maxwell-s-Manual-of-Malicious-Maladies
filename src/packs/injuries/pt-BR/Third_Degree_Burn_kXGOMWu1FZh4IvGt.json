@@ -1,11 +1,11 @@
 {
   "_id": "kXGOMWu1FZh4IvGt",
-  "name": "Third Degree queimadura",
+  "name": "Third Degree Burn",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You have a deep burn penetrating through your skin, resulting in a cracked, red wound. While on initiative you take 1 fire damage for every 5 feet of movement. In addition, you take [[/damage 1d4 fire]] every time you take an action or bonus action. This injury lasts [[1d8]] days.</p><p><em>Treatment</em> - A [[/skill medicine 16]] check reduces the duration of this injury by [[1d8]] days.</p>",
+      "value": "<p> You have a deep burn penetrating through your skin, resulting in a cracked, red wound. While on initiative you take 1 Fogo Dano for every 5 feet of movement. In addition, you take  [[/damage 1d4 fire]]  every time you take an action or bonus action. This injury lasts  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 16]]  check reduces the duration of this injury by  [[1d8]]  days. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fire Lingering Injury"
+    "requirements": "Fogo Lesão Persistente"
   },
   "effects": [
     {

@@ -1,11 +1,11 @@
 {
   "_id": "5YDAB0u20y9npQUQ",
-  "name": "Cardiac Arrest",
+  "name": "Parada Cardíaca",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>As the electricity leaves your heart, it beats one last time before silence. You are <strong>&Reference[unconscious]{unconscious}</strong> and dying, your hit points drop to 0.</p><p><em>Treatment</em> - If you are stabilized your heart gallops back to life, you are no longer <strong>unconscious</strong>, and your hit points return to the total they were at before they dropped to 0.</p>",
+      "value": "<p> Quando a eletricidade sai do seu coração, ela bate uma última vez antes do silêncio. Você está  <strong> &Referência[inconsciente]{inconsciente} </strong>  e morrendo, seus pontos de vida caem para 0. </p>  <p>  <em> Tratamento </em>  - Se você está estabilizado, seu coração galopa de volta à vida, você não está mais  __ X7X __ inconsciente __ X8X __ , e seus pontos de vida retornam ao total em que estavam antes de caírem para 0. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [],
   "folder": "pVtivJ93JSXv9sP3",

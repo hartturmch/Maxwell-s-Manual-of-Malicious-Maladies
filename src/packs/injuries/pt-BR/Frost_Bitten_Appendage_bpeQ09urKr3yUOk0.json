@@ -1,11 +1,11 @@
 {
   "_id": "bpeQ09urKr3yUOk0",
-  "name": "Frost Bitten apêndice",
+  "name": "Frost Bitten Appendage",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. This appendage is firm, frigid, pale, and <strong>nonfunctional</strong>. If not treated within 15 minutes it will necrotize and fall off in [[1d4]] days (after which it is <strong>missing</strong>).</p><p><em>Treatment</em> - A short rest slowly rewarming the appendage.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. This appendage is firm, frigid, pale, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes it will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the appendage. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cold Lingering Injury"
+    "requirements": "Frio Lesão Persistente"
   },
   "effects": [
     {

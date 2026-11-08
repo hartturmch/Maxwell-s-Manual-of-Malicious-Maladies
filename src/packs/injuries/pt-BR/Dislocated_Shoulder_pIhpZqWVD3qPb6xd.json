@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Roll to randomly determine the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is <strong>nonfunctional</strong>.</p><p><em>Treatment</em> - While on initiative, make a [[/check con 18]] check as a bonus action to force the joint into place and end this injury. Off initiative, a [[/skill medicine 18]] check will end this injury.</p>",
+      "value": "<p> Roll to randomly determine the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is  <strong> sem funcionamento </strong> . </p>  <p>  <em> Tratamento </em>  - While on initiative, make a  [[/check con 18]]  check as a bonus action to Força the joint into place and end this injury. Off initiative, a  [[/skill medicine 18]]  check will end this injury. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {

@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>The psychic assault has left you with a small vocal or motor tic; a brief compulsive behavior you find difficult or impossible to suppress. The DM may choose a specific tic or roll to determine the tic randomly ([[1d6]]): 1) Eye twitching, 2) Finger clicking, 3) Touching other people or things, 4) Grunting, 5) Repeating a sound or phrase, 6) Grimacing.</p>",
+      "value": "<p> The Psíquico assault has left you with a small vocal or motor tic; a brief compulsive behavior you find difficult or impossible to suppress. The DM may choose a specific tic or roll to determine the tic randomly ( [[1d6]] ): 1) Eye twitching, 2) Finger clicking, 3) Touching other people or things, 4) Grunting, 5) Repeating a sound or phrase, 6) Grimacing. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psychic Lingering Injury"
+    "requirements": "Psíquico Lesão Persistente"
   },
   "effects": [
     {

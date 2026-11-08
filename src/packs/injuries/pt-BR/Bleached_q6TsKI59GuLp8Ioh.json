@@ -1,11 +1,11 @@
 {
   "_id": "q6TsKI59GuLp8Ioh",
-  "name": "Bleached",
+  "name": "Descolorido",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. This area of your body is left bleached a bone white, and hair no longer grows on it.</p>",
+      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo fica branqueada como um osso branco e o cabelo não cresce mais nela. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [
     {
       "_id": "NRmAeY7B6mJNvw05",
-      "name": "Bleached",
+      "name": "Descolorido",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

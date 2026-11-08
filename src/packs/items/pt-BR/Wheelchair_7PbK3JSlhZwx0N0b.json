@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>A wheelchair facilitates movement for a character without the use of one or both legs. Using a wheelchair allows you to move at your normal speed. While on initiative, any amount of movement with the wheelchair requires an object interaction (one object interaction allows both movement and the dash action). On difficult terrain, your speed is 10 feet.</p>",
+      "value": "<p> A wheelchair facilitates movement for a character without the use of one or both legs. Using a wheelchair allows you to move at your normal speed. While on initiative, any amount of movement with the wheelchair requires an object interaction (one object interaction allows both movement and the dash action). On difficult terrain, your speed is 10 feet. </p>",
       "chat": ""
     },
     "source": {

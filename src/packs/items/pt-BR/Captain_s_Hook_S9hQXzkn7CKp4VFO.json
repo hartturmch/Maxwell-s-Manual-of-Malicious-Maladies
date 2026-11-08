@@ -1,5 +1,5 @@
 {
-  "name": "Captain's Hook",
+  "name": "Gancho de Capitão",
   "type": "weapon",
   "img": "icons/weapons/fist/hook.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>This wickedly curved hook has a reputation for being associated with dastardly pirates. You may attach this hook in place of a <strong>missing </strong>hand. While attached, the hook is a weapon that deals 1d4 piercing damage and has the light and finesse properties.</p>",
+      "value": "<p> This wickedly curved hook has a reputation for being associated with dastardly pirates. You may attach this hook in place of a  <strong> ausente  </strong> hand. While attached, the hook is a weapon that deals  1d4  Perfurante Dano and has the light and finesse properties. </p>",
       "chat": ""
     },
     "source": {
@@ -76,7 +76,7 @@
         "denomination": 4,
         "bonus": "",
         "types": [
-          "piercing"
+          "Perfurante"
         ],
         "custom": {
           "enabled": false,

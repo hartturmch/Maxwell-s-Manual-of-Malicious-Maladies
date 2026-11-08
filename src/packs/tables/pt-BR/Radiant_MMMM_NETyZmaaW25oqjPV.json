@@ -1,7 +1,7 @@
 {
-  "name": "Radiant - [MMMM]",
+  "name": "Radiante - [MMMM]",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
-  "description": "I am still in the process of studying the enigma of Radiant dano. The blindness I can treat. The mild burns I can treat. What I do not yet understand why some patients come to me with a soft, unearthly glow, or hair loss. Fear not, though! In time I shall find a merry cure to these as well.",
+  "description": "I am still in the process of studying the enigma of Radiante Dano. The blindness I can treat. The mild burns I can treat. What I do not yet understand why some patients come to me with a soft, unearthly glow, or hair loss. Fear not, though! In time I shall find a merry cure to these as well.",
   "results": [
     {
       "_id": "8mfcUtt6pMHFo3tK",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The purging light has scoured clean the filth in your soul. Your alignment shifts one step towards good. If your alignment is already good, treat this roll as a 15.</p>",
+      "description": "<p> The purging light has scoured clean the filth in your soul. Your alignment shifts one step towards good. If your alignment is already good, treat this roll as a 15. </p>",
       "name": "Purged Soul",
       "_key": "!tables.results!NETyZmaaW25oqjPV.8mfcUtt6pMHFo3tK",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.2JV9rRH92OuJJ9s5"
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p></strong></p><p>Roll randomly for the right or left eye. Even through closed lids all you can see is an empty whiteness. Your eye is <strong>não funcional</strong>, and if not treated dentro de 24 horas your vision will be permanently <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery.</p>",
-      "name": "Blinded Eye",
+      "description": "<p>  </strong>  </p>  <p> Role aleatoriamente para o olho direito ou esquerdo. Mesmo através de pálpebras fechadas, tudo o que você pode ver é uma brancura vazia. Seu olho está  <strong> não funcional </strong> e, se não for tratado dentro de 24 horas, sua visão ficará permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
+      "name": "Olho Cego",
       "_key": "!tables.results!NETyZmaaW25oqjPV.BgSJvTFaJlpmTfik",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.JrCUXPibpjDkAise"
     },
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The energy that washed over you has left you with a lingering feeling of sickness and nausea. Você está <strong>&Reference[Poisoned]{Poisoned}</strong> for [[1d4]] dias. During this time, you slowly lose all the hair on your body. After [[1d12]] dias, it begins to regrow at the normal rate.</p>",
+      "description": "<p> The energy that washed over you has left you with a lingering feeling of sickness and nausea. You are  <strong> &Reference[poisoned]{poisoned} </strong>  for  [[1d4]]  days. During this time, you slowly lose all the hair on your body. After  [[1d12]]  days, it begins to regrow at the normal rate. </p>",
       "name": "Irradiated",
       "_key": "!tables.results!NETyZmaaW25oqjPV.lrhilZ4XgVufhGvY",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6Xj07LrPNOteJ3Pt"
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You were unprepared for the overwhelming torrent of brilliance and stared right into it. Você está <strong>&Reference[blinded]{blinded}</strong> for [[1d6]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 15]] check reduces this injury's duration by [[1d4]] dias.</p>",
-      "name": "Flash queimadura",
+      "description": "<p> You were unprepared for the overwhelming torrent of brilliance and stared right into it. You are  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces this injury's duration by  [[1d4]]  days. </p>",
+      "name": "Flash Burn",
       "_key": "!tables.results!NETyZmaaW25oqjPV.6bgk8XgFA4nhs5G8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6A75gn1Y0uxnfQWA"
     },
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You blink the spots from your eyes, but your vision is taking a while to return. Você está <strong>&Reference[blinded]{blinded}</strong> for [[1d4]] Turnos.</p><p><em>Tratamento</em> - A Lesser Restoration spell will cure this condition as usual.</p>",
+      "description": "<p> You blink the spots from your eyes, but your vision is taking a while to return. You are  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - A Lesser Restoration spell will cure this condition as usual. </p>",
       "name": "Razzle Dazzled",
       "_key": "!tables.results!NETyZmaaW25oqjPV.9tPQibbeSeTnr580",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4gP7JROYju8qofQq"
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Lights dance in your vision and you shake your head in an attempt to clear it. Você está <strong>&Reference[blinded]{blinded}</strong> até the end of your next Turno.</p><p><em>Tratamento</em> - A Lesser Restoration spell will cure this condition as usual.</p>",
-      "name": "Dazzled",
+      "description": "<p> Lights dance in your vision and you shake your head in an attempt to clear it. You are  <strong> &Reference[blinded]{blinded} </strong>  until the end of your next turn. </p>  <p>  <em> Tratamento </em>  - A Lesser Restoration spell will cure this condition as usual. </p>",
+      "name": "deslumbrado",
       "_key": "!tables.results!NETyZmaaW25oqjPV.fpgnoKKfrVlPHYRx",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.PMLqI1xVq357Hm5f"
     },
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Oddly, after the radiance of the attack fades Você está left with a dull, green glow. This affects you in the same manner as the Faerie fogo spell, though the effect itself is non-magical. It last [[1d20]] horas.</p>",
+      "description": "<p> Oddly, after the radiance of the attack fades you are left with a dull, green glow. This affects you in the same manner as the Faerie Fogo spell, though the effect itself is non-magical. It last  [[1d20]]  hours. </p>",
       "name": "Unearthly Glow",
       "_key": "!tables.results!NETyZmaaW25oqjPV.tdhm9ulx9NkOBEnU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.mX668VDAc2KUZGfN"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You seem to have lost your stomach for killing. The thought of taking a life fills you with abject disgust. You may not willingly take a life. Any dano dealt by you that reduces a creature’s hit points to 0 automatically knocks them out instead of killing them. This effect lasts [[1d4]] dias.</p>",
+      "description": "<p> You seem to have lost your stomach for killing. The thought of taking a life fills you with abject disgust. You may not willingly take a life. Any Dano dealt by you that reduces a creature’s hit points to 0 automatically knocks them out instead of killing them. This effect lasts  [[1d4]]  days. </p>",
       "name": "Penitent Mercy",
       "_key": "!tables.results!NETyZmaaW25oqjPV.MPAheSRgAl4bAfeT",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ANiookDgTzYOtijv"
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. Você está left with smooth cicatriz on this part of your body that seems to shimmer through the prismatic colors when the light catches it.</p>",
-      "name": "Prismatic cicatriz",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with smooth scar on this part of your body that seems to shimmer through the prismatic colors when the light catches it. </p>",
+      "name": "Prismatic Scar",
       "_key": "!tables.results!NETyZmaaW25oqjPV.nqSFhNH3fXoiyeAC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GDV8rvcCyNboDepS"
     },
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. This area of your body is left bleached a bone white, and hair no longer grows on it.</p>",
-      "name": "Bleached",
+      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo fica branqueada como um osso branco e o cabelo não cresce mais nela. </p>",
+      "name": "Descolorido",
       "_key": "!tables.results!NETyZmaaW25oqjPV.4bINWP9AZmpOf3Eq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.q6TsKI59GuLp8Ioh"
     },
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The light sears a painful red queimadura into your skin. You take 1 Radiant dano per 10 feet of movement while on initiative. This injury lasts [[1d4]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 12]] check reduces this injury's duration by [[1d4]] dias.</p>",
+      "description": "<p> The light sears a painful red burn into your skin. You take 1 Radiante Dano per 10 feet of movement while on initiative. This injury lasts  [[1d4]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces this injury's duration by  [[1d4]]  days. </p>",
       "name": "Sunburn",
       "_key": "!tables.results!NETyZmaaW25oqjPV.D4Z1HciIJyvtEAGU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FulHxPsnRF8SRaEF"
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You've received a brief glimpse of something greater and you can't help but pause for a moment of distracted contemplation. You cannot take reactions for [[1d4]] Turnos.</p>",
-      "name": "A Brief Stillness of the Soul",
+      "description": "<p> Você teve um breve vislumbre de algo maior e não pode deixar de fazer uma pausa para um momento de contemplação distraída. Você não pode aceitar reações por  [[1d4]]  turnos. </p>",
+      "name": "Uma breve quietude da alma",
       "_key": "!tables.results!NETyZmaaW25oqjPV.nEpQe4pRirFbn6C8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.A3QThgUfeUZ3nyhT"
     },
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. This area of your body flares with a sudden radiance, which then dies down to a soft, dull glow. It emits bright light in a 5 foot radius, dim light in an additional 5 foot radius, and has a faint aura of Evocation. An effort of concentration can either suppress this effect or flare the light to the brightness of a torch.</p>",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This area of your body flares with a sudden radiance, which then dies down to a soft, dull glow. It emits bright light in a 5 foot radius, dim light in an additional 5 foot radius, and has a faint aura of Evocation. An effort of Concentração can either suppress this effect or flare the light to the brightness of a torch. </p>",
       "name": "Halo",
       "_key": "!tables.results!NETyZmaaW25oqjPV.u0C7I3bWsbxwWa3P",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4shxAtjIDbmzIUBU"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>As the energy of the attack passes, Você tem a revelation clawing at the edge of your brain, you're sure of it. Você tem [[1d6]] dias to withdraw from activity and spend 24 horas alone in silent, individual contemplation about your god, belief set, or yourself. After this, you come to an enlightening realization. If you do not do this dentro de the time limit, the nagging urge builds to distracting levels and Você tem Disadvantage to all attack rolls, ability checks, and saving throws até you do.</p>",
+      "description": "<p>As the energy of the attack passes, you have a revelation clawing at the edge of your brain, you're sure of it. You have [[1d6]] days to withdraw from activity and spend 24 hours alone in silent, individual contemplation about your god, belief set, or yourself. After this, you come to an enlightening realization. If you do not do this within the time limit, the nagging urge builds to distracting levels and you have disadvantage to all attack rolls, ability checks, and saving throws until you do.</p>",
       "name": "Forced Epiphany",
       "_key": "!tables.results!NETyZmaaW25oqjPV.fkLgkzG3A8ZqHG81",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Ek9w6MKsFiA0ztDh"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>As the divine energy fades you feel as if some of the great burden of time has left with it. Your body is [[1d10]] years younger. Your mind is unaffected.</p>",
+      "description": "<p> As the divine energy fades you feel as if some of the great burden of time has left with it. Your body is  [[1d10]]  years younger. Your mind is unaffected. </p>",
       "name": "Fountain of Youth",
       "_key": "!tables.results!NETyZmaaW25oqjPV.BvwrOa4dT538ATC3",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.27oyKKLJ3qXHlFpM"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You feel as if you've seen a glimpse of something greater than yourself, and a tiny mote of that light has come to rest on your soul. You take a <strong>flaw</strong> that would be considered benevolent, self-sacrificing, unyielding, or militant.</p>",
+      "description": "<p> You feel as if you've seen a glimpse of something greater than yourself, and a tiny mote of that light has come to rest on your soul. You take a  <strong> flaw </strong>  that would be considered benevolent, self-sacrificing, unyielding, or militant. </p>",
       "name": "Seen the Light",
       "_key": "!tables.results!NETyZmaaW25oqjPV.LlArwUH1XHW7qtoq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.y6wNp7fgoTELTfRq"

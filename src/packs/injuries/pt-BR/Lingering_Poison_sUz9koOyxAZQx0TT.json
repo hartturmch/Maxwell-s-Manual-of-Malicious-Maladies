@@ -1,6 +1,6 @@
 {
   "_id": "sUz9koOyxAZQx0TT",
-  "name": "Lingering veneno",
+  "name": "Lingering Veneno",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Poison Lingering Injury"
+    "requirements": "Veneno Lesão Persistente"
   },
   "effects": [
     {
       "_id": "Yk72j8vZV9eDvj1l",
-      "name": "Lingering Poison",
+      "name": "Lingering Veneno",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

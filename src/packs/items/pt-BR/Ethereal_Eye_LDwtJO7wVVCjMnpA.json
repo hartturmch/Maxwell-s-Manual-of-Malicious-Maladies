@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (requires attunement)</em></p>\n<p>This small sphere of glass appears to have a ghostly grey fog undulating within it. If you are <strong>missing </strong>an eye and imbed it in that eye socket, the Ethereal Eye allows you to see into the Ethereal Plane. This sight stops when you close that eye. Attempting to look into both the Ethereal Plane and the Material Plane at the same time results in a barrage of sensory information. Looking into these planes simultaneously results in you taking 1 psychic damage per round.</p>\n<p>The eye has an aura of divination.</p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This small sphere of glass appears to have a ghostly grey Névoa undulating within it. If you are <strong>ausente </strong>an eye and imbed it in that eye socket, the Ethereal Eye allows you to see into the Ethereal Plane. This sight stops when you close that eye. Attempting to look into both the Ethereal Plane and the Material Plane at the same time results in a barrage of sensory information. Looking into these planes simultaneously results in you taking 1 Psíquico Dano per round.</p>\n<p>The eye has an aura of divination.</p>",
       "chat": ""
     },
     "source": {

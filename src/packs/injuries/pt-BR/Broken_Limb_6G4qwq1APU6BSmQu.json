@@ -1,11 +1,11 @@
 {
   "_id": "6G4qwq1APU6BSmQu",
-  "name": "Broken membro",
+  "name": "Membro Quebrado",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. This limb is broken and <strong>nonfunctional</strong> for [[1d12]] days.</p><p><em>Treatment</em> - A [[/skill medicine 15]] check reduces the duration of this injury by [[1d8]] days.</p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Este membro está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d8]]  dias. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
       "_id": "qH6cZNYFc9RyuJfr",
-      "name": "Broken Limb",
+      "name": "Membro Quebrado",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

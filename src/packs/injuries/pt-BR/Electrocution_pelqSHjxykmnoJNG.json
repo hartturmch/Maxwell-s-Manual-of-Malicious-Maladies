@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Your muscles seize, your eyes roll back, and you cannot seem to force your body to function. You are <strong>&Reference[paralyzed]{paralyzed}</strong> until the end of your next turn. Critical hits as the result of your paralysis do not cause you to roll another lingering injury.</p><p><em>Treatment</em> - The Lesser Restoration spell removes this paralysis as usual.</p>",
+      "value": "<p> Your muscles seize, your eyes roll back, and you cannot seem to Força your body to function. You are  <strong> &Reference[paralyzed]{paralyzed} </strong>  until the end of your next turn. Critical hits as the result of your paralysis do not cause you to roll another Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - The Lesser Restoration spell removes this paralysis as usual. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [
     {

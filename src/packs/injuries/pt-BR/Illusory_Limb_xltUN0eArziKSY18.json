@@ -1,6 +1,6 @@
 {
   "_id": "xltUN0eArziKSY18",
-  "name": "Illusory membro",
+  "name": "Illusory Limb",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psychic Lingering Injury"
+    "requirements": "Psíquico Lesão Persistente"
   },
   "effects": [
     {

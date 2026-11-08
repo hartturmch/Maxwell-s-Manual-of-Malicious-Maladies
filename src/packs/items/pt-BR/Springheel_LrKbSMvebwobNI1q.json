@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>This gadget of Gnomish make appears to be a clockwork foot featuring a heavy spring coiled within its heel. It may be attached to a <strong>missing </strong>leg or foot where it acts as a Simple Leg Prosthetic. As an action you may compress the spring and lock it in place. The next time you make a Strength (Athletics) ability check to jump, the mechanism fires, releasing the spring and giving you advantage on this check.</p>",
+      "value": "<p> This gadget of Gnomish make appears to be a clockwork foot featuring a heavy spring coiled within its heel. It may be attached to a  <strong> ausente  </strong> leg or foot where it acts as a Simple Leg Prosthetic. As an action you may compress the spring and lock it in place. The next time you make a Strength (Athletics) ability check to jump, the mechanism fires, releasing the spring and giving you advantage on this check. </p>",
       "chat": ""
     },
     "source": {

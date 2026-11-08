@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>You attempt to move your feet but find the intensity of the cold has frozen you directly to the ground. You are <strong>&Reference[restrained]{restrained}</strong>. If you are flying or otherwise not contacting a surface, there is no effect.</p><p><em>Treatment</em> - A Strength check (DC equals half the damage that caused the lingering injury or 10, whichever number is higher) as an action allows you to break free.</p>",
+      "value": "<p> You attempt to move your feet but find the intensity of the Frio has frozen you directly to the ground. You are  <strong> &Reference[restrained]{restrained} </strong> . If you are flying or otherwise not contacting a surface, there is no effect. </p>  <p>  <em> Tratamento </em>  - A Strength check ( DC  equals half the Dano that caused the Lesão Persistente or 10, whichever number is higher) as an action allows you to break free. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cold Lingering Injury"
+    "requirements": "Frio Lesão Persistente"
   },
   "effects": [
     {

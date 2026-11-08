@@ -1,11 +1,11 @@
 {
   "_id": "ckLBg5ZeYjJ45b0v",
-  "name": "Caustic queimadura",
+  "name": "Queimadura Cáustica",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>The acid has left you with a superficial, but painful burn. You take 1 point of acid damage per 5 feet of movement while on initiative.</p><p><em>Treatment</em> - A [[/skill medicine 13]] check ends this effect.</p>",
+      "value": "<p> O ácido deixou você com uma queimadura superficial, mas dolorosa. Você sofre 1 ponto de dano ácido por 1,5 metro de movimento enquanto estiver por iniciativa. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 13]] acaba com esse efeito. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Acid Lingering Injury"
+    "requirements": "Ácido Lesão Persistente"
   },
   "effects": [
     {
       "_id": "Fi9e88wLpn56vDEo",
-      "name": "Caustic Burn",
+      "name": "Queimadura Cáustica",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "PwAQwbEbLKQN7bVX",
-  "name": "Festering ferimento",
+  "name": "Festering Wound",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Your wound looks angry near its edges and stubbornly refuses to heal. You cannot heal hit points through nonmagical means (such as short or long rests).</p><p><em>Treatment</em> - Once per long rest you may make a [[/skill medicine 18]] check to heal this injury.</p>",
+      "value": "<p> Your wound looks angry near its edges and stubbornly refuses to heal. You cannot heal hit points through nonmagical means (such as short or long rests). </p>  <p>  <em> Tratamento </em>  - Once per long rest you may make a  [[/skill medicine 18]]  check to heal this injury. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Slashing Lingering Injury"
+    "requirements": "Cortante Lesão Persistente"
   },
   "effects": [
     {

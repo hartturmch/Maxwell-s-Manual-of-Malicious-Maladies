@@ -1,11 +1,11 @@
 {
   "_id": "WWAdXxyYno3SBvWy",
-  "name": "Corroded Vocal Cords",
+  "name": "Cordas vocais corroídas",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>The acid's caustic fumes have wreaked havoc on your vocal cords. Your voice is <strong>nonfunctional</strong> and you are mute. If you do not receive treatment within 30 minutes it will be permanently <strong>missing</strong>.</p><p><em>Treatment<em> - A DC 19 Save Sense Surgery</em></em></p>",
+      "value": "<p> Os vapores cáusticos do ácido causaram estragos em suas cordas vocais. Sua voz é  <strong> sem funcionamento </strong>  e você é mudo. Se não receber tratamento dentro de 30 minutos, ficará permanentemente  <strong> em falta </strong> . </p>  <p>  <em> Tratamento <em>  - A  DC  19 Teste de Resistência Sense Cirurgia </em>  </em>  </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Acid Lingering Injury"
+    "requirements": "Ácido Lesão Persistente"
   },
   "effects": [
     {
       "_id": "3C6IPubWldOOhvnW",
-      "name": "Corroded Vocal Cords",
+      "name": "Cordas vocais corroídas",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

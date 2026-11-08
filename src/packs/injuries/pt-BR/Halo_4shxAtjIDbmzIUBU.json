@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. This area of your body flares with a sudden radiance, which then dies down to a soft, dull glow. It emits bright light in a 5 foot radius, dim light in an additional 5 foot radius, and has a faint aura of Evocation. An effort of concentration can either suppress this effect or flare the light to the brightness of a torch.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This area of your body flares with a sudden radiance, which then dies down to a soft, dull glow. It emits bright light in a 5 foot radius, dim light in an additional 5 foot radius, and has a faint aura of Evocation. An effort of Concentração can either suppress this effect or flare the light to the brightness of a torch. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [
     {

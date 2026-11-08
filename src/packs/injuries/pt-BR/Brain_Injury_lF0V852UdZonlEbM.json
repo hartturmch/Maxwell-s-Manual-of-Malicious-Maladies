@@ -1,11 +1,11 @@
 {
   "_id": "lF0V852UdZonlEbM",
-  "name": "Brain Injury",
+  "name": "Lesão cerebral",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>The electricity lances across the wiring of your brain, short circuiting your neurons and changing you permanently. Your alignment shifts one step towards neutral on the law/chaos axis. If it is already neutral, treat this roll as a 15.</p>",
+      "value": "<p> A eletricidade atravessa a fiação do seu cérebro, causando curto-circuito em seus neurônios e mudando você permanentemente. Seu alinhamento muda um passo para neutro no eixo lei/caos. Se já estiver neutro, trate este teste como um 15. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [],
   "folder": "pVtivJ93JSXv9sP3",

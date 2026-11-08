@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>You cannot take the <em>dash</em> action. This effect lasts [[1d6]] rounds.</p>",
+      "value": "<p> You cannot take the  <em> dash </em>  action. This effect lasts  [[1d6]]  rounds. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cold Lingering Injury"
+    "requirements": "Frio Lesão Persistente"
   },
   "effects": [
     {

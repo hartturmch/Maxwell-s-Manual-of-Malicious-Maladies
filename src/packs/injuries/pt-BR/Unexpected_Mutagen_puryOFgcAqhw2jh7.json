@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. The poison has interacted with your body in a thoroughly unexpected way, causing a strange alteration in appearance. This area of your body takes on a physical attribute somehow related to the source of the poison (such as green scales from the poison breath of a dragon). At the DM's discretion, this new attribute may give you a +1 bonus to an ability check.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has interacted with your body in a thoroughly unexpected way, causing a strange alteration in appearance. This area of your body takes on a physical attribute somehow related to the source of the Veneno (such as green scales from the Veneno breath of a dragon). At the DM's discretion, this new attribute may give you a +1 bonus to an ability check. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Poison Lingering Injury"
+    "requirements": "Veneno Lesão Persistente"
   },
   "effects": [
     {

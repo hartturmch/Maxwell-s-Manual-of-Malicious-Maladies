@@ -1,11 +1,11 @@
 {
   "_id": "u88lSICkmHVEB4DT",
-  "name": "Frost Bitten membro",
+  "name": "Frost Bitten Limb",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Your limb is frozen, rigid, numb, and <strong>nonfunctional</strong>. If not treated within 15 minutes the limb will necrotize and fall off in [[1d4]] days (after which it is <strong>missing</strong>)</p><p><em>Treatment</em> - A short rest slowly rewarming the limb.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Your limb is frozen, rigid, numb, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ) </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the limb. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cold Lingering Injury"
+    "requirements": "Frio Lesão Persistente"
   },
   "effects": [
     {

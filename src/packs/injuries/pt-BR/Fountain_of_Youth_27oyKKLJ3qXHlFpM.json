@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>As the divine energy fades you feel as if some of the great burden of time has left with it. Your body is [[1d10]] years younger. Your mind is unaffected.</p>",
+      "value": "<p> As the divine energy fades you feel as if some of the great burden of time has left with it. Your body is  [[1d10]]  years younger. Your mind is unaffected. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [],
   "folder": "yRuhPzOAD5hEAtff",

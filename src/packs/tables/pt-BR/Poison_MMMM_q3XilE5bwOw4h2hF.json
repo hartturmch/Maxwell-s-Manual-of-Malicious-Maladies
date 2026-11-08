@@ -1,7 +1,7 @@
 {
-  "name": "veneno - [MMMM]",
+  "name": "Veneno - [MMMM]",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
-  "description": "veneno is difficult to physically treat, and I would advise you to make antitoxins a permanent part of your repertoire. There are many different types, some with the potential to harm the sensitive structures in your ears, liver, or even your blood\nitself. Remember not to induce vomiting unless Você está certain the veneno is not also corrosive.",
+  "description": "Veneno is difficult to physically treat, and I would advise you to make antitoxins a permanent part of your repertoire. There are many different types, some with the potential to harm the sensitive structures in your ears, liver, or even your blood\nitself. Remember not to induce vomiting unless you are certain the Veneno is not also corrosive.",
   "results": [
     {
       "_id": "Hsc8etMZL7Sap72X",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Roll to randomly determine your left or right ear. The veneno has spread to the delicate structures in your inner ear. This ear is <strong>não funcional</strong>, and if not treated dentro de 12 horas, your hearing will be damaged beyond repair (and be considered <strong>ausente</strong>).</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery.</p>",
+      "description": "<p> Roll to randomly determine your left or right ear. The Veneno has spread to the delicate structures in your inner ear. This ear is  <strong> sem funcionamento </strong> , and if not treated within 12 hours, your hearing will be damaged beyond repair (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
       "name": "Ototoxicity",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.Hsc8etMZL7Sap72X",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Jh5GQtGEJ82iKXlf"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You feel dizzy, the world seems to be shifting under your feet. The problem only gets worse when you're near a great height. Você tem Disadvantage on Dexterity (Acrobatics) checks. Você tem Disadvantage on all attacks and ability checks when Você está dentro de 5 feet of a height 15 feet or greater.</p>",
+      "description": "<p> You feel dizzy, the world seems to be shifting under your feet. The problem only gets worse when you're near a great height. You have disadvantage on Dexterity (Acrobatics) checks. You have disadvantage on all attacks and ability checks when you are within 5 feet of a height 15 feet or greater. </p>",
       "name": "Vertigo",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.G7xrg03aujYcFpuC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bSoJyL42dtYXnhus"
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>When the veneno has run its course Você está left with a permanent weakness. Your carrying capacity is reduced by half.</p>",
-      "name": "Anemic",
+      "description": "<p> Quando o veneno segue seu curso, você fica com uma fraqueza permanente. Sua capacidade de carga foi reduzida pela metade. </p>",
+      "name": "Anêmicas",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.jv8cbuDrrhOQgIYR",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4rpJmO85hhHzgFjl"
     },
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The veneno is particularly strong and you can't seem to shake free of it. Você está <strong>&Reference[Poisoned]{Poisoned}</strong> for [[1d6]] dias.</p><p><em>Tratamento</em> - After each long rest you may make a Constitution Saving Throw (DC equals half the dano that caused the lesão persistente or 10, whichever number is higher). On a success, Você está no longer <strong>Poisoned</strong>. Any effect that cures veneno (such as the Lesser Restoration spell) instead temporarily suppresses the veneno for one hour.</p>",
-      "name": "Lingering veneno",
+      "description": "<p>The poison is particularly strong and you can't seem to shake free of it. You are <strong>&Reference[poisoned]{poisoned}</strong> for [[1d6]] days.</p><p><em>Treatment</em> - After each long rest you may make a Constitution saving throw (DC equals half the damage that caused the lingering injury or 10, whichever number is higher). On a success, you are no longer <strong>poisoned</strong>. Any effect that cures poison (such as the Lesser Restoration spell) instead temporarily suppresses the poison for one hour.</p>",
+      "name": "Lingering Veneno",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.RD5wCeBle5MmS1Vw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sUz9koOyxAZQx0TT"
     },
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You can feel your head pounding as the veneno pumps through your veins. Você recebe no Advantage from short rests até you take a long rest.</p>",
+      "description": "<p> You can feel your head pounding as the Veneno pumps through your veins. You gain no advantage from short rests until you take a long rest. </p>",
       "name": "Splitting Headache",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.uSMjZqwYkqYaemzL",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.BfnnnJnbXl6876v6"
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You can physically feel the veneno eating away at you from the inside, and the adrenaline pumping through you is only helping to Force it throughout your body. At the beginning of your Turno you take veneno dano scaled to the dano that caused the lesão persistente: 1-10 dano ([[1d2]]), 11-20 dano ([[1d4]]), 21-30 dano ([[1d6]]), 31-40 dano ([[1d8]]), &gt;40 dano ([[1d10]]). This effect continues até Você está off initiative.</p><p><em>Tratamento</em> - Any spell or effect that cures the <strong>&Reference[Poisoned]{Poisoned}</strong> condition will end this effect.</p>",
-      "name": "Virulent veneno",
+      "description": "<p>You can physically feel the poison eating away at you from the inside, and the adrenaline pumping through you is only helping to force it throughout your body. At the beginning of your turn you take poison damage scaled to the damage that caused the lingering injury: 1-10 damage ([[1d2]]), 11-20 damage ([[1d4]]), 21-30 damage ([[1d6]]), 31-40 damage ([[1d8]]), &gt;40 damage ([[1d10]]). This effect continues until you are off initiative.</p><p><em>Treatment</em> - Any spell or effect that cures the <strong>&Reference[poisoned]{poisoned}</strong> condition will end this effect.</p>",
+      "name": "Virulent Veneno",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.ZQBdf2TLoIW7lxJJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.jqnFjcIYlWVUvCgP"
     },
@@ -187,8 +187,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your lips Turno blue, you're out of breath and you feel like you can't suck in enough air no matter how hard you try. You suffer three levels of <strong>&Reference[Exhaustion]{Exhaustion}</strong>.</p><p><em>Tratamento</em> - You may remove these levels of <strong>Exhaustion</strong> with either a long or a short rest. Any spell or effect that removes one level of <strong>Exhaustion</strong> instead removes all three.</p>",
-      "name": "Cyanotic",
+      "description": "<p> Seus lábios ficam azuis, você está sem fôlego e sente que não consegue respirar o suficiente, não importa o quanto tente. Você sofre três níveis de  <strong> &Referência[exaustão]{exaustão} </strong> . </p>  <p>__X5X __ Tratamento </em>  - Pode remover estes níveis de  __X7X __ exaustão __X8X __  com um descanso longo ou curto. Qualquer magia ou efeito que remova um nível de  <strong> exaustão </strong> remove todos os três. </p>",
+      "name": "Cianótico",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.rZ6ZM30dF9VvEIAB",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.gprtHUF88gShjZhh"
     },
@@ -214,8 +214,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your eyes cloud over, your vision blurs, and distinct shapes become amorphous blobs. Você tem Disadvantage on Wisdom (Perception) checks relying on vision and all ranged attacks for [[1d4]] dias. If Você tem darkvision, you lose it for this duration.</p><p><em>Tratamento</em> - A [[/skill medicine 15]] check reduces the duration of this injury by [[1d2]] dias.</p>",
-      "name": "Blurred Vision",
+      "description": "<p> Seus olhos ficam turvos, sua visão fica embaçada e formas distintas se tornam bolhas amorfas. Você tem desvantagem em testes de Sabedoria (Percepção) que dependem da visão e de todos os ataques à distância por  [[1d4]]  dias. Se você tem visão no escuro, você a perde por esse período. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 15]] reduz a duração desta lesão em [[1d2]]  dias. </p>",
+      "name": "Visão embaçada",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.tGfvJCHrzePrLc1j",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.PaLdXDLkYkynIM5B"
     },
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. The veneno has had the interesting effect of dying your skin. This area of your body has taken on a light shade the same colour as the veneno, or roll to determine the color randomly ([[1d4]]): 1) Green 2) Purple 3) Orange 4) Blue.</p>",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has had the interesting effect of dying your skin. This area of your body has taken on a light shade the same colour as the Veneno, or roll to determine the color randomly ( [[1d4]] ): 1) Green 2) Purple 3) Orange 4) Blue. </p>",
       "name": "Residual Pigmentation",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.PuEKXr40WSebEExu",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.1cV2EP1JyjpXSGro"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. Your veins have been scarred in this area, leaving them slightly raised and pigmented the same color as the veneno, or roll to determine the color randomly ([[1d4]]): 1) Green 2) Grey 3) Red 4) Brown.</p>",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Your veins have been scarred in this area, leaving them slightly raised and pigmented the same color as the Veneno, or roll to determine the color randomly ( [[1d4]] ): 1) Green 2) Grey 3) Red 4) Brown. </p>",
       "name": "Scarred Veins",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.9fXp7DF60mdD7FkZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0KcVInZ6xdrUmDo5"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You feel a sick, oily feeling deep in your stomach and bile roiling up your throat. Você tem Disadvantage on all ability checks for [[1d6]] rodadas.</p>",
+      "description": "<p> You feel a sick, oily feeling deep in your stomach and bile roiling up your throat. You have disadvantage on all ability checks for  [[1d6]]  rounds. </p>",
       "name": "Nausea",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.rp03XJHLJUqDDvDj",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.IfX8yzJSedJO9ip7"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You feel sick, and without warning, the last meal you ate is purged from your stomach. Você está &Reference[incapacitated]{incapacitated} até the end of your next Turno, and Você tem Disadvantage on all ability checks for [[1d2]] rodadas.</p>",
+      "description": "<p> You feel sick, and without warning, the last meal you ate is purged from your stomach. You are &Reference[incapacitated]{incapacitated} until the end of your next turn, and you have disadvantage on all ability checks for  [[1d2]]  rounds. </p>",
       "name": "Vomiting",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.Uq1Unk5crrNGRZw3",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xUFD7Fcw1CVkSwkH"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. The veneno has interacted with your body in a thoroughly unexpected way, causing a strange alteration in appearance. This area of your body takes on a physical attribute somehow related to the source of the veneno (such as green scales from the veneno breath of a dragon). At the DM's discretion, this new attribute may give you a +1 bonus to an Ability Check.</p>",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Veneno has interacted with your body in a thoroughly unexpected way, causing a strange alteration in appearance. This area of your body takes on a physical attribute somehow related to the source of the Veneno (such as green scales from the Veneno breath of a dragon). At the DM's discretion, this new attribute may give you a +1 bonus to an ability check. </p>",
       "name": "Unexpected Mutagen",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.K7BESebKblaanQFy",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.puryOFgcAqhw2jh7"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You feel hungry all the time, and it's very difficult for you to gain weight. You require double the normal amount of food and water per day.</p>",
+      "description": "<p> You feel hungry all the time, and it's very difficult for you to gain weight. You require double the normal amount of food and water per day. </p>",
       "name": "Inefficient Metabolism",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.nNOLUZqQKKvjri9B",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Y7YkgDFReYAT7CZC"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You hardly ever feel hungry, and it's very easy for you to gain weight. You require half the normal amount of food and water per day. Potions you use require one full minute to take effect instead of taking effect immediately.</p>",
+      "description": "<p> You hardly ever feel hungry, and it's very easy for you to gain weight. You require half the normal amount of food and water per day. Potions you use require one full minute to take effect instead of taking effect immediately. </p>",
       "name": "Slowed Metabolism",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.yREcF5wJAVgUPygd",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.355ELtFV89CVo0Ge"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The veneno has left your liver scarred and damaged. There's never been a better time to give up drinking. Any amount of alcohol you consume gives you the <strong>&Reference[Poisoned]{Poisoned}</strong> condition. Alcohol or other drugs affect you for double their normal duration. Você tem Disadvantage on any Constitution checks or saving throws made to resist veneno.</p>",
+      "description": "<p> The Veneno has left your liver scarred and damaged. There's never been a better time to give up drinking. Any amount of alcohol you consume gives you the  <strong> &Reference[poisoned]{poisoned} </strong>  condition. Alcohol or other drugs affect you for double their normal duration. You have disadvantage on any Constitution checks or saving throws made to resist Veneno. </p>",
       "name": "Liver Cirrhosis",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.qgZbFavXAaQtONWN",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.UlEPild1l1r57sMT"

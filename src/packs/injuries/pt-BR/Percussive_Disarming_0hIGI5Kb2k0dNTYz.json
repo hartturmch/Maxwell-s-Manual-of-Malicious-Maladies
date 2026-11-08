@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>As the attack's thunderous echo fades, you find that your hands are empty. Anything you were holding is wrenched free of your grip and lands 50 feet from you, pushed away from the direction of the attack.</p>",
+      "value": "<p> As the attack's thunderous echo fades, you find that your hands are empty. Anything you were holding is wrenched free of your grip and lands 50 feet from you, pushed away from the direction of the attack. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Thunder Lingering Injury"
+    "requirements": "Trovão Lesão Persistente"
   },
   "effects": [],
   "folder": "SP14yKoZanH0tu1K",

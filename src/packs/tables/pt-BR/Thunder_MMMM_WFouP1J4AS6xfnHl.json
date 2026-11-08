@@ -1,7 +1,7 @@
 {
-  "name": "Thunder - [MMMM]",
+  "name": "Trovão - [MMMM]",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
-  "description": "The dano Type you're most likely to experience after a poor performance by your resident Bard. Ha! I jest (mostly). Be wary of your eardrums and watch out for shrapnel. If you want to reattach a concussively amputated membro, you'd best keep a close eye on where it lands!",
+  "description": "The Dano type you're most likely to experience after a poor performance by your resident Bard. Ha! I jest (mostly). Be wary of your eardrums and watch out for shrapnel. If you want to reattach a concussively amputated limb, you'd best keep a close eye on where it lands!",
   "results": [
     {
       "_id": "ztM5gVgtQz6uvqbU",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The sonic assault has blown out your eardrums. Você está <strong>&Reference[deafened]{deafened}</strong> and your ears are <strong>não funcional</strong>. If not treated dentro de 24 horas, your hearing will be permanently <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery.</p>",
+      "description": "<p> The sonic assault has blown out your eardrums. You are  <strong> &Reference[deafened]{deafened} </strong>  and your ears are  <strong> sem funcionamento </strong> . If not treated within 24 hours, your hearing will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
       "name": "Ruptured Eardrums",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.ztM5gVgtQz6uvqbU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.AlfbHdQyTdD3T8k2"
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large membro Table (Tabela de Membros Maiores)}. The concussive blast has torn seu membro clean off and sent it sailing through the air. It lands 30 feet from you, pushed away from the direction of the attack and is considered <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 22 Save membro Surgery.</p>",
-      "name": "Concussive Amputation",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. A explosão de concussão rasgou seu membro e o fez navegar pelo ar. Ele cai a 9 metros de você, se afasta da direção do ataque e é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  __ X8X__  22 Salvar Cirurgia de Membros. </p>",
+      "name": "Amputação concussiva",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.kP6XF0CpmoJeDrTm",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4V5MtYMFihK5kGRQ"
     },
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small apêndice Table (Tabela de Apêndices Menores)}. The concussive blast has torn seu apêndice free and sent it flying. It lands 30 feet away from you, pushed away from the direction of the attack, and is considered <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 22 Save membro Surgery.</p>",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The concussive blast has torn your appendage free and sent it flying. It lands 30 feet away from you, pushed away from the direction of the attack, and is considered  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia. </p>",
       "name": "Small Concussive Amputation",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.DecRr9ddWmuCoJxo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TxC8c7bT8mLbTDo7"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The attack has turned small fragments of debris in the surrounding area into deadly ballistic projectiles, many of which have found their way deep into your leg muscles. Your speed is reduced by 10 feet.</p><p><em>Tratamento</em> - A DC 22 General Surgery.</p>",
+      "description": "<p> The attack has turned small fragments of debris in the surrounding area into deadly ballistic projectiles, many of which have found their way deep into your leg muscles. Your speed is reduced by 10 feet. </p>  <p>  <em> Tratamento </em>  - A  DC  22 General Cirurgia. </p>",
       "name": "Leg Shrapnel",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.BBJaCd6HEtUUad4N",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.MYmVgwxklq9DZNBb"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The Force of the blast has left you reeling. Você está <strong>&Reference[stunned]{stunned}</strong> até the end of your next Turno.</p>",
+      "description": "<p> The Força of the blast has left you reeling. You are  <strong> &Reference[stunned]{stunned} </strong>  until the end of your next turn. </p>",
       "name": "Disorientation",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.DXCaYTtOvInEZ3Cs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.RK8HpRy7k9tVYHLQ"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>As the attack's thunderous echo fades, you find that your hands are empty. Anything you were holding is wrenched free of your grip and lands 50 feet from you, pushed away from the direction of the attack.</p>",
+      "description": "<p> As the attack's thunderous echo fades, you find that your hands are empty. Anything you were holding is wrenched free of your grip and lands 50 feet from you, pushed away from the direction of the attack. </p>",
       "name": "Percussive Disarming",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.X537LT1JwzCPLPGZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0hIGI5Kb2k0dNTYz"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você está left with an annoying ringing in your ears. Você tem Disadvantage on perception checks related to sound for [[1d6]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 12]] check reduces the duration of this injury by [[1d4]] dias.</p>",
+      "description": "<p> You are left with an annoying ringing in your ears. You have disadvantage on perception checks related to sound for  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d4]]  days. </p>",
       "name": "Ringing Ears",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.vGAyqeXVuNRbDvbd",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.qdOoqVjFN22DcFsu"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você está bowled over by the percussive assault and the only thing you hear is an atonal ringing. Você está knocked &Reference[prone]{prone} and <strong>&Reference[deafened]{deafened}</strong> for [[1d6]] horas.</p>",
+      "description": "<p> You are bowled over by the percussive assault and the only thing you hear is an atonal ringing. You are knocked &Reference[prone]{prone} and  <strong> &Reference[deafened]{deafened} </strong>  for  [[1d6]]  hours. </p>",
       "name": "Deaf and Dazed",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.zvO3kKzfye3ms1vq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Xs58l3dVJxhRoiWK"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. Você tem some massive, ugly bruising in this area, but it looks worse than it feels. The bruising will fade after [[1d8]] dias.</p>",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You have some massive, ugly bruising in this area, but it looks worse than it feels. The bruising will fade after  [[1d8]]  days. </p>",
       "name": "Extensive Bruising",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.H3KQp2q2HYRZ8pjf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6zDeA1sJ8EEuT6lC"
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. The ballistic debris has left you with a speckled cicatriz in this area.</p>",
-      "name": "Speckled cicatriz",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The ballistic debris has left you with a speckled scar in this area. </p>",
+      "name": "Speckled Scar",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.rXb1olOhTtnN2cOX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KllFSWmJB2LfWGvQ"
     },
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The Force of the blast has knocked you backwards. Você está pushed away from the source of the dano an amount of feet scaled to the dano from the lesão persistente: 1-10 dano (5 ft.), 11-20 dano (10 ft.), 21-30 dano (15 ft.), 31-40 dano (20 ft.), &gt;40 dano (25 ft.).</p>",
+      "description": "<p> The Força of the blast has knocked you backwards. You are pushed away from the source of the Dano an amount of feet scaled to the Dano from the Lesão Persistente: 1-10 Dano (5 ft.), 11-20 Dano (10 ft.), 21-30 Dano (15 ft.), 31-40 Dano (20 ft.),  &gt; 40 Dano (25 ft.). </p>",
       "name": "Knocked Around",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.Rg9HOdLZ1sGMs1Vy",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FhCwNWb1qDsdOlod"
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The concussive wave sends you flying back. Você está blown away from the source of the dano an amount of feet scaled to the dano from the lesão persistente: 1-10 dano (10 ft.), 11-20 dano (20 ft.), 21-30 dano (30 ft.), 31-40 dano (40 ft.), &gt;40 dano (50 ft.).</p>",
-      "name": "Blown Away",
+      "description": "<p> A onda concussiva faz você voar de volta. Você é levado para longe da fonte do dano uma quantidade de pés dimensionada para o dano do ferimento persistente: 1-10 de dano (10 pés), 11-20 de dano (20 pés), 21-30 de dano (30 pés), 31-40 de dano (40 pés).),  &gt; 40 de dano (50 pés). </p>",
+      "name": "E o vento levou",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.1K7ziF2905TF81hD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VfwQzty0PVxbmd6v"
     },
@@ -349,8 +349,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. In a freak instance of chance, the sonic assault has interacted with a thread of natural magic dentro de you. Everything around this part of your body seems strangely...silent. All noise dentro de a half foot radius of this area of your body is inaudible as if under the effect of a Silence spell, and the area emits a faint aura of Illusion. An effort of concentration will suppress this effect.</p>",
-      "name": "Acoustic Dead Zone",
+      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha instância de acaso, o ataque sônico interagiu com um fio de magia natural dentro de você. Tudo ao redor desta parte do seu corpo parece estranhamente...silencioso. Todo o ruído dentro de um raio de meio metro desta área do seu corpo é inaudível como se estivesse sob o efeito de um feitiço de Silêncio, e a área emite uma leve aura de Ilusão. Um esforço de concentração suprimirá esse efeito. </p>",
+      "name": "Zona Morta Acústica",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.06Vrx0BaMGA97oX4",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.K2rqpEmrU2C1zx6Y"
     },
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Roll to randomly determine the left or right arm. The attack has turned small fragments of debris in the surrounding area into deadly ballistic projectiles, many of which have found their way deep into your arm muscles. Attacks made by this arm have Disadvantage. Shields used by this arm provide 1 AC instead of 2 AC.</p><p><em>Tratamento</em> - A DC 21 General Surgery.</p>",
-      "name": "Arm Shrapnel",
+      "description": "<p> Role para determinar aleatoriamente o braço esquerdo ou direito. O ataque transformou pequenos fragmentos de detritos na área circundante em projéteis balísticos mortais, muitos dos quais encontraram seu caminho profundamente em seus músculos do braço. Ataques feitos por este braço têm desvantagem. Os escudos usados por este braço fornecem 1  AC  em vez de 2  AC . </p>  <p>  <em> Tratamento </em>  - A  DC  21 Cirurgia Geral. </p>",
+      "name": "Estilhaços de Braço",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.VPBroH9Abx7BTHGv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.p17XnkeM9XbwIOk2"
     },
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The concussive Force reverberates through the gas inside your lungs, doing major dano to them. You can only hold your breath for half the normal duration. In addition, the blood vessels in your eyes have ruptured, turning the whites of your eyes the color of your blood for [[1d6]] dias.</p>",
+      "description": "<p> A força de concussão reverbera através do gás dentro de seus pulmões, causando grandes danos a eles. Você só pode prender a respiração pela metade da duração normal. Além disso, os vasos sanguíneos dos seus olhos se romperam, tornando o branco dos seus olhos da cor do seu sangue por  [[1d6]]  dias. </p>",
       "name": "Barotrauma",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.hwDumUeDIFQLqEv0",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.z0j29n8pFxD6w9gw"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Roll to randomly determine your left or right eye. An unlucky piece of shrapnel has ricocheted straight into your eye. This eye is <strong>não funcional</strong>. If not treated dentro de 4 horas, your vision permanently <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery.</p>",
+      "description": "<p> Roll to randomly determine your left or right eye. An unlucky piece of shrapnel has ricocheted straight into your eye. This eye is  <strong> sem funcionamento </strong> . If not treated within 4 hours, your vision permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
       "name": "Unlucky Shrapnel",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.Hf4diVrhEcm22wud",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.q1dofzfulyAPfSzJ"

@@ -1,11 +1,11 @@
 {
   "_id": "gprtHUF88gShjZhh",
-  "name": "Cyanotic",
+  "name": "Cianótico",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Your lips turn blue, you're out of breath and you feel like you can't suck in enough air no matter how hard you try. You suffer three levels of <strong>&Reference[exhaustion]{exhaustion}</strong>.</p><p><em>Treatment</em> - You may remove these levels of <strong>exhaustion</strong> with either a long or a short rest. Any spell or effect that removes one level of <strong>exhaustion</strong> instead removes all three.</p>",
+      "value": "<p> Seus lábios ficam azuis, você está sem fôlego e sente que não consegue respirar o suficiente, não importa o quanto tente. Você sofre três níveis de  <strong> &Referência[exaustão]{exaustão} </strong> . </p>  <p>__X5X __ Tratamento </em>  - Pode remover estes níveis de  __X7X __ exaustão __X8X __  com um descanso longo ou curto. Qualquer magia ou efeito que remova um nível de  <strong> exaustão </strong> remove todos os três. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Poison Lingering Injury"
+    "requirements": "Veneno Lesão Persistente"
   },
   "effects": [],
   "folder": "TxNzejWG9XMKMnA7",

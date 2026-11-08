@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>You are left with an annoying ringing in your ears. You have disadvantage on perception checks related to sound for [[1d6]] days.</p><p><em>Treatment</em> - A [[/skill medicine 12]] check reduces the duration of this injury by [[1d4]] days.</p>",
+      "value": "<p> You are left with an annoying ringing in your ears. You have disadvantage on perception checks related to sound for  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d4]]  days. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Thunder Lingering Injury"
+    "requirements": "Trovão Lesão Persistente"
   },
   "effects": [
     {

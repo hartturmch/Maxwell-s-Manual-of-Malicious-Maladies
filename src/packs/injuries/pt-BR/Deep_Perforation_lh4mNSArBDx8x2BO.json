@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You bite back a snarl as the attack penetrates just a little bit deeper. You take one extra damage die of whatever type the damage was dealt with.</p>",
+      "value": "<p> You bite back a snarl as the attack penetrates just a little bit deeper. You take one extra Dano die of whatever type the Dano was dealt with. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Piercing Lingering Injury"
+    "requirements": "Perfurante Lesão Persistente"
   },
   "effects": [],
   "folder": "txEFm3aMv2ObXu7k",

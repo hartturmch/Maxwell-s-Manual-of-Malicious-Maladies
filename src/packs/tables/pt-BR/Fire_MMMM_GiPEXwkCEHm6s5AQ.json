@@ -1,7 +1,7 @@
 {
-  "name": "fogo - [MMMM]",
+  "name": "Fogo - [MMMM]",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
-  "description": "fogo burns. What more need you know? fogo dano presents a singular challenge for the industrious surgeon; it is rather difficult to reattach a membro turned to ash. You may also find your patients dangerously fatigued with heat Exhaustion or heat stroke. It need not be said that if you happen to come across a patient who is still actively on fogo...put them out!",
+  "description": "Fogo burns. What more need you know? Fogo Dano presents a singular challenge for the industrious surgeon; it is rather difficult to reattach a limb turned to ash. You may also find your patients dangerously fatigued with heat exhaustion or heat stroke. It need not be said that if you happen to come across a patient who is still actively on Fogo...put them out!",
   "results": [
     {
       "_id": "suseSy7RPk0Tmk55",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You just can't take the heat. Any exposure causes you to sweat, Turno beet red, and become quickly fatigued. Você tem Disadvantage on Constitution checks and saving throws made to resist the environmental effects of heat.</p>",
+      "description": "<p> You just can't take the heat. Any exposure causes you to sweat, turn beet red, and become quickly fatigued. You have disadvantage on Constitution checks and saving throws made to resist the environmental effects of heat. </p>",
       "name": "Heat Intolerance",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.OJLiaikwTzInU7TS"
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large membro Table (Tabela de Membros Maiores)}. O membro is charred black, completely covered in extensive burns, and <strong>não funcional</strong>. If untreated dentro de 24 horas O membro will necrotize and fall off in [[1d4]] dias (after which it is <strong>ausente</strong>).</p><p><em>Tratamento</em> - A DC 21 Save membro Surgery. You get 1 check for this surgery; if you do not meet the DC on the first check, O membro is lost.</p>",
-      "name": "Immolated membro",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The limb is charred black, completely covered in extensive burns, and  <strong> sem funcionamento </strong> . If untreated within 24 hours the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
+      "name": "Immolated Limb",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yT5kgfA025rQer4Z"
     },
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small apêndice Table (Tabela de Apêndices Menores)}. O apêndice is charred black, completely covered in extensive burns, and <strong>não funcional</strong>. If untreated dentro de 24 horas O apêndice will necrotize and fall off in [[1d4]] dias (after which it is <strong>ausente</strong>).</p><p><em>Tratamento</em> - A DC 21 Save membro Surgery. You get 1 check for this surgery; if you do not meet the DC on the first check, O apêndice is lost.</p>",
-      "name": "Immolated apêndice",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The appendage is charred black, completely covered in extensive burns, and  <strong> sem funcionamento </strong> . If untreated within 24 hours the appendage will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the appendage is lost. </p>",
+      "name": "Immolated Appendage",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.vRdaFYg1tf8BQzpb"
     },
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você tem a deep queimadura penetrating through your skin, resulting in a cracked, red ferimento. While on initiative you take 1 fogo dano for every 5 feet of movement. In addition, you take [[/dano 1d4 fogo]] every time you take an action or bonus action. This injury lasts [[1d8]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 16]] check reduces the duration of this injury by [[1d8]] dias.</p>",
-      "name": "Third Degree queimadura",
+      "description": "<p> You have a deep burn penetrating through your skin, resulting in a cracked, red wound. While on initiative you take 1 Fogo Dano for every 5 feet of movement. In addition, you take  [[/damage 1d4 fire]]  every time you take an action or bonus action. This injury lasts  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 16]]  check reduces the duration of this injury by  [[1d8]]  days. </p>",
+      "name": "Third Degree Burn",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.kXGOMWu1FZh4IvGt"
     },
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Sweat breaks out on your brow, your pulse is thready, and your muscles feel weak. You take 1 level of <strong>&Reference[Exhaustion]{Exhaustion}</strong>.</p><p><em>Tratamento</em> - A long rest or the <em>Greater Restoration</em> spell removes this <strong>Exhaustion</strong> as usual.</p>",
+      "description": "<p> Sweat breaks out on your brow, your pulse is thready, and your muscles feel weak. You take 1 level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A long rest or the  <em> Greater Restoration </em>  spell removes this  <strong> exhaustion </strong>  as usual. </p>",
       "name": "Heat Exhaustion",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.6nva89TqTbTkG7Je",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.eev0iOyegv32i2Qd"
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>An angry red queimadura flashes over your skin. It's tender and painful to move. While on initiative you take 1 fogo dano per 10 feet of movement. This injury heals in [[1d6]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 10]] check reduces the duration of this injury by [[1d6]] dias.</p>",
-      "name": "First Degree queimadura",
+      "description": "<p> An angry red burn flashes over your skin. It's tender and painful to move. While on initiative you take 1 Fogo Dano per 10 feet of movement. This injury heals in  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 10]]  check reduces the duration of this injury by  [[1d6]]  days. </p>",
+      "name": "First Degree Burn",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9pc4FS0NqzFBHWCj"
     },
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>It's so hot you feel faint. Your muscles are cramping. It feels as if your blood is about to boil in your body. You take 2 levels of &Reference[Exhaustion]{Exhaustion}.</p><p><em>Tratamento</em> - A long rest or the <em>Greater Restoration</em> spell removes this <strong>Exhaustion</strong> as usual.</p>",
+      "description": "<p> It's so hot you feel faint. Your muscles are cramping. It feels as if your blood is about to boil in your body. You take 2 levels of &Reference[exhaustion]{exhaustion}. </p>  <p>  <em> Tratamento </em>  - A long rest or the  <em> Greater Restoration </em>  spell removes this  <strong> exhaustion </strong>  as usual. </p>",
       "name": "Heat Stroke",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.otfmlySDqRZqwR8w"
@@ -214,8 +214,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your skin bubbles and blisters as the burning flashes over it. While on initiative you take 1 fogo dano per 5 feet of movement. This injury heals in [[1d8]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 12]] check reduces the duration of this injury by [[1d8]] dias.</p>",
-      "name": "Second Degree queimadura",
+      "description": "<p> Your skin bubbles and blisters as the burning flashes over it. While on initiative you take 1 Fogo Dano per 5 feet of movement. This injury heals in  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d8]]  days. </p>",
+      "name": "Second Degree Burn",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.UNUqJXPoCNir0bef"
     },
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. This area of your body is left with a creased and wrinkled queimadura cicatriz.</p>",
-      "name": "queimadura cicatriz",
+      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo fica com uma cicatriz de queimadura enrugada e enrugada. </p>",
+      "name": "Cicatriz de queim",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.tZX2BDxFKJt7d7O9"
     },
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. This area of your body is left with a defined, slightly depressed branding cicatriz.</p>",
-      "name": "Branded",
+      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo fica com uma cicatriz de marca definida e ligeiramente deprimida. </p>",
+      "name": "Marca",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ZPVbTc1a7OJmxAyZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.M9ZgyvAWuVdXHnJ5"
     },
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You. Are. On. fogo. Dancing flames lick around your body. At the beginning of your Turno, you take fogo dano scaled to the dano that caused the lesão persistente: 1-10 dano ([[1d2]]), 11-20 dano ([[1d4]]), 21-30 dano ([[1d6]]), 31-40 dano ([[1d8]]), &gt;40 dano ([[1d10]]).</p><p><em>Tratamento</em> - You may use an action to extinguish the flames.</p>",
+      "description": "<p> You. Are. On. Fogo. Dancing flames lick around your body. At the beginning of your turn, you take Fogo Dano scaled to the Dano that caused the Lesão Persistente: 1-10 Dano ( [[1d2]] ), 11-20 Dano ( [[1d4]] ), 21-30 Dano ( [[1d6]] ), 31-40 Dano ( [[1d8]] ),  &gt; 40 Dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - You may use an action to extinguish the flames. </p>",
       "name": "Ignited",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9T9VFivK7dzTehXC"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The temperature around you skyrockets, flash-heating everything nearby. Any flammable objects being worn or wielded are ignited. You drop anything metal Você está carrying in sudden shock.</p><p><em>Tratamento</em> - You may extinguish any worn or wielded items that were ignited with a bonus action. If you attempt to pick up any dropped items, make a Constitution Saving Throw (DC equals half the dano that caused the lesão persistente or 10, whichever number is higher) to brave the heat and retrieve them.</p>",
+      "description": "<p>The temperature around you skyrockets, flash-heating everything nearby. Any flammable objects being worn or wielded are ignited. You drop anything metal you are carrying in sudden shock.</p><p><em>Treatment</em> - You may extinguish any worn or wielded items that were ignited with a bonus action. If you attempt to pick up any dropped items, make a Constitution saving throw (DC equals half the damage that caused the lingering injury or 10, whichever number is higher) to brave the heat and retrieve them.</p>",
       "name": "Searing Temperatures",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WlPyx1X1D5MllNiX"
@@ -349,8 +349,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. In a freak instance of chance, the heat has interacted with a thread of natural magic dentro de you. This area of your body is permanently hot (though to you it feels pleasantly warm) and radiates a faint aura of Transmutation. Você tem Advantage on Constitution checks and saving throws made to resist the environmental effects of heat. You may suppress this effect by maintaining concentration.</p>",
-      "name": "Inner fogo",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the heat has interacted with a thread of natural magic within you. This area of your body is permanently hot (though to you it feels pleasantly warm) and radiates a faint aura of Transmutation. You have advantage on Constitution checks and saving throws made to resist the environmental effects of heat. You may suppress this effect by maintaining Concentração. </p>",
+      "name": "Inner Fogo",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ONRCEI0PF2jD4mah"
     },
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small apêndice Table (Tabela de Apêndices Menores)}. The blazing fires have scoured through até nothing but ash remains. O apêndice is <strong>ausente</strong> and the resulting ferimento is cauterized.</p>",
-      "name": "Incinerated apêndice",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The blazing fires have scoured through until nothing but ash remains. The appendage is  <strong> ausente </strong>  and the resulting wound is cauterized. </p>",
+      "name": "Incinerated Appendage",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sxVV0S6YqVMTyyrg"
     },
@@ -403,8 +403,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large membro Table (Tabela de Membros Maiores)}. The voracious fogo has devoured seu membro, leaving nothing but smoking cinders in its wake. O membro is <strong>ausente</strong>, and the resulting ferimento is cauterized</p>",
-      "name": "Incinerated membro",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The voracious Fogo has devoured your limb, leaving nothing but smoking cinders in its wake. The limb is  <strong> ausente </strong> , and the resulting wound is cauterized </p>",
+      "name": "Incinerated Limb",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.DnHqRvkRGeOkHeNy"
     },
@@ -430,8 +430,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You inhale the scorching air around you and it burns a path straight down to your lungs. Your sense of taste and smell are <strong>não funcional</strong> If not treated dentro de 24 horas they will be permanently <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery</p>",
-      "name": "Airway queimadura",
+      "description": "<p> Você inala o ar escaldante ao seu redor e ele queima um caminho direto até seus pulmões. Seu paladar e olfato são  __X1X __ sem funcionamento __ X2X__  Se não forem tratados dentro de 24 horas, eles ficarão permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Cirurgia Teste de Resistência Sense </p>",
+      "name": "Queimadura das Vias Aéreas",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9NSMJlilDK1lbi5h"
     }

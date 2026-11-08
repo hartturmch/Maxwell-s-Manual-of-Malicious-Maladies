@@ -1,11 +1,11 @@
 {
   "_id": "foFcZEXasn7rSZ4r",
-  "name": "Concussion",
+  "name": "Concussão",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>A mighty strike to your head has left you with dizziness, nausea, and a lingering headache. Any time you make an Intelligence, Wisdom, or Charisma saving throw you are also &Reference[stunned]{stunned} until the end of your next turn. This condition lasts [[1d12]] days.</p><p><em>Treatment</em> - A [[/skill medicine 15]] check reduces the duration of this injury by [[1d8]] days.</p>",
+      "value": "<p> Um forte golpe na sua cabeça o deixou com tonturas, náuseas e uma dor de cabeça persistente. Toda vez que você fizer uma salvaguarda de Inteligência, Sabedoria ou Carisma, você também estará &Referência[atordoado]{atordoado} até o final do seu próximo turno. Esta condição dura  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 15]] reduz a duração desta lesão em [[1d8]]  dias. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
       "_id": "5h3m0TTMiqHC6MjP",
-      "name": "Concussion",
+      "name": "Concussão",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

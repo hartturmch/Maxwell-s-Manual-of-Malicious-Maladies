@@ -1,11 +1,11 @@
 {
   "_id": "kH8yy1pgqUq6w4pK",
-  "name": "Arc Flash",
+  "name": "Arco Elétrico",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>The electricity's current has ignited you aflame. At the beginning of your turn, you take fire damage scaled to the damage that caused the lingering injury: 1-10 damage ([[1d2]]), 11-20 damage ([[1d4]]), 21-30 damage ([[1d6]]), 31-40 damage ([[1d8]]), &gt;40 damage ([[1d10]]).</p><p><em>Treatment</em> - You may use an action to extinguish the flames.</p>",
+      "value": "__X0X __ A corrente elétrica incendiou você. No início do seu turno, você sofre dano de incêndio dimensionado para o dano que causou o ferimento persistente: 1-10 dano ( [[1d2]] ), 11-20 dano ( [[1d4]] ), 21-30 dano ( [[1d6]] ), 31-40 dano ( __ X4X __ ),  __ X5X __ 40 dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - Você pode usar uma ação para extinguir as chamas. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [
     {
       "_id": "AwZyR0tSUpPseOky",
-      "name": "Arc Flash",
+      "name": "Arco Elétrico",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

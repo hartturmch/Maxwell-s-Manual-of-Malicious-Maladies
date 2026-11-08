@@ -1,11 +1,11 @@
 {
   "_id": "GDV8rvcCyNboDepS",
-  "name": "Prismatic cicatriz",
+  "name": "Prismatic Scar",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. You are left with smooth scar on this part of your body that seems to shimmer through the prismatic colors when the light catches it.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with smooth scar on this part of your body that seems to shimmer through the prismatic colors when the light catches it. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [
     {

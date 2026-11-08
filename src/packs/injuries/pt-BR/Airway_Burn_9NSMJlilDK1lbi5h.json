@@ -1,11 +1,11 @@
 {
   "_id": "9NSMJlilDK1lbi5h",
-  "name": "Airway queimadura",
+  "name": "Queimadura das Vias Aéreas",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You inhale the scorching air around you and it burns a path straight down to your lungs. Your sense of taste and smell are <strong>nonfunctional</strong> If not treated within 24 hours they will be permanently <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 20 Save Sense Surgery</p>",
+      "value": "<p> Você inala o ar escaldante ao seu redor e ele queima um caminho direto até seus pulmões. Seu paladar e olfato são  __X1X __ sem funcionamento __ X2X__  Se não forem tratados dentro de 24 horas, eles ficarão permanentemente  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Cirurgia Teste de Resistência Sense </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fire Lingering Injury"
+    "requirements": "Fogo Lesão Persistente"
   },
   "effects": [
     {
       "_id": "87nM2s9oWD2ifSLD",
-      "name": "Airway Burn",
+      "name": "Queimadura das Vias Aéreas",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

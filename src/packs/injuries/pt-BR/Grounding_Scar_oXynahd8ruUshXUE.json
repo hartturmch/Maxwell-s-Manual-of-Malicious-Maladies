@@ -1,11 +1,11 @@
 {
   "_id": "oXynahd8ruUshXUE",
-  "name": "Grounding cicatriz",
+  "name": "Grounding Scar",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Roll twice on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. Each area of your body is left with a round scar, one where the electricity entered, and one where the electricity left.</p>",
+      "value": "<p> Roll twice on the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of your body is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [
     {

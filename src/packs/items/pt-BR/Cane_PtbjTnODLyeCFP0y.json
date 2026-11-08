@@ -1,5 +1,5 @@
 {
-  "name": "Cane",
+  "name": "Bengala",
   "type": "equipment",
   "img": "icons/weapons/staves/staff-simple-spiral-grey.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>From a simple stick to an ornate staff, a cane helps you move about. Canes require one arm to use and allow you to ignore up to 10 feet of movement penalty caused by a lingering injury to one leg.</p>",
+      "value": "<p> From a simple stick to an ornate staff, a Bengala helps you move about. Canes require one arm to use and allow you to ignore up to 10 feet of movement penalty caused by a Lesão Persistente to one leg. </p>",
       "chat": ""
     },
     "source": {

@@ -1,11 +1,11 @@
 {
   "_id": "uFkl1FRdw51NMmst",
-  "name": "Crushed membro",
+  "name": "Membro Esmagado",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Your limb is crushed to the point of uselessness and permanently nonfunctional. If it isn't reconstructed, the limb will not regain functionality.</p><p><em>Treatment</em> - A DC 23 Save Limb Surgery</p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Seu membro é esmagado ao ponto de inutilidade e permanentemente não funcional. Se não for reconstruído, o membro não recuperará a funcionalidade. </p>  <p>  <em> Tratamento </em>  - A  DC  23 Salvar Cirurgia de Membros </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
       "_id": "BrTDrmuQ2pfuKfur",
-      "name": "Crushed Limb",
+      "name": "Membro Esmagado",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "nQ9BDJmwaBvsR4oh",
-  "name": "Necrotic ferimento",
+  "name": "Necrótico Wound",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Your wound festers with a dark energy. It resists both magical and natural healing. Your maximum hit points are reduced by the amount of damage that caused the lingering injury.</p><p><em>Treatment</em> - A DC 18 General Surgery check or the Greater Restoration spell.</p>",
+      "value": "<p> Your wound festers with a dark energy. It resists both magical and natural healing. Your maximum hit points are reduced by the amount of Dano that caused the Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - A  DC  18 General Cirurgia check or the Greater Restoration spell. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrotic Lingering Injury"
+    "requirements": "Necrótico Lesão Persistente"
   },
   "effects": [
     {
       "_id": "vT7Vuk74asC7Hlbb",
-      "name": "Necrotic Wound",
+      "name": "Necrótico Wound",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

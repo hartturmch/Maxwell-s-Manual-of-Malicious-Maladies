@@ -1,5 +1,5 @@
 {
-  "name": "fogo Finger",
+  "name": "Fogo Finger",
   "type": "equipment",
   "img": "icons/commodities/biological/stinger-insect-yellow.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (requires attunement)</em></p>\n<p>Fire fingers are the pet project of a (rather eccentric) wizard who had more than one of her fingers bitten off in an illconceived attempt to breed swamp dragons. These magical prosthetics attach to your hand in place of a <strong>missing </strong>finger. They function identically to the finger while in place, removing any penalty associated with the <strong>missing </strong>finger.</p>\n<p>Fire fingers may contain the same spells as any wand of common or uncommon rarity. Casting from the fire finger merely requires pointing the finger and may be done even while wielding an item in the same hand.</p>\n<p>You can detach or reattach a fire finger as an action, and it can't be removed against your will. It detaches if you die.</p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>Fogo fingers are the pet project of a (rather eccentric) wizard who had more than one of her fingers bitten off in an illconceived attempt to breed swamp dragons. These magical prosthetics attach to your hand in place of a <strong>ausente </strong>finger. They function identically to the finger while in place, removing any penalty associated with the <strong>ausente </strong>finger.</p>\n<p>Fogo fingers may contain the same spells as any wand of common or uncommon rarity. Casting from the Fogo finger merely requires pointing the finger and may be done even while wielding an item in the same hand.</p>\n<p>You can detach or reattach a Fogo finger as an action, and it can't be removed against your will. It detaches if you die.</p>",
       "chat": ""
     },
     "source": {

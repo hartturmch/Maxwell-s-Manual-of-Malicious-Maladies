@@ -1,11 +1,11 @@
 {
   "_id": "CBY3vTDTvOSMuJIY",
-  "name": "frio Brand",
+  "name": "Marca fria",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. This area of your body has been cryo-branded, and will result in a defined, pale scar. Any hair on the affected area will grow back white.</p>",
+      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo foi criomarcada e resultará em uma cicatriz definida e pálida. Qualquer pelo na área afetada voltará a ficar branco. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cold Lingering Injury"
+    "requirements": "Frio Lesão Persistente"
   },
   "effects": [
     {
       "_id": "Li5mdhjdGYCzYN6u",
-      "name": "Cold Brand",
+      "name": "Marca fria",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

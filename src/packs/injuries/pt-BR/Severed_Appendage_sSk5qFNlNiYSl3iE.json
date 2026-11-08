@@ -1,11 +1,11 @@
 {
   "_id": "sSk5qFNlNiYSl3iE",
-  "name": "Severed apêndice",
+  "name": "Severed Appendage",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The savagery of the blow has severed one of your small appendages. It lands at your feet and is considered <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 22 Save Limb Surgery.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The savagery of the blow has severed one of your small appendages. It lands at your feet and is considered  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Slashing Lingering Injury"
+    "requirements": "Cortante Lesão Persistente"
   },
   "effects": [
     {

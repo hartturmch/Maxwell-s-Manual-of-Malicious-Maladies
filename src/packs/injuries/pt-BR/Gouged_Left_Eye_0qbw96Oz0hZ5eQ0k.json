@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>You've taken grievous damage directly to your left eye. Your eye is <strong>nonfunctional</strong>. If untreated within 8 hours, your vision will be beyond saving (and be considered <strong>missing</strong>).</p><p><em>Treatment</em> - A DC 20 Save Sense Surgery.</p>",
+      "value": "<p> You've taken grievous Dano directly to your left eye. Your eye is  <strong> sem funcionamento </strong> . If untreated within 8 hours, your vision will be beyond saving (and be considered  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Piercing Lingering Injury"
+    "requirements": "Perfurante Lesão Persistente"
   },
   "effects": [
     {

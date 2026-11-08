@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>Roll to randomly determine the right or left eye. The frigid air has frozen over the surface layer of your eye. The eye is <strong>nonfunctional</strong>. If not treated within 12 hours, your vision will be permanently <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 20 Save Sense Surgery. If the player spends a short rest rewarming the area within 15 minutes of the injury occurring, this DC is decreased to 10.</p>",
+      "value": "<p> Roll to randomly determine the right or left eye. The frigid air has frozen over the surface layer of your eye. The eye is  <strong> sem funcionamento </strong> . If not treated within 12 hours, your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. If the player spends a short rest rewarming the area within 15 minutes of the injury occurring, this  DC  is decreased to 10. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cold Lingering Injury"
+    "requirements": "Frio Lesão Persistente"
   },
   "effects": [
     {

@@ -1,7 +1,7 @@
 {
-  "name": "Bludgeoning - [MMMM]",
+  "name": "Contundente - [MMMM]",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
-  "description": "Ah, is there any sound more dissonant than the crunch of a\nbroken bone? Few types of dano are more efficient at\ntaking your limbs out of commission than Bludgeoning. Do\nnot forget to assess your patient's noggin, though. An errant\nclub swing can result in a nasty concussion or a ruptured\neardrum. Most often, though, Bludgeoning leaves you with the\ncolorful parting gift of a black eye or a broken nose. Not the\nprettiest accessories for polite company.",
+  "description": "Ah, is there any sound more dissonant than the crunch of a\nbroken bone? Few types of Dano are more efficient at\ntaking your limbs out of commission than Contundente. Do\nnot forget to assess your patient's noggin, though. An errant\nclub swing can result in a nasty concussion or a ruptured\neardrum. Most often, though, Contundente leaves you with the\ncolorful parting gift of a black eye or a broken nose. Not the\nprettiest accessories for polite company.",
   "results": [
     {
       "_id": "suseSy7RPk0Tmk55",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A violent impact to the side of your head has caused your right eardrum to rupture. Your right ear is <strong>não funcional</strong>. If it is not treated dentro de 24 horas, your hearing in this ear is permanently <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery</p>",
+      "description": "<p> A violent impact to the side of your head has caused your right eardrum to rupture. Your right ear is  <strong> sem funcionamento </strong> . If it is not treated within 24 hours, your hearing in this ear is permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia </p>",
       "name": "Ruptured Right Eardrum",
       "_key": "!tables.results!48xZVriedgL4S9IO.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.q9Q4d8UdipnM6SiC"
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large membro Table (Tabela de Membros Maiores)}. The enormous impact of the blow has caused seu membro to be torn from its socket. O membro is <strong>ausente</strong> and thrown 15 feet in a random direction.</p><p><em>Tratamento</em> - A DC 22 Save membro Surgery</p>",
-      "name": "membro Torn Asunder",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The enormous impact of the blow has caused your limb to be torn from its socket. The limb is  <strong> ausente </strong>  and thrown 15 feet in a random direction. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia </p>",
+      "name": "Limb Torn Asunder",
       "_key": "!tables.results!48xZVriedgL4S9IO.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rULySNi5rRtLc7gG"
     },
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A blow to your face has knocked one of your teeth clean out of your mouth.</p><p><em>Tratamento</em> - A [[/skill perception 15]] check will allow you to recover the tooth. A DC 19 General Surgery dentro de 1 day of the injury occurring allows you to reinsert the tooth.</p>",
+      "description": "<p> A blow to your face has knocked one of your teeth clean out of your mouth. </p>  <p>  <em> Tratamento </em>  - A  [[/skill perception 15]]  check will allow you to recover the tooth. A  DC  19 General Cirurgia within 1 day of the injury occurring allows you to reinsert the tooth. </p>",
       "name": "Lost Tooth",
       "_key": "!tables.results!48xZVriedgL4S9IO.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.VTnEz1P7ti8zqB3u"
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A mighty strike to your head has left you with dizziness, nausea, and a lingering headache. Any time you make an Intelligence, Wisdom, or Charisma Saving Throw Você está also &Reference[stunned]{stunned} até the end of your next Turno. This condition lasts [[1d12]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 15]] check reduces the duration of this injury by [[1d8]] dias.</p>",
-      "name": "Concussion",
+      "description": "<p> Um forte golpe na sua cabeça o deixou com tonturas, náuseas e uma dor de cabeça persistente. Toda vez que você fizer uma salvaguarda de Inteligência, Sabedoria ou Carisma, você também estará &Referência[atordoado]{atordoado} até o final do seu próximo turno. Esta condição dura  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 15]] reduz a duração desta lesão em [[1d8]]  dias. </p>",
+      "name": "Concussão",
       "_key": "!tables.results!48xZVriedgL4S9IO.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.foFcZEXasn7rSZ4r"
     },
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You gasp for breath as the blow knocks you flat onto your back. Você está <strong>&Reference[prone]{prone}</strong> and you lose <strong>concentration</strong>.</p>",
+      "description": "<p> You gasp for breath as the blow knocks you flat onto your back. You are  <strong> &Reference[prone]{prone} </strong>  and you lose  <strong> Concentração </strong> . </p>",
       "name": "Wind Knocked out of You",
       "_key": "!tables.results!48xZVriedgL4S9IO.6nva89TqTbTkG7Je",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.3licVhmktflEH6R2"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The Force of the impact jars your nerves and sends a spreading numbness through your left arm. You drop anything Você está holding with that arm and it is <strong>não funcional</strong> for [[1d4]] Turnos.</p><p><em>Tratamento</em> - Any amount of magical cura will end this effect.</p>",
+      "description": "<p> The Força of the impact jars your nerves and sends a spreading numbness through your left arm. You drop anything you are holding with that arm and it is  <strong> sem funcionamento </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
       "name": "Numb Left Arm",
       "_key": "!tables.results!48xZVriedgL4S9IO.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.aUf88EwNWpbc3hUS"
@@ -187,8 +187,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You feel a sharp pain as the blow lands directly on one of your extremities. Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small apêndice Table (Tabela de Apêndices Menores)}. That apêndice is broken and <strong>não funcional</strong> for [[1d12]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 12]] check reduces the duration of this injury by [[1d10]] dias.</p>",
-      "name": "Broken apêndice",
+      "description": "<p> Você sente uma dor aguda quando o golpe cai diretamente em uma de suas extremidades. Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. Esse apêndice está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d10]]  dias. </p>",
+      "name": "Apêndice Quebrado",
       "_key": "!tables.results!48xZVriedgL4S9IO.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.X5INGDuWp9MrN4cF"
     },
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Roll to randomly determine the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is <strong>não funcional</strong>.</p><p><em>Tratamento</em> - While on initiative, make a [[/check con 18]] check as a bonus action to Force the joint into place and end this injury. Off initiative, a [[/skill medicine 18]] check will end this injury.</p>",
+      "description": "<p> Roll to randomly determine the left or right arm. The intensity of the blow has forced your shoulder joint from its socket. This arm is  <strong> sem funcionamento </strong> . </p>  <p>  <em> Tratamento </em>  - While on initiative, make a  [[/check con 18]]  check as a bonus action to Força the joint into place and end this injury. Off initiative, a  [[/skill medicine 18]]  check will end this injury. </p>",
       "name": "Dislocated Shoulder",
       "_key": "!tables.results!48xZVriedgL4S9IO.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pIhpZqWVD3qPb6xd"
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You've got yourself a good ol' fashioned shiner. It will resolve on its own in [[1d6]] dias, but you may look out of place in polite company até then.</p>",
-      "name": "Black Eye",
+      "description": "<p> Você tem um bom e velho shiner. Ele resolverá por conta própria em  [[1d6]]  dias, mas você pode parecer deslocado em uma companhia educada até lá. </p>",
+      "name": "Olho Roxo",
       "_key": "!tables.results!48xZVriedgL4S9IO.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.SvP7zEIY5IGgE1G6"
     },
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A sharp impact to your face has left you with a painfully broken nose.</p><p><em>Tratamento</em> - A [[/skill medicine 8]] check will set your nose properly, otherwise it has a 50% chance of cura slightly crooked in [[1d6]] dias. The DC of this check increases by 2 each time your nose is broken.</p>",
-      "name": "Broken Nose",
+      "description": "<p> Um impacto forte no seu rosto deixou você com um nariz dolorosamente quebrado. </p>  <p>  <em> Tratamento </em>  - Uma verificação __X5X __ ajustará seu nariz corretamente, caso contrário, ele terá 50% de chance de cicatrização ligeiramente torta em  [[1d6]]  dias. O  DC  desta verificação aumenta em 2 cada vez que seu nariz está quebrado. </p>",
+      "name": "Nariz Quebrado",
       "_key": "!tables.results!48xZVriedgL4S9IO.ZPVbTc1a7OJmxAyZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KqnnrCd0IaSXV3ls"
     },
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The Force of the impact jars your nerves and sends a spreading numbness through your right arm. You drop anything Você está holding with that arm and it is <strong>não funcional</strong> for [[1d4]] Turnos.</p><p><em>Tratamento</em> - Any amount of magical cura will end this effect.</p>",
+      "description": "<p> The Força of the impact jars your nerves and sends a spreading numbness through your right arm. You drop anything you are holding with that arm and it is  <strong> sem funcionamento </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
       "name": "Numb Right Arm",
       "_key": "!tables.results!48xZVriedgL4S9IO.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bWgPGXmnSS3BBkE9"
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your entire body aches and Você está left with some extensive ugly bruises. Any time you make a Strength (Athletics) or Dexterity (Acrobatics) check you take Bludgeoning dano scaled to the dano that caused the lesão persistente: 1-10 dano ([[1d4]]), 11-20 dano ([[1d6]]), 21-30 dano ([[1d8]]), 31-40 dano ([[1d10]]), &gt;40 dano ([[1d12]]). This injury resolves on its own in [[1d4]] dias.</p>",
-      "name": "Bruised Black and Blue",
+      "description": "<p> Todo o seu corpo dói e você fica com alguns hematomas feios extensos. Sempre que você fizer um teste de Força (Atletismo) ou Destreza (Acrobacia), você sofre dano contundente dimensionado para o dano que causou a lesão persistente: 1-10 de dano ( [[1d4]] ), 11-20 de dano ( [[1d6]] ), 21-30 de dano ( [[1d8]] ), 31-40 de dano ( __ X4X __ ),  __ X5X __ 40 de dano ( [[1d12]] ). Esta lesão se resolve sozinha em  [[1d4]]  dias. </p>",
+      "name": "Preto e azul machucado",
       "_key": "!tables.results!48xZVriedgL4S9IO.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.LZcOi6YLEjcUJvRd"
     },
@@ -349,8 +349,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. The ache of your injury never completely leaves you and even years later you sometimes feel a twinge of pain. The bones in/around the area rolled ache 6 horas before (roll [[1d6]]): 1) Rain, 2) Bright Sunshine, 3) Snow, 4) Fog, 5) Storms, 6) Calamities and Natural Disasters</p>",
-      "name": "Aching Bones",
+      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. A dor da sua lesão nunca o abandona completamente e, mesmo anos depois, às vezes você sente uma pontada de dor. Os ossos dentro/ao redor da área doíam 6 horas antes (role  [[1d6]] ): 1) Chuva, 2) Sol Brilhante, 3) Neve, 4) Nevoeiro, 5) Tempestades, 6) Calamidades e Desastres Naturais </p>",
+      "name": "Ossos doloridos",
       "_key": "!tables.results!48xZVriedgL4S9IO.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.XqfSTxLQY0Wy9p2n"
     },
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large membro Table (Tabela de Membros Maiores)}. This membro is broken and <strong>não funcional</strong> for [[1d12]] dias.</p><p><em>Tratamento</em> - A [[/skill medicine 15]] check reduces the duration of this injury by [[1d8]] dias.</p>",
-      "name": "Broken membro",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Este membro está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d8]]  dias. </p>",
+      "name": "Membro Quebrado",
       "_key": "!tables.results!48xZVriedgL4S9IO.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6G4qwq1APU6BSmQu"
     },
@@ -403,8 +403,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large membro Table (Tabela de Membros Maiores)}. seu membro is crushed to the point of uselessness and permanently não funcional. If it isn't reconstructed, O membro will not regain functionality.</p><p><em>Tratamento</em> - A DC 23 Save membro Surgery</p>",
-      "name": "Crushed membro",
+      "description": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Seu membro é esmagado ao ponto de inutilidade e permanentemente não funcional. Se não for reconstruído, o membro não recuperará a funcionalidade. </p>  <p>  <em> Tratamento </em>  - A  DC  23 Salvar Cirurgia de Membros </p>",
+      "name": "Membro Esmagado",
       "_key": "!tables.results!48xZVriedgL4S9IO.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.uFkl1FRdw51NMmst"
     },
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A violent impact to the side of your head has caused your left eardrum to rupture. Your left ear is <strong>não funcional</strong>. If it is not treated dentro de 24 horas, your hearing in this ear is permanently <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery</p>",
+      "description": "<p> A violent impact to the side of your head has caused your left eardrum to rupture. Your left ear is  <strong> sem funcionamento </strong> . If it is not treated within 24 hours, your hearing in this ear is permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia </p>",
       "name": "Ruptured Left Eardrum",
       "_key": "!tables.results!48xZVriedgL4S9IO.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.N9Leza9RlN2ouDNg"

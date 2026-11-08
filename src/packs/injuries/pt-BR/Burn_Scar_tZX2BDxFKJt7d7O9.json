@@ -1,11 +1,11 @@
 {
   "_id": "tZX2BDxFKJt7d7O9",
-  "name": "queimadura cicatriz",
+  "name": "Cicatriz de queim",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. This area of your body is left with a creased and wrinkled burn scar.</p>",
+      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo fica com uma cicatriz de queimadura enrugada e enrugada. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fire Lingering Injury"
+    "requirements": "Fogo Lesão Persistente"
   },
   "effects": [
     {
       "_id": "iZQcY5MZydlffIn7",
-      "name": "Burn Scar",
+      "name": "Cicatriz de queim",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

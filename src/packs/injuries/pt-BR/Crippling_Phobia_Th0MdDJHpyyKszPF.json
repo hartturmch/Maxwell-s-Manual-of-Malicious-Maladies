@@ -1,11 +1,11 @@
 {
   "_id": "Th0MdDJHpyyKszPF",
-  "name": "Crippling Phobia",
+  "name": "Fobia incapacitante",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p><strong>&Reference[unconscious]{unconscious}</strong>ly, you brain has made a connection between something random and the pain it felt, now you can't help but associate the two. The DM chooses something unique about the source of the damage or the current setting. Any time you move within 15 feet of this thing you are <strong>&Reference[frightened]{frightened}</strong> until you move at least 50 feet away from it.</p>",
+      "value": "<p>  <strong> &Reference[inconsciente]{inconsciente} </strong> ly, seu cérebro fez uma conexão entre algo aleatório e a dor que sentiu, agora você não pode deixar de associar os dois. O Mestre escolhe algo único sobre a fonte do dano ou a configuração atual. Sempre que você se move a menos de 4,5 metros desta coisa, você está  <strong> eReferência[assustado]{assustado} __X4X __  até que você se afaste pelo menos 15 metros dela. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psychic Lingering Injury"
+    "requirements": "Psíquico Lesão Persistente"
   },
   "effects": [
     {
       "_id": "5hZegR1MKk0cnHB9",
-      "name": "Crippling Phobia",
+      "name": "Fobia incapacitante",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

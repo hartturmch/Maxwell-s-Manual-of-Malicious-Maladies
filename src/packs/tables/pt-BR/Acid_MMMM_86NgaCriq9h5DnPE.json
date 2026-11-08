@@ -1,7 +1,7 @@
 {
-  "name": "ácido - [MMMM]",
+  "name": "Ácido - [MMMM]",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
-  "description": "A dano so nice, it burns you twice. ácido dano hurts you, but it also eats through your equipment if you're not careful. Any adventurer who has had the misfortune to come face-to-face with a Black Ooze can tell you that. Magical equipment can generally recover from this dano...but dammit Jim, I'm a plague doctor, not a blacksmith. I stitch flesh, not clothing. You will have look to other expertise if you want your\nbelongings repaired.",
+  "description": "A Dano so nice, it burns you twice. Ácido Dano hurts you, but it also eats through your equipment if you're not careful. Any adventurer who has had the misfortune to come face-to-face with a Black Ooze can tell you that. Magical equipment can generally recover from this Dano...but dammit Jim, I'm a plague doctor, not a blacksmith. I stitch flesh, not clothing. You will have look to other expertise if you want your\nbelongings repaired.",
   "results": [
     {
       "_id": "suseSy7RPk0Tmk55",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>ácido has splashed over both of your eyes. Você está <strong>&Reference[blinded]{blinded}</strong> and both your eyes are <strong>não funcional</strong>. If you do not receive Tratamento dentro de 30 minutos your vision will be permanently <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery</p>",
+      "description": "<p> Ácido has splashed over both of your eyes. You are  <strong> &Reference[blinded]{blinded} </strong>  and both your eyes are  <strong> sem funcionamento </strong> . If you do not receive Tratamento within 30 minutes your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia </p>",
       "name": "Ocular Corrosion",
       "_key": "!tables.results!86NgaCriq9h5DnPE.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.cQfVucRkiIr8jfxJ"
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large membro Table (Tabela de Membros Maiores)}. ácido coats seu membro, and you hear the sizzle as it starts to dissolve. This membro is <strong>não funcional</strong>. If you do not receive Tratamento dentro de 30 minutos, O membro dissolves away and is <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save membro Surgery. You get 1 check for this surgery; if you do not meet the DC on the first check, O membro is lost.</p>",
-      "name": "Dissolved membro",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Ácido coats your limb, and you hear the sizzle as it starts to dissolve. This limb is  <strong> sem funcionamento </strong> . If you do not receive Tratamento within 30 minutes, the limb dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
+      "name": "Dissolved Limb",
       "_key": "!tables.results!86NgaCriq9h5DnPE.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.F99iIEP9a1Eyum7w"
     },
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small apêndice Table (Tabela de Apêndices Menores)}. ácido splashes over seu apêndice and sizzles as it begins to dissolve. This apêndice is <strong>não funcional</strong>. If you do not receive Tratamento dentro de 30 minutos, O apêndice dissolves away and is <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save membro Surgery. You get 1 check for this surgery; if you do not meet the DC on the first check, O apêndice is lost.</p>",
-      "name": "Dissolved apêndice",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. Ácido splashes over your appendage and sizzles as it begins to dissolve. This appendage is  <strong> sem funcionamento </strong> . If you do not receive Tratamento within 30 minutes, the appendage dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the appendage is lost. </p>",
+      "name": "Dissolved Appendage",
       "_key": "!tables.results!86NgaCriq9h5DnPE.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.EVyTfL4pCoQ3QAC5"
     },
@@ -106,8 +106,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your weapon has been coated in corrosive ácido and is getting duller by the second. Each round your weapon takes a cumulative -1 to dano Rolls. When a mundane weapon reaches a -5 penalty it is destroyed. When a magic weapon reaches a -5 penalty all magical effects are suppressed for [[1d4]] dias (after which the penalty disappears and the weapon functions normally).</p>",
-      "name": "Corroded Weapon",
+      "description": "<p> Sua arma foi revestida com ácido corrosivo e está ficando mais maçante a cada segundo. A cada rodada, sua arma recebe um -1 cumulativo nas Rolagens de Dano. Quando uma arma mundana atinge uma penalidade de -5, ela é destruída. Quando uma arma mágica atinge uma penalidade de -5, todos os efeitos mágicos são suprimidos por  [[1d4]]  dias (após os quais a penalidade desaparece e a arma funciona normalmente). </p>",
+      "name": "Arma corroída",
       "_key": "!tables.results!86NgaCriq9h5DnPE.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.U3yu96lldrg294iT"
     },
@@ -133,8 +133,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Any friendly character you touch or otherwise interact with physically takes ácido dano equal to your level. Creatures you grapple take this dano at the beginning of their Turno. This effect lasts 1 minute.</p><p><em>Tratamento</em> - A [[/skill medicine 15]] check ends this effect. You may reattempt this check.</p>",
-      "name": "Caustic Coating",
+      "description": "<p> Qualquer personagem amigável que você toque ou com quem interaja fisicamente sofre dano ácido igual ao seu nível. As criaturas que você agarrar sofrem esse dano no início de seu turno. Este efeito dura 1 minuto. </p>  <p>  <em> Tratamento __ X4X__  - Uma verificação [[/skill medicine 15]] acaba com esse efeito. Você pode tentar novamente esta verificação. </p>",
+      "name": "Revestimento Cáustico",
       "_key": "!tables.results!86NgaCriq9h5DnPE.6nva89TqTbTkG7Je",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.E8op63o7hvqWFV29"
     },
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The ácido has left you with a superficial, but painful queimadura. You take 1 point of ácido dano per 5 feet of movement while on initiative.</p><p><em>Tratamento</em> - A [[/skill medicine 13]] check ends this effect.</p>",
-      "name": "Caustic queimadura",
+      "description": "<p> O ácido deixou você com uma queimadura superficial, mas dolorosa. Você sofre 1 ponto de dano ácido por 1,5 metro de movimento enquanto estiver por iniciativa. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 13]] acaba com esse efeito. </p>",
+      "name": "Queimadura Cáustica",
       "_key": "!tables.results!86NgaCriq9h5DnPE.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ckLBg5ZeYjJ45b0v"
     },
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your arcane focus or spell component pouch is dissolved and destroyed. If your arcane focus is magical, it instead has its magical effects suppressed for [[1d4]] dias and is unusable during that time.</p>",
+      "description": "<p> Your arcane focus or spell component pouch is dissolved and destroyed. If your arcane focus is magical, it instead has its magical effects suppressed for  [[1d4]]  days and is unusable during that time. </p>",
       "name": "Dissolved Arcane Medium",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fEwQPOzKcjEadDda"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your shield is dissolved and destroyed. If your shield is magical, it instead has its magical effects suppressed for [[1d4]] dias and is unusable during that time.</p>",
+      "description": "<p> Your shield is dissolved and destroyed. If your shield is magical, it instead has its magical effects suppressed for  [[1d4]]  days and is unusable during that time. </p>",
       "name": "Dissolved Shield",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.wBaJp5JT0iOjiQVu"
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. Você tem a silvery white speckled cicatriz as a result of ácido splashing on that area of your body.</p>",
-      "name": "Dappled cicatriz",
+      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você tem uma cicatriz salpicada branca prateada como resultado de respingos de ácido nessa área do seu corpo. </p>",
+      "name": "Dappled Scar",
       "_key": "!tables.results!86NgaCriq9h5DnPE.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.tmjBbGdxPWBqM0xW"
     },
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your clothes have been corroded to the point of uselessness. If they are magic, they instead have any magical effects suppressed for [[1d4]] dias. Você está luckily unharmed, apart from a potentially awkward situation with your party members.</p>",
-      "name": "Corroded Clothes",
+      "description": "<p> Suas roupas foram corroídas a ponto de serem inúteis. Se forem mágicos, eles têm quaisquer efeitos mágicos suprimidos por  [[1d4]]  dias. Felizmente, você está ileso, além de uma situação potencialmente embaraçosa com os membros do seu grupo. </p>",
+      "name": "Roupas corroídas",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ZPVbTc1a7OJmxAyZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.FtsxfkWhYScMuGLV"
     },
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You've inhaled the ácido's toxic fumes causing you to cough and hack violently. Você está <strong>&Reference[incapacitated]{incapacitated}</strong> até the end of your next Turno.</p>",
+      "description": "<p> You've inhaled the Ácido's toxic fumes causing you to cough and hack violently. You are  <strong> &Reference[incapacitated]{incapacitated} </strong>  until the end of your next turn. </p>",
       "name": "Toxic Inhalation",
       "_key": "!tables.results!86NgaCriq9h5DnPE.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.lmTyKn0c6hHUylZX"
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You've deeply inhaled the ácido's toxic fumes causing you to go into a coughing fit. Você está <strong>&Reference[incapacitated]{incapacitated}</strong> for [[1d4]] rodadas.</p>",
-      "name": "Caustic Lung",
+      "description": "<p> Você inalou profundamente os vapores tóxicos do ácido, causando um ataque de tosse. Você é  <strong> ereferência[incapacitado]{incapacitado} </strong>  para  [[1d4]]  rodadas. </p>",
+      "name": "Pulmão Cáustico",
       "_key": "!tables.results!86NgaCriq9h5DnPE.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.jYMxJEbqragvcoj1"
     },
@@ -349,8 +349,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. The ácido injury has resulted in a cicatriz that is gnarled and scaly with a light sheen the same color as the ácido that damaged you. Você recebe +2 Natural Armor from it, or +1 if you already have a Natural Armor bonus.</p>",
-      "name": "Scaly cicatriz",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The Ácido injury has resulted in a scar that is gnarled and scaly with a light sheen the same color as the Ácido that damaged you. You gain +2 Natural Armor from it, or +1 if you already have a Natural Armor bonus. </p>",
+      "name": "Scaly Scar",
       "_key": "!tables.results!86NgaCriq9h5DnPE.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.B788FbEMu4fj27LB"
     },
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The ácido has covered your armor, slowly eating away at it. Each Turno your armor takes a cumulative -1 penalty to AC. When the armor's AC reaches 10, it is destroyed. If the armor is magical, its magical effects are instead suppressed for [[1d6]] dias and it is unusable during this time (after which the penalty disappears and the armor functions normally).</p>",
-      "name": "Corroded Armor",
+      "description": "__X0X __ O ácido cobriu sua armadura, devorando-a lentamente. A cada turno, sua armadura recebe uma penalidade cumulativa de -1 para  AC . Quando AC da armadura atinge 10, ela é destruída. Se a armadura for mágica, seus efeitos mágicos são suprimidos por  [[1d6]]  dias e é inutilizável durante esse período (após o qual a penalidade desaparece e a armadura funciona normalmente). </p>",
+      "name": "Armadura corroída",
       "_key": "!tables.results!86NgaCriq9h5DnPE.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.YHkM24LfyMLdwAD7"
     },
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>ácido has eaten into the essence of one of your magic items, expelling its arcane energy and rendering it mundane. Choose a magic item on your person at random. That item loses all magical effects permanently. If the item's rarity is Legendary or Artifact, its magical effects are instead suppressed for [[3d6]] dias (and return to normal after this period).</p>",
+      "description": "<p> Ácido has eaten into the essence of one of your magic items, expelling its arcane energy and rendering it mundane. Choose a magic item on your person at random. That item loses all magical effects permanently. If the item's rarity is Legendary or Artifact, its magical effects are instead suppressed for  [[3d6]]  days (and return to normal after this period). </p>",
       "name": "Dissolved Magic",
       "_key": "!tables.results!86NgaCriq9h5DnPE.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.g5MTkNtAkdzOjMsf"
@@ -430,8 +430,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The ácido's caustic fumes have wreaked havoc on your vocal cords. Your voice is <strong>não funcional</strong> and Você está mute. If you do not receive Tratamento dentro de 30 minutos it will be permanently <strong>ausente</strong>.</p><p><em>Tratamento<em> - A DC 19 Save Sense Surgery</em></em></p>",
-      "name": "Corroded Vocal Cords",
+      "description": "<p> Os vapores cáusticos do ácido causaram estragos em suas cordas vocais. Sua voz é  <strong> sem funcionamento </strong>  e você é mudo. Se não receber tratamento dentro de 30 minutos, ficará permanentemente  <strong> em falta </strong> . </p>  <p>  <em> Tratamento <em>  - A  DC  19 Teste de Resistência Sense Cirurgia </em>  </em>  </p>",
+      "name": "Cordas vocais corroídas",
       "_key": "!tables.results!86NgaCriq9h5DnPE.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WWAdXxyYno3SBvWy"
     }

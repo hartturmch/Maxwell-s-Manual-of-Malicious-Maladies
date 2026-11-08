@@ -1,11 +1,11 @@
 {
   "_id": "pKxmf8XyaPdqSsBX",
-  "name": "Chronoscarred",
+  "name": "Cronoscarred",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Every cell in your body protests as they are assaulted by the flow of time itself. Your body ages [[1d10]] years. Your mind is unaffected.</p>",
+      "value": "<p> Todas as células do seu corpo protestam quando são agredidas pelo próprio fluxo do tempo. Seu corpo envelhece  [[1d10]]  anos. Sua mente não é afetada. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrotic Lingering Injury"
+    "requirements": "Necrótico Lesão Persistente"
   },
   "effects": [],
   "folder": "1nRoeyF7X9eMLmxS",

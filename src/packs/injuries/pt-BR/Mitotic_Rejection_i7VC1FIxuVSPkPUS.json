@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>You cannot be magically healed for [[1d6]] turns. This includes spells which restore hit points, cure conditions, and raise the dead.</p>",
+      "value": "<p> You cannot be magically healed for  [[1d6]]  turns. This includes spells which restore hit points, cure conditions, and raise the dead. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrotic Lingering Injury"
+    "requirements": "Necrótico Lesão Persistente"
   },
   "effects": [
     {

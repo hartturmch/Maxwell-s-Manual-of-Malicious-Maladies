@@ -1,11 +1,11 @@
 {
   "_id": "KqnnrCd0IaSXV3ls",
-  "name": "Broken Nose",
+  "name": "Nariz Quebrado",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>A sharp impact to your face has left you with a painfully broken nose.</p><p><em>Treatment</em> - A [[/skill medicine 8]] check will set your nose properly, otherwise it has a 50% chance of healing slightly crooked in [[1d6]] days. The DC of this check increases by 2 each time your nose is broken.</p>",
+      "value": "<p> Um impacto forte no seu rosto deixou você com um nariz dolorosamente quebrado. </p>  <p>  <em> Tratamento </em>  - Uma verificação __X5X __ ajustará seu nariz corretamente, caso contrário, ele terá 50% de chance de cicatrização ligeiramente torta em  [[1d6]]  dias. O  DC  desta verificação aumenta em 2 cada vez que seu nariz está quebrado. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
       "_id": "FzQzpub3kcQaKxCE",
-      "name": "Broken Nose",
+      "name": "Nariz Quebrado",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

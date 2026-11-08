@@ -1,11 +1,11 @@
 {
   "_id": "tmjBbGdxPWBqM0xW",
-  "name": "Dappled cicatriz",
+  "name": "Dappled Scar",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. You have a silvery white speckled scar as a result of acid splashing on that area of your body.</p>",
+      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você tem uma cicatriz salpicada branca prateada como resultado de respingos de ácido nessa área do seu corpo. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Acid Lingering Injury"
+    "requirements": "Ácido Lesão Persistente"
   },
   "effects": [
     {

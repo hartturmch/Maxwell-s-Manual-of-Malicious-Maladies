@@ -5,7 +5,7 @@
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Your muscles twitch in repetitive patterns and you have difficulty coordinating your movement. You have disadvantage on all Dexterity based attacks, checks, and saves for [[1d4]] turns.</p>",
+      "value": "<p> Your muscles twitch in repetitive patterns and you have difficulty coordinating your movement. You have disadvantage on all Dexterity based attacks, checks, and saves for  [[1d4]]  turns. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [
     {

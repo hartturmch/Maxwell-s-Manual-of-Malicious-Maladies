@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>The attack sinks into the meat of your arm. It's probably not serious, but the pain makes you treat your arm gingerly. You no longer get one free object interaction per turn. This effect lasts [[1d8]] turns.</p><p><em>Treatment</em> - Any amount of magical healing will end this effect.</p>",
+      "value": "<p> The attack sinks into the meat of your arm. It's probably not serious, but the pain makes you treat your arm gingerly. You no longer get one free object interaction per turn. This effect lasts  [[1d8]]  turns. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Piercing Lingering Injury"
+    "requirements": "Perfurante Lesão Persistente"
   },
   "effects": [
     {

@@ -1,11 +1,11 @@
 {
   "_id": "X5INGDuWp9MrN4cF",
-  "name": "Broken apêndice",
+  "name": "Apêndice Quebrado",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>You feel a sharp pain as the blow lands directly on one of your extremities. Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. That appendage is broken and <strong>nonfunctional</strong> for [[1d12]] days.</p><p><em>Treatment</em> - A [[/skill medicine 12]] check reduces the duration of this injury by [[1d10]] days.</p>",
+      "value": "<p> Você sente uma dor aguda quando o golpe cai diretamente em uma de suas extremidades. Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. Esse apêndice está quebrado e  <strong> não funcional </strong>  por  [[1d12]]  dias. </p>  <p>  <em> Tratamento </em>  - Uma verificação__  X9X __ reduz a duração desta lesão em [[1d10]]  dias. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
       "_id": "fmZGgauFqyeaeKCA",
-      "name": "Broken Appendage",
+      "name": "Apêndice Quebrado",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

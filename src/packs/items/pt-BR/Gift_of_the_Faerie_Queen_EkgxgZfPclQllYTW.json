@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (requires attunement)</em></p>\n<p>This item, unnervingly, resembles an eyeball with a dark purple iris down to the smallest detail (including a slightly moist feeling). It functions identically to an Ersatz Eye (XGE pg.137), but with the following additions:</p>\n<p>While removed, you may use concentration to see through the eye. If at any time you are on a different plane as the eyeball, this effect continues to function for [[/r 1d6]] days before you are unattuned.</p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This item, unnervingly, resembles an eyeball with a dark purple iris down to the smallest detail (including a slightly moist feeling). It functions identically to an Ersatz Eye (XGE pg.137), but with the following additions:</p>\n<p>While removed, you may use Concentração to see through the eye. If at any time you are on a different plane as the eyeball, this effect continues to function for [[/r 1d6]] days before you are unattuned.</p>",
       "chat": ""
     },
     "source": {

@@ -1,11 +1,11 @@
 {
   "_id": "M9ZgyvAWuVdXHnJ5",
-  "name": "Branded",
+  "name": "Marca",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. This area of your body is left with a defined, slightly depressed branding scar.</p>",
+      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo fica com uma cicatriz de marca definida e ligeiramente deprimida. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fire Lingering Injury"
+    "requirements": "Fogo Lesão Persistente"
   },
   "effects": [
     {
       "_id": "p1PIPz42goAeECjT",
-      "name": "Branded",
+      "name": "Marca",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The concussive blast has torn your appendage free and sent it flying. It lands 30 feet away from you, pushed away from the direction of the attack, and is considered <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 22 Save Limb Surgery.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The concussive blast has torn your appendage free and sent it flying. It lands 30 feet away from you, pushed away from the direction of the attack, and is considered  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Thunder Lingering Injury"
+    "requirements": "Trovão Lesão Persistente"
   },
   "effects": [
     {

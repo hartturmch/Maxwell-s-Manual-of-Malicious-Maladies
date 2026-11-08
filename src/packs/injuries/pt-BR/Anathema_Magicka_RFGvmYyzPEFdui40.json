@@ -1,11 +1,11 @@
 {
   "_id": "RFGvmYyzPEFdui40",
-  "name": "Anathema Magicka",
+  "name": "Anátema Mágico",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>You shake your head from the force of the arcane blow and, it's gone. The knowledge, that is, not your head. You lose the ability to cast your most recently cast spell permanently. You can never cast this spell again by any means (including class features, racial traits, or magical items). If your class allows you to replace spells on your spell list when leveling up, you may replace this spell normally.</p>",
+      "value": "<p> Você balança a cabeça com a força do golpe arcano e ele se foi. O conhecimento, ou seja, não a sua cabeça. Você perde a capacidade de conjurar sua magia conjurada mais recentemente permanentemente. Você nunca pode conjurar esta magia novamente por qualquer meio (incluindo características de classe, características raciais ou itens mágicos). Se sua classe permitir que você substitua magias em sua lista de magias ao subir de nível, você pode substituir essa magia normalmente. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Force Lingering Injury"
+    "requirements": "Força Lesão Persistente"
   },
   "effects": [
     {
       "_id": "uUTEbkGTMcuI90MD",
-      "name": "Anathema Magicka",
+      "name": "Anátema Mágico",
       "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
       "type": "base",
       "system": {

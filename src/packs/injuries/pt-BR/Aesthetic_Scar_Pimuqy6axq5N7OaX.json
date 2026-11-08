@@ -1,11 +1,11 @@
 {
   "_id": "Pimuqy6axq5N7OaX",
-  "name": "Aesthetic cicatriz",
+  "name": "Cicatriz Estética",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. You are left with a scar that look particularly well placed on you. When this scar is visible you have a +1 bonus to Charisma (Persuasion) checks. If you collect multiple Aesthetic Scars, this bonus does not stack.</p>",
+      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz que parece particularmente bem colocada em você. Quando esta cicatriz é visível, você tem um bônus de +1 em testes de Carisma (Persuasão). Se você coletar várias cicatrizes estéticas, este bônus não acumula. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Slashing Lingering Injury"
+    "requirements": "Cortante Lesão Persistente"
   },
   "effects": [
     {
       "_id": "P8mmbatZCCOfTD8M",
-      "name": "Aesthetic Scar",
+      "name": "Cicatriz Estética",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

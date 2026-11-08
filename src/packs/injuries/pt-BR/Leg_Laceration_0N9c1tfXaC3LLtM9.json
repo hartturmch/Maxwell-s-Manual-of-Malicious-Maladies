@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>You've taken a long, painful slash to one of your legs. Your speed is reduced by 10 feet. This injury lasts [[1d8]] days.</p><p><em>Treatment</em> - A [[/skill medicine 15]] check reduces the duration of this injury by [[1d6]] days.</p>",
+      "value": "<p> You've taken a long, painful slash to one of your legs. Your speed is reduced by 10 feet. This injury lasts  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d6]]  days. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Slashing Lingering Injury"
+    "requirements": "Cortante Lesão Persistente"
   },
   "effects": [
     {

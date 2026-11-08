@@ -1,11 +1,11 @@
 {
   "_id": "XqfSTxLQY0Wy9p2n",
-  "name": "Aching Bones",
+  "name": "Ossos doloridos",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. The ache of your injury never completely leaves you and even years later you sometimes feel a twinge of pain. The bones in/around the area rolled ache 6 hours before (roll [[1d6]]): 1) Rain, 2) Bright Sunshine, 3) Snow, 4) Fog, 5) Storms, 6) Calamities and Natural Disasters</p>",
+      "value": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. A dor da sua lesão nunca o abandona completamente e, mesmo anos depois, às vezes você sente uma pontada de dor. Os ossos dentro/ao redor da área doíam 6 horas antes (role  [[1d6]] ): 1) Chuva, 2) Sol Brilhante, 3) Neve, 4) Nevoeiro, 5) Tempestades, 6) Calamidades e Desastres Naturais </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
       "_id": "YUyM7MkcVVLrPWnh",
-      "name": "Aching Bones",
+      "name": "Ossos doloridos",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

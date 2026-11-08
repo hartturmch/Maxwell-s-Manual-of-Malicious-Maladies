@@ -27,7 +27,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "name": "The Tremblestick (AC)",
+      "name": "The Tremblestick ( AC )",
       "img": "icons/weapons/staves/staff-forked-wood.webp",
       "type": "base",
       "system": {
@@ -91,7 +91,7 @@
   },
   "system": {
     "description": {
-      "value": "<p><em>Wondrous item (requires attunement)</em></p>\n<p>This thin, three-foot-long rod appears to be made of a smooth black metal and resonates with a subtle vibration when touched to the ground. If you are blinded and hold the Tremblestick to the ground, you gain blindsight in a 30 foot radius. In addition, the rod vibrates rhythmically in response to impending attacks, warning you and giving a +2 bonus to your AC.</p>\n<p> </p>",
+      "value": "<p><em>Item maravilhoso (requer sintonia)</em></p>\n<p>This thin, three-foot-long rod appears to be made of a smooth black metal and resonates with a subtle vibration when touched to the ground. If you are blinded and hold the Tremblestick to the ground, you gain blindsight in a 30 foot radius. In addition, the rod vibrates rhythmically in response to impending attacks, warning you and giving a +2 bonus to your AC.</p>\n<p> </p>",
       "chat": ""
     },
     "source": {

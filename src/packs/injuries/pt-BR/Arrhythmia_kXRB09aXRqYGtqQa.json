@@ -1,11 +1,11 @@
 {
   "_id": "kXRB09aXRqYGtqQa",
-  "name": "Arrhythmia",
+  "name": "Arritmia cardíaca",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Electricity surges into the core of your being, causing your heart to stutter. It is far more difficult for you to handle physical activity without becoming greatly fatigued. Any time you would take levels of <strong>&Reference[exhaustion]{exhaustion}</strong> you take one additional level.</p><p><em>Treatment</em> - A DC 25 General Surgery.</p>",
+      "value": "<p> A eletricidade surge no âmago do seu ser, fazendo com que seu coração gagueje. É muito mais difícil para você lidar com a atividade física sem ficar muito cansado. Sempre que você fizer níveis de  <strong> eReferência[exaustão]{exaustão} </strong>, você faz um nível adicional. </p>  <p>  <em> Tratamento </em>  - A  DC  25 Cirurgia Geral. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [
     {
       "_id": "7x9dl9zUc7uhtMUm",
-      "name": "Arrhythmia",
+      "name": "Arritmia cardíaca",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

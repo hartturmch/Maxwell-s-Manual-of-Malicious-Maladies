@@ -1,11 +1,11 @@
 {
   "_id": "ZSjESgzEimHy5aTL",
-  "name": "Shadow cicatriz",
+  "name": "Shadow Scar",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. You are left with a curious scar that appears to be a shadow over the wounded area. No amount of light seems to be able to eliminate this shadow.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with a curious scar that appears to be a shadow over the wounded area. No amount of light seems to be able to eliminate this shadow. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrotic Lingering Injury"
+    "requirements": "Necrótico Lesão Persistente"
   },
   "effects": [
     {

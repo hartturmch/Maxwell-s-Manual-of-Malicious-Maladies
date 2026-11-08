@@ -1,7 +1,7 @@
 {
-  "name": "frio - [MMMM]",
+  "name": "Frio - [MMMM]",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
-  "description": "Simply put, the frio makes you slow and stupid. Expect your patients to be numb, clumsy, and frostbitten. Fortunately, there is an easy solution to almost every wintery woe: warm them back up. You will need a crackling fogo, thick blankets, or at the very least, the body heat of a willing volunteer. Do not rewarm them too fast, mind you. Slow and gentle, like thawing meat from the icebox.",
+  "description": "Simply put, the Frio makes you slow and stupid. Expect your patients to be numb, clumsy, and frostbitten. Fortunately, there is an easy solution to almost every wintery woe: warm them back up. You will need a crackling Fogo, thick blankets, or at the very least, the body heat of a willing volunteer. Do not rewarm them too fast, mind you. Slow and gentle, like thawing meat from the icebox.",
   "results": [
     {
       "_id": "suseSy7RPk0Tmk55",
@@ -25,8 +25,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You've been frigid one too many times and your skin easily develops a rash and blisters in frio. Você tem Disadvantage to Constitution checks and saving throws made to resist the environmental effects of frio.</p>",
-      "name": "Chilblains",
+      "description": "<p> Você já foi frígido demais e sua pele desenvolve facilmente uma erupção cutânea e bolhas no frio. Você tem desvantagem em testes de Constituição e testes de resistência feitos para resistir aos efeitos ambientais do frio. </p>",
+      "name": "Frieiras",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.84oGAFCT3QrgRHj6"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Roll to randomly determine the right or left eye. The frigid air has frozen over the surface layer of your eye. The eye is <strong>não funcional</strong>. If not treated dentro de 12 horas, your vision will be permanently <strong>ausente</strong>.</p><p><em>Tratamento</em> - A DC 20 Save Sense Surgery. If the player spends a short rest rewarming the area dentro de 15 minutos of the injury occurring, this DC is decreased to 10.</p>",
+      "description": "<p> Roll to randomly determine the right or left eye. The frigid air has frozen over the surface layer of your eye. The eye is  <strong> sem funcionamento </strong> . If not treated within 12 hours, your vision will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. If the player spends a short rest rewarming the area within 15 minutes of the injury occurring, this  DC  is decreased to 10. </p>",
       "name": "Frozen Cornea",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fXEEOJ4PMiBOBqUZ"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Roll twice on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small apêndice Table (Tabela de Apêndices Menores)}. These appendages are firm, frigid, pale, and <strong>não funcional</strong>. If not treated dentro de 15 minutos they will necrotize and fall off in [[1d4]] dias (after which they are <strong>ausente</strong>).</p><p><em>Tratamento</em> - A short rest slowly rewarming the appendages.</p>",
+      "description": "<p> Roll twice on the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. These appendages are firm, frigid, pale, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes they will necrotize and fall off in  [[1d4]]  days (after which they are  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the appendages. </p>",
       "name": "Extensive Frostbite",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.v5PoVKf3dnfBJ38c"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your core body temperature has plummeted dangerously low. While on initiative you function as if affected by both the <em>Slow</em> and <em>Confusion</em> spells. If untreated for one hour, you fall <strong>&Reference[unconscious]{unconscious}<strong>.</p><p><em>Tratamento</em> - A short rest slowly rewarming yourself ends this effect.</strong></strong></p>",
+      "description": "<p> Your core body temperature has plummeted dangerously low. While on initiative you function as if affected by both the  <em> Slow </em>  and  <em> Confusion </em>  spells. If untreated for one hour, you fall  <strong> &Reference[unconscious]{unconscious} <strong> . </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming yourself ends this effect. </strong>  </strong>  </p>",
       "name": "Severe Hypothermia",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.c6fr5xJn7uYmpTbt"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você está so frio your hands are shaking uncontrollably and your voice quavers as you speak. The next three spells you cast have a 50% chance to fail. This effect ends after three spells are attempted.</p>",
+      "description": "<p> You are so Frio your hands are shaking uncontrollably and your voice quavers as you speak. The next three spells you cast have a 50% chance to fail. This effect ends after three spells are attempted. </p>",
       "name": "The Shivers",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.6nva89TqTbTkG7Je",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WmqwRGUNk5ILWxe3"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Your hands are so frio you barely have any feeling in them. Your next three attacks have Disadvantage.</p>",
+      "description": "<p> Your hands are so Frio you barely have any feeling in them. Your next three attacks have disadvantage. </p>",
       "name": "Frost Nipped Fingers",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oa4dKoNSTS9fXtgV"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You attempt to move your feet but find the intensity of the frio has frozen you directly to the ground. Você está <strong>&Reference[restrained]{restrained}</strong>. If Você está flying or otherwise not contacting a surface, there is no effect.</p><p><em>Tratamento</em> - A Strength check (DC equals half the dano that caused the lesão persistente or 10, whichever number is higher) as an action allows you to break free.</p>",
+      "description": "<p> You attempt to move your feet but find the intensity of the Frio has frozen you directly to the ground. You are  <strong> &Reference[restrained]{restrained} </strong> . If you are flying or otherwise not contacting a surface, there is no effect. </p>  <p>  <em> Tratamento </em>  - A Strength check ( DC  equals half the Dano that caused the Lesão Persistente or 10, whichever number is higher) as an action allows you to break free. </p>",
       "name": "Frozen in Place",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.iHMtpZsTEJogJdXu"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The extreme frio has leeched away a large amount of your body heat. While on initiative you function as if affected by the Slow spell. If untreated for two horas, the condition advances to Severe Hypothermia.</p><p><em>Tratamento</em> - A short rest slowly rewarming yourself ends this effect.</p>",
+      "description": "<p> The extreme Frio has leeched away a large amount of your body heat. While on initiative you function as if affected by the Slow spell. If untreated for two hours, the condition advances to Severe Hypothermia. </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming yourself ends this effect. </p>",
       "name": "Hypothermia",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KP5l2GWmommEsNFo"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. This body area is left with a pale, blue-tinged cicatriz.</p>",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. This body area is left with a pale, blue-tinged scar. </p>",
       "name": "Pale Blue Dot",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WzxI45g7DfRH4WBZ"
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. This area of your body has been cryo-branded, and will result in a defined, pale cicatriz. Any hair on the affected area will grow back white.</p>",
-      "name": "frio Brand",
+      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo foi criomarcada e resultará em uma cicatriz definida e pálida. Qualquer pelo na área afetada voltará a ficar branco. </p>",
+      "name": "Marca fria",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ZPVbTc1a7OJmxAyZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.CBY3vTDTvOSMuJIY"
     },
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>You cannot take the <em>dash</em> action. This effect lasts [[1d6]] rodadas.</p>",
+      "description": "<p> You cannot take the  <em> dash </em>  action. This effect lasts  [[1d6]]  rounds. </p>",
       "name": "Frost Nipped Toes",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.dD4Ahma09dBrSDPR"
@@ -322,7 +322,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você está frio. So frio. You stumble. You fumble. You tumble. You mumble and grumble. You cannot take the <em>disengage</em> action for [[1d6]] Turnos.</p>",
+      "description": "<p> You are Frio. So Frio. You stumble. You fumble. You tumble. You mumble and grumble. You cannot take the  <em> disengage </em>  action for  [[1d6]]  turns. </p>",
       "name": "The Umbles",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.SEeyX0wZ8DrrYk7O"
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{cicatriz Chart (Tabela de Cicatrizes)}. In a freak instance of chance, the frio has interacted with a thread of natural magic dentro de you. This area of your body is permanently frigid (though to you it feels pleasantly cool) and it radiates a faint aura of Transmutation. Você tem Advantage on Constitution checks and saves made to resist the environmental effects of frio. You may suppress this effect by maintaining concentration.</p>",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the Frio has interacted with a thread of natural magic within you. This area of your body is permanently frigid (though to you it feels pleasantly cool) and it radiates a faint aura of Transmutation. You have advantage on Constitution checks and saves made to resist the environmental effects of Frio. You may suppress this effect by maintaining Concentração. </p>",
       "name": "Heart of Ice",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ivXkUWxsKpu7W2xF"
@@ -376,8 +376,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small apêndice Table (Tabela de Apêndices Menores)}. This apêndice is firm, frigid, pale, and <strong>não funcional</strong>. If not treated dentro de 15 minutos it will necrotize and fall off in [[1d4]] dias (after which it is <strong>ausente</strong>).</p><p><em>Tratamento</em> - A short rest slowly rewarming O apêndice.</p>",
-      "name": "Frost Bitten apêndice",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. This appendage is firm, frigid, pale, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes it will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the appendage. </p>",
+      "name": "Frost Bitten Appendage",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bpeQ09urKr3yUOk0"
     },
@@ -403,8 +403,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large membro Table (Tabela de Membros Maiores)}. seu membro is frozen, rigid, numb, and <strong>não funcional</strong>. If not treated dentro de 15 minutos O membro will necrotize and fall off in [[1d4]] dias (after which it is <strong>ausente</strong>)</p><p><em>Tratamento</em> - A short rest slowly rewarming O membro.</p>",
-      "name": "Frost Bitten membro",
+      "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Your limb is frozen, rigid, numb, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ) </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the limb. </p>",
+      "name": "Frost Bitten Limb",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.u88lSICkmHVEB4DT"
     },
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>The frio has permanently damaged your nerves and your reflexes have become dull and sluggish. Você tem Disadvantage on initiative checks.</p>",
+      "description": "<p> The Frio has permanently damaged your nerves and your reflexes have become dull and sluggish. You have disadvantage on initiative checks. </p>",
       "name": "Slowed Reflexes",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rgDfZBqajmNAITMC"

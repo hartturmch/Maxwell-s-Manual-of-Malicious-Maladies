@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>The attack has hit one of your vital points and opened a large artery. You are bleeding out. At the end of each turn, take one level of <strong>&Reference[exhaustion]{exhaustion}</strong>.</p><p><em>Treatment</em> - A [[/skill medicine 16]] check staunches bleeding. On a failed save you do not take a level of <strong>exhaustion</strong> at the end of your next turn. You may reattempt this check.</p>",
+      "value": "<p> The attack has hit one of your vital points and opened a large artery. You are bleeding out. At the end of each turn, take one level of  <strong> &Reference[exhaustion]{exhaustion} </strong> . </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 16]]  check staunches bleeding. On a failed Teste de Resistência you do not take a level of  <strong> exhaustion </strong>  at the end of your next turn. You may reattempt this check. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Slashing Lingering Injury"
+    "requirements": "Cortante Lesão Persistente"
   },
   "effects": [
     {

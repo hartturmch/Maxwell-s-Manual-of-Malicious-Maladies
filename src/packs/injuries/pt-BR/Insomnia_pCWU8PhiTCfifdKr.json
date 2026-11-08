@@ -5,7 +5,7 @@
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Your brain feels wired, and you cannot force it to rest no matter how hard you try. You cannot benefit from short or long rests for [[1d4]] days (You do not regain HD, cannot regain spell slots or prepare spells, and do not heal). During this time you are immune to magical sleep.</p>",
+      "value": "<p> Your brain feels wired, and you cannot Força it to rest no matter how hard you try. You cannot benefit from short or long rests for  [[1d4]]  days (You do not regain HD, cannot regain spell slots or prepare spells, and do not heal). During this time you are immune to magical sleep. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psychic Lingering Injury"
+    "requirements": "Psíquico Lesão Persistente"
   },
   "effects": [
     {

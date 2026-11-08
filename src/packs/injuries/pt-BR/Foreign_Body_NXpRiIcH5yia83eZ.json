@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>The attack is over, but it's left something left behind. An arrowhead, a chip from the creature's tooth, or the broken point of a sword, perhaps. Whatever it is, you can still feel it cutting within you. Any time you use an action, bonus action, and movement on the same turn you are &Reference[incapacitated]{incapacitated} until the end of your next turn.</p><p><em>Treatment</em> - A DC 19 General Surgery removes the foreign body and ends this effect.</p>",
+      "value": "<p> The attack is over, but it's left something left behind. An arrowhead, a chip from the creature's tooth, or the broken point of a sword, perhaps. Whatever it is, you can still feel it cutting within you. Any time you use an action, bonus action, and movement on the same turn you are &Reference[incapacitated]{incapacitated} until the end of your next turn. </p>  <p>  <em> Tratamento </em>  - A  DC  19 General Cirurgia removes the foreign body and ends this effect. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Piercing Lingering Injury"
+    "requirements": "Perfurante Lesão Persistente"
   },
   "effects": [
     {

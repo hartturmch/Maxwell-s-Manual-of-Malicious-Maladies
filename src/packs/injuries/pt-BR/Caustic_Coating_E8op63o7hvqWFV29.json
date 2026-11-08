@@ -1,11 +1,11 @@
 {
   "_id": "E8op63o7hvqWFV29",
-  "name": "Caustic Coating",
+  "name": "Revestimento Cáustico",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p>Any friendly character you touch or otherwise interact with physically takes acid damage equal to your level. Creatures you grapple take this damage at the beginning of their turn. This effect lasts 1 minute.</p><p><em>Treatment</em> - A [[/skill medicine 15]] check ends this effect. You may reattempt this check.</p>",
+      "value": "<p> Qualquer personagem amigável que você toque ou com quem interaja fisicamente sofre dano ácido igual ao seu nível. As criaturas que você agarrar sofrem esse dano no início de seu turno. Este efeito dura 1 minuto. </p>  <p>  <em> Tratamento __ X4X__  - Uma verificação [[/skill medicine 15]] acaba com esse efeito. Você pode tentar novamente esta verificação. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Acid Lingering Injury"
+    "requirements": "Ácido Lesão Persistente"
   },
   "effects": [
     {
       "_id": "Lx2ZR4l3qALXDr6I",
-      "name": "Caustic Coating",
+      "name": "Revestimento Cáustico",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

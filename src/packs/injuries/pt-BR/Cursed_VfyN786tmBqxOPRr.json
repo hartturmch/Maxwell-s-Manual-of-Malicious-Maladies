@@ -1,11 +1,11 @@
 {
   "_id": "VfyN786tmBqxOPRr",
-  "name": "Cursed",
+  "name": "Amaldiçoado",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>You feel the negative energy latching on to you, actively working against you. You are afflicted as if by the Bestow Curse spell, with the specific curse chosen at random, or by the DM. For the purpose of identifying targets, the source of the damage is assumed to be the caster of the curse. The curse lasts until the next sunrise.</p><p><em>Treatment</em> - A Remove Curse spell will end this effect, as usual.</p>",
+      "value": "<p> Você sente a energia negativa se agarrando a você, trabalhando ativamente contra você. Você é afligido como se fosse pelo feitiço Conceder Maldição, com a maldição específica escolhida aleatoriamente, ou pelo Mestre. Para fins de identificação de alvos, presume-se que a fonte do dano seja o conjurador da maldição. A maldição dura até o próximo nascer do sol. </p>  <p>  <em> Tratamento </em>  - Um feitiço Remover Maldição acabará com esse efeito, como de costume. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrotic Lingering Injury"
+    "requirements": "Necrótico Lesão Persistente"
   },
   "effects": [
     {
       "_id": "5eMbBASqL7gXrwev",
-      "name": "Cursed",
+      "name": "Amaldiçoado",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

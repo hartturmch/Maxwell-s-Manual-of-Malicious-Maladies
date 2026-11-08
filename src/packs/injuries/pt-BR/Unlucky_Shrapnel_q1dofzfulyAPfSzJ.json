@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Roll to randomly determine your left or right eye. An unlucky piece of shrapnel has ricocheted straight into your eye. This eye is <strong>nonfunctional</strong>. If not treated within 4 hours, your vision permanently <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 20 Save Sense Surgery.</p>",
+      "value": "<p> Roll to randomly determine your left or right eye. An unlucky piece of shrapnel has ricocheted straight into your eye. This eye is  <strong> sem funcionamento </strong> . If not treated within 4 hours, your vision permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Thunder Lingering Injury"
+    "requirements": "Trovão Lesão Persistente"
   },
   "effects": [
     {

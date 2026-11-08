@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>You feel sick, and without warning, the last meal you ate is purged from your stomach. You are &Reference[incapacitated]{incapacitated} until the end of your next turn, and you have disadvantage on all ability checks for [[1d2]] rounds.</p>",
+      "value": "<p> You feel sick, and without warning, the last meal you ate is purged from your stomach. You are &Reference[incapacitated]{incapacitated} until the end of your next turn, and you have disadvantage on all ability checks for  [[1d2]]  rounds. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Poison Lingering Injury"
+    "requirements": "Veneno Lesão Persistente"
   },
   "effects": [
     {

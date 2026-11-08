@@ -5,7 +5,7 @@
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>The force of the blast has left you reeling. You are <strong>&Reference[stunned]{stunned}</strong> until the end of your next turn.</p>",
+      "value": "<p> The Força of the blast has left you reeling. You are  <strong> &Reference[stunned]{stunned} </strong>  until the end of your next turn. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Thunder Lingering Injury"
+    "requirements": "Trovão Lesão Persistente"
   },
   "effects": [
     {

@@ -1,11 +1,11 @@
 {
   "_id": "ONRCEI0PF2jD4mah",
-  "name": "Inner fogo",
+  "name": "Inner Fogo",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. In a freak instance of chance, the heat has interacted with a thread of natural magic within you. This area of your body is permanently hot (though to you it feels pleasantly warm) and radiates a faint aura of Transmutation. You have advantage on Constitution checks and saving throws made to resist the environmental effects of heat. You may suppress this effect by maintaining concentration.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the heat has interacted with a thread of natural magic within you. This area of your body is permanently hot (though to you it feels pleasantly warm) and radiates a faint aura of Transmutation. You have advantage on Constitution checks and saving throws made to resist the environmental effects of heat. You may suppress this effect by maintaining Concentração. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fire Lingering Injury"
+    "requirements": "Fogo Lesão Persistente"
   },
   "effects": [
     {
       "_id": "uzt2Z2HjDIQoK82T",
-      "name": "Inner Fire",
+      "name": "Inner Fogo",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

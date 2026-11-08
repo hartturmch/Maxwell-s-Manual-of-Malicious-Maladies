@@ -1,11 +1,11 @@
 {
   "_id": "su1AKqpXfwnFGHWr",
-  "name": "Corrupted Soul",
+  "name": "Alma Corrompida",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p>You've borne witness to a deep darkness and even now you can feel its touch lingering on your soul. Your alignment shifts one step towards evil. If you are already evil, treat this roll as a 15.</p>",
+      "value": "<p> Você testemunhou uma escuridão profunda e, mesmo agora, pode sentir seu toque persistente em sua alma. Seu alinhamento muda um passo em direção ao mal. Se você já é mau, trate este teste como um 15. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Necrotic Lingering Injury"
+    "requirements": "Necrótico Lesão Persistente"
   },
   "effects": [],
   "folder": "1nRoeyF7X9eMLmxS",

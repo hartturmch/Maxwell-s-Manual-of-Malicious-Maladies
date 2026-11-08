@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. You feel a stabbing pain in your appendage, and then an instant numbness. The appendage is <strong>nonfunctional</strong> and will not heal properly without surgery.</p><p><em>Treatment</em> - A DC 20 Save Sense Surgery.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. You feel a stabbing pain in your appendage, and then an instant numbness. The appendage is  <strong> sem funcionamento </strong>  and will not heal properly without Cirurgia. </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Piercing Lingering Injury"
+    "requirements": "Perfurante Lesão Persistente"
   },
   "effects": [
     {

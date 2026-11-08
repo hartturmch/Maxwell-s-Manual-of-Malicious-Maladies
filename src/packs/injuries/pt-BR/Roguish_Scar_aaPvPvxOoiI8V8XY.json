@@ -1,11 +1,11 @@
 {
   "_id": "aaPvPvxOoiI8V8XY",
-  "name": "Roguish cicatriz",
+  "name": "Roguish Scar",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. You are left with a scar that somehow gives you a distinct roguish charm. When this scar is visible you have a +1 bonus to Charisma (Deception) checks. If you collect multiple Roguish Scars, this bonus does not stack.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with a scar that somehow gives you a distinct roguish charm. When this scar is visible you have a +1 bonus to Charisma (Deception) checks. If you collect multiple Roguish Scars, this bonus does not stack. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Piercing Lingering Injury"
+    "requirements": "Perfurante Lesão Persistente"
   },
   "effects": [
     {

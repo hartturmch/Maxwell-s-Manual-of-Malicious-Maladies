@@ -1,11 +1,11 @@
 {
   "_id": "PMLqI1xVq357Hm5f",
-  "name": "Dazzled",
+  "name": "deslumbrado",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>Lights dance in your vision and you shake your head in an attempt to clear it. You are <strong>&Reference[blinded]{blinded}</strong> until the end of your next turn.</p><p><em>Treatment</em> - A Lesser Restoration spell will cure this condition as usual.</p>",
+      "value": "<p> Lights dance in your vision and you shake your head in an attempt to clear it. You are  <strong> &Reference[blinded]{blinded} </strong>  until the end of your next turn. </p>  <p>  <em> Tratamento </em>  - A Lesser Restoration spell will cure this condition as usual. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [
     {
       "_id": "LsodhS9oGmRRHQQ1",
-      "name": "Dazzled",
+      "name": "deslumbrado",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "4V5MtYMFihK5kGRQ",
-  "name": "Concussive Amputation",
+  "name": "Amputação concussiva",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The concussive blast has torn your limb clean off and sent it sailing through the air. It lands 30 feet from you, pushed away from the direction of the attack and is considered <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 22 Save Limb Surgery.</p>",
+      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. A explosão de concussão rasgou seu membro e o fez navegar pelo ar. Ele cai a 9 metros de você, se afasta da direção do ataque e é considerado  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  __ X8X__  22 Salvar Cirurgia de Membros. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Thunder Lingering Injury"
+    "requirements": "Trovão Lesão Persistente"
   },
   "effects": [
     {
       "_id": "61K2roorYUMaStM8",
-      "name": "Concussive Amputation",
+      "name": "Amputação concussiva",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "PaLdXDLkYkynIM5B",
-  "name": "Blurred Vision",
+  "name": "Visão embaçada",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p>Your eyes cloud over, your vision blurs, and distinct shapes become amorphous blobs. You have disadvantage on Wisdom (Perception) checks relying on vision and all ranged attacks for [[1d4]] days. If you have darkvision, you lose it for this duration.</p><p><em>Treatment</em> - A [[/skill medicine 15]] check reduces the duration of this injury by [[1d2]] days.</p>",
+      "value": "<p> Seus olhos ficam turvos, sua visão fica embaçada e formas distintas se tornam bolhas amorfas. Você tem desvantagem em testes de Sabedoria (Percepção) que dependem da visão e de todos os ataques à distância por  [[1d4]]  dias. Se você tem visão no escuro, você a perde por esse período. </p>  <p>  <em> Tratamento </em>  - Uma verificação [[/skill medicine 15]] reduz a duração desta lesão em [[1d2]]  dias. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Poison Lingering Injury"
+    "requirements": "Veneno Lesão Persistente"
   },
   "effects": [
     {
       "_id": "vqqs3H2UVV9H5tN6",
-      "name": "Blurred Vision",
+      "name": "Visão embaçada",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

@@ -1,11 +1,11 @@
 {
   "_id": "trzqu8dPofAPS68G",
-  "name": "Lightning Rod",
+  "name": "Relâmpago Rod",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
     "description": {
-      "value": "<p>The electricity crackles around your body for a second, looking for the closest thing to discharge to. The electricity then arcs from you to the nearest creature carrying metal weapons or wearing metal armor. This creature takes lightning damage equal to half the damage that caused the lingering injury.</p>",
+      "value": "<p> The electricity crackles around your body for a second, looking for the closest thing to discharge to. The electricity then arcs from you to the nearest creature carrying metal weapons or wearing metal armor. This creature takes Relâmpago Dano equal to half the Dano that caused the Lesão Persistente. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Lightning Lingering Injury"
+    "requirements": "Relâmpago Lesão Persistente"
   },
   "effects": [],
   "folder": "pVtivJ93JSXv9sP3",

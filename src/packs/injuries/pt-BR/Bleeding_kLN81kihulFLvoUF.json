@@ -1,11 +1,11 @@
 {
   "_id": "kLN81kihulFLvoUF",
-  "name": "sangramento",
+  "name": "Hemorragia",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>You see blood trickling from your wound. It's not a lot, but it adds up. At the end of each turn you take damage to your maximum hit points scaled to the damage that caused the lingering injury: 1-10 damage ([[1d2]]), 11-20 damage ([[1d4]]), 21-30 damage ([[1d6]]), 31-40 damage ([[1d8]]), &gt;40 damage ([[1d10]]).</p><p><em>Treatment</em> - A [[/skill medicine 10]] check staunches the bleeding. You may reattempt this check.</p>",
+      "value": "<p> Você vê sangue escorrendo da sua ferida. Não é muito, mas faz sentido. No final de cada turno, você sofre dano ao máximo de pontos de vida dimensionados para o dano que causou a lesão persistente: 1-10 dano ( [[1d2]] ), 11-20 dano ( [[1d4]] ), 21-30 dano ( [[1d6]] ), 31-40 dano ( __ X4X __ ),  __ X5X __ 40 dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - Uma verificação __X11X __ estanca o sangramento. Você pode tentar novamente esta verificação. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Slashing Lingering Injury"
+    "requirements": "Cortante Lesão Persistente"
   },
   "effects": [
     {
       "_id": "ihBirVPQnljnAhh2",
-      "name": "Bleeding",
+      "name": "Hemorragia",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

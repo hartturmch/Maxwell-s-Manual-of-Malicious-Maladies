@@ -1,5 +1,5 @@
 {
-  "name": "Sword Cane",
+  "name": "Sword Bengala",
   "type": "weapon",
   "img": "icons/weapons/staves/staff-ornate-hook.webp",
   "effects": [],
@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>This seemingly simple cane houses a thin, wickedly sharp blade. Normally, this object functions as a cane. A character may use an object interaction to draw or sheathe the blade inside. While drawn, it functions as a rapier (dealing 1d8 piercing damage with the finesse property). While the blade is drawn, the character does not get the movement penalty reduction the cane offers.</p>",
+      "value": "<p> This seemingly simple Bengala houses a thin, wickedly sharp blade. Normally, this object functions as a Bengala. A character may use an object interaction to draw or sheathe the blade inside. While drawn, it functions as a rapier (dealing  1d8  Perfurante Dano with the finesse property). While the blade is drawn, the character does not get the movement penalty reduction the Bengala offers. </p>",
       "chat": ""
     },
     "source": {
@@ -76,7 +76,7 @@
         "denomination": 8,
         "bonus": "",
         "types": [
-          "piercing"
+          "Perfurante"
         ],
         "custom": {
           "enabled": false,

@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>This delicate crosshair attachment can be fitted to any crossbow with a DC 15 Tinker's Tools check. While fitted, you may ignore the penalty to ranged attacks when one of your eyes is <strong>nonfunctional </strong>or <strong>missing</strong>.</p>",
+      "value": "<p> This delicate crosshair attachment can be fitted to any crossbow with a  DC  15 Tinker's Tools check. While fitted, you may ignore the penalty to ranged attacks when one of your eyes is  <strong> sem funcionamento  </strong> or  <strong> ausente </strong> . </p>",
       "chat": ""
     },
     "source": {

@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p>As the arcane energy strikes you, you feel something within you sputter and fizzle. You lose the ability to cast spells through any means (including class features, racial traits, or magical items) for [[1d4]] days.</p>",
+      "value": "<p> As the arcane energy strikes you, you feel something within you sputter and fizzle. You lose the ability to cast spells through any means (including class features, racial traits, or magical items) for  [[1d4]]  days. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Force Lingering Injury"
+    "requirements": "Força Lesão Persistente"
   },
   "effects": [
     {

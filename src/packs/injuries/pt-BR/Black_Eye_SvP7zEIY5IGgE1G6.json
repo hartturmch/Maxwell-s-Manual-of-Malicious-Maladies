@@ -1,11 +1,11 @@
 {
   "_id": "SvP7zEIY5IGgE1G6",
-  "name": "Black Eye",
+  "name": "Olho Roxo",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>You've got yourself a good ol' fashioned shiner. It will resolve on its own in [[1d6]] days, but you may look out of place in polite company until then.</p>",
+      "value": "<p> Você tem um bom e velho shiner. Ele resolverá por conta própria em  [[1d6]]  dias, mas você pode parecer deslocado em uma companhia educada até lá. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
       "_id": "ZwUm6xcMEY6eDqd8",
-      "name": "Black Eye",
+      "name": "Olho Roxo",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

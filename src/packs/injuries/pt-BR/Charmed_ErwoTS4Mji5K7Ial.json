@@ -1,11 +1,11 @@
 {
   "_id": "ErwoTS4Mji5K7Ial",
-  "name": "Charmed",
+  "name": "Enfeitiçado",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p></strong></p><p>Against all logic, you feel yourself becoming warm and endeared. You are <strong>&Reference[charmed]{charmed}</strong> by the source of the damage as if under the effects of the Charm Person spell. This effect lasts until the end of your next turn.</p><p><em>Treatment</em> - Taking any amount of damage from the source of the charm ends this effect.</p>",
+      "value": "<p>  </strong>  </p>  <p> Contra toda a lógica, você se sente acolhedor e querido. Você é  <strong> &Referência[charmed]{charmed} __X5X __  pela fonte do dano como se estivesse sob os efeitos do feitiço Pessoa Encantada. Este efeito dura até o final do seu próximo turno. </p>  <p>  <em> Tratamento </em>  - Tirar qualquer quantidade de dano da fonte do amuleto acaba com esse efeito. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psychic Lingering Injury"
+    "requirements": "Psíquico Lesão Persistente"
   },
   "effects": [
     {
       "_id": "elRK1cDEfzLOxbNV",
-      "name": "Charmed",
+      "name": "Enfeitiçado",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

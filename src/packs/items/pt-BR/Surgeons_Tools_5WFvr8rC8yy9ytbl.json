@@ -28,7 +28,7 @@
   },
   "system": {
     "description": {
-      "value": "<p>This black leather bag contains everything you'd need to perform surgery, including anesthetics, scalpels, clamps, bandages, salves, and catgut sutures imbued with healing potion residue to help speed healing and prevent infection. Proficiency with these tools allows you to add your proficiency bonus to any ability check you make to perform surgery. Proficiency with surgeons' tool is required to attempt surgery.</p>",
+      "value": "<p> This black leather bag contains everything you'd need to perform Cirurgia, including anesthetics, scalpels, clamps, bandages, salves, and catgut sutures imbued with healing potion residue to help speed healing and prevent infection. Proficiency with these tools allows you to add your proficiency bonus to any ability check you make to perform Cirurgia. Proficiency with surgeons' tool is required to attempt Cirurgia. </p>",
       "chat": ""
     },
     "source": {

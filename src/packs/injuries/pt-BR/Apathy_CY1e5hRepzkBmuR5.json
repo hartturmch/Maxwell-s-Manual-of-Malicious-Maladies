@@ -1,11 +1,11 @@
 {
   "_id": "CY1e5hRepzkBmuR5",
-  "name": "Apathy",
+  "name": "Apatia",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
     "description": {
-      "value": "<p>Your mind has been indelibly altered, and you just find it more difficult to care. Your alignment shifts one step towards neutral on the good/evil axis. If it is already neutral, treat this roll as a 15.</p>",
+      "value": "<p> Sua mente foi indelevelmente alterada e você acha mais difícil se importar. Seu alinhamento muda um passo para neutro no eixo do bem/mal. Se já estiver neutro, trate este teste como um 15. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Psychic Lingering Injury"
+    "requirements": "Psíquico Lesão Persistente"
   },
   "effects": [],
   "folder": "LhZNHt3RmLuRoZa8",

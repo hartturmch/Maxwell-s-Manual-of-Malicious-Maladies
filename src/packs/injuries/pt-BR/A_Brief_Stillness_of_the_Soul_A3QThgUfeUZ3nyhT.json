@@ -1,11 +1,11 @@
 {
   "_id": "A3QThgUfeUZ3nyhT",
-  "name": "A Brief Stillness of the Soul",
+  "name": "Uma breve quietude da alma",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
     "description": {
-      "value": "<p>You've received a brief glimpse of something greater and you can't help but pause for a moment of distracted contemplation. You cannot take reactions for [[1d4]] turns.</p>",
+      "value": "<p> Você teve um breve vislumbre de algo maior e não pode deixar de fazer uma pausa para um momento de contemplação distraída. Você não pode aceitar reações por  [[1d4]]  turnos. </p>",
       "chat": ""
     },
     "source": {
@@ -16,12 +16,12 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Radiant Lingering Injury"
+    "requirements": "Radiante Lesão Persistente"
   },
   "effects": [
     {
       "_id": "RXkK2o9dwoIRIygZ",
-      "name": "A Brief Stillness of the Soul",
+      "name": "Uma breve quietude da alma",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

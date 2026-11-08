@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
     "description": {
-      "value": "<p>Roll to randomly determine your left or right ear. You've taken a grievous wound across this ear. It is <strong>nonfunctional</strong>, and if not treated within 12 hours, your hearing will be permanently <strong>missing</strong>.</p><p><em>Treatment</em> - A DC 20 Save Sense Surgery.</p>",
+      "value": "<p> Roll to randomly determine your left or right ear. You've taken a grievous wound across this ear. It is  <strong> sem funcionamento </strong> , and if not treated within 12 hours, your hearing will be permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Slashing Lingering Injury"
+    "requirements": "Cortante Lesão Persistente"
   },
   "effects": [
     {

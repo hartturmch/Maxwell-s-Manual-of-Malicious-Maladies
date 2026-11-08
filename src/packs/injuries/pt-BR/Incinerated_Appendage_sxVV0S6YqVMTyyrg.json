@@ -1,11 +1,11 @@
 {
   "_id": "sxVV0S6YqVMTyyrg",
-  "name": "Incinerated apêndice",
+  "name": "Incinerated Appendage",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
     "description": {
-      "value": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The blazing fires have scoured through until nothing but ash remains. The appendage is <strong>missing</strong> and the resulting wound is cauterized.</p>",
+      "value": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The blazing fires have scoured through until nothing but ash remains. The appendage is  <strong> ausente </strong>  and the resulting wound is cauterized. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Fire Lingering Injury"
+    "requirements": "Fogo Lesão Persistente"
   },
   "effects": [
     {

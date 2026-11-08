@@ -5,7 +5,7 @@
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
     "description": {
-      "value": "<p>The cold has permanently damaged your nerves and your reflexes have become dull and sluggish. You have disadvantage on initiative checks.</p>",
+      "value": "<p> The Frio has permanently damaged your nerves and your reflexes have become dull and sluggish. You have disadvantage on initiative checks. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Cold Lingering Injury"
+    "requirements": "Frio Lesão Persistente"
   },
   "effects": [
     {

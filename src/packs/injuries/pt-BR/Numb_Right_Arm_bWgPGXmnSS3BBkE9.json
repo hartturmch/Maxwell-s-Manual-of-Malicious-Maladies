@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>The force of the impact jars your nerves and sends a spreading numbness through your right arm. You drop anything you are holding with that arm and it is <strong>nonfunctional</strong> for [[1d4]] turns.</p><p><em>Treatment</em> - Any amount of magical healing will end this effect.</p>",
+      "value": "<p> The Força of the impact jars your nerves and sends a spreading numbness through your right arm. You drop anything you are holding with that arm and it is  <strong> sem funcionamento </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
       "chat": ""
     },
     "source": {
@@ -16,7 +16,7 @@
       "value": "",
       "subtype": ""
     },
-    "requirements": "Bludgeoning Lingering Injury"
+    "requirements": "Contundente Lesão Persistente"
   },
   "effects": [
     {
