@@ -1,11 +1,11 @@
 {
   "_id": "F99iIEP9a1Eyum7w",
-  "name": "Dissolvido Membro",
+  "name": "Membro Dissolvido",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Role na  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Ácido coats your limb, and you hear the sizzle as it starts to dissolve. This limb is  <strong> sem funcionamento </strong> . If you do not receive Tratamento dentro de 30 minutos, the limb dissolves away and is  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Cirurgia de Membro. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
+      "value": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Ácido cobre seu membro, e você ouve o chiado enquanto ele começa a se dissolver. Este membro fica <strong>sem funcionamento</strong>. Se você não receber Tratamento em 30 minutos, o membro se dissolve e fica <strong>ausente</strong>.</p><p><em>Tratamento</em> - Um DC 20 Saving Throw de Cirurgia de Membro. Você tem 1 check para esta Cirurgia; se não atingir a DC no primeiro check, o membro é perdido.</p>",
       "chat": ""
     },
     "source": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "RlPSPAG4I8fsrFD7",
-      "name": "Dissolvido Membro",
+      "name": "Membro Dissolvido",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

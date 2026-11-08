@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> This item resembles a curled horn. When you hold the narrow end your ear canal you may ignore any disadvantage to Wisdom (Perception) checks made to hear that were caused by a Lesão Persistente. </p>",
+      "value": "<p>Este item se parece com um chifre curvado. Quando você segura a extremidade estreita junto ao canal auditivo, pode ignorar qualquer desvantagem em testes relacionados à audição. Uma criatura que fale pela extremidade larga pode ser ouvida claramente por você.</p>",
       "chat": ""
     },
     "source": {

@@ -24,7 +24,7 @@
   },
   "system": {
     "description": {
-      "value": "<p> Crutches are a mobility aid that allows you to move with the help of their upper body when your lower body is injured. Crutches require two arms to use and allow you to ignore any movement penalty caused by a Lesão Persistente. </p>",
+      "value": "<p>Muletas são um auxílio de mobilidade que permite se deslocar usando a parte superior do corpo quando a parte inferior está lesionada. Usar muletas exige uma mão livre.</p>",
       "chat": ""
     },
     "source": {

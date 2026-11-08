@@ -1,11 +1,11 @@
 {
   "_id": "g5MTkNtAkdzOjMsf",
-  "name": "Dissolvido Magic",
+  "name": "Magia Dissolvida",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
     "description": {
-      "value": "<p> Ácido has eaten into the essence of one of your magic items, expelling its arcane energy and rendering it mundane. Choose a magic item on your person at random. That item loses all magical effects permanently. If the item's rarity is Legendary or Artifact, its magical effects are instead suppressed for  [[3d6]]  days (and return to normal after this period). </p>",
+      "value": "<p>O Ácido penetrou na essência de um de seus itens mágicos, expulsando sua energia arcana e tornando-o mundano. Escolha aleatoriamente um item mágico que esteja com você. Esse item perde permanentemente todos os efeitos mágicos. Se a raridade do item for Legendary ou Artifact, seus efeitos mágicos ficam suprimidos por [[3d6]] dias e retornam ao normal depois desse período.</p>",
       "chat": ""
     },
     "source": {

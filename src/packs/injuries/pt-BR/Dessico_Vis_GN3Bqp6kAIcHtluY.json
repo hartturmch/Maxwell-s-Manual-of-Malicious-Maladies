@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Your magical equipment fizzles and starts to emit a high-pitch whine. You're pretty sure it's not supposed to do that... Choose one of your magical items that has charges at random and roll  [[1d4]] . That many charges are immediately expended (targets chosen at random, if necessary) and the item's maximum charges are permanently reduced by that amount (to a minimum of 1). </p>",
+      "value": "<p>Seu equipamento mágico falha e começa a emitir um ruído agudo. Você tem certeza de que isso não deveria acontecer. Escolha aleatoriamente um de seus itens mágicos que possua cargas e role [[1d4]]. Essa quantidade de cargas é imediatamente gasta (os alvos são escolhidos aleatoriamente, se necessário), e o máximo de cargas do item é reduzido permanentemente nessa quantidade, até o mínimo de 1.</p>",
       "chat": ""
     },
     "source": {
