@@ -1,22 +1,22 @@
 {
   "mmm": {
-    "title": "Manual de Maxwell sobre Doenças Maliciosas",
+    "title": "Maxwell's Manual of Malicious Maladies",
     "settings": {
       "language": { "name": "Idioma", "hint": "Idioma usado pelo módulo. Alterar o idioma recarrega o Foundry.", "en": "English", "ptBR": "Português (Brasil)" },
       "applyOnDamage": { "name": "Ao sofrer dano", "hint": "Solicita uma rolagem de lesão persistente quando uma única instância de dano atingir o limite abaixo." },
-      "damageThreshold": { "name": "Limite de dano", "hint": "Fração dos pontos de vida máximos que uma única instância de dano deve atingir para solicitar a rolagem (0,5 = metade)." },
-      "applyOnDown": { "name": "Ao ficar inconsciente", "hint": "Solicita uma rolagem quando o dano reduz um Actor a 0 pontos de vida." },
-      "applyOnCritSave": { "name": "Ao falhar criticamente no Saving Throw", "hint": "Solicita uma rolagem quando o dano vier de um Saving Throw com resultado natural 1." },
-      "applyOnCrit": { "name": "Ao sofrer Critical Hit", "hint": "Solicita uma rolagem quando o Actor sofrer dano de um Critical Hit." },
-      "triggerNpc": { "name": "Aplicar lesões a NPCs", "hint": "Ativa as automações em Actors sem jogador proprietário." },
+      "damageThreshold": { "name": "Limite de dano", "hint": "Fração dos Hit Points (Pontos de Vida-HP) máximos que uma única instância de dano deve atingir para solicitar a rolagem de lesão persistente (0,5 = metade)." },
+      "applyOnDown": { "name": "Ao ficar inconsciente", "hint": "Solicita uma rolagem de lesão persistente quando o dano reduz um Actor a 0 Hit Points (Pontos de Vida-HP)." },
+      "applyOnCritSave": { "name": "Ao falhar criticamente em um Saving Throw (Teste de Resistência)", "hint": "Solicita uma rolagem de lesão persistente quando o dano vier de um Saving Throw (Teste de Resistência) em que o Actor tirou Natural 1." },
+      "applyOnCrit": { "name": "Ao sofrer Critical Hit", "hint": "Solicita uma rolagem de lesão persistente quando o Actor sofrer dano de um Critical Hit." },
+      "triggerNpc": { "name": "Acionar lesões em NPCs", "hint": "Ativa as automações em Actors sem um jogador proprietário." },
       "selfdestruct": { "name": "Remover lesões expiradas", "hint": "Exclui o Item de lesão do Actor quando todos os seus efeitos expirarem." },
-      "autoApplyOngoing": { "name": "Aplicar dano contínuo automaticamente", "hint": "Aplica automaticamente dano contínuo de lesões no início/fim do turno. Desativado, publica um cartão de dano para aplicação manual." }
+      "autoApplyOngoing": { "name": "Aplicar dano contínuo automaticamente", "hint": "Aplica automaticamente o dano contínuo das lesões (queimadura, veneno, sangramento) no início/fim do Turn (Turno). Desativado, publica um cartão de dano para aplicação manual." }
     },
-    "dialog": { "chooseTable": "Escolha uma tabela:", "roll": "Rolar lesão", "confirm": "Confirmar", "sustained": "{actor} sofreu uma lesão persistente.", "reason": "Motivo", "rollOnTable": "Rolar na tabela de dano <strong>{damage}</strong>?", "selectDamageType": "Selecione o <strong>Damage Type</strong> correto antes de rolar na tabela.", "damagePrompt": "Quanto dano causou <strong>{injury}</strong>? Alguns efeitos escalam com esse valor." },
-    "reasons": { "downed": "Inconsciente", "damage": "Dano excedeu o limite dos pontos de vida máximos", "crit": "Critical Hit", "critSave": "Saving Throw com falha crítica" },
-    "chat": { "apply": "Aplicar lesão persistente", "location": "Local", "applied": "{injury} aplicado a {actor}.", "duration": "Duração", "instant": "Instantâneo", "untilTreated": "Até ser tratado ou removido", "ongoingDamage": "{injury}: dano contínuo", "ongoingExhaustion": "{injury}: recebe {levels} nível(is) de exhaustion." },
-    "location": { "left": "Esquerdo", "right": "Direito", "arm": "Braço", "eye": "Olho", "ear": "Orelha" },
+    "dialog": { "chooseTable": "Escolha uma tabela:", "roll": "Rolar lesão", "confirm": "Confirmar", "sustained": "{actor} sofreu uma lesão persistente.", "reason": "Motivo", "rollOnTable": "Rolar na tabela de dano <strong>{damage}</strong>?", "selectDamageType": "Selecione o <strong>Damage Type (Tipo de Dano)</strong> correto antes de rolar na tabela.", "damagePrompt": "Quanto dano causou <strong>{injury}</strong>? Alguns efeitos da lesão escalam com esse valor." },
+    "reasons": { "downed": "Abatido", "damage": "O dano excedeu o limite dos Hit Points (Pontos de Vida-HP) máximos", "crit": "Critical Hit", "critSave": "Saving Throw (Teste de Resistência) com falha crítica" },
+    "chat": { "apply": "Aplicar lesão persistente", "location": "Localização", "applied": "Lesão aplicada a {actor}: {injury}.", "duration": "Duração", "instant": "Instantâneo", "untilTreated": "Até ser tratado ou removido", "ongoingDamage": "{injury}: dano contínuo", "ongoingExhaustion": "{injury}: recebe {levels} nível(is) de Exhaustion (Exaustão)." },
+    "location": { "left": "Lado esquerdo:", "right": "Lado direito:", "arm": "Braço", "eye": "Olho", "ear": "Orelha" },
     "units": { "years": { "one": "ano", "other": "anos" }, "months": { "one": "mês", "other": "meses" }, "days": { "one": "dia", "other": "dias" }, "hours": { "one": "hora", "other": "horas" }, "minutes": { "one": "minuto", "other": "minutos" }, "seconds": { "one": "segundo", "other": "segundos" }, "rounds": { "one": "rodada", "other": "rodadas" }, "turns": { "one": "turno", "other": "turnos" } },
-    "notifications": { "noActor": "Nenhum token foi selecionado ou Actor encontrado!", "noInjury": "A lesão vinculada a este resultado não foi encontrada." }
+    "notifications": { "noActor": "Nenhum token selecionado ou Actor encontrado!", "noInjury": "A lesão vinculada a este resultado não foi encontrada." }
   }
 }
