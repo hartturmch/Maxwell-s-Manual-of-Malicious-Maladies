@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p>Role para determinar aleatoriamente o braço esquerdo ou direito. A intensidade do golpe forçou a articulação do seu ombro para fora do encaixe. Este braço fica <strong>sem funcionamento</strong>.</p><p><em>Tratamento</em> - Enquanto estiver em iniciativa, faça um [[/check con 18]] check como Bonus Action para recolocar a articulação e encerrar esta lesão. Fora de iniciativa, um [[/skill medicine 18]] check encerra esta lesão.</p>",
+      "value": "<p>Role para determinar aleatoriamente o braço esquerdo ou direito. A intensidade do golpe forçou a articulação do seu ombro para fora do encaixe. Este braço fica <strong>sem funcionamento</strong>.</p><p><em>Tratamento</em> — Enquanto estiver em iniciativa, faça um [[/check con 18]] check como Bonus Action para recolocar a articulação e encerrar esta lesão. Fora de iniciativa, um [[/skill medicine 18]] check encerra esta lesão.</p>",
       "chat": ""
     },
     "source": {
