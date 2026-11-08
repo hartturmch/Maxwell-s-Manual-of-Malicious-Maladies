@@ -1,7 +1,7 @@
 {
-  "name": "Cortante - [MMMM]",
+  "name": "Slashing - [MMMM]",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
-  "description": "Aqui está uma dica para anotar e sublinhar duas vezes: o sangue pertence dentro do corpo. Quando encontrar um sangramento, é sua responsabilidade detê-lo o mais rápido possível. Não dependa de cura mágica; use pressão e bandagens apertadas. Não recomendamos sanguessugas: você quer mais sangue dentro do corpo, não menos.",
+  "description": "Aqui vai uma dica para você anotar, por favor sublinhe duas vezes: o sangue pertence ao interior do corpo. Quando encontrar uma hemorragia, é sua responsabilidade estancá-la o mais rápido possível. Não confie na cura mágica para resolver o problema; use pressão e bandagens apertadas. O uso de sanguessugas não é recomendado; você quer mais sangue dentro do corpo, não menos.",
   "results": [
     {
       "_id": "vJ9f19tCiLkLf7jr",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role aleatoriamente para o olho esquerdo ou direito. Você sofreu uma ferida grave atravessando esse olho. Ele fica <strong>sem funcionamento</strong> e, se não for tratado em 12 horas, sua visão ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
+      "description": "<p>Role para determinar aleatoriamente o olho esquerdo ou o direito. Você sofreu um ferimento grave que atravessa esse olho. Ele fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratado em 12 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
       "name": "Olho Cortado",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.vJ9f19tCiLkLf7jr",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ouYVpjOKVJcVzo6d"
@@ -52,8 +52,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. A intensidade do golpe cortou seu membro por completo. Ele cai seccionado aos seus pés e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia de Membro DC 22.</p>",
-      "name": "Membro Seccionado",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. A intensidade do golpe cortou seu membro fora. Ele cai decepado aos seus pés e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
+      "name": "Membro Decepado",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.Asnooo7m3fC7TmqL",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.N825I9jeVzOOG1li"
     },
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. A violência do golpe seccionou um dos seus pequenos apêndices. Ele cai aos seus pés e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia de Membro DC 22.</p>",
-      "name": "Apêndice Seccionado",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. A selvageria do golpe decepou um dos seus pequenos apêndices. Ele cai aos seus pés e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
+      "name": "Apêndice Decepado",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.HMMk2aJGt9NxZ2fo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sSk5qFNlNiYSl3iE"
     },
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque atingiu um ponto vital e abriu uma artéria grande. Você fica sangrando. Ao final de cada turno, sofre um nível de <strong>&Reference[exhaustion]{exhaustion}</strong>.</p><p><em>Tratamento</em> — Um [[/skill medicine 16]] check estanca o sangramento. Em caso de falha no Saving Throw, você não sofre um nível de <strong>exhaustion</strong> ao final do próximo turno. Você pode tentar este check novamente.</p>",
+      "description": "<p>O ataque atingiu um dos seus pontos vitais e abriu uma grande artéria. Você está sangrando até a morte. No final de cada Turn <em>(Turno)</em>, sofra um nível de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 16]]</strong> estanca o sangramento. Se você falhar no teste, não sofre um nível de <strong>exhaustion</strong> no final do seu próximo Turn. Você pode tentar este teste novamente.</p>",
       "name": "Exsanguinação",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.4WtHsXCOByvPqij8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fsDFlNpXHNC3JAvA"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você vê sangue jorrar da ferida e sente a cabeça leve. Ao final de cada turno, sofre Dano em seus Hit Points máximos proporcional ao Dano que causou a Lesão Persistente: 1–10 Dano ([[1d4]]), 11–20 Dano ([[1d6]]), 21–30 Dano ([[1d8]]), 31–40 Dano ([[1d10]]), mais de 40 Dano ([[1d12]]).</p><p><em>Tratamento</em> — Um [[/skill medicine 11]] check estanca o sangramento. Você pode tentar novamente.</p>",
+      "description": "<p>Você vê o sangue jorrar da sua ferida e sente certa tontura. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d4]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d6]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d8]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d10]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d12]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 11]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
       "name": "Hemorragia",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.1aZFemaaN5LlhCtn",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Ma7pEt7l2Srdr5x0"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você vê sangue escorrer da ferida. Não é muito, mas se acumula. Ao final de cada turno, sofre Dano em seus Hit Points máximos proporcional ao Dano que causou a Lesão Persistente: 1–10 Dano ([[1d2]]), 11–20 Dano ([[1d4]]), 21–30 Dano ([[1d6]]), 31–40 Dano ([[1d8]]), mais de 40 Dano ([[1d10]]).</p><p><em>Tratamento</em> — Um [[/skill medicine 10]] check estanca o sangramento. Você pode tentar novamente.</p>",
+      "description": "<p>Você vê sangue escorrendo da sua ferida. Não é muito, mas se acumula. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d2]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d4]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d6]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d8]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d10]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 10]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
       "name": "Sangramento",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.Eb52VVrgBOgdFzXF",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.kLN81kihulFLvoUF"
@@ -187,8 +187,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Sua ferida parece inflamada nas bordas e se recusa obstinadamente a cicatrizar. Você não pode recuperar Hit Points por meios não mágicos (como Short Rests ou Long Rests).</p><p><em>Tratamento</em> — Uma vez por Long Rest, você pode fazer um [[/skill medicine 18]] check para curar esta lesão.</p>",
-      "name": "Ferida Supurante",
+      "description": "<p>Sua ferida parece inflamada nas bordas e se recusa teimosamente a cicatrizar. Você não pode recuperar Hit Points <em>(Pontos de Vida-HP)</em> por meios não mágicos <em>(como Short Rests ou Long Rests)</em>.</p><p><em>Tratamento</em> — Uma vez por Long Rest <em>(Descanso Longo)</em>, você pode fazer um teste de <strong>[[/skill medicine 18]]</strong> para curar esta lesão.</p>",
+      "name": "Ferida Purulenta",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.nDeul6oAuIUnZGGW",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.PwAQwbEbLKQN7bVX"
     },
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sofreu um corte longo e doloroso em uma das pernas. Sua velocidade é reduzida em 10 pés. Esta lesão dura [[1d8]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check reduz a duração desta lesão em [[1d6]] dias.</p>",
+      "description": "<p>Você sofreu um corte longo e doloroso em uma das pernas. Sua velocidade é reduzida em 10 pés. Esta lesão dura <strong>[[1d8]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> reduz a duração desta lesão em <strong>[[1d6]]</strong> dias.</p>",
       "name": "Laceração na Perna",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.0SpCq7yz5ExlheSP",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.0N9c1tfXaC3LLtM9"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz fina e sinuosa nesta área do corpo.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz fina e sinuosa nesta área do seu corpo.</p>",
       "name": "Cicatriz Sinuosa",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.24omQYVqdDvxO96H",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GAIZ0crw1xfeih5e"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz espessa e elevada nesta área do corpo.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz grossa e elevada nesta área do seu corpo.</p>",
       "name": "Cicatriz Hipertrófica",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.HOt6FHGr0ZB8HD4q",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.7nYfZ3fHkvw58c1N"
@@ -295,8 +295,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você vê sangue escorrer da ferida. Deve ser uma veia cortada, pois é difícil estancar. Ao final de cada turno, sofre Dano em seus Hit Points máximos proporcional ao Dano que causou a Lesão Persistente: 1–10 Dano ([[1d2]]), 11–20 Dano ([[1d4]]), 21–30 Dano ([[1d6]]), 31–40 Dano ([[1d8]]), mais de 40 Dano ([[1d10]]).</p><p><em>Tratamento</em> — Um [[/skill medicine 14]] check estanca o sangramento. Você pode tentar novamente.</p>",
-      "name": "Sangramento Persistente",
+      "description": "<p>Você vê sangue escorrendo da sua ferida. Deve ser uma veia atingida, porque é difícil estancar. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d2]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d4]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d6]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d8]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d10]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 14]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
+      "name": "Sangramento Teimoso",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.ULdXoOmf1zja8rHU",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.aBreJKa3HM2XyIZ0"
     },
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A cada batida do coração, você sente sua força vital escorrer. Ao final de cada turno, sofre Dano em seus Hit Points máximos proporcional ao Dano que causou a Lesão Persistente: 1–10 Dano ([[1d4]]), 11–20 Dano ([[1d6]]), 21–30 Dano ([[1d8]]), 31–40 Dano ([[1d10]]), mais de 40 Dano ([[1d12]]).</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check estanca o sangramento. Você pode tentar novamente.</p>",
-      "name": "Hemorragia Persistente",
+      "description": "<p>A cada batida do coração, você sente o seu sangue vital se esvair. No final de cada Turn <em>(Turno)</em>, você sofre dano em seus Hit Points <em>(Pontos de Vida-HP)</em> máximos, proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d4]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d6]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d8]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d10]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d12]]</strong>)</em>.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 15]]</strong> estanca o sangramento. Você pode tentar este teste novamente.</p>",
+      "name": "Hemorragia Teimosa",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.jjDysUgbU0T1hgDo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Hpbu9QICvD6Krucs"
     },
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Você fica com uma cicatriz que parece particularmente bem posicionada. Enquanto estiver visível, você tem +1 em Charisma (Persuasion) checks. Se tiver várias Cicatrizes Estéticas, o bônus não se acumula.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Você fica com uma cicatriz que parece particularmente bem posicionada em você. Enquanto esta cicatriz estiver visível, você tem um bônus de +1 em testes de Charisma <em>(Carisma)</em> — Persuasion <em>(Persuasão)</em>. Se você acumular várias Cicatrizes Estéticas, este bônus não se acumula.</p>",
       "name": "Cicatriz Estética",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.1caSPQ1b5Aw6cIXu",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Pimuqy6axq5N7OaX"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. O corte brutal separa seu apêndice e o arremessa para longe. Ele cai a 15 pés, em uma direção aleatória, e é considerado <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia de Membro DC 22.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. O corte selvagem separou o apêndice do seu corpo e o lançou à distância. Ele cai a 15 pés de você, em uma direção aleatória, e é considerado <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 22.</p>",
       "name": "Amputação Traumática",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.R7sfEmITW4uzGcZt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.vgXrjFmNYuryWa7n"
@@ -403,8 +403,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente o corte rasgar a parte posterior da perna e cambaleia, gritando de dor. Sua velocidade é reduzida em 10 pés.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia de Membro DC 20.</p>",
-      "name": "Tendão Cortado",
+      "description": "<p>Você sente o corte rasgar a parte de trás da sua perna e tropeça, gritando de dor. Sua velocidade é reduzida em 10 pés.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 20.</p>",
+      "name": "Jarrete Cortado",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.AK2seB56EtUmGd8E",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.QRT4v9jRYhYslvoN"
     },
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role aleatoriamente para a orelha esquerda ou direita. Você sofreu uma ferida grave atravessando essa orelha. Ela fica <strong>sem funcionamento</strong> e, se não for tratada em 12 horas, sua audição ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Teste de Resistência de Cirurgia Sensorial DC 20.</p>",
+      "description": "<p>Role para determinar aleatoriamente a orelha esquerda ou a direita. Você sofreu um ferimento grave que atravessa essa orelha. Ela fica <strong>nonfunctional</strong> <em>(não funcional)</em> e, se não for tratada em 12 horas, sua audição ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20.</p>",
       "name": "Orelha Cortada",
       "_key": "!tables.results!jxP8Epp3x3QCSEf4.sCkgW7G6qNeUbNQb",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Z7ONgJVC7OytBi9e"

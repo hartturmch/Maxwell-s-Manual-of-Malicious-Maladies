@@ -1,7 +1,7 @@
 {
-  "name": "Força - [MMMM]",
+  "name": "Force - [MMMM]",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
-  "description": "Coisas estranhas podem acontecer quando você usa a Força bruta da magia. Na maior parte do tempo ela obedece, mas às vezes um pequeno fio se solta. Ninguém sabe como ele interage com você ou com o ambiente. Como curiosidade: Druids foram originalmente inspirados a criar a Spell Reincarnate ao estudar o efeito En Vivo Reincarnem e aprender a reproduzi-lo. Não é um bug, é uma feature!",
+  "description": "Coisas estranhas podem acontecer quando você usa a força bruta da magia. Na maior parte do tempo ela se comporta e faz o que você quer, mas de vez em quando um pequeno fio se solta. Como ele interage com você ou com o ambiente ao seu redor é um mistério. Como curiosidade, você sabia que os Druids <em>(Druidas)</em> se inspiraram originalmente a criar a magia Reincarnate <em>(Reencarnar)</em> estudando o efeito En Vivo Reincarnem e aprendendo a reproduzi-lo? Não é um bug, é uma funcionalidade!",
   "results": [
     {
       "_id": "On1uWByhfkopjZc8",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Algo vital, porém intangível, dentro de você fica mortalmente silencioso. Você se sente desconectado. Perde a capacidade de se comunicar telepaticamente. Toda comunicação mágica que o tenha como alvo falha, como Message, Sending e Telepathic Bond. Sua mente não pode ser lida nem detectada.</p>",
+      "description": "<p>Algo vital, porém intangível, dentro de você fica mortalmente silencioso. Você se sente... desconectado. Você perde a capacidade de se comunicar telepaticamente. Toda comunicação mágica que tenha você como alvo específico falha <em>(como as magias Message — Mensagem, Sending — Mensagem Remota e Telepathic Bond — Vínculo Telepático)</em>. Sua mente não pode ser lida nem detectada.</p>",
       "name": "Terceiro Olho Cego",
       "_key": "!tables.results!8RjcealuGnn8dloA.On1uWByhfkopjZc8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rAaoTek6MtJSCjvV"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Suas Spells têm dificuldade para se manifestar e parecem exigir algo a mais. Qualquer Spell com custo de componente material exige o dobro desse custo para ser lançada. Se a Spell consumir os componentes, o dobro do custo em componentes é consumido.</p>",
+      "description": "<p>Suas magias têm dificuldade para pegar e sempre parecem precisar de um algo a mais. Qualquer magia com custo de componente material exige o dobro desse custo para ser conjurada. Se a magia consome os componentes, o dobro do custo em componentes é consumido.</p>",
       "name": "Pertinax Machina",
       "_key": "!tables.results!8RjcealuGnn8dloA.pMZD5WjuS1v7DmDp",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.eEwVyOugeWZekDXW"
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Quando a energia arcana o atinge, você sente algo dentro de si falhar. Perde a capacidade de lançar Spells por qualquer meio, incluindo características de Class, traços de Race e itens mágicos, por [[1d4]] dias.</p>",
-      "name": "Arcano Nulo",
+      "description": "<p>Quando a energia arcana atinge você, você sente algo dentro de si chiar e se apagar. Você perde a capacidade de conjurar magias por qualquer meio <em>(incluindo class features, racial traits ou itens mágicos)</em> por <strong>[[1d4]]</strong> dias.</p>",
+      "name": "Null Arcana",
       "_key": "!tables.results!8RjcealuGnn8dloA.yYOE0v0vTiVWNtMp",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.7sz0vgON8LBgdaZ9"
     },
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente o recuo abrupto e perturbador de uma conexão rompida. Perde a sintonia com tudo a que está sintonizado e não pode se sintonizar com nada por [[1d4]] dias.</p>",
+      "description": "<p>Você sente o recuo abrupto e perturbador de uma conexão cortada. Você perde a attunement <em>(sintonização)</em> com tudo a que estiver sintonizado no momento. Você não pode se sintonizar com nada por <strong>[[1d4]]</strong> dias.</p>",
       "name": "Ligo Secare",
       "_key": "!tables.results!8RjcealuGnn8dloA.T2cz3fukuLog312a",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.zvxHkSREpWCoRe7m"
@@ -133,8 +133,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Um fio errante de magia se solta, afastando-se de você e causando estragos. A criatura ou fonte do Dano rola na Wild Magic Surge Table (PHB pg. 104).</p>",
-      "name": "Reação da Magia Selvagem",
+      "description": "<p>Um fio errante de magia se solta, escapando de você e causando estragos. A criatura ou a fonte do dano rola na Wild Magic Surge Table <em>(Tabela de Surto de Magia Selvagem — PHB pg.104)</em>.</p>",
+      "name": "Retorno de Magia Selvagem",
       "_key": "!tables.results!8RjcealuGnn8dloA.MTUxPdpjAEKeViPx",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.DTIAUdudOB28SxM9"
     },
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Um fio errante de magia se solta, deslizando em sua direção e causando caos. Role na Wild Magic Surge Table (PHB pg. 104).</p>",
+      "description": "<p>Um fio errante de magia se solta, deslizando em sua direção e causando caos. Role na Wild Magic Surge Table <em>(Tabela de Surto de Magia Selvagem — PHB pg.104)</em>.</p>",
       "name": "Surto de Magia Selvagem",
       "_key": "!tables.results!8RjcealuGnn8dloA.m4YnstFN51ZMQIOS",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rJEderKwy0KPLa2a"
@@ -187,8 +187,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente a magia pulsar e ressoar com o resíduo arcano da última Spell que lançou. Uma sensação lancinante surge no fundo da sua mente. Você perde a capacidade de lançar Spells da mesma escola da Spell mais recente por [[1d4]] dias.</p>",
-      "name": "Escola Nula",
+      "description": "<p>Você sente a magia pulsar e ressoar com o resíduo arcano que se agarra a você, vindo da última magia que conjurou. Há uma sensação ardente no fundo da sua mente. Você perde a capacidade de conjurar magias da mesma escola de magia da magia mais recente que conjurou por <strong>[[1d4]]</strong> dias.</p>",
+      "name": "Null Scola",
       "_key": "!tables.results!8RjcealuGnn8dloA.W1Ft2bd1SLI51gAl",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.8noSUaYtJmdkIDhK"
     },
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente um estalo quase anticlimático e, então, nada. Todos os seus Spell Slots são gastos sem causar dano. Você pode preparar Spells novamente após um Long Rest, ou conforme determinar sua Class.</p>",
+      "description": "<p>Você sente um estalo quase anticlimático e, então, nada. Todos os seus Spell Slots <em>(Espaços de Magia)</em> são gastos sem causar danos. Você pode preparar magias novamente como de costume após um Long Rest <em>(Descanso Longo)</em> ou conforme a sua Class <em>(Classe)</em> determinar.</p>",
       "name": "Descarga de Mana",
       "_key": "!tables.results!8RjcealuGnn8dloA.5QvTtWKXTKFWbQbc",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.uN9O52wUdAGEAISb"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta parte do corpo emite finos fios de energia arcana nebulosa com a cor e aura mágica abaixo (role [[1d4]]): 1) Laranja, Conjuration; 2) Vermelho, Evocation; 3) Azul, Abjuration; 4) Verde, Transmutation.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <strong>[[1d4]]</strong>)</em>: 1) Laranja, Conjuration <em>(Conjuração)</em>, 2) Vermelho, Evocation <em>(Evocação)</em>, 3) Azul, Abjuration <em>(Abjuração)</em>, 4) Verde, Transmutation <em>(Transmutação)</em>.</p>",
       "name": "Aura Persistente",
       "_key": "!tables.results!8RjcealuGnn8dloA.TtN76YZO4sdKH2he",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Uzg4qnzgKmEFpYcI"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta parte do corpo emite finos fios de energia arcana nebulosa com a cor e aura mágica abaixo (role [[1d4]]): 1) Preto, Necromancy; 2) Branco, Enchantment; 3) Amarelo, Illusion; 4) Violeta, Divination.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Às vezes há efeitos colaterais estranhos ao lidar com energia mágica bruta. Esta parte do corpo emite tênues fiapos enevoados de energia arcana, com a seguinte cor e tênue aura mágica <em>(role <strong>[[1d4]]</strong>)</em>: 1) Preto, Necromancy <em>(Necromancia)</em>, 2) Branco, Enchantment <em>(Encantamento)</em>, 3) Amarelo, Illusion <em>(Ilusão)</em>, 4) Violeta, Divination <em>(Adivinhação)</em>.</p>",
       "name": "Aura Persistente",
       "_key": "!tables.results!8RjcealuGnn8dloA.SVfKTmuMaYswE7XX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.L1se5pFxXJpdJLIF"
@@ -295,8 +295,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente a energia puxar violentamente sua essência arcana até que uma parte dela se desprenda. Um dos Spell Slots de maior nível que você tem disponível é gasto sem causar dano. Você pode preparar novamente esse Spell Slot após um Long Rest, ou conforme determinar sua Class.</p>",
-      "name": "Queimadura de Mana",
+      "description": "<p>Você sente a energia puxar violentamente a sua essência arcana até que uma parte dela se rompa. Um dos Spell Slots <em>(Espaços de Magia)</em> de maior Spell Level <em>(Level de Magia)</em> que você tem disponíveis para conjurar é gasto sem causar danos. Você pode preparar novamente este Spell Slot normalmente após um Long Rest <em>(Descanso Longo)</em> ou conforme a sua Class <em>(Classe)</em> determinar.</p>",
+      "name": "Queima de Mana",
       "_key": "!tables.results!8RjcealuGnn8dloA.PYPnUAvwDiw2fUEl",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.5ne8JQFoOuSed1Z0"
     },
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente a energia sugar sua essência arcana, deixando uma sensação persistente de vazio. Dois dos Spell Slots de maior nível disponíveis são gastos sem causar dano. Você pode preparar novamente esses Spell Slots após um Long Rest, ou conforme determinar sua Class.</p>",
-      "name": "Dreno de Mana",
+      "description": "<p>Você sente a energia sugar a sua essência arcana e fica com uma sensação persistente de vazio. Dois dos Spell Slots <em>(Espaços de Magia)</em> de maior Spell Level <em>(Level de Magia)</em> que você tem disponíveis para conjurar são gastos sem causar danos. Você pode preparar novamente esses Spell Slots normalmente após um Long Rest <em>(Descanso Longo)</em> ou conforme a sua Class <em>(Classe)</em> determinar.</p>",
+      "name": "Sifão de Mana",
       "_key": "!tables.results!8RjcealuGnn8dloA.zhFIFbNkjeu30sJa",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.U5QKhzDgZEZiqAJY"
     },
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Quando a energia arcana é expelida e a dor diminui, você flexiona o membro e descobre que parte dessa energia permaneceu. Unarmed Strikes e armas empunhadas por esse membro contam como mágicas para superar Resistance e Immunity contra ataques e Dano não mágicos.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Quando a energia arcana é expulsa e a dor recua, você flexiona o membro e descobre que parte dessa energia decidiu ficar com você. Ataques desarmados e armas empunhadas por este membro contam como mágicos para fins de superar resistência e imunidade a ataques e dano não mágicos.</p>",
       "name": "Imbuant Artus",
       "_key": "!tables.results!8RjcealuGnn8dloA.OBME27B4D4i5Uk9i",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.LFr27kEqjtG87DrX"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seu equipamento mágico falha e começa a emitir um ruído agudo. Escolha aleatoriamente um item mágico seu que tenha cargas e role [[1d4]]. Essa quantidade de cargas é gasta imediatamente, escolhendo alvos aleatoriamente quando necessário, e o máximo de cargas do item é reduzido permanentemente nessa quantidade, até o mínimo de 1.</p>",
+      "description": "<p>Seu equipamento mágico chia e começa a emitir um zumbido agudo. Você tem quase certeza de que ele não deveria fazer isso... Escolha aleatoriamente um dos seus itens mágicos que tenha cargas e role <strong>[[1d4]]</strong>. Essa quantidade de cargas é gasta imediatamente <em>(alvos escolhidos aleatoriamente, se necessário)</em> e as cargas máximas do item são reduzidas permanentemente nessa quantidade <em>(até um mínimo de 1)</em>.</p>",
       "name": "Dessico Vis",
       "_key": "!tables.results!8RjcealuGnn8dloA.jQl5kXu2R1Nu4iGI",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GN3Bqp6kAIcHtluY"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você balança a cabeça com a força do golpe arcano e ele se foi. O conhecimento, ou seja, não a sua cabeça. Você perde a capacidade de conjurar sua magia conjurada mais recentemente permanentemente. Você nunca pode conjurar esta magia novamente por qualquer meio (incluindo características de classe, características raciais ou itens mágicos). Se sua classe permitir que você substitua magias em sua lista de magias ao subir de nível, você pode substituir essa magia normalmente. </p>",
+      "description": "<p>Você balança a cabeça com a força do golpe arcano e, de repente, ele se foi. O conhecimento, não a sua cabeça. Você perde permanentemente a capacidade de conjurar a última Spell <em>(Magia)</em> que lançou. Você nunca mais poderá conjurá-la, por nenhum meio <em>(incluindo class features, racial traits ou itens mágicos)</em>. Se a sua Class <em>(Classe)</em> permitir substituir Spells da sua lista ao subir de Level, você pode substituir esta Spell normalmente.</p>",
       "name": "Anátema Mágico",
       "_key": "!tables.results!8RjcealuGnn8dloA.QdwZdOXzqPlNdYTc",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.RFGvmYyzPEFdui40"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente algo se destravar, algo partir, algo retornar e, então, ossos triturados, músculos esticados e vísceras deslizando. Quando tudo termina, você fica ofegante e diferente. Sua Race muda como se a Spell Reincarnate tivesse sido lançada sobre você.</p>",
+      "description": "<p>Você experimenta a sensação de algo se destrancando, algo partindo, algo retornando e, então, ossos rangendo, músculos se esticando e vísceras deslizando. Quando tudo termina, você está ofegante, sem fôlego, e você está diferente. Você muda de Race <em>(Raça)</em> como se a magia Reincarnate <em>(Reencarnar)</em> tivesse sido lançada em você.</p>",
       "name": "En Vivo Reincarnem",
       "_key": "!tables.results!8RjcealuGnn8dloA.G13HxQbs8g2lH7lz",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.15wVquxCKUpNahMm"

@@ -1,5 +1,5 @@
 {
-  "name": "Large Membro Table - [MMMM]",
+  "name": "Large Limb Table - [MMMM]",
   "img": "icons/skills/wounds/bone-broken-marrow-red.webp",
   "results": [
     {
@@ -24,7 +24,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Entire Left Arm",
+      "description": "Braço Esquerdo Inteiro",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.D1uvu62JqACpkRER"
     },
@@ -50,7 +50,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Arm Above Elbow",
+      "description": "Braço Esquerdo Acima do Cotovelo",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.FjlB556neNg2zVsS"
     },
@@ -76,7 +76,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Arm Below Elbow",
+      "description": "Braço Esquerdo Abaixo do Cotovelo",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.ZE75Xd5sjYQuFQYK"
     },
@@ -102,7 +102,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Hand",
+      "description": "Mão Esquerda",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.0OjrUiHFfr8uaxGg"
     },
@@ -128,7 +128,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Hand",
+      "description": "Mão Esquerda",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.9OfZUqG7rjqn3dZK"
     },
@@ -154,7 +154,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Entire Right Arm",
+      "description": "Braço Direito Inteiro",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.ZDw5zzST9JzMBxMU"
     },
@@ -180,7 +180,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Arm Above Elbow",
+      "description": "Braço Direito Acima do Cotovelo",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.fkRYqC0IUum7pWtF"
     },
@@ -206,7 +206,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Arm Below Elbow",
+      "description": "Braço Direito Abaixo do Cotovelo",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.PZiY1CQ0zSCia0Xo"
     },
@@ -232,7 +232,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Hand",
+      "description": "Mão Direita",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.6yoV0ayVAGM0ofXO"
     },
@@ -258,7 +258,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Hand",
+      "description": "Mão Direita",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.v0iQ6HpYrLEODHjR"
     },
@@ -284,7 +284,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Entire Left Leg",
+      "description": "Perna Esquerda Inteira",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.mNMXpmlU56SvzN4o"
     },
@@ -310,7 +310,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Leg Above Knee",
+      "description": "Perna Esquerda Acima do Joelho",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.9uif6UgcftzVZrqA"
     },
@@ -336,7 +336,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Leg Below Knee",
+      "description": "Perna Esquerda Abaixo do Joelho",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.eWI2mWSVc7oc1BlC"
     },
@@ -362,7 +362,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Foot",
+      "description": "Pé Esquerdo",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.6T6CMz0Ib4oWa5IK"
     },
@@ -388,7 +388,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Foot",
+      "description": "Pé Esquerdo",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.NZ0HHb6cZX0Di1bt"
     },
@@ -414,7 +414,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Entire Right Leg",
+      "description": "Perna Direita Inteira",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.ODKwx8KYwzm2AHg5"
     },
@@ -440,7 +440,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right leg Above Knee",
+      "description": "Perna Direita Acima do Joelho",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.8Uj7rl2Ze270YCFj"
     },
@@ -466,7 +466,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Leg Below Knee",
+      "description": "Perna Direita Abaixo do Joelho",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.NznBowBebJrM6T3I"
     },
@@ -492,7 +492,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Foot",
+      "description": "Pé Direito",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.4HA2t7yPTwEus14L"
     },
@@ -518,7 +518,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Foot",
+      "description": "Pé Direito",
       "name": "",
       "_key": "!tables.results!iP8lOROAIYARwcgk.NJCshXCrn3IVELqy"
     }

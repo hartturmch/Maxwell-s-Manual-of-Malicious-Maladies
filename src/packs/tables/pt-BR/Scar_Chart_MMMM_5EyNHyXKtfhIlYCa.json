@@ -1,5 +1,5 @@
 {
-  "name": "Tabela de Cicatrizes - [MMMM]",
+  "name": "Scar Chart - [MMMM]",
   "img": "icons/skills/wounds/injury-stapled-flesh-tan.webp",
   "results": [
     {
@@ -30,7 +30,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Head",
+      "description": "Cabeça",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.F9CdF3s1Q6lAheym"
     },
@@ -62,7 +62,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Face",
+      "description": "Rosto",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.ms0r4Wrucvl7WxXY"
     },
@@ -94,7 +94,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Forehead",
+      "description": "Testa",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.X8Weg0LG1vuaa62k"
     },
@@ -126,7 +126,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Cheek",
+      "description": "Bochecha Esquerda",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.891JvbRacCvMnRwh"
     },
@@ -158,7 +158,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Cheek",
+      "description": "Bochecha Direita",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.zUt6DNz1vNN5jLQN"
     },
@@ -190,7 +190,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Chin",
+      "description": "Queixo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.NZ6foEKx4FQLa178"
     },
@@ -222,7 +222,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Hair/Horns/Scalp",
+      "description": "Cabelo/Chifres/Couro Cabeludo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.UCMuxojUjTnS73jS"
     },
@@ -254,7 +254,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Nose",
+      "description": "Nariz",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.1ANT2wQ2CcQZP3xM"
     },
@@ -286,7 +286,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Tongue",
+      "description": "Língua",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.iABeyaBt6LGbNXYZ"
     },
@@ -318,7 +318,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Lips/Mouth",
+      "description": "Lábios/Boca",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.EoOd3JWVujFDjlhW"
     },
@@ -350,7 +350,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Eyes/Over Eyes",
+      "description": "Olhos/Acima dos Olhos",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.E0hNF6npWD0dKOQ0"
     },
@@ -382,7 +382,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Eye/Over Eye",
+      "description": "Olho Esquerdo/Acima do Olho",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.1Rx6SZX7sJIRCPIg"
     },
@@ -414,7 +414,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Eye/Over Eye",
+      "description": "Olho Direito/Acima do Olho",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.RU8REruuI90VwAHx"
     },
@@ -446,7 +446,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Ears",
+      "description": "Orelhas",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.Ot5DPjIMqelI1XQv"
     },
@@ -478,7 +478,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Ear",
+      "description": "Orelha Esquerda",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.2ma2U2H1DMOOFRMw"
     },
@@ -510,7 +510,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Ear",
+      "description": "Orelha Direita",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.peB1X4EDWlnHk02n"
     },
@@ -542,7 +542,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Neck",
+      "description": "Pescoço",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.fWKLTzWICDRnTlGb"
     },
@@ -574,7 +574,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Back of Neck",
+      "description": "Nuca",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.KnSDsRFPD0pmJVcV"
     },
@@ -606,7 +606,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Throat",
+      "description": "Garganta",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.9VwZyQqR8BSM6pVf"
     },
@@ -638,7 +638,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Chest",
+      "description": "Peito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.GxROKJmSbRsotAqs"
     },
@@ -670,7 +670,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Chest",
+      "description": "Peito Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.rPsxbYegsrHsA7o0"
     },
@@ -702,7 +702,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Chest",
+      "description": "Peito Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.vLsEDBSHqM4fs5m7"
     },
@@ -734,7 +734,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Upper Back",
+      "description": "Parte Superior das Costas",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.Zx4pckQ5kv1TYs1Q"
     },
@@ -766,7 +766,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Upper Back",
+      "description": "Parte Superior das Costas (Lado Esquerdo)",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.wSg9frRjAzIyZuqN"
     },
@@ -798,7 +798,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Upper Back",
+      "description": "Parte Superior das Costas (Lado Direito)",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.LXQEHIQnUdKB7X7m"
     },
@@ -830,7 +830,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Along Spine",
+      "description": "Ao Longo da Coluna",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.J2V5Ywd8gRHYqMEV"
     },
@@ -862,7 +862,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Lower Back",
+      "description": "Parte Inferior das Costas",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.dEvTSyIxrycL82zV"
     },
@@ -894,7 +894,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Stomach",
+      "description": "Estômago",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.Ok2fIOM0VIFPHLhr"
     },
@@ -926,7 +926,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Hip",
+      "description": "Quadril Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.JaqR1NlPcKlr62jV"
     },
@@ -958,7 +958,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Hip",
+      "description": "Quadril Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.AYrnFwkv0VMSxsNj"
     },
@@ -990,7 +990,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Arm",
+      "description": "Braço Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.WAWgbcoH8iHEpxVK"
     },
@@ -1022,7 +1022,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Arm to Elbow",
+      "description": "Braço Esquerdo até o Cotovelo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.6nWSudxGFOxl7qSP"
     },
@@ -1054,7 +1054,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Hand",
+      "description": "Mão Esquerda",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.1IBT2eMJ6ipZZl0U"
     },
@@ -1086,7 +1086,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Palm",
+      "description": "Palma da Mão Esquerda",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.uelArxPEAqOkDRaX"
     },
@@ -1118,7 +1118,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Back of Left Hand",
+      "description": "Costas da Mão Esquerda",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.J4hBGV1drB2px2Zn"
     },
@@ -1150,7 +1150,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Thumb",
+      "description": "Polegar Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.tPioDeZKbTipM5y3"
     },
@@ -1182,7 +1182,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Index Finger",
+      "description": "Dedo Indicador Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.cokUWCc67bBy63Xx"
     },
@@ -1214,7 +1214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Middle Finger",
+      "description": "Dedo Médio Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.OdgDlH4RHgoB9hwX"
     },
@@ -1246,7 +1246,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Ring Finger",
+      "description": "Dedo Anelar Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.uL0HFmYWBup7KVYy"
     },
@@ -1278,7 +1278,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Pinky Finger",
+      "description": "Dedo Mindinho Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.0pGg5ZTFRbEv2meu"
     },
@@ -1310,7 +1310,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Arm",
+      "description": "Braço Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.1E5xyPk3zY5B6D5e"
     },
@@ -1342,7 +1342,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Arm to Elbow",
+      "description": "Braço Direito até o Cotovelo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.XzfICIwhXI1JQE7o"
     },
@@ -1374,7 +1374,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Hand",
+      "description": "Mão Direita",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.3tzdTwxKTBndzxaI"
     },
@@ -1406,7 +1406,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Palm",
+      "description": "Palma da Mão Direita",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.NJnFbnTIRSkDXSub"
     },
@@ -1438,7 +1438,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Back of Right Hand",
+      "description": "Costas da Mão Direita",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.qTYlb1cxyYlE6jhQ"
     },
@@ -1470,7 +1470,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Thumb",
+      "description": "Polegar Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.0bPyhytOq4cEe3lN"
     },
@@ -1502,7 +1502,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Index Finger",
+      "description": "Dedo Indicador Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.59CsdvnCQu0JBmXw"
     },
@@ -1534,7 +1534,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Middle Finger",
+      "description": "Dedo Médio Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.dEGoLGs08H84o1qx"
     },
@@ -1566,7 +1566,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Pinky Finger",
+      "description": "Dedo Mindinho Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.0b38MP7qMFAyuC1m"
     },
@@ -1598,7 +1598,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Leg",
+      "description": "Perna Esquerda",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.KXvgDVXS9UfMCR92"
     },
@@ -1630,7 +1630,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Ring Finger",
+      "description": "Dedo Anelar Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.OUA1jANqdVyNF5fl"
     },
@@ -1662,7 +1662,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Leg to Knee",
+      "description": "Perna Esquerda até o Joelho",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.5a87yGZKTnQ0CIAI"
     },
@@ -1694,7 +1694,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Left Foot",
+      "description": "Pé Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.p8zhyjuezAT35UMR"
     },
@@ -1726,7 +1726,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Toes on Left Foot",
+      "description": "Dedos do Pé Esquerdo",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.nI4rQvfXuzsp12GL"
     },
@@ -1758,7 +1758,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Leg",
+      "description": "Perna Direita",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.CgJ8IujzO8FUPIIt"
     },
@@ -1790,7 +1790,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Leg to Knee",
+      "description": "Perna Direita até o Joelho",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.LUzlMRaqOnG8uwAi"
     },
@@ -1822,7 +1822,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Right Foot",
+      "description": "Pé Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.JVr76o9CF0mvkKVL"
     },
@@ -1854,7 +1854,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Toes on Right Foot",
+      "description": "Dedos do Pé Direito",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.R8x6NCzREys42Xn4"
     },
@@ -1880,7 +1880,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "Player's Choice",
+      "description": "Escolha do Jogador",
       "name": "",
       "_key": "!tables.results!5EyNHyXKtfhIlYCa.jtCRcpMbzJypMrhv"
     }

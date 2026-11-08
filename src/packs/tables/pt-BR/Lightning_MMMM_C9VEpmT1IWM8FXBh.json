@@ -1,7 +1,7 @@
 {
-  "name": "Relâmpago - [MMMM]",
+  "name": "Lightning - [MMMM]",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
-  "description": "Dizem que Lightning nunca cai duas vezes no mesmo lugar, mas pergunte a quem enfrentou um Wizard com a Spell Lightning Bolt: isso é uma mentira descarada. Lightning Dano pode contrair músculos, Danificar o coração e até alterar o cérebro. Ao tratar Lightning Dano, procure sempre os pontos de entrada e saída da eletricidade — depois de ter certeza de que o paciente está aterrado, é claro.",
+  "description": "Dizem que um raio nunca cai duas vezes no mesmo lugar, mas pergunte a qualquer pobre alma que já enfrentou um Wizard <em>(Mago)</em> com a magia Lightning Bolt <em>(Relâmpago)</em>... isso é uma mentira descarada. O dano Elétrico pode travar músculos, danificar o coração e até alterar o cérebro. Ao tratar dano Elétrico, lembre-se sempre de procurar o ponto de entrada e o de saída da eletricidade... depois de ter certeza absoluta de que o paciente está aterrado, é claro.",
   "results": [
     {
       "_id": "p0FhrECtMLLXIg8J",
@@ -25,8 +25,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A eletricidade surge no âmago do seu ser, fazendo com que seu coração gagueje. É muito mais difícil para você lidar com a atividade física sem ficar muito cansado. Sempre que você fizer níveis de  <strong> eReferência[exaustão]{exaustão} </strong>, você faz um nível adicional. </p>  <p>  <em> Tratamento </em>  - A  DC  25 Cirurgia Geral. </p>",
-      "name": "Arritmia cardíaca",
+      "description": "<p>A eletricidade percorre o âmago do seu ser e faz seu coração falhar. É muito mais difícil para você suportar atividade física sem ficar muito fatigado. Sempre que você sofrer níveis de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>, sofre um nível adicional.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 25.</p>",
+      "name": "Arritmia",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.p0FhrECtMLLXIg8J",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.kXRB09aXRqYGtqQa"
     },
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Quando a eletricidade sai do seu coração, ela bate uma última vez antes do silêncio. Você está  <strong> &Referência[inconsciente]{inconsciente} </strong>  e morrendo, seus pontos de vida caem para 0. </p>  <p>  <em> Tratamento </em>  - Se você está estabilizado, seu coração galopa de volta à vida, você não está mais  __ X7X __ inconsciente __ X8X __ , e seus pontos de vida retornam ao total em que estavam antes de caírem para 0. </p>",
+      "description": "<p>Quando a eletricidade deixa o seu coração, ele bate uma última vez antes do silêncio. Você fica <strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em> e morrendo, e seus Hit Points <em>(Pontos de Vida-HP)</em> caem a 0.</p><p><em>Tratamento</em> — Se você for estabilizado, seu coração volta a galopar; você deixa de ficar <strong>unconscious</strong> e seus Hit Points voltam ao total que tinham antes de cair a 0.</p>",
       "name": "Parada Cardíaca",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.IFbFoUzB4qt0AgV3",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.5YDAB0u20y9npQUQ"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu músculo se contraiu com tanta força que se soltou do osso. O membro fica <strong>sem funcionamento</strong> e não cicatriza corretamente sem Cirurgia.</p><p><em>Tratamento</em> — Um DC 20 Saving Throw de Cirurgia de Membro.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Seu músculo se contraiu com tanta força que se soltou do osso. Seu membro fica <strong>nonfunctional</strong> <em>(não funcional)</em> e não cicatrizará adequadamente sem cirurgia.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 20.</p>",
       "name": "Avulsão Muscular",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.la33qmFoirnT147t",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TdmwWKMIbILcrMyE"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seu cérebro foi Danificado pela descarga elétrica e você não está agindo como antes. Você sofre uma <strong>flaw</strong> escolhida aleatoriamente ou pelo DM.</p><p><em>Tratamento</em> — Após cada Long Rest, role um d20. Com 19 ou 20, a <strong>flaw</strong> desaparece.</p>",
+      "description": "<p>Seu cérebro foi danificado pela descarga elétrica e você não está agindo como você mesmo. Você adquire um <strong>flaw</strong> <em>(defeito)</em> escolhido aleatoriamente ou pelo Dungeon Master.</p><p><em>Tratamento</em> — Após cada Long Rest <em>(Descanso Longo)</em>, role um d20. Com 19 ou 20, o <strong>flaw</strong> desaparece.</p>",
       "name": "Mudança de Personalidade",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.HtnLT2MDX6sC6OrY",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xu5RO5Z0AGYlrUQ5"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seus músculos se contraem em padrões repetitivos e você tem dificuldade para coordenar seu movimento. Você tem Disadvantage em ataques, checks e Saving Throws baseados em Dexterity por [[1d4]] turnos.</p>",
+      "description": "<p>Seus músculos tremem em padrões repetitivos e você tem dificuldade para coordenar seus movimentos. Você tem Disadvantage <em>(Desvantagem)</em> em todos os ataques, testes e Saving Throws <em>(Testes de Resistência)</em> baseados em Dexterity <em>(Destreza)</em> por <strong>[[1d4]]</strong> Turns <em>(Turnos)</em>.</p>",
       "name": "Espasmos Musculares",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.6LtXHSLYbuAwbdrQ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TKSWxIOc3q1j3QKW"
@@ -160,7 +160,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seus músculos travam, seus olhos reviram e você não consegue fazer o corpo funcionar. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> até o final do seu próximo turno. Critical Hits causados pela sua paralisia não exigem outra rolagem de Lesão Persistente.</p><p><em>Tratamento</em> — A Spell Lesser Restoration remove esta paralisia normalmente.</p>",
+      "description": "<p>Seus músculos travam, seus olhos reviram e você não consegue forçar o corpo a funcionar. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> <em>(Paralisado)</em> até o final do seu próximo Turn <em>(Turno)</em>. Critical Hits que resultem da sua paralisia não fazem você rolar outra lesão persistente.</p><p><em>Tratamento</em> — A magia Lesser Restoration <em>(Restauração Menor)</em> remove esta paralisia, como de costume.</p>",
       "name": "Eletrocussão",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.SCTneGLMu1IXH50N",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pelqSHjxykmnoJNG"
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seu corpo convulsiona e trava; você mal consegue pensar, muito menos se mover. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> por [[1d2]] rodadas. Critical Hits causados pela sua paralisia não exigem outra rolagem de Lesão Persistente.</p><p><em>Tratamento</em> — A Spell Lesser Restoration remove esta paralisia normalmente.</p>",
+      "description": "<p>Seu corpo convulsiona e trava, você mal consegue pensar, muito menos se mover. Você fica <strong>&Reference[paralyzed]{paralyzed}</strong> <em>(Paralisado)</em> por <strong>[[1d2]]</strong> Rounds <em>(Rodadas)</em>. Critical Hits que resultem da sua paralisia não fazem você rolar outra lesão persistente.</p><p><em>Tratamento</em> — A magia Lesser Restoration <em>(Restauração Menor)</em> remove esta paralisia, como de costume.</p>",
       "name": "Eletrocussão Verdadeira",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.pDQtUCLWykFeJuW2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.LoYpvUMKZCrUSAqg"
@@ -214,8 +214,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seus nervos foram afetados, você sente dormência e tem dificuldade para fazer seu corpo responder com a velocidade necessária. Você não pode usar Reactions por [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 14]] check reduz a duração desta lesão em [[1d4]] dias.</p>",
-      "name": "Nervos Dormentes",
+      "description": "<p>Seus nervos estão destruídos, você sente dormência e está com dificuldade para fazer seu corpo responder com a rapidez de que precisa. Você não pode usar Reactions <em>(Reações)</em> por <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Um teste de <strong>[[/skill medicine 14]]</strong> reduz a duração desta lesão em <strong>[[1d4]]</strong> dias.</p>",
+      "name": "Nervos Entorpecidos",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.DlT8xu72pdkTS73u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.QCwUDqgN01J2UcBO"
     },
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role duas vezes na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Cada área do corpo fica com uma cicatriz redonda: uma no ponto de entrada da eletricidade e outra no ponto de saída.</p>",
+      "description": "<p>Role duas vezes na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Cada área do seu corpo fica com uma cicatriz redonda: uma onde a eletricidade entrou e outra onde a eletricidade saiu.</p>",
       "name": "Cicatriz de Aterramento",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.fUDRwhqypuKa64Fs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oXynahd8ruUshXUE"
@@ -268,7 +268,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do corpo fica com uma Figura de Lichtenberg, uma cicatriz semelhante a Lightning que acompanha o caminho da corrente pelo corpo.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo fica com uma Figura de Lichtenberg, uma cicatriz que lembra um relâmpago e segue o caminho que a corrente percorreu pelo seu corpo.</p>",
       "name": "Figura de Lichtenberg",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.PWDc7pCd3TtZH467",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.NRqRf9KwsXR2ICjf"
@@ -295,7 +295,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "__X0X __ A corrente elétrica incendiou você. No início do seu turno, você sofre dano de incêndio dimensionado para o dano que causou o ferimento persistente: 1-10 dano ( [[1d2]] ), 11-20 dano ( [[1d4]] ), 21-30 dano ( [[1d6]] ), 31-40 dano ( __ X4X __ ),  __ X5X __ 40 dano ( [[1d10]] ). </p>  <p>  <em> Tratamento </em>  - Você pode usar uma ação para extinguir as chamas. </p>",
+      "description": "<p>A corrente elétrica incendeia você. No início do seu Turn <em>(Turno)</em>, você sofre Fire damage <em>(Dano de Fogo)</em> proporcional ao dano que causou a lesão persistente: 1-10 de dano <em>(<strong>[[1d2]]</strong>)</em>, 11-20 de dano <em>(<strong>[[1d4]]</strong>)</em>, 21-30 de dano <em>(<strong>[[1d6]]</strong>)</em>, 31-40 de dano <em>(<strong>[[1d8]]</strong>)</em>, &gt;40 de dano <em>(<strong>[[1d10]]</strong>)</em>.</p><p><em>Tratamento</em> — Você pode usar uma Action <em>(Ação)</em> para apagar as chamas.</p>",
       "name": "Arco Elétrico",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.9hvScTyXfkCKjlhL",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.kH8yy1pgqUq6w4pK"
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A eletricidade crepita ao redor do seu corpo por um segundo, procurando o ponto de descarga mais próximo. Então, salta de você para a criatura mais próxima que empunhe armas metálicas ou use armadura metálica. Essa criatura sofre Lightning Dano igual à metade do Dano que causou a Lesão Persistente.</p>",
-      "name": "Bastão de Lightning",
+      "description": "<p>A eletricidade crepita ao redor do seu corpo por um segundo, procurando a coisa mais próxima para se descarregar. Em seguida, a eletricidade salta de você para a criatura mais próxima que carregue armas de metal ou use armadura de metal. Essa criatura sofre Lightning damage <em>(Dano Elétrico)</em> igual à metade do dano que causou a lesão persistente.</p>",
+      "name": "Para-raios",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.LERMeFqLfXhRMQvF",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.trzqu8dPofAPS68G"
     },
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, a eletricidade interagiu com um fio de magia natural dentro de você. Esta parte do corpo emite um pequeno arco elétrico a cada poucos minutos. Se usar uma Action para tocá-la em um personagem com 0 Hit Points, ele fica estável como se tivesse recebido o cantrip Spare the Dying. Você pode suprimir o arco mantendo Concentração. O membro emite uma aura tênue de Evocation.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, a eletricidade interagiu com um fio de magia natural dentro de você. Esta parte do corpo emite um pequeno arco elétrico de energia a cada poucos minutos. Se você usar uma Action <em>(Ação)</em> para tocar esta parte do corpo em um personagem com 0 Hit Points <em>(Pontos de Vida-HP)</em>, ele se estabiliza da mesma forma que com o Cantrip <em>(Truque)</em> Spare the Dying <em>(Poupar os Moribundos)</em>. Você pode suprimir o efeito de arco mantendo Concentration <em>(Concentração)</em>. O membro emite uma tênue aura de Evocation <em>(Evocação)</em>.</p>",
       "name": "Arco Estático",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.R30x9IOGKRqjyShC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Fj4AEbUuxgw3tgxA"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. A eletricidade saiu violentamente do seu corpo neste ponto, carbonizando-o até ficar <strong>sem funcionamento</strong>. Se não for tratado em 24 horas, o apêndice necrosará e cairá em [[1d4]] dias; depois ficará <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um DC 21 Saving Throw de Cirurgia de Membro.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. A eletricidade deixou seu corpo violentamente neste ponto, carbonizando-o a ponto de ficar <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 24 horas, o apêndice necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais ele fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Uma Save Limb Surgery <em>(Cirurgia de Salvamento de Membro)</em> DC 21.</p>",
       "name": "Aterramento Destrutivo",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.YJVZUrVhCW4k7GW2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.2WbWzUxWznvk6JbL"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A eletricidade atravessou seu coração, e a culpa é dela. Sempre que ficar <strong>&Reference[charmed]{charmed}</strong> ou <strong>&Reference[frightened]{frightened}</strong>, você sofre 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong>.</p><p><em>Tratamento</em> — Uma Cirurgia Geral DC 25.</p>",
+      "description": "<p>Atingido por um choque no coração, e a culpa é sua. Sempre que você ficar <strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em> ou <strong>&Reference[frightened]{frightened}</strong> <em>(Amedrontado)</em>, você sofre 1 nível de <strong>&Reference[exhaustion]{exhaustion}</strong> <em>(Exaustão)</em>.</p><p><em>Tratamento</em> — Uma General Surgery <em>(Cirurgia Geral)</em> DC 25.</p>",
       "name": "Palpitações Cardíacas",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.esbzQKHRyA0WPvGq",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oUmEbf4G1zykuMiU"
@@ -430,8 +430,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> A eletricidade atravessa a fiação do seu cérebro, causando curto-circuito em seus neurônios e mudando você permanentemente. Seu alinhamento muda um passo para neutro no eixo lei/caos. Se já estiver neutro, trate este teste como um 15. </p>",
-      "name": "Lesão cerebral",
+      "description": "<p>A eletricidade percorre a fiação do seu cérebro, causa curto-circuito nos seus neurônios e muda você permanentemente. Seu alinhamento se desloca um passo em direção ao neutro no eixo ordem/caos. Se já for neutro, trate esta rolagem como um 15.</p>",
+      "name": "Lesão Cerebral",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.qBaCnpnjErxorK3b",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.lF0V852UdZonlEbM"
     }

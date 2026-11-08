@@ -1,7 +1,7 @@
 {
-  "name": "Psíquico - [MMMM]",
+  "name": "Psychic - [MMMM]",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
-  "description": "É melhor nem tentar tratar sozinho lesões de Psychic. Uma vez pratiquei trepanação; não recomendo. Um cirurgião não é qualificado para tratar aflições do cérebro. Encaminho todos os pacientes com Psychic Dano a uma autoridade psicológica respeitável, como o phrenologist local.",
+  "description": "É melhor nem se dar ao trabalho de tentar tratar lesões psíquicas por conta própria. Já pratiquei trepanação por um tempo e não recomendo. Um cirurgião simplesmente não está qualificado para tratar aflições do cérebro. Encaminho todos os meus pacientes com dano Psíquico a uma autoridade psicológica respeitável, como o frenologista da sua região.",
   "results": [
     {
       "_id": "C3GBcTD2hI10YRMe",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Sua mente foi alterada de modo permanente e você acha mais difícil se importar. Seu alinhamento muda um passo em direção ao neutro no eixo bem/mal. Se já for neutro, trate esta rolagem como 15.</p>",
+      "description": "<p>Sua mente foi alterada de forma indelével e você simplesmente acha mais difícil se importar. Seu alinhamento se desloca um passo em direção ao neutro no eixo bem/mal. Se já for neutro, trate esta rolagem como um 15.</p>",
       "name": "Apatia",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.C3GBcTD2hI10YRMe",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.CY1e5hRepzkBmuR5"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Inconscientemente, seu cérebro associou algo aleatório à dor que sentiu, e agora você não consegue separar os dois. O DM escolhe algo único sobre a fonte do Dano ou o cenário atual. Sempre que você se mover a menos de 15 pés dessa coisa, fica <strong>&Reference[frightened]{frightened}</strong> até se afastar pelo menos 50 pés dela.</p>",
+      "description": "<p>Subconscientemente, seu cérebro fez uma ligação entre algo aleatório e a dor que sentiu, e agora você não consegue deixar de associar os dois. O Dungeon Master escolhe algo único sobre a fonte do dano ou sobre o cenário atual. Sempre que você se move a menos de 15 pés dessa coisa, você fica <strong>&Reference[frightened]{frightened}</strong> <em>(Amedrontado)</em> até se afastar pelo menos 50 pés dela.</p>",
       "name": "Fobia Incapacitante",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.An0bS8PxTRM6ilkw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Th0MdDJHpyyKszPF"
@@ -79,7 +79,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Seu cérebro parece ligado, e você não consegue fazê-lo descansar por mais que tente. Você não pode se beneficiar de Short Rests ou Long Rests por [[1d4]] dias (não recupera HD, não recupera Spell Slots, não prepara Spells e não se cura). Durante esse período, você é imune a sono mágico.</p>",
+      "description": "<p>Seu cérebro parece ligado na tomada e você não consegue forçá-lo a descansar, por mais que tente. Você não obtém benefício de Short Rests <em>(Descansos Curtos)</em> ou Long Rests <em>(Descansos Longos)</em> por <strong>[[1d4]]</strong> dias <em>(você não recupera HD, não recupera Spell Slots (Espaços de Magia) nem prepara magias e não se cura)</em>. Durante esse período, você é imune a sono mágico.</p>",
       "name": "Insônia",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.EZ6bgj4yx3zMpXPo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.pCWU8PhiTCfifdKr"
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente algo na mente sair ligeiramente do eixo. Role na Tabela de Loucura de Longo Prazo (LdMe pág. 260). Este efeito dura [[1d10 * 10]] horas.</p>",
+      "description": "<p>Você sente algo dentro da sua mente ficar um pouco desequilibrado. Role na Long Term Madness Table <em>(Tabela de Loucura de Longo Prazo — DMG pg.260)</em>. Este efeito dura <strong>[[1d10 * 10]]</strong> horas.</p>",
       "name": "Um Sabor de Loucura",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.bXPoNtRndp6546m7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TrZx8sD7agOMofVc"
@@ -133,7 +133,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente um terror borbulhante subir pela garganta e, de repente, só consegue pensar em fugir. Você fica aterrorizado com a fonte do Dano como se estivesse sob efeito da Spell Fear (Saving Throw DC igual à metade do Dano que causou a Lesão Persistente ou 10, o que for maior).</p>",
+      "description": "<p>Você sente um terror borbulhante subindo pela garganta e, de repente, tudo em que consegue pensar é fugir. Você fica aterrorizado com a fonte do dano, como se estivesse sob o efeito da magia Fear <em>(Medo)</em> <em>(DC do Saving Throw (Teste de Resistência) igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em>.</p>",
       "name": "Aterrorizado",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.p0UXIAtKZElWJZog",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.v6dk6Dqn5P6Rd1We"
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Um choque súbito de medo intenso percorre seu corpo do couro cabeludo aos dedos dos pés. Você fica <strong>&Reference[frightened]{frightened}</strong> com a fonte do Dano como se estivesse sob efeito da Spell Fear, até o final do seu próximo turno.</p>",
-      "name": "Assustado",
+      "description": "<p>Um choque súbito de medo intenso atravessa você do couro cabeludo até os dedos dos pés. Você fica aterrorizado com a fonte do dano, como se estivesse sob o efeito da magia Fear <em>(Medo)</em>, até o final do seu próximo Turn <em>(Turno)</em>.</p>",
+      "name": "Amedrontado",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.bGHXchy2VclhgzQw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.44eqJ9SEijuuorlY"
     },
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você sente a mente se esticar como se estivesse prestes a quebrar e, de repente, tudo fica claro outra vez. Role na Tabela de Loucura de Curto Prazo (LdMe pág. 259). Este efeito dura [[1d10]] minutos.</p>",
+      "description": "<p>Você sente sua mente se esticar como se estivesse prestes a se romper e, de repente, tudo volta a ficar claro. Role na Short Term Madness Table <em>(Tabela de Loucura de Curto Prazo — DMG pg.259)</em>. Este efeito dura <strong>[[1d10]]</strong> minutos.</p>",
       "name": "Um Toque de Loucura",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.356IATehEggOGlkI",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ElJeLGqcMXzhVqeP"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Sua cabeça lateja, a luz incomoda e tudo o que você quer é que a dor pare. Você não pode se beneficiar de um Short Rest por [[1d4]] dias.</p>",
+      "description": "<p>Sua cabeça lateja, a luz irrita você e tudo o que você quer é que as pancadas parem. Você não obtém benefício de um Short Rest <em>(Descanso Curto)</em> por <strong>[[1d4]]</strong> dias.</p>",
       "name": "Enxaqueca Persistente",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.EVJB4rTlqsfmkgiK",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yfY1oVRL1hLzJbCL"
@@ -241,7 +241,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O ataque Psíquico deixou você com um pequeno tique vocal ou motor: um comportamento compulsivo breve que é difícil ou impossível de suprimir. O DM pode escolher um tique específico ou rolar aleatoriamente ([[1d6]]): 1) Contração do olho; 2) Estalar os dedos; 3) Tocar outras pessoas ou objetos; 4) Grunhir; 5) Repetir um som ou frase; 6) Fazer careta.</p>",
+      "description": "<p>O ataque psíquico deixou você com um pequeno tique vocal ou motor, um comportamento compulsivo breve que você acha difícil ou impossível suprimir. O Dungeon Master pode escolher um tique específico ou rolar para determiná-lo aleatoriamente <em>(<strong>[[1d6]]</strong>)</em>: 1) Piscar do olho, 2) Estalar os dedos, 3) Tocar outras pessoas ou coisas, 4) Grunhir, 5) Repetir um som ou frase, 6) Fazer caretas.</p>",
       "name": "Tique",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.pIqnEhyKrcocdyos",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.2bLES41fFRItdePd"
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Agora você tende a ter sangramentos nasais quando faz grande esforço mental. O sangramento ocorre quando (role [[1d6]]): 1) Você fica <strong>&Reference[frightened]{frightened}</strong>; 2) Você fica <strong>&Reference[charmed]{charmed}</strong>; 3) Faz um Intelligence Saving Throw; 4) Faz um Wisdom Saving Throw; 5) Faz um Charisma Saving Throw; 6) Sofre Dano Psíquico.</p>",
-      "name": "Sangramento Nasal",
+      "description": "<p>Agora você tende a ter sangramentos nasais quando faz um grande esforço mental. Os sangramentos nasais ocorrem quando <em>(role <strong>[[1d6]]</strong>)</em>: 1) Você está <strong>&Reference[frightened]{frightened}</strong> <em>(Amedrontado)</em>, 2) Você está <strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em>, 3) Você faz um Saving Throw <em>(Teste de Resistência)</em> de Intelligence <em>(Inteligência)</em>, 4) Você faz um Saving Throw de Wisdom <em>(Sabedoria)</em>, 5) Você faz um Saving Throw de Charisma <em>(Carisma)</em>, 6) Você sofre Psychic damage <em>(Dano Psíquico)</em>.</p>",
+      "name": "Sangramentos Nasais",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.DV2ycF0Vvm3riVrN",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xxtbp9GbBhiqace6"
     },
@@ -295,8 +295,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Contra toda a lógica, você se sente acolhido e querido. Você fica <strong>&Reference[charmed]{charmed}</strong> pela fonte do Dano como se estivesse sob os efeitos da Spell Charm Person. Este efeito dura até o final do seu próximo turno.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de Dano da fonte do encanto encerra este efeito.</p>",
-      "name": "Encantado",
+      "description": "<p>Contra toda a lógica, você se sente acolhido e querido. Você fica <strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em> pela fonte do dano, como se estivesse sob os efeitos da magia Charm Person <em>(Enfeitiçar Pessoa)</em>. Este efeito dura até o final do seu próximo Turn <em>(Turno)</em>.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de dano da fonte do encanto encerra este efeito.</p>",
+      "name": "Enfeitiçado",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.PW89yuLl6Z37xc8y",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ErwoTS4Mji5K7Ial"
     },
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Confuso, você sente uma onda inesperada de afeto tomar conta. Você fica <strong>&Reference[charmed]{charmed}</strong> pela fonte do Dano como se estivesse sob os efeitos da Spell Charm Person. Este efeito dura [[1d4]] rodadas.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de Dano da fonte do encanto encerra este efeito.</p>",
-      "name": "Enamorado",
+      "description": "<p>Um pouco confuso, você sente uma onda de afeição inesperada tomar conta de você. Você fica <strong>&Reference[charmed]{charmed}</strong> <em>(Enfeitiçado)</em> pela fonte do dano, como se estivesse sob os efeitos da magia Charm Person <em>(Enfeitiçar Pessoa)</em>. Este efeito dura <strong>[[1d4]]</strong> Rounds <em>(Rodadas)</em>.</p><p><em>Tratamento</em> — Sofrer qualquer quantidade de dano da fonte do encanto encerra este efeito.</p>",
+      "name": "Apaixonado",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.EaSfdGr8uuntehqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9qQe15vBFlmwqHll"
     },
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, o ataque psíquico interagiu com um fio de magia natural dentro de você. A aparência desta parte do corpo muda sutilmente, embora a sensação permaneça exatamente igual. Esta área fica permanentemente sob efeito da Spell Minor Illusion e emite uma aura tênue de Illusion. Você pode suprimir ou controlar o efeito com um esforço de Concentração; caso contrário, a parte do corpo muda lentamente de cor, tamanho, formato e aparência conforme seu humor. A Spell Save DC desta ilusão é 10 + seu Level atual.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o ataque psíquico interagiu com um fio de magia natural dentro de você. A aparência desta parte do corpo muda sutilmente o tempo todo, embora ela pareça exatamente igual ao que era antes. Esta área do seu corpo está permanentemente sob o efeito de uma magia Minor Illusion <em>(Ilusão Menor)</em> e emite uma tênue aura de Illusion <em>(Ilusão)</em>. Você pode suprimir ou controlar este efeito com um esforço de Concentration <em>(Concentração)</em>; caso contrário, a parte do corpo muda lentamente, com pequenas alterações de cor, tamanho, forma e aparência, aparentemente em relação ao seu humor geral. A Spell Save DC <em>(DC de Magia)</em> desta ilusão é 10 + o seu Level atual.</p>",
       "name": "Membro Ilusório",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.uVDiJW99HxlAYB6D",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xltUN0eArziKSY18"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Suas tentativas de se fazer entender recebem apenas olhares estreitos e expressões confusas. Você perde Proficiency em todos os idiomas, exceto Common, que consegue entender, mas não falar. Você não pode ler nem escrever. Qualquer tentativa de falar resulta em uma sequência confusa de palavras aparentemente aleatórias. Este efeito dura [[1d4]] dias.</p><p><em>Tratamento</em> — Qualquer Spell que permita ao conjurador compreender o sentido literal ou implícito de uma comunicação funciona normalmente.</p>",
+      "description": "<p>Suas tentativas de se fazer entender só são recebidas com olhos semicerrados e olhares confusos. Você perde a Proficiency <em>(Proficiência)</em> em todos os idiomas, exceto o comum, que você consegue entender, mas não falar. Você não consegue ler nem escrever. Qualquer tentativa de falar um idioma resulta em uma sequência embaralhada de palavras aparentemente aleatórias. Este efeito dura <strong>[[1d4]]</strong> dias.</p><p><em>Tratamento</em> — Qualquer magia que permita ao conjurador compreender o significado literal ou implícito de uma comunicação funciona normalmente.</p>",
       "name": "Afasia Temporária",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.hVP100SCgORrLxxu",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.eo0LfZSYSd2oVoXH"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você acha difícil deixar de se distrair com a sensação de que há alguém ou algo tentando pegá-lo. Sempre que precisar manter Concentração, role [[1d4]]. Esse é o número máximo de rodadas durante as quais você pode manter a Concentração naquela Spell ou efeito.</p>",
+      "description": "<p>Você acha difícil parar de se distrair com a sensação de que há alguém ou alguma coisa à sua caça. Sempre que precisar manter Concentration <em>(Concentração)</em>, role <strong>[[1d4]]</strong>. Esse é o número máximo de Rounds <em>(Rodadas)</em> em que você pode manter a concentração naquela magia ou efeito.</p>",
       "name": "Paranoia",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.xz1KGfB6GgLgxa2O",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.wBMB7y6bbZ8Ltkb0"

@@ -1,7 +1,7 @@
 {
-  "name": "Frio - [MMMM]",
+  "name": "Cold - [MMMM]",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
-  "description": "Em poucas palavras, Cold deixa você lento e confuso. Espere pacientes dormentes, desajeitados e com frostbite. Felizmente, quase todo problema de inverno tem uma solução simples: aquecer a pessoa novamente. Use uma fogueira crepitante, cobertores grossos ou, no mínimo, o calor corporal de um voluntário. Não aqueça rápido demais: faça isso devagar e com cuidado.",
+  "description": "Resumindo: o frio deixa você lento e burro. Espere pacientes dormentes, desajeitados e com queimaduras de gelo. Felizmente, há uma solução fácil para quase toda desgraça invernal: reaqueça-os. Você vai precisar de uma fogueira crepitante, cobertores grossos ou, no mínimo, do calor corporal de um voluntário disposto. Não os reaqueça rápido demais, atenção. Devagar e com delicadeza, como descongelar carne que estava no gelo.",
   "results": [
     {
       "_id": "suseSy7RPk0Tmk55",
@@ -25,7 +25,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Você já foi frígido demais e sua pele desenvolve facilmente uma erupção cutânea e bolhas no frio. Você tem desvantagem em testes de Constituição e testes de resistência feitos para resistir aos efeitos ambientais do frio. </p>",
+      "description": "<p>Você ficou gelado vezes demais e sua pele desenvolve facilmente erupções e bolhas no frio. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Constitution <em>(Constituição)</em> e em Saving Throws <em>(Testes de Resistência)</em> feitos para resistir aos efeitos ambientais do frio.</p>",
       "name": "Frieiras",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.suseSy7RPk0Tmk55",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.84oGAFCT3QrgRHj6"
@@ -52,7 +52,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role para determinar aleatoriamente o olho direito ou esquerdo. O ar congelante congelou a camada superficial do olho. O olho fica <strong>sem funcionamento</strong>. Se não for tratado em 12 horas, sua visão ficará permanentemente <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um DC 20 Saving Throw de Cirurgia Sensorial. Se o personagem passar um Short Rest reaquecendo a área dentro de 15 minutos da lesão, a DC cai para 10.</p>",
+      "description": "<p>Role para determinar aleatoriamente o olho direito ou o esquerdo. O ar gélido congelou a camada superficial do seu olho. O olho fica <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 12 horas, sua visão ficará permanentemente <strong>missing</strong> <em>(ausente)</em>.</p><p><em>Tratamento</em> — Uma Save Sense Surgery <em>(Cirurgia de Salvamento Sensorial)</em> DC 20. Se o jogador passar um Short Rest <em>(Descanso Curto)</em> reaquecendo a área em até 15 minutos após a lesão ocorrer, esta DC é reduzida para 10.</p>",
       "name": "Córnea Congelada",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.fXEEOJ4PMiBOBqUZ"
@@ -79,8 +79,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role duas vezes na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Esses apêndices ficam rígidos, congelados, pálidos e <strong>sem funcionamento</strong>. Se não forem tratados em 15 minutos, necrosam e caem em [[1d4]] dias; depois ficam <strong>ausentes</strong>.</p><p><em>Tratamento</em> — Um Short Rest reaquecendo lentamente os apêndices.</p>",
-      "name": "Frostbite Extensa",
+      "description": "<p>Role duas vezes na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Esses apêndices ficam rígidos, gélidos, pálidos e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não forem tratados em 15 minutos, necrosarão e cairão em <strong>[[1d4]]</strong> dias <em>(após os quais ficam <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente os apêndices.</p>",
+      "name": "Congelamento Extenso",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.v5PoVKf3dnfBJ38c"
     },
@@ -106,7 +106,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>A temperatura central do seu corpo caiu perigosamente. Enquanto estiver em iniciativa, você funciona como se estivesse sob os efeitos das Spells <em>Slow</em> e <em>Confusion</em>. Se não for tratado por 1 hora, você fica <strong>&Reference[unconscious]{unconscious}</strong>.</p><p><em>Tratamento</em> — Um Short Rest reaquecendo-se lentamente encerra este efeito.</p>",
+      "description": "<p>A temperatura central do seu corpo despencou a níveis perigosos. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito das magias <em>Slow</em> <em>(Lentidão)</em> e <em>Confusion</em> <em>(Confusão)</em>. Se não for tratada por uma hora, você fica <strong>&Reference[unconscious]{unconscious}</strong> <em>(Inconsciente)</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
       "name": "Hipotermia Grave",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.c6fr5xJn7uYmpTbt"
@@ -133,8 +133,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você está com Cold; suas mãos tremem sem controle e sua voz vacila enquanto fala. As próximas três Spells que lançar têm 50% de chance de falhar. O efeito termina depois que as três Spells forem tentadas.</p>",
-      "name": "Tremores",
+      "description": "<p>Você está com tanto frio que suas mãos tremem de forma incontrolável e sua voz vacila quando você fala. As próximas três magias que você conjurar têm 50% de chance de falhar. Este efeito termina depois que três magias forem tentadas.</p>",
+      "name": "Os Calafrios",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.6nva89TqTbTkG7Je",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WmqwRGUNk5ILWxe3"
     },
@@ -160,8 +160,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Suas mãos estão tão frias que você quase não sente nada nelas. Seus próximos três ataques têm Disadvantage.</p>",
-      "name": "Dedos Congelados",
+      "description": "<p>Suas mãos estão tão frias que você mal sente algo nelas. Seus próximos três ataques têm Disadvantage <em>(Desvantagem)</em>.</p>",
+      "name": "Dedos Queimados pelo Frio",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oa4dKoNSTS9fXtgV"
     },
@@ -187,7 +187,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você tenta mover os pés, mas a intensidade do Cold o congelou diretamente ao chão. Você fica <strong>&Reference[restrained]{restrained}</strong>. Se estiver voando ou não estiver em contato com uma superfície, não há efeito.</p><p><em>Tratamento</em> — Um Strength check (DC igual à metade do Dano que causou a Lesão Persistente ou 10, o que for maior), como uma Action, permite libertar-se.</p>",
+      "description": "<p>Você tenta mover os pés, mas descobre que a intensidade do frio o congelou diretamente ao chão. Você fica <strong>&Reference[restrained]{restrained}</strong> <em>(Impedido)</em>. Se você estiver voando ou, de outra forma, não estiver em contato com uma superfície, não há efeito.</p><p><em>Tratamento</em> — Um teste de Strength <em>(Força)</em> <em>(DC igual à metade do dano que causou a lesão persistente ou 10, o que for maior)</em> como Action <em>(Ação)</em> permite que você se liberte.</p>",
       "name": "Congelado no Lugar",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ss3rLGdJAupNTzCt",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.iHMtpZsTEJogJdXu"
@@ -214,7 +214,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O Cold retirou grande parte do calor do seu corpo. Enquanto estiver em iniciativa, você funciona como se estivesse sob os efeitos da Spell <em>Slow</em>. Se não for tratado por 2 horas, o quadro evolui para Hipotermia Grave.</p><p><em>Tratamento</em> — Um Short Rest reaquecendo-se lentamente encerra este efeito.</p>",
+      "description": "<p>O frio extremo drenou grande parte do calor do seu corpo. Enquanto estiver em Initiative <em>(Iniciativa)</em>, você funciona como se estivesse sob o efeito da magia Slow <em>(Lentidão)</em>. Se não for tratada por duas horas, a condição evolui para Hipotermia Grave.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente a si mesmo encerra este efeito.</p>",
       "name": "Hipotermia",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KP5l2GWmommEsNFo"
@@ -241,8 +241,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do corpo fica com uma cicatriz pálida e azulada.</p>",
-      "name": "Ponto Azul Pálido",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do corpo fica com uma cicatriz pálida e de tom azulado.</p>",
+      "name": "Pálido Ponto Azul",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.MNBtXTArqkFFZ3YG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WzxI45g7DfRH4WBZ"
     },
@@ -268,8 +268,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p> Role no  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Esta área do seu corpo foi criomarcada e resultará em uma cicatriz definida e pálida. Qualquer pelo na área afetada voltará a ficar branco. </p>",
-      "name": "Marca fria",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Esta área do seu corpo foi marcada pelo frio e resultará em uma cicatriz definida e pálida. Qualquer pelo na área afetada volta a crescer branco.</p>",
+      "name": "Marca Gélida",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ZPVbTc1a7OJmxAyZ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.CBY3vTDTvOSMuJIY"
     },
@@ -295,8 +295,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você não pode usar a Action Dash. Este efeito dura [[1d6]] rodadas.</p>",
-      "name": "Dedos dos Pés Congelados",
+      "description": "<p>Você não pode usar a ação <em>Dash</em> <em>(Correr)</em>. Este efeito dura <strong>[[1d6]]</strong> Rounds <em>(Rodadas)</em>.</p>",
+      "name": "Dedos dos Pés Queimados pelo Frio",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.dD4Ahma09dBrSDPR"
     },
@@ -322,8 +322,8 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Você está com Cold. Muito Cold. Você tropeça, erra, cai, murmura e reclama. Você não pode usar a Action Disengage por [[1d6]] turnos.</p>",
-      "name": "Os Desajeitados",
+      "description": "<p>Você está com frio. Tanto frio. Você tropeça. Você se atrapalha. Você cai. Você murmura e resmunga. Você não pode usar a ação <em>Disengage</em> <em>(Desengajar)</em> por <strong>[[1d6]]</strong> Turns <em>(Turnos)</em>.</p>",
+      "name": "Os Tropeços",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.SEeyX0wZ8DrrYk7O"
     },
@@ -349,7 +349,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Em uma estranha coincidência, o Cold interagiu com um fio de magia natural dentro de você. Esta área do corpo fica permanentemente congelada, embora pareça agradavelmente fresca, e irradia uma aura tênue de Transmutation. Você tem Advantage em Constitution checks e Saving Throws feitos para resistir aos efeitos ambientais de Cold. Você pode suprimir o efeito mantendo Concentração.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}</strong> <em>(Tabela de Cicatrizes)</em>. Por uma rara coincidência, o frio interagiu com um fio de magia natural dentro de você. Esta área do seu corpo fica permanentemente gélida <em>(embora para você pareça agradavelmente fresca)</em> e irradia uma tênue aura de Transmutation <em>(Transmutação)</em>. Você tem Advantage <em>(Vantagem)</em> em testes e Saving Throws <em>(Testes de Resistência)</em> de Constitution <em>(Constituição)</em> feitos para resistir aos efeitos ambientais do frio. Você pode suprimir este efeito mantendo Concentration <em>(Concentração)</em>.</p>",
       "name": "Coração de Gelo",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ivXkUWxsKpu7W2xF"
@@ -376,7 +376,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Tabela de Apêndices Pequenos}. Este apêndice fica rígido, congelado, pálido e <strong>sem funcionamento</strong>. Se não for tratado em 15 minutos, necrosa e cai em [[1d4]] dias; depois fica <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Short Rest reaquecendo lentamente o apêndice.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}</strong> <em>(Tabela de Apêndices Pequenos)</em>. Este apêndice fica rígido, gélido, pálido e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 15 minutos, necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente o apêndice.</p>",
       "name": "Apêndice Congelado",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bpeQ09urKr3yUOk0"
@@ -403,7 +403,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>Role na @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Tabela de Membros Grandes}. Seu membro fica congelado, rígido, dormente e <strong>sem funcionamento</strong>. Se não for tratado em 15 minutos, necrosa e cai em [[1d4]] dias; depois fica <strong>ausente</strong>.</p><p><em>Tratamento</em> — Um Short Rest reaquecendo lentamente o membro.</p>",
+      "description": "<p>Role na <strong>@UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}</strong> <em>(Tabela de Membros Grandes)</em>. Seu membro fica congelado, rígido, dormente e <strong>nonfunctional</strong> <em>(não funcional)</em>. Se não for tratado em 15 minutos, o membro necrosará e cairá em <strong>[[1d4]]</strong> dias <em>(após os quais fica <strong>missing</strong> (ausente))</em>.</p><p><em>Tratamento</em> — Um Short Rest <em>(Descanso Curto)</em> reaquecendo lentamente o membro.</p>",
       "name": "Membro Congelado",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.u88lSICkmHVEB4DT"
@@ -430,7 +430,7 @@
         "duplicateSource": null,
         "exportSource": null
       },
-      "description": "<p>O Cold Danificou permanentemente seus nervos, e seus reflexos ficaram lentos e entorpecidos. Você tem Disadvantage em initiative checks.</p>",
+      "description": "<p>O frio danificou permanentemente os seus nervos, e os seus reflexos ficaram embotados e lentos. Você tem Disadvantage <em>(Desvantagem)</em> em testes de Initiative <em>(Iniciativa)</em>.</p>",
       "name": "Reflexos Lentos",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.FYywmaJdRzJrhFqw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rgDfZBqajmNAITMC"
