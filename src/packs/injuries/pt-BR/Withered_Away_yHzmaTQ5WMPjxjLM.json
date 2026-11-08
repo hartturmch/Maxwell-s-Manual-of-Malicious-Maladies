@@ -1,6 +1,6 @@
 {
   "_id": "yHzmaTQ5WMPjxjLM",
-  "name": "Withered Away",
+  "name": "Withered Longe",
   "type": "feat",
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "GEFJGcdxlKm6bzrw",
-      "name": "Withered Away",
+      "name": "Withered Longe",
       "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
       "type": "base",
       "system": {

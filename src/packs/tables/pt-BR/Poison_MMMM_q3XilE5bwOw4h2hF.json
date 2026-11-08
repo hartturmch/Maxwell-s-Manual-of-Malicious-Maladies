@@ -107,7 +107,7 @@
         "exportSource": null
       },
       "description": "<p>The poison is particularly strong and you can't seem to shake free of it. You are <strong>&Reference[poisoned]{poisoned}</strong> for [[1d6]] days.</p><p><em>Treatment</em> - After each long rest you may make a Constitution saving throw (DC equals half the damage that caused the lingering injury or 10, whichever number is higher). On a success, you are no longer <strong>poisoned</strong>. Any effect that cures poison (such as the Lesser Restoration spell) instead temporarily suppresses the poison for one hour.</p>",
-      "name": "Lingering Veneno",
+      "name": "Persistente Veneno",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.RD5wCeBle5MmS1Vw",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sUz9koOyxAZQx0TT"
     },
@@ -161,7 +161,7 @@
         "exportSource": null
       },
       "description": "<p>You can physically feel the poison eating away at you from the inside, and the adrenaline pumping through you is only helping to force it throughout your body. At the beginning of your turn you take poison damage scaled to the damage that caused the lingering injury: 1-10 damage ([[1d2]]), 11-20 damage ([[1d4]]), 21-30 damage ([[1d6]]), 31-40 damage ([[1d8]]), &gt;40 damage ([[1d10]]). This effect continues until you are off initiative.</p><p><em>Treatment</em> - Any spell or effect that cures the <strong>&Reference[poisoned]{poisoned}</strong> condition will end this effect.</p>",
-      "name": "Virulent Veneno",
+      "name": "Virulento Veneno",
       "_key": "!tables.results!q3XilE5bwOw4h2hF.ZQBdf2TLoIW7lxJJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.jqnFjcIYlWVUvCgP"
     },

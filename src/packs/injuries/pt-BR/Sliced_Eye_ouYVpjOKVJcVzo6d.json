@@ -1,6 +1,6 @@
 {
   "_id": "ouYVpjOKVJcVzo6d",
-  "name": "Sliced Eye",
+  "name": "Sliced Olho",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "7H6CFD7WS7EmK3Az",
-      "name": "Sliced Eye",
+      "name": "Sliced Olho",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

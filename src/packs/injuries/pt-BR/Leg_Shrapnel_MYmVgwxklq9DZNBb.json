@@ -1,6 +1,6 @@
 {
   "_id": "MYmVgwxklq9DZNBb",
-  "name": "Leg Shrapnel",
+  "name": "Leg Estilhaços",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "CCMMwJ0D9RJsSVLk",
-      "name": "Leg Shrapnel",
+      "name": "Leg Estilhaços",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "Hpbu9QICvD6Krucs",
-  "name": "Stubborn Hemorrhaging",
+  "name": "Persistente Hemorrhaging",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "OfvC0In2BFbZ0wia",
-      "name": "Stubborn Hemorrhaging",
+      "name": "Persistente Hemorrhaging",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

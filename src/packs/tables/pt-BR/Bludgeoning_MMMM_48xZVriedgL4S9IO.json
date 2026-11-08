@@ -53,7 +53,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The enormous impact of the blow has caused your limb to be torn from its socket. The limb is  <strong> ausente </strong>  and thrown 15 feet in a random direction. </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia </p>",
-      "name": "Limb Torn Asunder",
+      "name": "Membro Torn Asunder",
       "_key": "!tables.results!48xZVriedgL4S9IO.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rULySNi5rRtLc7gG"
     },
@@ -161,7 +161,7 @@
         "exportSource": null
       },
       "description": "<p> The Força of the impact jars your nerves and sends a spreading numbness through your left arm. You drop anything you are holding with that arm and it is  <strong> sem funcionamento </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
-      "name": "Numb Left Arm",
+      "name": "Numb Left Braço",
       "_key": "!tables.results!48xZVriedgL4S9IO.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.aUf88EwNWpbc3hUS"
     },
@@ -296,7 +296,7 @@
         "exportSource": null
       },
       "description": "<p> The Força of the impact jars your nerves and sends a spreading numbness through your right arm. You drop anything you are holding with that arm and it is  <strong> sem funcionamento </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - Any amount of magical healing will end this effect. </p>",
-      "name": "Numb Right Arm",
+      "name": "Numb Right Braço",
       "_key": "!tables.results!48xZVriedgL4S9IO.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bWgPGXmnSS3BBkE9"
     },

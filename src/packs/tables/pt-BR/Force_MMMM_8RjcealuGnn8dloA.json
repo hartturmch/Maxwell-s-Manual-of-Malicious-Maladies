@@ -26,7 +26,7 @@
         "exportSource": null
       },
       "description": "<p>  </strong>  </p>  <p> Something vital, yet intangible within you falls deathly silent. You feel...disconnected. You lose the ability to communicate telepathically. All magical communication that specifically targets you fails (such as the Message, Sending, and Telepathic Bond spells). Your mind cannot be read or detected. </p>",
-      "name": "Third Eye Blinded",
+      "name": "Terceiro Olho Cego",
       "_key": "!tables.results!8RjcealuGnn8dloA.On1uWByhfkopjZc8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.rAaoTek6MtJSCjvV"
     },
@@ -242,7 +242,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Sometimes there are strange side effects when you deal with raw magical energy. This body part emits faint, misty whisps of arcane energy with the following color and faint magical aura (roll  [[1d4]] ): 1) Orange, Conjuration, 2) Red, Evocation, 3) Blue, Abjuration, 4) Green, Transmutation. </p>",
-      "name": "Lingering Aura",
+      "name": "Persistente Aura",
       "_key": "!tables.results!8RjcealuGnn8dloA.TtN76YZO4sdKH2he",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Uzg4qnzgKmEFpYcI"
     },
@@ -269,7 +269,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Sometimes there are strange side effects when you deal with raw magical energy. This body part emits faint, misty whisps of arcane energy with the following color and faint magical aura (roll  [[1d4]] ): 1) Black, Necromancy, 2) White, Enchantment, 3) Yellow, Illusion, 4) Violet, Divination. </p>",
-      "name": "Lingering Aura",
+      "name": "Persistente Aura",
       "_key": "!tables.results!8RjcealuGnn8dloA.SVfKTmuMaYswE7XX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.L1se5pFxXJpdJLIF"
     },
@@ -296,7 +296,7 @@
         "exportSource": null
       },
       "description": "<p> You feel the energy tug violently at your arcane essence until a portion of it tears loose. One of the highest level spell slots you have available to cast is harmlessly expended. You may reprepare this spell slot as usual after a long rest or as your class dictates. </p>",
-      "name": "Mana Burn",
+      "name": "Mana Queimadura",
       "_key": "!tables.results!8RjcealuGnn8dloA.PYPnUAvwDiw2fUEl",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.5ne8JQFoOuSed1Z0"
     },

@@ -1,6 +1,6 @@
 {
   "_id": "qrBjiP5PSXP8uimU",
-  "name": "Depressed Scar",
+  "name": "Rebaixada Cicatriz",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "qVw4H5fWBjKOuPb1",
-      "name": "Depressed Scar",
+      "name": "Rebaixada Cicatriz",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

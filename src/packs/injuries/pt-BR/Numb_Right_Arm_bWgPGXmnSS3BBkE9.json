@@ -1,6 +1,6 @@
 {
   "_id": "bWgPGXmnSS3BBkE9",
-  "name": "Numb Right Arm",
+  "name": "Numb Right Braço",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "MV52Ez0SHD37csXX",
-      "name": "Numb Right Arm",
+      "name": "Numb Right Braço",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

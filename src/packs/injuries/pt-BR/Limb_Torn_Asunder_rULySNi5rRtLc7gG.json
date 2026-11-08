@@ -1,6 +1,6 @@
 {
   "_id": "rULySNi5rRtLc7gG",
-  "name": "Limb Torn Asunder",
+  "name": "Membro Torn Asunder",
   "type": "feat",
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "invEXd8v7f2veM4B",
-      "name": "Limb Torn Asunder",
+      "name": "Membro Torn Asunder",
       "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
       "type": "base",
       "system": {

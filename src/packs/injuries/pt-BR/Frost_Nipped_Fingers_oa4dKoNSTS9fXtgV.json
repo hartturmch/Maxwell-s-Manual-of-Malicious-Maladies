@@ -1,6 +1,6 @@
 {
   "_id": "oa4dKoNSTS9fXtgV",
-  "name": "Frost Nipped Fingers",
+  "name": "Gelo Nipped Fingers",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "SMcsPUkvzIK2HLbh",
-      "name": "Frost Nipped Fingers",
+      "name": "Gelo Nipped Fingers",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

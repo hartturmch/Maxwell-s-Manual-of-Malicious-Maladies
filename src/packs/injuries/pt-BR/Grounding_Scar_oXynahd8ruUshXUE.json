@@ -1,6 +1,6 @@
 {
   "_id": "oXynahd8ruUshXUE",
-  "name": "Grounding Scar",
+  "name": "Aterramento Cicatriz",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "BNLaLhguaH8qxyxC",
-      "name": "Grounding Scar",
+      "name": "Aterramento Cicatriz",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

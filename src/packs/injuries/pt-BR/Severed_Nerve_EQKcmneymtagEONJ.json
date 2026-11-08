@@ -1,6 +1,6 @@
 {
   "_id": "EQKcmneymtagEONJ",
-  "name": "Severed Nerve",
+  "name": "Seccionado Nerve",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "NCtnbZTxAJzqbe2Y",
-      "name": "Severed Nerve",
+      "name": "Seccionado Nerve",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "aBreJKa3HM2XyIZ0",
-  "name": "Stubborn Bleeding",
+  "name": "Persistente Sangramento",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "V9Jq3sA0oNGlldXa",
-      "name": "Stubborn Bleeding",
+      "name": "Persistente Sangramento",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "orh5q2ysikLwbK9j",
-  "name": "Punctured Lung",
+  "name": "Punctured Pulmão",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "ebha9LCFMnxfFU73",
-      "name": "Punctured Lung",
+      "name": "Punctured Pulmão",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

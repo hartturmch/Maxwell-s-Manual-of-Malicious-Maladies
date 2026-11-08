@@ -1,6 +1,6 @@
 {
   "_id": "tmjBbGdxPWBqM0xW",
-  "name": "Dappled Scar",
+  "name": "Manchada Cicatriz",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "vYtfFnuDxj3vc2OB",
-      "name": "Dappled Scar",
+      "name": "Manchada Cicatriz",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

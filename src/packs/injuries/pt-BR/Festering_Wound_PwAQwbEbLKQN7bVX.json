@@ -1,6 +1,6 @@
 {
   "_id": "PwAQwbEbLKQN7bVX",
-  "name": "Festering Wound",
+  "name": "Supurante Ferida",
   "type": "feat",
   "img": "icons/skills/melee/blood-slash-foam-red.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "ZfRgbSOqgngTRUqB",
-      "name": "Festering Wound",
+      "name": "Supurante Ferida",
       "img": "icons/skills/melee/blood-slash-foam-red.webp",
       "type": "base",
       "system": {

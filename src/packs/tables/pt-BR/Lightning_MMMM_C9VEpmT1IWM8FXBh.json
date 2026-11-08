@@ -242,7 +242,7 @@
         "exportSource": null
       },
       "description": "<p> Roll twice on the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. Each area of your body is left with a round scar, one where the electricity entered, and one where the electricity left. </p>",
-      "name": "Grounding Scar",
+      "name": "Aterramento Cicatriz",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.fUDRwhqypuKa64Fs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oXynahd8ruUshXUE"
     },
@@ -350,7 +350,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the electricity has interacted with a thread of natural magic within you. This body part emits a small electrical arc of energy every few minutes. If you use an action to touch this body part to a character with 0 hit points they become stable in the same manner as the Spare the Dying cantrip. You may suppress the arcing effect by maintaining Concentração. The limb emits a faint aura of Evocation. </p>",
-      "name": "Static Arc",
+      "name": "Static Arco",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.R30x9IOGKRqjyShC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Fj4AEbUuxgw3tgxA"
     },
@@ -377,7 +377,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The electricity has violently exited your body at this point, charring it to the point of being  <strong> sem funcionamento </strong> . If not treated within 24 hours, the appendage will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Limb Cirurgia. </p>",
-      "name": "Destructive Grounding",
+      "name": "Destructive Aterramento",
       "_key": "!tables.results!C9VEpmT1IWM8FXBh.YJVZUrVhCW4k7GW2",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.2WbWzUxWznvk6JbL"
     },

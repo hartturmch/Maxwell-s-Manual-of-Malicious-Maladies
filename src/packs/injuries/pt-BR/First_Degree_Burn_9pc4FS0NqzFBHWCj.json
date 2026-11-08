@@ -1,6 +1,6 @@
 {
   "_id": "9pc4FS0NqzFBHWCj",
-  "name": "First Degree Burn",
+  "name": "Primeiro Grau Queimadura",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "gcmHRtmH4MOGKmYf",
-      "name": "First Degree Burn",
+      "name": "Primeiro Grau Queimadura",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

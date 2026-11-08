@@ -1,6 +1,6 @@
 {
   "_id": "Fj4AEbUuxgw3tgxA",
-  "name": "Static Arc",
+  "name": "Static Arco",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "LSqtDOzNjD8SdAUn",
-      "name": "Static Arc",
+      "name": "Static Arco",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

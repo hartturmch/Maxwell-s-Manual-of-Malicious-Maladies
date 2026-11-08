@@ -1,6 +1,6 @@
 {
   "_id": "yT5kgfA025rQer4Z",
-  "name": "Immolated Limb",
+  "name": "Imolado Membro",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "ARLEMx7GgWXIwc5N",
-      "name": "Immolated Limb",
+      "name": "Imolado Membro",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

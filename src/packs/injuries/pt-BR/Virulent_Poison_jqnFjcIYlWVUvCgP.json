@@ -1,6 +1,6 @@
 {
   "_id": "jqnFjcIYlWVUvCgP",
-  "name": "Virulent Veneno",
+  "name": "Virulento Veneno",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "q1M1Ph3qkIU7brVB",
-      "name": "Virulent Veneno",
+      "name": "Virulento Veneno",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

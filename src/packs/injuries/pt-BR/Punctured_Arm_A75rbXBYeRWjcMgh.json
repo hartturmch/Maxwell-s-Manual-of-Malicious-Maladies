@@ -1,6 +1,6 @@
 {
   "_id": "A75rbXBYeRWjcMgh",
-  "name": "Punctured Arm",
+  "name": "Punctured Braço",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "ilPjfFzLpiwwb0nv",
-      "name": "Punctured Arm",
+      "name": "Punctured Braço",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

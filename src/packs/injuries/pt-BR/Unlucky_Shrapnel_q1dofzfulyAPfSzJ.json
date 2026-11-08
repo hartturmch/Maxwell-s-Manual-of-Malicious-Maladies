@@ -1,6 +1,6 @@
 {
   "_id": "q1dofzfulyAPfSzJ",
-  "name": "Unlucky Shrapnel",
+  "name": "Unlucky Estilhaços",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "Os4c3g1EfPUbSruf",
-      "name": "Unlucky Shrapnel",
+      "name": "Unlucky Estilhaços",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

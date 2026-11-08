@@ -1,6 +1,6 @@
 {
   "_id": "dD4Ahma09dBrSDPR",
-  "name": "Frost Nipped Toes",
+  "name": "Gelo Nipped Toes",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "iUzoYAoAttnS1HRV",
-      "name": "Frost Nipped Toes",
+      "name": "Gelo Nipped Toes",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

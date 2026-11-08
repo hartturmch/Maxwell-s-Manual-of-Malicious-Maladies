@@ -53,7 +53,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The limb is charred black, completely covered in extensive burns, and  <strong> sem funcionamento </strong> . If untreated within 24 hours the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the limb is lost. </p>",
-      "name": "Immolated Limb",
+      "name": "Imolado Membro",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.TVBki4p4T3wU0ZS1",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yT5kgfA025rQer4Z"
     },
@@ -80,7 +80,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The appendage is charred black, completely covered in extensive burns, and  <strong> sem funcionamento </strong> . If untreated within 24 hours the appendage will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A  DC  21 Teste de Resistência Limb Cirurgia. You get 1 check for this Cirurgia; if you do not meet the  DC  on the first check, the appendage is lost. </p>",
-      "name": "Immolated Appendage",
+      "name": "Imolado Apêndice",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.rapzjtMGK4VLX4wf",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.vRdaFYg1tf8BQzpb"
     },
@@ -107,7 +107,7 @@
         "exportSource": null
       },
       "description": "<p> You have a deep burn penetrating through your skin, resulting in a cracked, red wound. While on initiative you take 1 Fogo Dano for every 5 feet of movement. In addition, you take  [[/damage 1d4 fire]]  every time you take an action or bonus action. This injury lasts  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 16]]  check reduces the duration of this injury by  [[1d8]]  days. </p>",
-      "name": "Third Degree Burn",
+      "name": "Terceiro Grau Queimadura",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.8jJIfpgD0nxBFF7u",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.kXGOMWu1FZh4IvGt"
     },
@@ -161,7 +161,7 @@
         "exportSource": null
       },
       "description": "<p> An angry red burn flashes over your skin. It's tender and painful to move. While on initiative you take 1 Fogo Dano per 10 feet of movement. This injury heals in  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 10]]  check reduces the duration of this injury by  [[1d6]]  days. </p>",
-      "name": "First Degree Burn",
+      "name": "Primeiro Grau Queimadura",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.9pc4FS0NqzFBHWCj"
     },
@@ -215,7 +215,7 @@
         "exportSource": null
       },
       "description": "<p> Your skin bubbles and blisters as the burning flashes over it. While on initiative you take 1 Fogo Dano per 5 feet of movement. This injury heals in  [[1d8]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 12]]  check reduces the duration of this injury by  [[1d8]]  days. </p>",
-      "name": "Second Degree Burn",
+      "name": "Segundo Grau Queimadura",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.ijPpSVT8cX1MRNgG",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.UNUqJXPoCNir0bef"
     },
@@ -323,7 +323,7 @@
         "exportSource": null
       },
       "description": "<p>The temperature around you skyrockets, flash-heating everything nearby. Any flammable objects being worn or wielded are ignited. You drop anything metal you are carrying in sudden shock.</p><p><em>Treatment</em> - You may extinguish any worn or wielded items that were ignited with a bonus action. If you attempt to pick up any dropped items, make a Constitution saving throw (DC equals half the damage that caused the lingering injury or 10, whichever number is higher) to brave the heat and retrieve them.</p>",
-      "name": "Searing Temperatures",
+      "name": "Escaldantes Temperatures",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.5xYxYwmHNBEqQUIv",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.WlPyx1X1D5MllNiX"
     },
@@ -350,7 +350,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. In a freak instance of chance, the heat has interacted with a thread of natural magic within you. This area of your body is permanently hot (though to you it feels pleasantly warm) and radiates a faint aura of Transmutation. You have advantage on Constitution checks and saving throws made to resist the environmental effects of heat. You may suppress this effect by maintaining Concentração. </p>",
-      "name": "Inner Fogo",
+      "name": "Interior Fogo",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.0NzG2B900AuqiGOD",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ONRCEI0PF2jD4mah"
     },
@@ -377,7 +377,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The blazing fires have scoured through until nothing but ash remains. The appendage is  <strong> ausente </strong>  and the resulting wound is cauterized. </p>",
-      "name": "Incinerated Appendage",
+      "name": "Incinerado Apêndice",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.sxVV0S6YqVMTyyrg"
     },
@@ -404,7 +404,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. The voracious Fogo has devoured your limb, leaving nothing but smoking cinders in its wake. The limb is  <strong> ausente </strong> , and the resulting wound is cauterized </p>",
-      "name": "Incinerated Limb",
+      "name": "Incinerado Membro",
       "_key": "!tables.results!GiPEXwkCEHm6s5AQ.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.DnHqRvkRGeOkHeNy"
     },

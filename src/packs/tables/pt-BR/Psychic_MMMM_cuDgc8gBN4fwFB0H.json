@@ -350,7 +350,7 @@
         "exportSource": null
       },
       "description": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Scar Chart}. In a freak instance of chance, the psychic assault has interacted with a thread of natural magic within you. The appearance of this body part keeps subtly shifting, though it feels exactly the same as before. This area of your body is permanently under the effect of a Minor Illusion spell and emits a faint aura of Illusion. You can suppress or control this effect with an effort of concentration, otherwise the body part slowly shifts through minor changes in colour, size, shape, and appearance seemingly in relation to your general mood. The spell save DC for this illusion is 10 + your current level.</p>",
-      "name": "Illusory Limb",
+      "name": "Ilusório Membro",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.uVDiJW99HxlAYB6D",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.xltUN0eArziKSY18"
     },
@@ -377,7 +377,7 @@
         "exportSource": null
       },
       "description": "<p>Your attempts to be understood are met with nothing but narrowed eyes and confused looks. You lose proficiency with all languages except common, which you can understand, but not speak. You cannot read or write. Any attempt to speak a language results in a garbled string of seemingly random words. This effect lasts [[1d4]] days.</p><p><em>Treatment</em> - Any spell that allows the caster to comprehend the literal or implied meaning of communication will function as normal.</p>",
-      "name": "Temporary Aphasia",
+      "name": "Temporária Aphasia",
       "_key": "!tables.results!cuDgc8gBN4fwFB0H.hVP100SCgORrLxxu",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.eo0LfZSYSd2oVoXH"
     },

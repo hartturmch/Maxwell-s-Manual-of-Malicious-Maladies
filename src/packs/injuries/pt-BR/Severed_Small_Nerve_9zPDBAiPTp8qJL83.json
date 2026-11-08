@@ -1,6 +1,6 @@
 {
   "_id": "9zPDBAiPTp8qJL83",
-  "name": "Severed Small Nerve",
+  "name": "Seccionado Small Nerve",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "MDUuk8CnRN9HX9gE",
-      "name": "Severed Small Nerve",
+      "name": "Seccionado Small Nerve",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "B788FbEMu4fj27LB",
-  "name": "Scaly Scar",
+  "name": "Escamosa Cicatriz",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "gPM4Ftmjjlf3ReFe",
-      "name": "Scaly Scar",
+      "name": "Escamosa Cicatriz",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

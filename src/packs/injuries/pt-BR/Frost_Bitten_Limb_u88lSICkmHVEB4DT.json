@@ -1,6 +1,6 @@
 {
   "_id": "u88lSICkmHVEB4DT",
-  "name": "Frost Bitten Limb",
+  "name": "Gelo Mordido Membro",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "rZzqD20qaZ2ChsZI",
-      "name": "Frost Bitten Limb",
+      "name": "Gelo Mordido Membro",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

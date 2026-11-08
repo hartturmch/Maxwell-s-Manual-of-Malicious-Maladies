@@ -1,6 +1,6 @@
 {
   "_id": "F99iIEP9a1Eyum7w",
-  "name": "Dissolved Limb",
+  "name": "Dissolvido Membro",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "RlPSPAG4I8fsrFD7",
-      "name": "Dissolved Limb",
+      "name": "Dissolvido Membro",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

@@ -161,7 +161,7 @@
         "exportSource": null
       },
       "description": "<p> Your hands are so Frio you barely have any feeling in them. Your next three attacks have disadvantage. </p>",
-      "name": "Frost Nipped Fingers",
+      "name": "Gelo Nipped Fingers",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.4H4kEMLGjMxyDyr5",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.oa4dKoNSTS9fXtgV"
     },
@@ -296,7 +296,7 @@
         "exportSource": null
       },
       "description": "<p> You cannot take the  <em> dash </em>  action. This effect lasts  [[1d6]]  rounds. </p>",
-      "name": "Frost Nipped Toes",
+      "name": "Gelo Nipped Toes",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.ztlCITgANLUGzBMJ",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.dD4Ahma09dBrSDPR"
     },
@@ -377,7 +377,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. This appendage is firm, frigid, pale, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes it will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ). </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the appendage. </p>",
-      "name": "Frost Bitten Appendage",
+      "name": "Gelo Mordido Apêndice",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.k2Sv7O6CBCwMkbL7",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.bpeQ09urKr3yUOk0"
     },
@@ -404,7 +404,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. Your limb is frozen, rigid, numb, and  <strong> sem funcionamento </strong> . If not treated within 15 minutes the limb will necrotize and fall off in  [[1d4]]  days (after which it is  <strong> ausente </strong> ) </p>  <p>  <em> Tratamento </em>  - A short rest slowly rewarming the limb. </p>",
-      "name": "Frost Bitten Limb",
+      "name": "Gelo Mordido Membro",
       "_key": "!tables.results!7VCX5pPOOcrrfRO9.wiovK1an4WFoH6Op",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.u88lSICkmHVEB4DT"
     },

@@ -1,6 +1,6 @@
 {
   "_id": "ONRCEI0PF2jD4mah",
-  "name": "Inner Fogo",
+  "name": "Interior Fogo",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "uzt2Z2HjDIQoK82T",
-      "name": "Inner Fogo",
+      "name": "Interior Fogo",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

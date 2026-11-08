@@ -1,6 +1,6 @@
 {
   "_id": "2WbWzUxWznvk6JbL",
-  "name": "Destructive Grounding",
+  "name": "Destructive Aterramento",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "KhPoiCOAXk2sfvyX",
-      "name": "Destructive Grounding",
+      "name": "Destructive Aterramento",
       "img": "icons/magic/lightning/bolt-strike-sparks-blue.webp",
       "type": "base",
       "system": {

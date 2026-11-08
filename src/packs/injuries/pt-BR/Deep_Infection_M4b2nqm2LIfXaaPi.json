@@ -1,6 +1,6 @@
 {
   "_id": "M4b2nqm2LIfXaaPi",
-  "name": "Deep Infection",
+  "name": "Profunda Infecção",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "f3X5ldnklXXRIMAk",
-      "name": "Deep Infection",
+      "name": "Profunda Infecção",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

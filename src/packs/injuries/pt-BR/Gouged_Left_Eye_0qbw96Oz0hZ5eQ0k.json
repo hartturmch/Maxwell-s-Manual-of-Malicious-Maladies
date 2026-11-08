@@ -1,6 +1,6 @@
 {
   "_id": "0qbw96Oz0hZ5eQ0k",
-  "name": "Gouged Left Eye",
+  "name": "Gouged Left Olho",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "iGEArxNGwRQmdLZU",
-      "name": "Gouged Left Eye",
+      "name": "Gouged Left Olho",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

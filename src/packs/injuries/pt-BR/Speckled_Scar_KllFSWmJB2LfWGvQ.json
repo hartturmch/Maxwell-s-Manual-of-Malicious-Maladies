@@ -1,6 +1,6 @@
 {
   "_id": "KllFSWmJB2LfWGvQ",
-  "name": "Speckled Scar",
+  "name": "Salpicada Cicatriz",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "lvgZh9t14tT8CUmG",
-      "name": "Speckled Scar",
+      "name": "Salpicada Cicatriz",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

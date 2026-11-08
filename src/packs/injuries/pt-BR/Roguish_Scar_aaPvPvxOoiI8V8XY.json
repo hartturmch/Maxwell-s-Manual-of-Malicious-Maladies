@@ -1,6 +1,6 @@
 {
   "_id": "aaPvPvxOoiI8V8XY",
-  "name": "Roguish Scar",
+  "name": "Ladina Cicatriz",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "DnDLCARCtqqGXpv8",
-      "name": "Roguish Scar",
+      "name": "Ladina Cicatriz",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

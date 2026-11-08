@@ -1,6 +1,6 @@
 {
   "_id": "sUz9koOyxAZQx0TT",
-  "name": "Lingering Veneno",
+  "name": "Persistente Veneno",
   "type": "feat",
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "Yk72j8vZV9eDvj1l",
-      "name": "Lingering Veneno",
+      "name": "Persistente Veneno",
       "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
       "type": "base",
       "system": {

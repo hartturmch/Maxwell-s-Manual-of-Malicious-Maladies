@@ -1,6 +1,6 @@
 {
   "_id": "pL5kCJKlhlFXTokB",
-  "name": "Perforated Gut",
+  "name": "Perfurado Intestino",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "zefDlAqhrHf9OHZB",
-      "name": "Perforated Gut",
+      "name": "Perfurado Intestino",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

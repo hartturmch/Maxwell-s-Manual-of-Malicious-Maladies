@@ -1,6 +1,6 @@
 {
   "_id": "TxC8c7bT8mLbTDo7",
-  "name": "Small Concussive Amputation",
+  "name": "Small Concussive Amputação",
   "type": "feat",
   "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "WpwJtqJUKDHd7R5S",
-      "name": "Small Concussive Amputation",
+      "name": "Small Concussive Amputação",
       "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
       "type": "base",
       "system": {

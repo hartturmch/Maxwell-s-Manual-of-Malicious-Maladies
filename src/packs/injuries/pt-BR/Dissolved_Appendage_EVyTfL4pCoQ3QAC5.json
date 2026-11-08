@@ -1,6 +1,6 @@
 {
   "_id": "EVyTfL4pCoQ3QAC5",
-  "name": "Dissolved Appendage",
+  "name": "Dissolvido Apêndice",
   "type": "feat",
   "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "Hs7DumQ9gwUkMtaL",
-      "name": "Dissolved Appendage",
+      "name": "Dissolvido Apêndice",
       "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "type": "base",
       "system": {

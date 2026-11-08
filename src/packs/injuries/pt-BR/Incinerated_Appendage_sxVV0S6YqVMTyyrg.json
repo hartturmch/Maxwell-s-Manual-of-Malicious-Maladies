@@ -1,6 +1,6 @@
 {
   "_id": "sxVV0S6YqVMTyyrg",
-  "name": "Incinerated Appendage",
+  "name": "Incinerado Apêndice",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "c5bonzHSDkPFjLME",
-      "name": "Incinerated Appendage",
+      "name": "Incinerado Apêndice",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

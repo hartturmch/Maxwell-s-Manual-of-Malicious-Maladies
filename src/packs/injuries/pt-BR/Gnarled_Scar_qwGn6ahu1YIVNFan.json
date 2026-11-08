@@ -1,6 +1,6 @@
 {
   "_id": "qwGn6ahu1YIVNFan",
-  "name": "Gnarled Scar",
+  "name": "Retorcida Cicatriz",
   "type": "feat",
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "pSICufQHsYAgAmR1",
-      "name": "Gnarled Scar",
+      "name": "Retorcida Cicatriz",
       "img": "icons/skills/melee/blade-tip-orange.webp",
       "type": "base",
       "system": {

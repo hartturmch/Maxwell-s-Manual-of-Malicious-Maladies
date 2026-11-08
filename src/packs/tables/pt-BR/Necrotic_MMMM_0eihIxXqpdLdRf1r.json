@@ -80,7 +80,7 @@
         "exportSource": null
       },
       "description": "<p> Your wound festers with a dark energy. It resists both magical and natural healing. Your maximum hit points are reduced by the amount of Dano that caused the Lesão Persistente. </p>  <p>  <em> Tratamento </em>  - A  DC  18 General Cirurgia check or the Greater Restoration spell. </p>",
-      "name": "Necrótico Wound",
+      "name": "Necrótico Ferida",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.yq7N0ZmXyvnIExgW",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.nQ9BDJmwaBvsR4oh"
     },
@@ -107,7 +107,7 @@
         "exportSource": null
       },
       "description": "<p> You feel frail, drained, as if your life's very essence has been stolen away from you. You have disadvantage on Strength (Athletics) checks and both Strength and Constitution saving throws for  [[1d4]]  days. </p>",
-      "name": "Withered Away",
+      "name": "Withered Longe",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.zgGMdkoNVSiuodwE",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.yHzmaTQ5WMPjxjLM"
     },
@@ -242,7 +242,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with a curious scar that appears to be a shadow over the wounded area. No amount of light seems to be able to eliminate this shadow. </p>",
-      "name": "Shadow Scar",
+      "name": "Sombra Cicatriz",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.fOM1XBQOuP86dTQO",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.ZSjESgzEimHy5aTL"
     },
@@ -350,7 +350,7 @@
         "exportSource": null
       },
       "description": "<p>Roll on the @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.iP8lOROAIYARwcgk]{Large Limb Table}. This limb is pale, bloodless, and dead. Yet somehow...you can still move it normally. The limb emits a faint aura of Necromancy. You can suppress this effect with an effort of concentration. This renders your physical limb inanimate and a ghostly, phantom limb appears from within it, staying attached to you. This incorporeal limb can pass through creatures and objects and interact with both the Material Plane and the Border Ethereal Plane. If the Phantom Limb ever spends more than 6 seconds inside an object, it flickers from existence and you take [[/damage 1d6 force]].</p><p><em>Treatment</em> - Any spell that returns the dead to life will return your limb to normal, provided you follow the spell's normal requirements.</p>",
-      "name": "Phantom Limb",
+      "name": "Fantasma Membro",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.NNEoVJmXjmNndWAs",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.JsaFwMWuJG9F0UkB"
     },
@@ -431,7 +431,7 @@
         "exportSource": null
       },
       "description": "<p> A small mote of corrupt power has taken residence within you and you feel a tiny part of your soul become unhinged. You take a  <strong> flaw </strong>  that would be considered malevolent, violent, cruel, or volatile. </p>",
-      "name": "Felt the Dark",
+      "name": "Felt the Escuros",
       "_key": "!tables.results!0eihIxXqpdLdRf1r.09TizzFme7VtzSV9",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.3MczKcI7QlA9H3yB"
     }

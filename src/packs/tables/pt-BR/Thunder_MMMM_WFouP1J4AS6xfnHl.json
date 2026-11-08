@@ -80,7 +80,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.vG8gsjqxGB7y9cSD]{Small Appendage Table}. The concussive blast has torn your appendage free and sent it flying. It lands 30 feet away from you, pushed away from the direction of the attack, and is considered  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  22 Teste de Resistência Limb Cirurgia. </p>",
-      "name": "Small Concussive Amputation",
+      "name": "Small Concussive Amputação",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.DecRr9ddWmuCoJxo",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.TxC8c7bT8mLbTDo7"
     },
@@ -107,7 +107,7 @@
         "exportSource": null
       },
       "description": "<p> The attack has turned small fragments of debris in the surrounding area into deadly ballistic projectiles, many of which have found their way deep into your leg muscles. Your speed is reduced by 10 feet. </p>  <p>  <em> Tratamento </em>  - A  DC  22 General Cirurgia. </p>",
-      "name": "Leg Shrapnel",
+      "name": "Leg Estilhaços",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.BBJaCd6HEtUUad4N",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.MYmVgwxklq9DZNBb"
     },
@@ -269,7 +269,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. The ballistic debris has left you with a speckled scar in this area. </p>",
-      "name": "Speckled Scar",
+      "name": "Salpicada Cicatriz",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.rXb1olOhTtnN2cOX",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.KllFSWmJB2LfWGvQ"
     },
@@ -431,7 +431,7 @@
         "exportSource": null
       },
       "description": "<p> Roll to randomly determine your left or right eye. An unlucky piece of shrapnel has ricocheted straight into your eye. This eye is  <strong> sem funcionamento </strong> . If not treated within 4 hours, your vision permanently  <strong> ausente </strong> . </p>  <p>  <em> Tratamento </em>  - A  DC  20 Teste de Resistência Sense Cirurgia. </p>",
-      "name": "Unlucky Shrapnel",
+      "name": "Unlucky Estilhaços",
       "_key": "!tables.results!WFouP1J4AS6xfnHl.Hf4diVrhEcm22wud",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.q1dofzfulyAPfSzJ"
     }

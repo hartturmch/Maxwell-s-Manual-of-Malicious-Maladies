@@ -1,6 +1,6 @@
 {
   "_id": "vRdaFYg1tf8BQzpb",
-  "name": "Immolated Appendage",
+  "name": "Imolado Apêndice",
   "type": "feat",
   "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "lmb0OzueY8NRoksA",
-      "name": "Immolated Appendage",
+      "name": "Imolado Apêndice",
       "img": "icons/magic/fire/flame-burning-campfire-orange.webp",
       "type": "base",
       "system": {

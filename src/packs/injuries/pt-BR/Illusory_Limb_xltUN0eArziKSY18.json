@@ -1,6 +1,6 @@
 {
   "_id": "xltUN0eArziKSY18",
-  "name": "Illusory Limb",
+  "name": "Ilusório Membro",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "e7eYYWkhu7Yoo0qJ",
-      "name": "Illusory Limb",
+      "name": "Ilusório Membro",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

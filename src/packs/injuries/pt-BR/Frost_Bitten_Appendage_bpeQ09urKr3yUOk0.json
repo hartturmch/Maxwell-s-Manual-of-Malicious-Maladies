@@ -1,6 +1,6 @@
 {
   "_id": "bpeQ09urKr3yUOk0",
-  "name": "Frost Bitten Appendage",
+  "name": "Gelo Mordido Apêndice",
   "type": "feat",
   "img": "icons/magic/water/snowflake-ice-snow-white.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "1YMrkYZaO8qbKFPD",
-      "name": "Frost Bitten Appendage",
+      "name": "Gelo Mordido Apêndice",
       "img": "icons/magic/water/snowflake-ice-snow-white.webp",
       "type": "base",
       "system": {

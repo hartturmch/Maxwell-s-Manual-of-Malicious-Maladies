@@ -1,6 +1,6 @@
 {
   "_id": "rAaoTek6MtJSCjvV",
-  "name": "Third Eye Blinded",
+  "name": "Terceiro Olho Cego",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "eoiU5OnMwbSrHrMY",
-      "name": "Third Eye Blinded",
+      "name": "Terceiro Olho Cego",
       "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
       "type": "base",
       "system": {

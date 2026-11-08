@@ -1,6 +1,6 @@
 {
   "_id": "eo0LfZSYSd2oVoXH",
-  "name": "Temporary Aphasia",
+  "name": "Temporária Aphasia",
   "type": "feat",
   "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "6QNj8LidDmk0Bdqz",
-      "name": "Temporary Aphasia",
+      "name": "Temporária Aphasia",
       "img": "icons/magic/control/hypnosis-mesmerism-pendulum.webp",
       "type": "base",
       "system": {

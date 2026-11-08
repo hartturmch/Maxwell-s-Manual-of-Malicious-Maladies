@@ -1,6 +1,6 @@
 {
   "_id": "Uzg4qnzgKmEFpYcI",
-  "name": "Lingering Aura",
+  "name": "Persistente Aura",
   "type": "feat",
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "PIOPwvkD5BPmISao",
-      "name": "Lingering Aura",
+      "name": "Persistente Aura",
       "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
       "type": "base",
       "system": {

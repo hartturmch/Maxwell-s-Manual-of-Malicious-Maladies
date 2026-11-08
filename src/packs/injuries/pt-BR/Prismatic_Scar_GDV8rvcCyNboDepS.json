@@ -1,6 +1,6 @@
 {
   "_id": "GDV8rvcCyNboDepS",
-  "name": "Prismatic Scar",
+  "name": "Prismática Cicatriz",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "HoW3sdC98CbH5vHW",
-      "name": "Prismatic Scar",
+      "name": "Prismática Cicatriz",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

@@ -1,6 +1,6 @@
 {
   "_id": "4gP7JROYju8qofQq",
-  "name": "Razzle Dazzled",
+  "name": "Razzle Ofuscado",
   "type": "feat",
   "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
   "system": {
@@ -21,7 +21,7 @@
   "effects": [
     {
       "_id": "tOyTDUB1U5pg36a1",
-      "name": "Razzle Dazzled",
+      "name": "Razzle Ofuscado",
       "img": "icons/magic/lightning/bolt-strike-streak-yellow.webp",
       "type": "base",
       "system": {

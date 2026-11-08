@@ -26,7 +26,7 @@
         "exportSource": null
       },
       "description": "<p> The purging light has scoured clean the filth in your soul. Your alignment shifts one step towards good. If your alignment is already good, treat this roll as a 15. </p>",
-      "name": "Purged Soul",
+      "name": "Purged Alma",
       "_key": "!tables.results!NETyZmaaW25oqjPV.8mfcUtt6pMHFo3tK",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.2JV9rRH92OuJJ9s5"
     },
@@ -107,7 +107,7 @@
         "exportSource": null
       },
       "description": "<p> You were unprepared for the overwhelming torrent of brilliance and stared right into it. You are  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d6]]  days. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces this injury's duration by  [[1d4]]  days. </p>",
-      "name": "Flash Burn",
+      "name": "Clarão Queimadura",
       "_key": "!tables.results!NETyZmaaW25oqjPV.6bgk8XgFA4nhs5G8",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.6A75gn1Y0uxnfQWA"
     },
@@ -134,7 +134,7 @@
         "exportSource": null
       },
       "description": "<p> You blink the spots from your eyes, but your vision is taking a while to return. You are  <strong> &Reference[blinded]{blinded} </strong>  for  [[1d4]]  turns. </p>  <p>  <em> Tratamento </em>  - A Lesser Restoration spell will cure this condition as usual. </p>",
-      "name": "Razzle Dazzled",
+      "name": "Razzle Ofuscado",
       "_key": "!tables.results!NETyZmaaW25oqjPV.9tPQibbeSeTnr580",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.4gP7JROYju8qofQq"
     },
@@ -242,7 +242,7 @@
         "exportSource": null
       },
       "description": "<p> Role na the  @UUID[Compendium.mmm.mmmm-pt-BR.RollTable.5EyNHyXKtfhIlYCa]{Tabela de Cicatrizes}. You are left with smooth scar on this part of your body that seems to shimmer through the prismatic colors when the light catches it. </p>",
-      "name": "Prismatic Scar",
+      "name": "Prismática Cicatriz",
       "_key": "!tables.results!NETyZmaaW25oqjPV.nqSFhNH3fXoiyeAC",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.GDV8rvcCyNboDepS"
     },
@@ -377,7 +377,7 @@
         "exportSource": null
       },
       "description": "<p>As the energy of the attack passes, you have a revelation clawing at the edge of your brain, you're sure of it. You have [[1d6]] days to withdraw from activity and spend 24 hours alone in silent, individual contemplation about your god, belief set, or yourself. After this, you come to an enlightening realization. If you do not do this within the time limit, the nagging urge builds to distracting levels and you have disadvantage to all attack rolls, ability checks, and saving throws until you do.</p>",
-      "name": "Forced Epiphany",
+      "name": "Forçada Epifania",
       "_key": "!tables.results!NETyZmaaW25oqjPV.fkLgkzG3A8ZqHG81",
       "documentUuid": "Compendium.mmm.injuries-pt-BR.Item.Ek9w6MKsFiA0ztDh"
     },
