@@ -5,7 +5,7 @@
   "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
   "system": {
     "description": {
-      "value": "<p> Você sente the energy tug violently at your arcane essence until a portion of it tears loose. One of the highest level Spell Slots you have available to cast is harmlessly expended. You may reprepare this spell slot as usual depois de um Long Rest or as your class dictates. </p>",
+      "value": "<p>Você sente a energia puxar violentamente sua essência arcana até que uma parte dela se desprenda. Um dos Spell Slots de maior nível que você tem disponível é gasto sem causar dano. Você pode preparar novamente esse Spell Slot após um Long Rest, ou conforme determinar sua Class.</p>",
       "chat": ""
     },
     "source": {

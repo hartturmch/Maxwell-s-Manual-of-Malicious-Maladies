@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/blade-tip-orange.webp",
   "system": {
     "description": {
-      "value": "<p> O ataque went in one end and out the other. Luckily, it's missed anything vital, but you can still feel the agony of it in every motion you make. Bonus actions require a full action instead. Este efeito dura for  [[1d4]]  dias. </p>  <p>  <em> Tratamento </em>  - A  [[/skill medicine 15]]  check reduces the duration of this injury by  [[1d2]]  dias. </p>",
+      "value": "<p>O ataque entrou por uma extremidade e saiu pela outra. Felizmente, não atingiu nada vital, mas você ainda sente a agonia em cada movimento. Bonus Actions exigem uma Action completa. Este efeito dura [[1d4]] dias.</p><p><em>Tratamento</em> — Um [[/skill medicine 15]] check reduz a duração desta lesão em [[1d2]] dias.</p>",
       "chat": ""
     },
     "source": {

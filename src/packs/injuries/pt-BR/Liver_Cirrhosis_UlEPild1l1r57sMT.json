@@ -5,7 +5,7 @@
   "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
   "system": {
     "description": {
-      "value": "<p> The Veneno has left your liver scarred and Danod. There's never been a better time to give up drinking. Any amount of alcohol you consume gives you the  <strong> &Reference[poisoned]{poisoned} </strong>  condition. Alcohol or other drugs affect you for double their normal duration. Você tem disadvantage on any Constitution checks or Saving Throws made to resist Veneno. </p>",
+      "value": "<p>O Veneno deixou seu fígado com cicatrizes e Danod. Nunca houve momento melhor para parar de beber. Qualquer quantidade de álcool que você consuma aplica a Condition <strong>&Reference[poisoned]{poisoned}</strong>. Álcool e outras drogas afetam você pelo dobro da duração normal. Você tem Disadvantage em checks e Saving Throws de Constitution feitos para resistir ao Veneno.</p>",
       "chat": ""
     },
     "source": {

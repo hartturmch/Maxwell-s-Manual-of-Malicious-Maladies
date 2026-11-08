@@ -5,7 +5,7 @@
   "img": "icons/magic/unholy/strike-body-explode-disintegrate.webp",
   "system": {
     "description": {
-      "value": "<p> Você fica filled with a blind rage and an overwhelming violent compulsion. You imediatamente use your reaction to make a melee attack against the nearest creature (at aleatório). You spend the next  [[1d4]]  turns pursuing and attacking whatever creature is closest to you, regardless of if they are friendly or not. </p>  <p>  <em> Tratamento </em>  - Any spell or effect that would end a Barbarian's rage also ends this effect. </p>",
+      "value": "<p>Você fica tomado por uma fúria cega e uma compulsão violenta avassaladora. Você usa imediatamente sua Reaction para fazer um ataque melee contra a criatura mais próxima (determinada aleatoriamente). Você passa os próximos [[1d4]] turnos perseguindo e atacando a criatura mais próxima, seja ela aliada ou não.</p><p><em>Tratamento</em> — Qualquer magia ou efeito que encerraria a Rage de um Barbarian também encerra este efeito.</p>",
       "chat": ""
     },
     "source": {

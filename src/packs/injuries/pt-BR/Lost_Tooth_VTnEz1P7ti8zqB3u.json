@@ -5,7 +5,7 @@
   "img": "icons/skills/melee/strike-hammer-destructive-blue.webp",
   "system": {
     "description": {
-      "value": "<p> A blow to your face has knocked one of your teeth clean out of your mouth. </p>  <p>  <em> Tratamento </em>  - A  [[/skill perception 15]]  check will allow you to recover the tooth. A  DC  19 Cirurgia Geral dentro de 1 day of a lesão occurring allows you to reinsert the tooth. </p>",
+      "value": "<p>Um golpe no rosto arrancou um de seus dentes da boca.</p><p><em>Tratamento</em> — Um [[/skill perception 15]] check permite recuperar o dente. Uma Cirurgia Geral DC 19 realizada dentro de 1 dia após a lesão permite recolocá-lo.</p>",
       "chat": ""
     },
     "source": {
